@@ -1,0 +1,174 @@
+{
+  "acno": "D00463", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00463", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D04/D00463_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 323
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140782, 
+  "catalogueGroup": {
+    "accessionRanges": "D00462-D00552; D40755-D40758", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65686, 
+    "shortTitle": "Smaller South Wales Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1795, 
+    "startYear": 1795, 
+    "text": "1795"
+  }, 
+  "dateText": "1795", 
+  "depth": "", 
+  "dimensions": "support: 205 x 130 mm", 
+  "finberg": "XXV 2", 
+  "foreignTitle": null, 
+  "groupTitle": "Smaller South Wales Sketchbook", 
+  "height": "130", 
+  "id": 27878, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 5, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1559, 
+                "name": "Somerset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11377, 
+                "name": "Wells, Bishop's Palace"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }, 
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 9016, 
+                "name": "turret"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 936, 
+                "name": "foliage"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00463_8.jpg", 
+  "title": "Wells: Part of the Bishop\u2019s Palace", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wells-part-of-the-bishops-palace-d00463", 
+  "width": "205"
+}

@@ -1,0 +1,110 @@
+{
+  "acno": "D22214", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22214", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D222/D22214_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 332
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150508, 
+  "catalogueGroup": {
+    "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65870, 
+    "shortTitle": "Worcester and Shrewsbury Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "?1831"
+  }, 
+  "dateText": "?1831", 
+  "depth": "", 
+  "dimensions": "support: 191 x 114 mm", 
+  "finberg": "CCXXXIX 35", 
+  "foreignTitle": null, 
+  "groupTitle": "Worcester and Shrewsbury Sketchbook", 
+  "height": "114", 
+  "id": 49552, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 71, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22214_8.jpg", 
+  "title": "Chester Cathedral: Inside the Crossing and the Choir", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-chester-cathedral-inside-the-crossing-and-the-choir-d22214", 
+  "width": "191"
+}

@@ -1,0 +1,104 @@
+{
+  "acno": "T01259", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Kurt Schwitters", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131948", 
+      "displayOrder": 1, 
+      "fc": "Kurt Schwitters", 
+      "gender": "Male", 
+      "id": 1912, 
+      "mda": "Schwitters, Kurt", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1945, 
+    "startYear": 1942, 
+    "text": "c.1942-5"
+  }, 
+  "dateText": "c.1942\u20135", 
+  "depth": "102", 
+  "dimensions": "object: 495 x 413 x 102 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "413", 
+  "id": 13194, 
+  "inscription": null, 
+  "medium": "Oil paint on wood and plaster", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 300, 
+      "name": "Dada"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 6949, 
+      "name": "Merz"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3412, 
+                "name": "refuse"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01259_8.jpg", 
+  "title": "(Relief in Relief)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/schwitters-relief-in-relief-t01259", 
+  "width": "495"
+}

@@ -1,0 +1,86 @@
+{
+  "acno": "D04893", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D04893", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D48/D04893_E.jpg", 
+          "height": 394, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150117, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 453 x 601 mm", 
+  "finberg": "LXXIX S", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "601", 
+  "id": 32285, 
+  "inscription": null, 
+  "medium": "Chalk and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04893_8.jpg", 
+  "title": "?\u2018Mont St Grave\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mont-st-grave-d04893", 
+  "width": "453"
+}

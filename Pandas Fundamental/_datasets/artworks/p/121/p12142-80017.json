@@ -1,0 +1,104 @@
+{
+  "acno": "P12142", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Joan Mitchell", 
+  "catalogueGroup": {
+    "accessionRanges": "P12140-P12143", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 80019, 
+    "shortTitle": "Trees Series"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20131992", 
+      "displayOrder": 1, 
+      "fc": "Joan Mitchell", 
+      "gender": "Female", 
+      "id": 6461, 
+      "mda": "Mitchell, Joan", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Tyler Graphics Ltd in honour of Pat Gilmour, Tate Print Department 1974-7, 2004", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "", 
+  "dimensions": "image: 1365 x 2004 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Trees Series", 
+  "height": "2004", 
+  "id": 80017, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Joan Mitchell", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12142_8.jpg", 
+  "title": "Trees III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mitchell-trees-iii-p12142", 
+  "width": "1365"
+}

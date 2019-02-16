@@ -1,0 +1,87 @@
+{
+  "acno": "D25412", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1822, 
+    "startYear": 1822, 
+    "text": "c.1822"
+  }, 
+  "dateText": "c.1822", 
+  "depth": "", 
+  "dimensions": "support: 188 x 227 mm", 
+  "finberg": "CCLXIII 289", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "227", 
+  "id": 52749, 
+  "inscription": null, 
+  "medium": "Gouache and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25412_8.jpg", 
+  "title": "A Pink Sky above a Grey Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-pink-sky-above-a-grey-sea-d25412", 
+  "width": "188"
+}

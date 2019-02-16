@@ -1,0 +1,122 @@
+{
+  "acno": "N06090", 
+  "acquisitionYear": 1952, 
+  "all_artists": "George Gower", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1540, 
+      "date": "c.1540\u20131596", 
+      "displayOrder": 1, 
+      "fc": "George Gower", 
+      "gender": "Male", 
+      "id": 220, 
+      "mda": "Gower, George", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1952", 
+  "dateRange": {
+    "endYear": 1573, 
+    "startYear": 1573, 
+    "text": "1573"
+  }, 
+  "dateText": "1573", 
+  "depth": "", 
+  "dimensions": "support: 527 x 400 mm\r\nframe: 660 x 537 x 63 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "400", 
+  "id": 5553, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on oak", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 414, 
+      "name": "Tudor"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3642, 
+                "name": "Kytson, Thomas, Sir"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1889, 
+                "name": "collar"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06090_8.jpg", 
+  "title": "Sir Thomas Kytson", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gower-sir-thomas-kytson-n06090", 
+  "width": "527"
+}

@@ -1,0 +1,74 @@
+{
+  "acno": "T07117", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Albert Irvin", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "born 1922", 
+      "displayOrder": 1, 
+      "fc": "Albert Irvin", 
+      "gender": "Male", 
+      "id": 1342, 
+      "mda": "Irvin, Albert", 
+      "role": "artist", 
+      "startLetter": "I"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1996", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1978, 
+    "text": "1978"
+  }, 
+  "dateText": "1978", 
+  "depth": "", 
+  "dimensions": "support: 2132 x 3045 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3045", 
+  "id": 21660, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Albert Irvin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07117_8.jpg", 
+  "title": "Flodden", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/irvin-flodden-t07117", 
+  "width": "2132"
+}

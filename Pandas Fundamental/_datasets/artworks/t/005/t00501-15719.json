@@ -1,0 +1,122 @@
+{
+  "acno": "T00501", 
+  "acquisitionYear": 1962, 
+  "all_artists": "Keith Vaughan", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Keith Vaughan", 
+      "gender": "Male", 
+      "id": 2096, 
+      "mda": "Vaughan, Keith", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased 1962", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "", 
+  "dimensions": "support: 762 x 1219 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1219", 
+  "id": 15719, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14645, 
+                "name": "Rotherhithe"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Keith Vaughan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00501_8.jpg", 
+  "title": "Rotherhithe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vaughan-rotherhithe-t00501", 
+  "width": "762"
+}

@@ -1,0 +1,106 @@
+{
+  "acno": "N01225", 
+  "acquisitionYear": 1887, 
+  "all_artists": "Thomas Webster", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1800, 
+      "date": "1800\u20131886", 
+      "displayOrder": 1, 
+      "fc": "Thomas Webster", 
+      "gender": "Male", 
+      "id": 590, 
+      "mda": "Webster, Thomas", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Bequeathed by the artist 1887", 
+  "dateRange": {
+    "endYear": 1844, 
+    "startYear": 1844, 
+    "text": "exhibited 1844"
+  }, 
+  "dateText": "exhibited 1844", 
+  "depth": "", 
+  "dimensions": "support: 298 x 241 mm\r\nframe: 495 x 443 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "241", 
+  "id": 16048, 
+  "inscription": null, 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2303, 
+                "name": "hat, bonnet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6910, 
+                "name": "husband"
+              }, 
+              {
+                "id": 6915, 
+                "name": "wife"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }, 
+              {
+                "id": 1454, 
+                "name": "woman, old"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01225_8.jpg", 
+  "title": "The Artist\u2019s Father and Mother", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/webster-the-artists-father-and-mother-n01225", 
+  "width": "298"
+}

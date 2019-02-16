@@ -1,0 +1,132 @@
+{
+  "acno": "N05246", 
+  "acquisitionYear": 1940, 
+  "all_artists": "John Singer Sargent", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1856, 
+      "date": "1856\u20131925", 
+      "displayOrder": 1, 
+      "fc": "John Singer Sargent", 
+      "gender": "Male", 
+      "id": 475, 
+      "mda": "Sargent, John Singer", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Gen. Sir Ian Hamilton 1940", 
+  "dateRange": {
+    "endYear": 1898, 
+    "startYear": 1898, 
+    "text": "1898"
+  }, 
+  "dateText": "1898", 
+  "depth": "", 
+  "dimensions": "support: 1384 x 787 mm\r\nframe: 1570 x 975 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "787", 
+  "id": 13141, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5557, 
+                "name": "Hamilton, Ian, Colonel"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat"
+              }, 
+              {
+                "id": 5446, 
+                "name": "uniform / kit"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05246_8.jpg", 
+  "title": "Colonel Ian Hamilton, CB, DSO", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sargent-colonel-ian-hamilton-cb-dso-n05246", 
+  "width": "1384"
+}

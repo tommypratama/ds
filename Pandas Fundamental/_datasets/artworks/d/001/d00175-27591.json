@@ -1,0 +1,130 @@
+{
+  "acno": "D00175", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140225, 
+  "catalogueGroup": {
+    "accessionRanges": "D00163-D00170; D00172-D00173; D00175", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127052, 
+    "shortTitle": "Dover"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1793, 
+    "startYear": 1793, 
+    "text": "1793"
+  }, 
+  "dateText": "1793", 
+  "depth": "", 
+  "dimensions": "support: 177 x 214 mm", 
+  "finberg": "XVI M", 
+  "foreignTitle": null, 
+  "groupTitle": "Dover", 
+  "height": "214", 
+  "id": 27591, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4526, 
+                "name": "monastery"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00175_8.jpg", 
+  "title": "?Part of a Ruined Monastic Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-part-of-a-ruined-monastic-building-d00175", 
+  "width": "177"
+}

@@ -1,0 +1,104 @@
+{
+  "acno": "P06026", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Richard Beer", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "born 1928", 
+      "displayOrder": 1, 
+      "fc": "Richard Beer", 
+      "gender": "Male", 
+      "id": 721, 
+      "mda": "Beer, Richard", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 581 x 451 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "451", 
+  "id": 845, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5209, 
+                "name": "Georgian"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column"
+              }, 
+              {
+                "id": 1151, 
+                "name": "dome"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2045, 
+                "name": "railing"
+              }, 
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Nash Terrace", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beer-nash-terrace-p06026", 
+  "width": "581"
+}

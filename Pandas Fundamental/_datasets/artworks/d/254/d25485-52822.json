@@ -1,0 +1,162 @@
+{
+  "acno": "D25485", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151587, 
+  "catalogueGroup": {
+    "accessionRanges": "D25125; D25126; D25127; D25217; D25218; D25220; D25228; D25485; D36314; D36316", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163283, 
+    "shortTitle": "Oxford Subjects, Possibly for 'England and Wales'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1839, 
+    "startYear": 1837, 
+    "text": "c.1837-9"
+  }, 
+  "dateText": "c.1837\u20139", 
+  "depth": "", 
+  "dimensions": "support: 382 x 558 mm", 
+  "finberg": "CCLXIII 362", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford Subjects, Possibly for 'England and Wales'", 
+  "height": "558", 
+  "id": 52822, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8914, 
+                "name": "Oxford, High Street"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 654, 
+                "name": "Oxfordshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1254, 
+                "name": "carriage"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25485_8.jpg", 
+  "title": "The High Street, Oxford", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-high-street-oxford-d25485", 
+  "width": "382"
+}

@@ -1,0 +1,128 @@
+{
+  "acno": "A00153", 
+  "acquisitionYear": 1912, 
+  "all_artists": "William Callow", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1812, 
+      "date": "1812\u20131908", 
+      "displayOrder": 1, 
+      "fc": "William Callow", 
+      "gender": "Male", 
+      "id": 79, 
+      "mda": "Callow, William", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1912", 
+  "dateRange": {
+    "endYear": 1850, 
+    "startYear": 1850, 
+    "text": "1850"
+  }, 
+  "dateText": "1850", 
+  "depth": "", 
+  "dimensions": "support: 264 x 365 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "365", 
+  "id": 1937, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3381, 
+                "name": "Belgium"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12953, 
+                "name": "Malines, Old Palais de Justice"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6154, 
+                "name": "court"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00153_8.jpg", 
+  "title": "Old Palais de Justice, Malines", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/callow-old-palais-de-justice-malines-a00153", 
+  "width": "264"
+}

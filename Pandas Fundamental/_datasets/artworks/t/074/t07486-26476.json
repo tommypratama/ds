@@ -1,0 +1,378 @@
+{
+  "acno": "T07486", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Sir Stanley Spencer", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Sir Stanley Spencer", 
+      "gender": "Male", 
+      "id": 1977, 
+      "mda": "Spencer, Sir Stanley", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased jointly with Sheffield Galleries & Museums Trust with assistance from the National Lottery through the Heritage Lottery Fund, the Art Fund, the Friends of the Tate Gallery, Howard and Roberta Ahmanson and private benefactors 1999", 
+  "dateRange": {
+    "endYear": 1914, 
+    "startYear": 1913, 
+    "text": "1913-4"
+  }, 
+  "dateText": "1913\u20134", 
+  "depth": "24", 
+  "dimensions": "support: 1426 x 1428 x 24 mm\r\nframe: 1703 x 1705 x 130 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1428", 
+  "id": 26476, 
+  "inscription": null, 
+  "medium": "Oil paint and graphite on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 34, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1449, 
+                "name": "Archangel Gabriel"
+              }, 
+              {
+                "id": 14852, 
+                "name": "Luke, chapter 1"
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2119, 
+                "name": "St Elizabeth"
+              }, 
+              {
+                "id": 12292, 
+                "name": "St Zacharias"
+              }
+            ], 
+            "id": 136, 
+            "name": "Saints"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5740, 
+                "name": "miracle"
+              }, 
+              {
+                "id": 5752, 
+                "name": "sacrifice"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3672, 
+                "name": "spirituality"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1532, 
+                "name": "Berkshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5666, 
+                "name": "Cookham - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14853, 
+                "name": "Resurrection - ivy"
+              }, 
+              {
+                "id": 14854, 
+                "name": "Resurrection - yew"
+              }
+            ], 
+            "id": 165, 
+            "name": "religious"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2078, 
+                "name": "altar"
+              }, 
+              {
+                "id": 11495, 
+                "name": "gravestone / tomb"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1907, 
+                "name": "fire, open"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1042, 
+                "name": "fertility"
+              }, 
+              {
+                "id": 4771, 
+                "name": "mystery"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }, 
+              {
+                "id": 2045, 
+                "name": "railing"
+              }, 
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }, 
+              {
+                "id": 807, 
+                "name": "lawn"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2989, 
+                "name": "gardening"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }, 
+              {
+                "id": 1454, 
+                "name": "woman, old"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 491, 
+                "name": "ivy"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7948, 
+                "name": "yew"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Stanley Spencer. All Rights Reserved 2014 / Bridgeman Art Library", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07486_8.jpg", 
+  "title": "Zacharias and Elizabeth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/spencer-zacharias-and-elizabeth-t07486", 
+  "width": "1426"
+}

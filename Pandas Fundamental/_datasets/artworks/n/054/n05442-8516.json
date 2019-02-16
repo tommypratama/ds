@@ -1,0 +1,120 @@
+{
+  "acno": "N05442", 
+  "acquisitionYear": 1943, 
+  "all_artists": "Sydney Lee", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131949", 
+      "displayOrder": 1, 
+      "fc": "Sydney Lee", 
+      "gender": "Male", 
+      "id": 1486, 
+      "mda": "Lee, Sydney", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1943", 
+  "dateRange": {
+    "endYear": 1943, 
+    "startYear": 1943, 
+    "text": "exhibited 1943"
+  }, 
+  "dateText": "exhibited 1943", 
+  "depth": "", 
+  "dimensions": "support: 508 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "762", 
+  "id": 8516, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 8364, 
+                "name": "St Gotthard Pass"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Top of the St Gotthard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lee-the-top-of-the-st-gotthard-n05442", 
+  "width": "508"
+}

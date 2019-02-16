@@ -1,0 +1,75 @@
+{
+  "acno": "D30312", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D30296-D30373; D41211-D41212", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65929, 
+    "shortTitle": "Dresden, Teplitz and Prague Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1835, 
+    "startYear": 1835, 
+    "text": "1835"
+  }, 
+  "dateText": "1835", 
+  "depth": "", 
+  "dimensions": "support: 159 x 100 mm", 
+  "finberg": "CCCI 9", 
+  "foreignTitle": null, 
+  "groupTitle": "Dresden, Teplitz and Prague Sketchbook", 
+  "height": "100", 
+  "id": 57571, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 19, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30312_8.jpg", 
+  "title": "Carriage Sketches of Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-carriage-sketches-of-hills-d30312", 
+  "width": "159"
+}

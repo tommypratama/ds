@@ -1,0 +1,104 @@
+{
+  "acno": "P09139", 
+  "acquisitionYear": 1980, 
+  "all_artists": "John Piper", 
+  "catalogueGroup": {
+    "accessionRanges": "P09126-P09150", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 67896, 
+    "shortTitle": "Stones and Bones"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131992", 
+      "displayOrder": 1, 
+      "fc": "John Piper", 
+      "gender": "Male", 
+      "id": 1774, 
+      "mda": "Piper, John", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1978, 
+    "text": "1978"
+  }, 
+  "dateText": "1978", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 502 x 698 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Stones and Bones", 
+  "height": "698", 
+  "id": 67885, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6776, 
+                "name": "Ireland, Galway"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Piper Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P09/P09139_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/piper-no-title-p09139", 
+  "width": "502"
+}

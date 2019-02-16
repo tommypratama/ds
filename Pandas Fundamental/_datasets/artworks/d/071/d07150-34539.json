@@ -1,0 +1,224 @@
+{
+  "acno": "D07150", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D07150", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D71/D07150_E.jpg", 
+          "height": 347, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1129576, 
+  "catalogueGroup": {
+    "accessionRanges": "D07132-D07198; D07201-D07204; D07208-D07249; D07251-D07254; D40624-D40627", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65753, 
+    "shortTitle": "Derbyshire Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1808, 
+    "text": "1808"
+  }, 
+  "dateText": "1808", 
+  "depth": "", 
+  "dimensions": "support: 108 x 185 mm", 
+  "finberg": "CVI 15", 
+  "foreignTitle": null, 
+  "groupTitle": "Derbyshire Sketchbook", 
+  "height": "185", 
+  "id": 34539, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "pageNumber": 31, 
+  "subjectCount": 14, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 25871, 
+                "name": "Dove Aqueduct"
+              }, 
+              {
+                "id": 25870, 
+                "name": "Trent and Mersey Canal"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7540, 
+                "name": "Staffordshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6301, 
+                "name": "aqueduct"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }, 
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 240, 
+                "name": "canal"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07150_8.jpg", 
+  "title": "The Dove Aqueduct and the Trent and Mersey Canal, with a Barge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-dove-aqueduct-and-the-trent-and-mersey-canal-with-a-barge-d07150", 
+  "width": "108"
+}

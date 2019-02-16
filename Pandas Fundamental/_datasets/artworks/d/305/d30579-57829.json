@@ -1,0 +1,135 @@
+{
+  "acno": "D30579", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D30579", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D305/D30579_E.jpg", 
+          "height": 332, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D30460-D30488; D30490; D30492-D30538; D30540-D30596; D30598-D30632; D41128-D41130", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65931, 
+    "shortTitle": "Wurzburg, Rhine and Ostend Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1840, 
+    "startYear": 1840, 
+    "text": "1840"
+  }, 
+  "dateText": "1840", 
+  "depth": "", 
+  "dimensions": "support: 170 x 104 mm", 
+  "finberg": "CCCIII 62", 
+  "foreignTitle": null, 
+  "groupTitle": "Wurzburg, Rhine and Ostend Sketchbook", 
+  "height": "104", 
+  "id": 57829, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 127, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14028, 
+                "name": "Burg Reichenstein"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30579_8.jpg", 
+  "title": "Burg Reichenstein", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-burg-reichenstein-d30579", 
+  "width": "170"
+}

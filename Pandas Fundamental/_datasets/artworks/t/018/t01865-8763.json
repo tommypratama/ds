@@ -1,0 +1,84 @@
+{
+  "acno": "T01865", 
+  "acquisitionYear": 1974, 
+  "all_artists": "Sol LeWitt", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132007", 
+      "displayOrder": 1, 
+      "fc": "Sol LeWitt", 
+      "gender": "Male", 
+      "id": 1504, 
+      "mda": "LeWitt, Sol", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "2330", 
+  "dimensions": "object: 1600 x 3054 x 2330 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3054", 
+  "id": 8763, 
+  "inscription": null, 
+  "medium": "Enamel on aluminium", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sol LeWitt", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01865_8.jpg", 
+  "title": "Two Open Modular Cubes/Half-Off", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-two-open-modular-cubeshalf-off-t01865", 
+  "width": "1600"
+}

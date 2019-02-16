@@ -1,0 +1,128 @@
+{
+  "acno": "T05656", 
+  "acquisitionYear": 1989, 
+  "all_artists": "after Clarkson Frederick Stanfield", 
+  "catalogueGroup": {
+    "accessionRanges": "T05627-T05699", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66011, 
+    "shortTitle": "Stanfield's Coast Scenery"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1793, 
+      "date": "1793\u20131867", 
+      "displayOrder": 1, 
+      "fc": "Clarkson Frederick Stanfield", 
+      "gender": "Male", 
+      "id": 518, 
+      "mda": "Stanfield, Clarkson Frederick", 
+      "role": "after", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1989", 
+  "dateRange": {
+    "endYear": 1836, 
+    "startYear": 1836, 
+    "text": "1836"
+  }, 
+  "dateText": "1836", 
+  "depth": "", 
+  "dimensions": "image: 96 x 141 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Stanfield's Coast Scenery", 
+  "height": "141", 
+  "id": 18786, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1531, 
+                "name": "Isle of Wight"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7129, 
+                "name": "Needles"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05656_8.jpg", 
+  "title": "The Needles, engraved by G. Bradshaw", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stanfield-the-needles-engraved-by-g-bradshaw-t05656", 
+  "width": "96"
+}

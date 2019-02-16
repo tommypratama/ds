@@ -1,0 +1,166 @@
+{
+  "acno": "D10447", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D10447", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D104/D10447_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131430, 
+  "catalogueGroup": {
+    "accessionRanges": "D10409-D10585; D40868; D41539", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXL", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65782, 
+    "shortTitle": "Richmond Hill; Hastings to Margate Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1816, 
+    "text": "c.1816-19"
+  }, 
+  "dateText": "c.1816\u201319", 
+  "depth": "", 
+  "dimensions": "support: 155 x 95 mm", 
+  "finberg": "CXL 20", 
+  "foreignTitle": null, 
+  "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook", 
+  "height": "95", 
+  "id": 37823, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 43, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12285, 
+                "name": "Richmond, Richmond Bridge"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1204, 
+                "name": "River Thames"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10447_8.jpg", 
+  "title": "Two Views of Richmond Hill and Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-views-of-richmond-hill-and-bridge-d10447", 
+  "width": "155"
+}

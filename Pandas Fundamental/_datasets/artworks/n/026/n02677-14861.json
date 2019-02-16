@@ -1,0 +1,118 @@
+{
+  "acno": "N02677", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1807, 
+    "text": "c.1807"
+  }, 
+  "dateText": "c.1807", 
+  "depth": "", 
+  "dimensions": "support: 368 x 737 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "737", 
+  "id": 14861, 
+  "inscription": null, 
+  "medium": "Oil paint on mahogany veneer", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13138, 
+                "name": "Newark Priory"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }, 
+          {
+            "children": [
+              {
+                "id": 471, 
+                "name": "Surrey"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02677_8.jpg", 
+  "title": "Newark Abbey on the Wey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-newark-abbey-on-the-wey-n02677", 
+  "width": "368"
+}

@@ -1,0 +1,153 @@
+{
+  "acno": "D32601", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D32601", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D326/D32601_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D32541-D32593; D32595-D32663; D41140", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65946, 
+    "shortTitle": "Rotterdam and Rhine sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "?1833"
+  }, 
+  "dateText": "?1833", 
+  "depth": "", 
+  "dimensions": "support: 170 x 105 mm", 
+  "finberg": "CCCXXII 32", 
+  "foreignTitle": null, 
+  "groupTitle": "Rotterdam and Rhine sketchbook", 
+  "height": "105", 
+  "id": 59799, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 63, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5931, 
+                "name": "monument"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32601_8.jpg", 
+  "title": "Bridge, with Windmill and Cathedral Tower; Also a Monument - a Column on Pedestal Surmounted by a Globe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-with-windmill-and-cathedral-tower-also-a-monument-a-column-on-pedestal-d32601", 
+  "width": "170"
+}

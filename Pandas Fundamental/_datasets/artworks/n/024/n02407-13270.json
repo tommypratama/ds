@@ -1,0 +1,140 @@
+{
+  "acno": "N02407", 
+  "acquisitionYear": 1898, 
+  "all_artists": "John Pollard Seddon", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1827, 
+      "date": "1827\u20131906", 
+      "displayOrder": 1, 
+      "fc": "John Pollard Seddon", 
+      "gender": "Male", 
+      "id": 482, 
+      "mda": "Seddon, John Pollard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Edmund Houghton 1898", 
+  "dateRange": {
+    "endYear": 1852, 
+    "startYear": 1852, 
+    "text": "published 1852"
+  }, 
+  "dateText": "published 1852", 
+  "depth": "", 
+  "dimensions": "image: 213 x 133 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "133", 
+  "id": 13270, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11617, 
+                "name": "Caen, St Sauveur"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 521, 
+                "name": "gargoyle"
+              }, 
+              {
+                "id": 587, 
+                "name": "stair / step"
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15842, 
+                "name": "Seddon, John Pollard, 'Progress in Art and Architecture'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02407_8.jpg", 
+  "title": "Recess with Staircase, St Sauveur, Caen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/seddon-recess-with-staircase-st-sauveur-caen-n02407", 
+  "width": "213"
+}

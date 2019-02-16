@@ -1,0 +1,86 @@
+{
+  "acno": "T11295", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Abraham Cooper", 
+  "catalogueGroup": {
+    "accessionRanges": "T10822; T11290-T11379", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66049, 
+    "shortTitle": "Album of Miscellaneous Etchings"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1787, 
+      "date": "1787\u20131868", 
+      "displayOrder": 1, 
+      "fc": "Abraham Cooper", 
+      "gender": "Male", 
+      "id": 111, 
+      "mda": "Cooper, Abraham", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 110 x 145 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Album of Miscellaneous Etchings", 
+  "height": "145", 
+  "id": 25249, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 674, 
+                "name": "donkey"
+              }, 
+              {
+                "id": 1133, 
+                "name": "goat"
+              }, 
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4606, 
+                "name": "head"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11295_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11295", 
+  "width": "110"
+}

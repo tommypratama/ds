@@ -1,0 +1,103 @@
+{
+  "acno": "D21329", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D21329", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D213/D21329_E.jpg", 
+          "height": 329, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D21271-D21411; D41043-D41044", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65863, 
+    "shortTitle": "Coast of Genoa Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1828, 
+    "text": "1828"
+  }, 
+  "dateText": "1828", 
+  "depth": "", 
+  "dimensions": "support: 159 x 98 mm", 
+  "finberg": "CCXXXII 35 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Coast of Genoa Sketchbook", 
+  "height": "98", 
+  "id": 48672, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 72, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21329_8.jpg", 
+  "title": "On Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-on-coast-d21329", 
+  "width": "159"
+}

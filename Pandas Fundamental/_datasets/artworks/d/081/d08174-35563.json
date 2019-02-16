@@ -1,0 +1,262 @@
+{
+  "acno": "D08174", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131780, 
+  "catalogueGroup": {
+    "accessionRanges": "D08100; D08102-D08106; D08110-D08123; D08125-D08142; D08144-D08175; D08177-D08178; D08182; D25451; N02941; N03631", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Watercolour", 
+    "id": 77169, 
+    "shortTitle": "Liber Studiorum 1807-1819 Watercolours"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Bequeathed by Henry Vaughan 1900", 
+  "dateRange": {
+    "endYear": 1822, 
+    "startYear": 1818, 
+    "text": "c.1818-22"
+  }, 
+  "dateText": "c.1818\u201322", 
+  "depth": "", 
+  "dimensions": "support: 300 x 430 mm", 
+  "finberg": "CXVIII T", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum: Designs for Unpublished Plates: nos.72-91", 
+  "height": "430", 
+  "id": 35563, 
+  "inscription": null, 
+  "medium": "Etching, watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 18, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1532, 
+                "name": "Berkshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5833, 
+                "name": "Eton, Eton College"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4604, 
+                "name": "school"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 819, 
+                "name": "dock"
+              }, 
+              {
+                "id": 818, 
+                "name": "reed"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1951, 
+                "name": "flask"
+              }, 
+              {
+                "id": 4153, 
+                "name": "sack"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1496, 
+                "name": "plough"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6924, 
+                "name": "mother and child"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1497, 
+                "name": "ploughing"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08174_8.jpg", 
+  "title": "Ploughing, Eton", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ploughing-eton-d08174", 
+  "width": "300"
+}

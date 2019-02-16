@@ -1,0 +1,135 @@
+{
+  "acno": "D20986", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D20986", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D209/D20986_E.jpg", 
+          "height": 350, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D20905-D20989; D40999-D41000", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65860, 
+    "shortTitle": "Orleans to Marseilles Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1828, 
+    "text": "1828"
+  }, 
+  "dateText": "1828", 
+  "depth": "", 
+  "dimensions": "support: 179 x 117 mm", 
+  "finberg": "CCXXIX 45", 
+  "foreignTitle": null, 
+  "groupTitle": "Orleans to Marseilles Sketchbook", 
+  "height": "117", 
+  "id": 48329, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 91, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13617, 
+                "name": "Saint-Laurent-d'Aigouze"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20986_8.jpg", 
+  "title": "St Laurent [Turner] (?St Laurent-d\u2019Aigouze, between N\u00eemes and Aigues-Mortes)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-laurent-turner-st-laurent-daigouze-between-nimes-and-aigues-mortes-d20986", 
+  "width": "179"
+}

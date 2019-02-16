@@ -1,0 +1,76 @@
+{
+  "acno": "P12452", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Klaus Meyer", 
+  "catalogueGroup": {
+    "accessionRanges": "P12447-P12454", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 81854, 
+    "shortTitle": "Superimpositions"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1918, 
+      "date": "1918\u20132002", 
+      "displayOrder": 1, 
+      "fc": "Klaus Meyer", 
+      "gender": "Male", 
+      "id": 6872, 
+      "mda": "Meyer, Klaus", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist's family 2004", 
+  "dateRange": {
+    "endYear": 1987, 
+    "startYear": 1987, 
+    "text": "1987"
+  }, 
+  "dateText": "1987", 
+  "depth": "", 
+  "dimensions": "image: 340 x 255 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Superimpositions", 
+  "height": "255", 
+  "id": 81851, 
+  "inscription": null, 
+  "medium": "Woodcut and linocut on papers and polyester", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Klaus Meyer", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12452_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/meyer-no-title-p12452", 
+  "width": "340"
+}

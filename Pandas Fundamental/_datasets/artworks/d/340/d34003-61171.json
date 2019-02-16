@@ -1,0 +1,131 @@
+{
+  "acno": "D34003", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D34003", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D340/D34003_E.jpg", 
+          "height": 344, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1841, 
+    "startYear": 1830, 
+    "text": "c.1830-41"
+  }, 
+  "dateText": "c.1830\u201341", 
+  "depth": "", 
+  "dimensions": "support: 147 x 227 mm", 
+  "finberg": "CCCXLI 286", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "227", 
+  "id": 61171, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9566, 
+                "name": "Sainte-Foy"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6301, 
+                "name": "aqueduct"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7893, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34003_8.jpg", 
+  "title": "Ruined Arches of an Aqueduct. St Foy. Aqueduct de Brionart [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruined-arches-of-an-aqueduct-st-foy-aqueduct-de-brionart-turner-d34003", 
+  "width": "147"
+}

@@ -1,0 +1,138 @@
+{
+  "acno": "D04750", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D04750", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D47/D04750_E.jpg", 
+          "height": 337, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1133453, 
+  "catalogueGroup": {
+    "accessionRanges": "D04736-D04796; D40791-D40794", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65726, 
+    "shortTitle": "Rhine, Strassburg and Oxford Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 154 x 240 mm", 
+  "finberg": "LXXVII 15", 
+  "foreignTitle": null, 
+  "groupTitle": "Rhine, Strassburg and Oxford Sketchbook", 
+  "height": "240", 
+  "id": 32143, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 31, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11077, 
+                "name": "Ligny-en-Barrios"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6609, 
+                "name": "triumphal arch"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04750_8.jpg", 
+  "title": "Ligny-en-Barrois", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ligny-en-barrois-d04750", 
+  "width": "154"
+}

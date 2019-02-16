@@ -1,0 +1,162 @@
+{
+  "acno": "D00478", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00478", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D04/D00478_E.jpg", 
+          "height": 341, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140797, 
+  "catalogueGroup": {
+    "accessionRanges": "D00462-D00552; D40755-D40758", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65686, 
+    "shortTitle": "Smaller South Wales Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1795, 
+    "startYear": 1795, 
+    "text": "1795"
+  }, 
+  "dateText": "1795", 
+  "depth": "", 
+  "dimensions": "support: 130 x 205 mm", 
+  "finberg": "XXV 17", 
+  "foreignTitle": null, 
+  "groupTitle": "Smaller South Wales Sketchbook", 
+  "height": "205", 
+  "id": 27893, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 35, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11385, 
+                "name": "Milford Haven"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1829, 
+                "name": "Pembrokeshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00478_8.jpg", 
+  "title": "View across Milford Haven", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-across-milford-haven-d00478", 
+  "width": "130"
+}

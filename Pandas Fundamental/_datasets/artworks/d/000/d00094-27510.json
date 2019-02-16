@@ -1,0 +1,156 @@
+{
+  "acno": "D00094", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00094", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D00/D00094_E.jpg", 
+          "height": 379, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140145, 
+  "catalogueGroup": {
+    "accessionRanges": "D00072-D00107; D40733-D40736", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "VI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65682, 
+    "shortTitle": "Bristol and Malmesbury Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1791, 
+    "startYear": 1791, 
+    "text": "1791"
+  }, 
+  "dateText": "1791", 
+  "depth": "", 
+  "dimensions": "support: 185 x 263 mm", 
+  "finberg": "VI 16 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Bristol and Malmesbury Sketchbook", 
+  "height": "263", 
+  "id": 27510, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 34, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7234, 
+                "name": "Bristol"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11008, 
+                "name": "Bristol, Stoke House"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00094_8.jpg", 
+  "title": "View of Stoke House, Bristol", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-stoke-house-bristol-d00094", 
+  "width": "185"
+}

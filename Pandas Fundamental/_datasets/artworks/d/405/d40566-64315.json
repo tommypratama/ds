@@ -1,0 +1,135 @@
+{
+  "acno": "D40566", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D40566", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D405/D40566_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 420
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D00906-D00987; D00989-D01002; D40560-D40567; D41412", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65689, 
+    "shortTitle": "North of England Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1797, 
+    "text": "1797"
+  }, 
+  "dateText": "1797", 
+  "depth": "", 
+  "dimensions": "support: 272 x 210 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "North of England Sketchbook", 
+  "height": "210", 
+  "id": 64315, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 196, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan / elevation"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40566_8.jpg", 
+  "title": "A Church Tower or Diagram", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-church-tower-or-diagram-d40566", 
+  "width": "272"
+}

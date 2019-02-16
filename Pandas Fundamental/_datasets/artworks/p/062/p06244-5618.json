@@ -1,0 +1,88 @@
+{
+  "acno": "P06244", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Derrick Greaves", 
+  "catalogueGroup": {
+    "accessionRanges": "P06244; P06289-P06291; P06319; P06340-P06341; P06549", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65282, 
+    "shortTitle": "Europaeische Graphik VII"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Derrick Greaves", 
+      "gender": "Male", 
+      "id": 1210, 
+      "mda": "Greaves, Derrick", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 648 x 495 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Europaeische Graphik VII", 
+  "height": "495", 
+  "id": 5618, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Derrick Greaves", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06244_8.jpg", 
+  "title": "Vase and Falling Petal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/greaves-vase-and-falling-petal-p06244", 
+  "width": "648"
+}

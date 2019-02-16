@@ -1,0 +1,188 @@
+{
+  "acno": "D06040", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06040", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D60/D06040_E.jpg", 
+          "height": 334, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130218, 
+  "catalogueGroup": {
+    "accessionRanges": "D05961-D06071; D40650-D40654", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65743, 
+    "shortTitle": "River Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1807, 
+    "text": "c.1807"
+  }, 
+  "dateText": "c.1807", 
+  "depth": "", 
+  "dimensions": "support: 92 x 163 mm", 
+  "finberg": "XCVI 60 a", 
+  "foreignTitle": null, 
+  "groupTitle": "River Sketchbook", 
+  "height": "163", 
+  "id": 33431, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 124, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9958, 
+                "name": "Cassiobury Park"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 665, 
+                "name": "Hertfordshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06040_8.jpg", 
+  "title": "Cattle near a Bridge; ?Cassiobury Park in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cattle-near-a-bridge-cassiobury-park-in-the-distance-d06040", 
+  "width": "92"
+}

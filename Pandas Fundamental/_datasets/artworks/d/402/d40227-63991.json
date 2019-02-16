@@ -1,0 +1,164 @@
+{
+  "acno": "D40227", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D40227", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D402/D40227_E.jpg", 
+          "height": 400, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1141327, 
+  "catalogueGroup": {
+    "accessionRanges": "D00116-D00117; D00126-D00129; D00148; D00162; D00178-D00180; D00182-D00183; D00190; D40221; D40225-D40227; D40267; D40547", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127527, 
+    "shortTitle": "Pencil Drawings of Oxford and the Home Counties"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1792, 
+    "startYear": 1792, 
+    "text": "c.1792"
+  }, 
+  "dateText": "c.1792", 
+  "depth": "", 
+  "dimensions": "support: 214 x 273 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Pencil Drawings of Oxford and the Home Counties", 
+  "height": "273", 
+  "id": 63991, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8885, 
+                "name": "Guildford, St Catherine's Chapel"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7095, 
+                "name": "St Catherine's Hill"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 471, 
+                "name": "Surrey"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5850, 
+                "name": "chapel"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40227_8.jpg", 
+  "title": "St Catherine\u2019s Chapel, Guildford", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-catherines-chapel-guildford-d40227", 
+  "width": "214"
+}

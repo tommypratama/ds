@@ -1,0 +1,84 @@
+{
+  "acno": "D33673", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D33666-D33675; D40436", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXL", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65964, 
+    "shortTitle": "Grenoble (?) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1840, 
+    "startYear": 1840, 
+    "text": "1840"
+  }, 
+  "dateText": "1840", 
+  "depth": "", 
+  "dimensions": "support: 212 x 274 mm", 
+  "finberg": "CCCXL 8", 
+  "foreignTitle": null, 
+  "groupTitle": "Grenoble (?) Sketchbook", 
+  "height": "274", 
+  "id": 60844, 
+  "inscription": null, 
+  "medium": "Gouache and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33673_8.jpg", 
+  "title": "Sky Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sky-study-d33673", 
+  "width": "212"
+}

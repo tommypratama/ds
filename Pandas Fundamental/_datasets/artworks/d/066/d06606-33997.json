@@ -1,0 +1,132 @@
+{
+  "acno": "D06606", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139140, 
+  "catalogueGroup": {
+    "accessionRanges": "D06518-D06617; D06716-D06719; D40605-D40615; D40732; D41428-D41430; D41495", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "C", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65747, 
+    "shortTitle": "Spithead Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1807, 
+    "text": "1807-9"
+  }, 
+  "dateText": "1807\u20139", 
+  "depth": "", 
+  "dimensions": "support: 118 x 187 mm", 
+  "finberg": "C 70", 
+  "foreignTitle": null, 
+  "groupTitle": "Spithead Sketchbook", 
+  "height": "187", 
+  "id": 33997, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 151, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06606_8.jpg", 
+  "title": "Study for \u2018The Sun Rising through Vapour\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-for-the-sun-rising-through-vapour-d06606", 
+  "width": "118"
+}

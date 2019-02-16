@@ -1,0 +1,117 @@
+{
+  "acno": "AR00283", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Andy Warhol", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Andy Warhol", 
+      "gender": "Male", 
+      "id": 2121, 
+      "mda": "Warhol, Andy", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1960, 
+    "text": "1960-2"
+  }, 
+  "dateText": "1960\u20132", 
+  "depth": "", 
+  "dimensions": "support: 585 x 735 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "735", 
+  "id": 97470, 
+  "inscription": null, 
+  "medium": "Graphite, dye and gouache on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 437, 
+      "name": "Pop Art"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "People", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-people-ar00283", 
+  "width": "585"
+}

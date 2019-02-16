@@ -1,0 +1,304 @@
+{
+  "acno": "T04888", 
+  "acquisitionYear": 1987, 
+  "all_artists": "Ken Kiff", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "1935\u20132001", 
+      "displayOrder": 1, 
+      "fc": "Ken Kiff", 
+      "gender": "Male", 
+      "id": 1407, 
+      "mda": "Kiff, Ken", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 1987", 
+  "dateRange": {
+    "endYear": 1986, 
+    "startYear": 1983, 
+    "text": "1983-6"
+  }, 
+  "dateText": "1983\u20136", 
+  "depth": "", 
+  "dimensions": "support: 1161 x 892 mm\r\nsupport: 1188 x 992 mm\r\nsupport: 1160 x 893 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "892", 
+  "id": 7940, 
+  "inscription": "date inscribed", 
+  "medium": "3 works on board, acrylic paint, oil paint and pastel", 
+  "movementCount": 0, 
+  "subjectCount": 23, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13008, 
+                "name": "Mallarm\u00e9, St\u00e9phane, 'Tombeau'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5250, 
+                "name": "psychology, Jung"
+              }, 
+              {
+                "id": 13009, 
+                "name": "psychology, von Franz, Marie-Louise"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 976, 
+                "name": "death - black"
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 789, 
+                "name": "deformity"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2299, 
+                "name": "ghost"
+              }
+            ], 
+            "id": 138, 
+            "name": "magic and occultism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Triptych: Shadows", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kiff-triptych-shadows-t04888", 
+  "width": "1161"
+}

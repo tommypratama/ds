@@ -1,0 +1,102 @@
+{
+  "acno": "T01058", 
+  "acquisitionYear": 1968, 
+  "all_artists": "Morris Louis", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20131962", 
+      "displayOrder": 1, 
+      "fc": "Morris Louis", 
+      "gender": "Male", 
+      "id": 1527, 
+      "mda": "Louis, Morris", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Marcella Louis Brenner, the artist's widow, through the American Federation of Arts 1968", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "", 
+  "dimensions": "support: 2591 x 4597 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "4597", 
+  "id": 8992, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4067, 
+                "name": "sensuality"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Morris Louis", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01058_8.jpg", 
+  "title": "Alpha-Phi", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/louis-alpha-phi-t01058", 
+  "width": "2591"
+}

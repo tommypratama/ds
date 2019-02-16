@@ -1,0 +1,95 @@
+{
+  "acno": "D27940", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D27940-D28041; D41107; D41127", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65912, 
+    "shortTitle": "Oxford and Bruges Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "c.1834"
+  }, 
+  "dateText": "c.1834", 
+  "depth": "", 
+  "dimensions": "support: 90 x 116 mm", 
+  "finberg": "CCLXXXVI 1", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford and Bruges Sketchbook", 
+  "height": "116", 
+  "id": 55259, 
+  "inscription": null, 
+  "medium": "Graphite and ink on paper", 
+  "movementCount": 0, 
+  "pageNumber": 3, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27940_8.jpg", 
+  "title": "A Boat, Houses, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-boat-houses-etc-d27940", 
+  "width": "90"
+}

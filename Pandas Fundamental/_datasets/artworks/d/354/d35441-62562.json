@@ -1,0 +1,158 @@
+{
+  "acno": "D35441", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D35436-D35453; D35456-D35458; D40172", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65979, 
+    "shortTitle": "Eu and Treport Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1845, 
+    "text": "1845"
+  }, 
+  "dateText": "1845", 
+  "depth": "", 
+  "dimensions": "support: 231 x 325 mm", 
+  "finberg": "CCCLIX 6", 
+  "foreignTitle": null, 
+  "groupTitle": "Eu and Treport Sketchbook", 
+  "height": "325", 
+  "id": 62562, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10563, 
+                "name": "Eu, Church of Notre-Dame and St-Laurent"
+              }, 
+              {
+                "id": 10553, 
+                "name": "Eu, Ch\u00e2teau d'Eu"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35441_8.jpg", 
+  "title": "Eu from the North", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-eu-from-the-north-d35441", 
+  "width": "231"
+}

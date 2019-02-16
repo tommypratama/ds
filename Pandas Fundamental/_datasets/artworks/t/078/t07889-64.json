@@ -1,0 +1,122 @@
+{
+  "acno": "T07889", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Cy Twombly", 
+  "catalogueGroup": {
+    "accessionRanges": "T07887-T07890", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 68307, 
+    "shortTitle": "Quattro Stagioni (A Painting in Four Parts)"
+  }, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Cy Twombly", 
+      "gender": "Male", 
+      "id": 2079, 
+      "mda": "Twombly, Cy", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the American Fund for the Tate Gallery and Tate Members 2002", 
+  "dateRange": {
+    "endYear": 1995, 
+    "startYear": 1993, 
+    "text": "1993-5"
+  }, 
+  "dateText": "1993\u20135", 
+  "depth": "35", 
+  "dimensions": "support: 3136 x 2150 x 35 mm\r\nframe: 3230 x 2254 x 67 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Quattro Stagioni (A Painting in Four Parts)", 
+  "height": "2150", 
+  "id": 64, 
+  "inscription": null, 
+  "medium": "Acrylic paint, oil paint, crayon and graphite on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }, 
+              {
+                "id": 1986, 
+                "name": "title of work"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Cy Twombly Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07889_8.jpg", 
+  "title": "Quattro Stagioni: Autunno", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/twombly-quattro-stagioni-autunno-t07889", 
+  "width": "3136"
+}

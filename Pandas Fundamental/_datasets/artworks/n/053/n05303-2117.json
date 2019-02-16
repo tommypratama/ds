@@ -1,0 +1,116 @@
+{
+  "acno": "N05303", 
+  "acquisitionYear": 1941, 
+  "all_artists": "Paul C\u00e9zanne", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1839, 
+      "date": "1839\u20131906", 
+      "displayOrder": 1, 
+      "fc": "Paul C\u00e9zanne", 
+      "gender": "Male", 
+      "id": 879, 
+      "mda": "C\u00e9zanne, Paul", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by Sir Hugh Walpole 1941", 
+  "dateRange": {
+    "endYear": 1906, 
+    "startYear": 1905, 
+    "text": "1905-6"
+  }, 
+  "dateText": "1905\u20136", 
+  "depth": "", 
+  "dimensions": "support: 362 x 549 mm\r\nframe: 603 x 772 x 22 mm", 
+  "foreignTitle": "La Montagne Sainte-Victoire", 
+  "groupTitle": null, 
+  "height": "549", 
+  "id": 2117, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 4229, 
+      "name": "Post-Impressionism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4295, 
+                "name": "Aix-en-Provence - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4294, 
+                "name": "Montagne Sainte-Victoire"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05303_8.jpg", 
+  "title": "Montagne Sainte Victoire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cezanne-montagne-sainte-victoire-n05303", 
+  "width": "362"
+}

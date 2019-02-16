@@ -1,0 +1,92 @@
+{
+  "acno": "N06133", 
+  "acquisitionYear": 1952, 
+  "all_artists": "David Bomberg", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131957", 
+      "displayOrder": 1, 
+      "fc": "David Bomberg", 
+      "gender": "Male", 
+      "id": 777, 
+      "mda": "Bomberg, David", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the artist's wife and family 1952", 
+  "dateRange": {
+    "endYear": 1943, 
+    "startYear": 1943, 
+    "text": "1943"
+  }, 
+  "dateText": "1943", 
+  "depth": "", 
+  "dimensions": "support: 914 x 718 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "718", 
+  "id": 1232, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06133_8.jpg", 
+  "title": "Flowers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bomberg-flowers-n06133", 
+  "width": "914"
+}

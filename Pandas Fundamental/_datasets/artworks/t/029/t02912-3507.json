@@ -1,0 +1,148 @@
+{
+  "acno": "T02912", 
+  "acquisitionYear": 1979, 
+  "all_artists": "William Daniell", 
+  "catalogueGroup": {
+    "accessionRanges": "T02415-T03024; T03239-T03240", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65233, 
+    "shortTitle": "A Voyage Round Great Britain"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131837", 
+      "displayOrder": 1, 
+      "fc": "William Daniell", 
+      "gender": "Male", 
+      "id": 138, 
+      "mda": "Daniell, William", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by Tate Gallery Publications 1979", 
+  "dateRange": {
+    "endYear": 1825, 
+    "startYear": 1814, 
+    "text": null
+  }, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 162 x 241 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Voyage Round Great Britain", 
+  "height": "241", 
+  "id": 3507, 
+  "inscription": null, 
+  "medium": "Aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1254, 
+                "name": "carriage"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02912_8.jpg", 
+  "title": "Inverbernie Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-inverbernie-bridge-t02912", 
+  "width": "162"
+}

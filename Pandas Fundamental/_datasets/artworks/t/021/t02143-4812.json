@@ -1,0 +1,76 @@
+{
+  "acno": "T02143", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1977", 
+  "dateRange": {
+    "endYear": 1968, 
+    "startYear": 1936, 
+    "text": "1936, replica 1968"
+  }, 
+  "dateText": "1936, replica 1968", 
+  "depth": "419", 
+  "dimensions": "object: 251 x 311 x 419 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "311", 
+  "id": 4812, 
+  "inscription": null, 
+  "medium": "Plastic", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Construction in Space \u2018Two Cones\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-construction-in-space-two-cones-t02143", 
+  "width": "251"
+}

@@ -1,0 +1,174 @@
+{
+  "acno": "T02946", 
+  "acquisitionYear": 1979, 
+  "all_artists": "William Daniell", 
+  "catalogueGroup": {
+    "accessionRanges": "T02415-T03024; T03239-T03240", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65233, 
+    "shortTitle": "A Voyage Round Great Britain"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131837", 
+      "displayOrder": 1, 
+      "fc": "William Daniell", 
+      "gender": "Male", 
+      "id": 138, 
+      "mda": "Daniell, William", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by Tate Gallery Publications 1979", 
+  "dateRange": {
+    "endYear": 1825, 
+    "startYear": 1814, 
+    "text": null
+  }, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 162 x 241 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Voyage Round Great Britain", 
+  "height": "241", 
+  "id": 3541, 
+  "inscription": null, 
+  "medium": "Aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11584, 
+                "name": "Isle of Thanet, North Foreland"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 810, 
+                "name": "Kent"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2043, 
+                "name": "lighthouse"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02946_8.jpg", 
+  "title": "North Foreland Light House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-north-foreland-light-house-t02946", 
+  "width": "162"
+}

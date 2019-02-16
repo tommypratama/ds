@@ -1,0 +1,84 @@
+{
+  "acno": "T00481", 
+  "acquisitionYear": 1962, 
+  "all_artists": "Bernard Cohen", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Bernard Cohen", 
+      "gender": "Male", 
+      "id": 924, 
+      "mda": "Cohen, Bernard", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1962", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "", 
+  "dimensions": "support: 1017 x 1267 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1267", 
+  "id": 2373, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint and drawing on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 442, 
+      "name": "Situation"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bernard Cohen", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00481_8.jpg", 
+  "title": "Phoenix", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cohen-phoenix-t00481", 
+  "width": "1017"
+}

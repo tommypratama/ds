@@ -1,0 +1,300 @@
+{
+  "acno": "N01638", 
+  "acquisitionYear": 1897, 
+  "all_artists": "George Frederic Watts", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1817, 
+      "date": "1817\u20131904", 
+      "displayOrder": 1, 
+      "fc": "George Frederic Watts", 
+      "gender": "Male", 
+      "id": 586, 
+      "mda": "Watts, George Frederic", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1897", 
+  "dateRange": {
+    "endYear": 1892, 
+    "startYear": 1891, 
+    "text": "1891-2"
+  }, 
+  "dateText": "1891\u20132", 
+  "depth": "", 
+  "dimensions": "support: 1029 x 2045 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2045", 
+  "id": 16006, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 351, 
+      "name": "Aesthetic Movement"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16649, 
+      "name": "Symbolism"
+    }
+  ], 
+  "subjectCount": 22, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 854, 
+                "name": "armour"
+              }, 
+              {
+                "id": 2848, 
+                "name": "robe"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 841, 
+                "name": "curtain"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19663, 
+                "name": "goblet"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 752, 
+                "name": "instrument, lute"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1257, 
+                "name": "shield"
+              }, 
+              {
+                "id": 878, 
+                "name": "spear"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15956, 
+                "name": "shroud"
+              }, 
+              {
+                "id": 8962, 
+                "name": "wreath"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6442, 
+                "name": "corpse"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 723, 
+                "name": "lying down"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5448, 
+                "name": "ephemerality"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 630, 
+                "name": "feather"
+              }, 
+              {
+                "id": 4347, 
+                "name": "fur / hide"
+              }, 
+              {
+                "id": 6004, 
+                "name": "shell"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8621, 
+                "name": "immortality"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15346, 
+                "name": "immortality - peacock feather"
+              }
+            ], 
+            "id": 165, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2018, 
+                "name": "religious"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01638_8.jpg", 
+  "title": "Sic Transit", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/watts-sic-transit-n01638", 
+  "width": "1029"
+}

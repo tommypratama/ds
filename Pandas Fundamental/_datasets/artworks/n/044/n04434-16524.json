@@ -1,0 +1,118 @@
+{
+  "acno": "N04434", 
+  "acquisitionYear": 1929, 
+  "all_artists": "Johan Zoffany", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1733, 
+      "date": "1733\u20131810", 
+      "displayOrder": 1, 
+      "fc": "Johan Zoffany", 
+      "gender": "Male", 
+      "id": 620, 
+      "mda": "Zoffany, Johan", 
+      "role": "artist", 
+      "startLetter": "Z"
+    }
+  ], 
+  "creditLine": "Bequeathed by Mrs Aslett 1929", 
+  "dateRange": {
+    "endYear": 1764, 
+    "startYear": 1764, 
+    "text": "1764"
+  }, 
+  "dateText": "1764", 
+  "depth": "", 
+  "dimensions": "support: 889 x 711 mm\r\nframe: 1055 x 840 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "711", 
+  "id": 16524, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7381, 
+                "name": "Rimbault, Stephen"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7382, 
+                "name": "clockmaker"
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 816, 
+                "name": "sheet music"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04434_8.jpg", 
+  "title": "Stephen Rimbault", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/zoffany-stephen-rimbault-n04434", 
+  "width": "889"
+}

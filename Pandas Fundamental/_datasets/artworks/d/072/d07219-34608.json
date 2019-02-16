@@ -1,0 +1,76 @@
+{
+  "acno": "D07219", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1129643, 
+  "catalogueGroup": {
+    "accessionRanges": "D07132-D07198; D07201-D07204; D07208-D07249; D07251-D07254; D40624-D40627", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65753, 
+    "shortTitle": "Derbyshire Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1808, 
+    "text": "1808"
+  }, 
+  "dateText": "1808", 
+  "depth": "", 
+  "dimensions": "support: 185 x 108 mm", 
+  "finberg": "CVI 71 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Derbyshire Sketchbook", 
+  "height": "108", 
+  "id": 34608, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "pageNumber": 150, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 25872, 
+                "name": "Reynolds, Joshua, Sir, 'Discourses', 1769-1770"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07219_8.jpg", 
+  "title": "Notes on Sir Joshua Reynolds\u2019s \u2018Discourses\u2019 (Inscriptions by Turner)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-notes-on-sir-joshua-reynoldss-discourses-inscriptions-by-turner-d07219", 
+  "width": "185"
+}

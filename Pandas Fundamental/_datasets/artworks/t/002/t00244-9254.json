@@ -1,0 +1,154 @@
+{
+  "acno": "T00244", 
+  "acquisitionYear": 1959, 
+  "all_artists": "Louis Marcoussis", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1878, 
+      "date": "1878\u20131941", 
+      "displayOrder": 1, 
+      "fc": "Louis Marcoussis", 
+      "gender": "Male", 
+      "id": 1577, 
+      "mda": "Marcoussis, Louis", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1959", 
+  "dateRange": {
+    "endYear": 1929, 
+    "startYear": 1929, 
+    "text": "1929"
+  }, 
+  "dateText": "1929", 
+  "depth": "", 
+  "dimensions": "support: 495 x 606 mm", 
+  "foreignTitle": "Int\u00e9rieur \u00e0 la contrebasse", 
+  "groupTitle": null, 
+  "height": "606", 
+  "id": 9254, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 299, 
+      "name": "Cubism"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4755, 
+                "name": "instrument, double bass"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4771, 
+                "name": "mystery"
+              }, 
+              {
+                "id": 4357, 
+                "name": "void"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00244_8.jpg", 
+  "title": "Interior with a Double Bass", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/marcoussis-interior-with-a-double-bass-t00244", 
+  "width": "495"
+}

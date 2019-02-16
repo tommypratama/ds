@@ -1,0 +1,135 @@
+{
+  "acno": "D22920", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22920", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D229/D22920_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 339
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D22905-D23010; D41063", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65876, 
+    "shortTitle": "Brighton, Newhaven and Cowdray Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1828, 
+    "text": "c.1828"
+  }, 
+  "dateText": "c.1828", 
+  "depth": "", 
+  "dimensions": "support: 113 x 190 mm", 
+  "finberg": "CCXLVI 12 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Brighton, Newhaven and Cowdray Sketchbook", 
+  "height": "190", 
+  "id": 50257, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 26, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22920_8.jpg", 
+  "title": "Figures and Boats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-and-boats-d22920", 
+  "width": "113"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "T01351", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Michael Bolus", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20132013", 
+      "displayOrder": 1, 
+      "fc": "Michael Bolus", 
+      "gender": "Male", 
+      "id": 776, 
+      "mda": "Bolus, Michael", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1970", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "311", 
+  "dimensions": "object: 1029 x 1035 x 311 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1035", 
+  "id": 1220, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "8th Sculpture", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bolus-8th-sculpture-t01351", 
+  "width": "1029"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "T12308", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Toby Ziegler", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1972, 
+      "date": "born 1972", 
+      "displayOrder": 1, 
+      "fc": "Toby Ziegler", 
+      "gender": "Male", 
+      "id": 10126, 
+      "mda": "Ziegler, Toby", 
+      "role": "artist", 
+      "startLetter": "Z"
+    }
+  ], 
+  "creditLine": "Presented by David Gorton 2006", 
+  "dateRange": {
+    "endYear": 2006, 
+    "startYear": 2006, 
+    "text": "2006"
+  }, 
+  "dateText": "2006", 
+  "depth": "34", 
+  "dimensions": "support: 2127 x 2449 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2449", 
+  "id": 91785, 
+  "inscription": null, 
+  "medium": "Oil paint, gold leaf and graphite on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Toby Ziegler, courtesy Simon Lee Gallery", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12308_8.jpg", 
+  "title": "The Hedonistic Imperative (2nd version)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ziegler-the-hedonistic-imperative-2nd-version-t12308", 
+  "width": "2127"
+}

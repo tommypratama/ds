@@ -1,0 +1,70 @@
+{
+  "acno": "T03443", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Alan Green", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "1932\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Alan Green", 
+      "gender": "Male", 
+      "id": 1212, 
+      "mda": "Green, Alan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "", 
+  "dimensions": "support: 1706 x 5118 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "5118", 
+  "id": 5662, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alan Green", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03443_8.jpg", 
+  "title": "One to Four", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/green-one-to-four-t03443", 
+  "width": "1706"
+}

@@ -1,0 +1,108 @@
+{
+  "acno": "P06759", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Geoffrey Ireland", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "born 1923", 
+      "displayOrder": 1, 
+      "fc": "Geoffrey Ireland", 
+      "gender": "Male", 
+      "id": 1340, 
+      "mda": "Ireland, Geoffrey", 
+      "role": "artist", 
+      "startLetter": "I"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1976", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "", 
+  "dimensions": "image: 473 x 610 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "610", 
+  "id": 7041, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5363, 
+                "name": "Portugal"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12425, 
+                "name": "Sagres"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Sagres", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ireland-sagres-p06759", 
+  "width": "473"
+}

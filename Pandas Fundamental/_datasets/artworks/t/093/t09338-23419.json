@@ -1,0 +1,116 @@
+{
+  "acno": "T09338", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Inigo Richards", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1731, 
+      "date": "1731\u20131810", 
+      "displayOrder": 1, 
+      "fc": "John Inigo Richards", 
+      "gender": "Male", 
+      "id": 446, 
+      "mda": "Richards, John Inigo", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1765, 
+    "startYear": 1765, 
+    "text": "1765"
+  }, 
+  "dateText": "1765", 
+  "depth": "", 
+  "dimensions": "support: 110 x 170 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "170", 
+  "id": 23419, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 504, 
+                "name": "evening"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09338_8.jpg", 
+  "title": "Near the West Gate, Canterbury", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richards-near-the-west-gate-canterbury-t09338", 
+  "width": "110"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "P78404", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Jane Simpson", 
+  "catalogueGroup": {
+    "accessionRanges": "P78388-P78407", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66101, 
+    "shortTitle": "Cubitt Print Box"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1965, 
+      "date": "born 1965", 
+      "displayOrder": 1, 
+      "fc": "Jane Simpson", 
+      "gender": "Female", 
+      "id": 2775, 
+      "mda": "Simpson, Jane", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 2000", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 210 x 260 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Cubitt Print Box", 
+  "height": "260", 
+  "id": 27231, 
+  "inscription": null, 
+  "medium": "Digital print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }, 
+              {
+                "id": 1284, 
+                "name": "box"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Sunset Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/simpson-sunset-still-life-p78404", 
+  "width": "210"
+}

@@ -1,0 +1,148 @@
+{
+  "acno": "N06067", 
+  "acquisitionYear": 1952, 
+  "all_artists": "Georges Seurat", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1859, 
+      "date": "1859\u20131891", 
+      "displayOrder": 1, 
+      "fc": "Georges Seurat", 
+      "gender": "Male", 
+      "id": 1926, 
+      "mda": "Seurat, Georges", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1952", 
+  "dateRange": {
+    "endYear": 1885, 
+    "startYear": 1885, 
+    "text": "1885"
+  }, 
+  "dateText": "1885", 
+  "depth": "65", 
+  "dimensions": "frame: 839 x 998 x 65 mm\r\nsupport: 648 x 816 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "998", 
+  "id": 13322, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 358, 
+      "name": "Neo-Impressionism"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 4229, 
+      "name": "Post-Impressionism"
+    }
+  ], 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5592, 
+                "name": "France, Normandy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5591, 
+                "name": "Grandcamp"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5593, 
+                "name": "Pointe du Hoc"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06067_8.jpg", 
+  "title": "Le Bec du Hoc, Grandcamp", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/seurat-le-bec-du-hoc-grandcamp-n06067", 
+  "width": "839"
+}

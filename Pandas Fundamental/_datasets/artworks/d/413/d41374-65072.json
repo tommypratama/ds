@@ -1,0 +1,145 @@
+{
+  "acno": "D41374", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1137523, 
+  "catalogueGroup": {
+    "accessionRanges": "D41374-D41388", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65768, 
+    "shortTitle": "Stonehenge Sketchbook [pseudo-Finberg CXXV b]"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1811, 
+    "text": "1811"
+  }, 
+  "dateText": "1811", 
+  "depth": "", 
+  "dimensions": "support: 222 x 182 mm", 
+  "finberg": "CXXV b 1", 
+  "foreignTitle": null, 
+  "groupTitle": "Stonehenge Sketchbook [pseudo-Finberg CXXV b]", 
+  "height": "182", 
+  "id": 65072, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 7, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8988, 
+                "name": "Cheddar Gorge"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1559, 
+                "name": "Somerset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41374_8.jpg", 
+  "title": "Cheddar Gorge: The Lion Rock from the Village", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cheddar-gorge-the-lion-rock-from-the-village-d41374", 
+  "width": "222"
+}

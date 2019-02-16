@@ -1,0 +1,149 @@
+{
+  "acno": "D19842", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D19842", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D198/D19842_E.jpg", 
+          "height": 388, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D18471-D18476; D19552-D19775; D19778-D19946; D19948-D20083; D40727-D40728", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65853, 
+    "shortTitle": "Rivers Meuse and Moselle Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1824, 
+    "text": "1824"
+  }, 
+  "dateText": "1824", 
+  "depth": "", 
+  "dimensions": "support: 118 x 78 mm", 
+  "finberg": "CCXVI 146", 
+  "foreignTitle": null, 
+  "groupTitle": "Rivers Meuse and Moselle Sketchbook", 
+  "height": "78", 
+  "id": 47195, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 301, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9579, 
+                "name": "Bonn - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2042, 
+                "name": "pier"
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19842_8.jpg", 
+  "title": "The Landing Stage at Bonn, with Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-landing-stage-at-bonn-with-figures-d19842", 
+  "width": "118"
+}

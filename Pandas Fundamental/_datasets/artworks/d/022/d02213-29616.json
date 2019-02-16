@@ -1,0 +1,128 @@
+{
+  "acno": "D02213", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D02213", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D22/D02213_E.jpg", 
+          "height": 359, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D02178-D02235; D41264-D41265; D41466-D41467", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65700, 
+    "shortTitle": "Fonthill Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1799, 
+    "startYear": 1799, 
+    "text": "1799"
+  }, 
+  "dateText": "1799", 
+  "depth": "", 
+  "dimensions": "support: 335 x 433 mm", 
+  "finberg": "XLVII 36", 
+  "foreignTitle": null, 
+  "groupTitle": "Fonthill Sketchbook", 
+  "height": "433", 
+  "id": 29616, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1532, 
+                "name": "Berkshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5784, 
+                "name": "Eton - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02213_8.jpg", 
+  "title": "A View of Eton from the Slough Road", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-view-of-eton-from-the-slough-road-d02213", 
+  "width": "335"
+}

@@ -1,0 +1,156 @@
+{
+  "acno": "D15953", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D15953", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D159/D15953_E.jpg", 
+          "height": 328, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1137877, 
+  "catalogueGroup": {
+    "accessionRanges": "D15908-D16080; D16082-D16087; D40948-D40951", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65827, 
+    "shortTitle": "Naples, Paestum and Rome Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 113 x 189 mm", 
+  "finberg": "CLXXXVI 22 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Naples, Paestum and Rome Sketchbook", 
+  "height": "189", 
+  "id": 43309, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 48, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11566, 
+                "name": "Itri"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15953_8.jpg", 
+  "title": "Itri from the South-East", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-itri-from-the-south-east-d15953", 
+  "width": "113"
+}

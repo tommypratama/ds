@@ -1,0 +1,101 @@
+{
+  "acno": "D08221", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1810, 
+    "startYear": 1802, 
+    "text": "c.1802-10"
+  }, 
+  "dateText": "c.1802\u201310", 
+  "depth": "", 
+  "dimensions": "support: 205 x 323 mm", 
+  "finberg": "CXX H", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "323", 
+  "id": 35610, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08221_8.jpg", 
+  "title": "River Scene with Barges and Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-scene-with-barges-and-trees-d08221", 
+  "width": "205"
+}

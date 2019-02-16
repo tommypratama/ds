@@ -1,0 +1,90 @@
+{
+  "acno": "T01925", 
+  "acquisitionYear": 1974, 
+  "all_artists": "Sir Charles Holroyd", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1861, 
+      "date": "1861\u20131917", 
+      "displayOrder": 1, 
+      "fc": "Sir Charles Holroyd", 
+      "gender": "Male", 
+      "id": 1305, 
+      "mda": "Holroyd, Sir Charles", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Transferred from the reference collection 1974", 
+  "dateRange": {
+    "endYear": 1906, 
+    "startYear": 1906, 
+    "text": "c.1906"
+  }, 
+  "dateText": "c.1906", 
+  "depth": "", 
+  "dimensions": "support: 311 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 6687, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }, 
+              {
+                "id": 1260, 
+                "name": "Lake District"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01925_8.jpg", 
+  "title": "Wooded Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/holroyd-wooded-landscape-t01925", 
+  "width": "311"
+}

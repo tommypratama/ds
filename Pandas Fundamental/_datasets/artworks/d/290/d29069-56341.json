@@ -1,0 +1,96 @@
+{
+  "acno": "D29069", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151656, 
+  "catalogueGroup": {
+    "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65921, 
+    "shortTitle": "Val d'Aosta Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1836, 
+    "startYear": 1836, 
+    "text": "1836"
+  }, 
+  "dateText": "1836", 
+  "depth": "", 
+  "dimensions": "support: 113 x 190 mm", 
+  "finberg": "CCXCIII 19 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Val d'Aosta Sketchbook", 
+  "height": "190", 
+  "id": 56341, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 40, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29069_8.jpg", 
+  "title": "The Mont Blanc Massif and Le Chetif, from the Gorge above the Baths at Pr\u00e9 St Didier, Val d\u2019Aosta", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-mont-blanc-massif-and-le-chetif-from-the-gorge-above-the-baths-at-pre-st-didier-d29069", 
+  "width": "113"
+}

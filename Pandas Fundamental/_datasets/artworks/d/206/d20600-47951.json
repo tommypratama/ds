@@ -1,0 +1,169 @@
+{
+  "acno": "D20600", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D20600", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D206/D20600_E.jpg", 
+          "height": 330, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D20596-D20732; D41014-D41018", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65858, 
+    "shortTitle": "Windsor and Cowes, Isle of Wight Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1827, 
+    "startYear": 1827, 
+    "text": "c.1827"
+  }, 
+  "dateText": "c.1827", 
+  "depth": "", 
+  "dimensions": "support: 112 x 192 mm", 
+  "finberg": "CCXXVI 3", 
+  "foreignTitle": null, 
+  "groupTitle": "Windsor and Cowes, Isle of Wight Sketchbook", 
+  "height": "192", 
+  "id": 47951, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 7, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1532, 
+                "name": "Berkshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1204, 
+                "name": "River Thames"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5785, 
+                "name": "Windsor, Windsor Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20600_8.jpg", 
+  "title": "Windsor Castle, from the River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-windsor-castle-from-the-river-d20600", 
+  "width": "112"
+}

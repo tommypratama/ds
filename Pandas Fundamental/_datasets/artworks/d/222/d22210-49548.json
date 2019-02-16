@@ -1,0 +1,134 @@
+{
+  "acno": "D22210", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22210", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D222/D22210_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 339
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150504, 
+  "catalogueGroup": {
+    "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65870, 
+    "shortTitle": "Worcester and Shrewsbury Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "?1831"
+  }, 
+  "dateText": "?1831", 
+  "depth": "", 
+  "dimensions": "support: 191 x 114 mm", 
+  "finberg": "CCXXXIX 33", 
+  "foreignTitle": null, 
+  "groupTitle": "Worcester and Shrewsbury Sketchbook", 
+  "height": "114", 
+  "id": 49548, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 67, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22210_8.jpg", 
+  "title": "?Middleton Dale; Bakewell; a Bridge ?near Stoney Middleton; Peveril Castle from the South-East", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-middleton-dale-bakewell-a-bridge-near-stoney-middleton-peveril-castle-from-the-d22210", 
+  "width": "191"
+}

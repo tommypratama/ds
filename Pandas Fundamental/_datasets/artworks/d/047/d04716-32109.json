@@ -1,0 +1,188 @@
+{
+  "acno": "D04716", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D04716", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D47/D04716_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 422
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1133192, 
+  "catalogueGroup": {
+    "accessionRanges": "D04649-D04735; D40783-D40784", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65725, 
+    "shortTitle": "Lake Thun Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 201 x 156 mm", 
+  "finberg": "LXXVI 59", 
+  "foreignTitle": null, 
+  "groupTitle": "Lake Thun Sketchbook", 
+  "height": "156", 
+  "id": 32109, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 121, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 23584, 
+                "name": "Baden, Schloss Stein"
+              }, 
+              {
+                "id": 24509, 
+                "name": "Baden, Stadtkirche"
+              }, 
+              {
+                "id": 24510, 
+                "name": "Baden, Stadtturm"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 997, 
+                "name": "city wall"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04716_8.jpg", 
+  "title": "Baden; the Stadtkirche, Stadtturm and Castle Stein", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-baden-the-stadtkirche-stadtturm-and-castle-stein-d04716", 
+  "width": "201"
+}

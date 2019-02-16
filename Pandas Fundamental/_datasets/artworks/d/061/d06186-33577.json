@@ -1,0 +1,108 @@
+{
+  "acno": "D06186", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130370, 
+  "catalogueGroup": {
+    "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65745, 
+    "shortTitle": "Wey, Guildford Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 117 x 182 mm", 
+  "finberg": "XCVIII 5", 
+  "foreignTitle": null, 
+  "groupTitle": "Wey, Guildford Sketchbook", 
+  "height": "182", 
+  "id": 33577, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 11, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7104, 
+                "name": "Homer, 'Odyssey'"
+              }
+            ], 
+            "id": 56, 
+            "name": "classical"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06186_8.jpg", 
+  "title": "Ulysses and Polyphemus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ulysses-and-polyphemus-d06186", 
+  "width": "117"
+}

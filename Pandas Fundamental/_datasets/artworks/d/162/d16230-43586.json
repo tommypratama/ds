@@ -1,0 +1,134 @@
+{
+  "acno": "D16230", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D16230", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D162/D16230_E.jpg", 
+          "height": 351, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139742, 
+  "catalogueGroup": {
+    "accessionRanges": "D16157-D16326; D17158; D40952-D40954; D41410", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65829, 
+    "shortTitle": "St Peter's Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 114 x 189 mm", 
+  "finberg": "CLXXXVIII 42", 
+  "foreignTitle": null, 
+  "groupTitle": "St Peter's Sketchbook", 
+  "height": "189", 
+  "id": 43586, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 87, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7772, 
+                "name": "Rome, Villa Borghese"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16230_8.jpg", 
+  "title": "Gate of the Villa Borghese, Rome, on Via Pinciana", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-gate-of-the-villa-borghese-rome-on-via-pinciana-d16230", 
+  "width": "114"
+}

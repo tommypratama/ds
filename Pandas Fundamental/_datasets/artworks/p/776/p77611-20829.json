@@ -1,0 +1,82 @@
+{
+  "acno": "P77611", 
+  "acquisitionYear": 1993, 
+  "all_artists": "Brice Marden", 
+  "catalogueGroup": {
+    "accessionRanges": "P77606-P77613", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65647, 
+    "shortTitle": "Ten Days"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Brice Marden", 
+      "gender": "Male", 
+      "id": 1578, 
+      "mda": "Marden, Brice", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1993", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 600 x 370 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Ten Days", 
+  "height": "370", 
+  "id": 20829, 
+  "inscription": "date inscribed", 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ARS, NY and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77611_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/marden-no-title-p77611", 
+  "width": "600"
+}

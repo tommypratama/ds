@@ -1,0 +1,134 @@
+{
+  "acno": "D12015", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D12015", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D120/D12015_E.jpg", 
+          "height": 334, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1145549, 
+  "catalogueGroup": {
+    "accessionRanges": "D11995-D12098; D40715-D40718", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65795, 
+    "shortTitle": "Farnley Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1818, 
+    "text": "1818"
+  }, 
+  "dateText": "1818", 
+  "depth": "", 
+  "dimensions": "support: 111 x 185 mm", 
+  "finberg": "CLIII 12 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Farnley Sketchbook", 
+  "height": "185", 
+  "id": 39384, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 26, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5007, 
+                "name": "Leeds"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11747, 
+                "name": "Otley - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12015_8.jpg", 
+  "title": "The Valley of the River Wharfe from Caley Crags, with Almscliff Crag and Pool Bridge in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-valley-of-the-river-wharfe-from-caley-crags-with-almscliff-crag-and-pool-bridge-d12015", 
+  "width": "111"
+}

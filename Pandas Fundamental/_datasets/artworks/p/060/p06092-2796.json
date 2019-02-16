@@ -1,0 +1,76 @@
+{
+  "acno": "P06092", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Don Cordery", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1942, 
+      "date": "born 1942", 
+      "displayOrder": 1, 
+      "fc": "Don Cordery", 
+      "gender": "Male", 
+      "id": 942, 
+      "mda": "Cordery, Don", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "image: 613 x 454 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "454", 
+  "id": 2796, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1623, 
+                "name": "owl"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Spectacled Owl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cordery-spectacled-owl-p06092", 
+  "width": "613"
+}

@@ -1,0 +1,133 @@
+{
+  "acno": "T04096", 
+  "acquisitionYear": 1985, 
+  "all_artists": "John Constable, David Lucas", 
+  "catalogueGroup": {
+    "accessionRanges": "T04064-T04103", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65232, 
+    "shortTitle": "English Landscape Scenery, ed. H.G. Bohn"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }, 
+    {
+      "birthYear": 1802, 
+      "date": "1802\u20131881", 
+      "displayOrder": 2, 
+      "fc": "David Lucas", 
+      "gender": "Male", 
+      "id": 2708, 
+      "mda": "Lucas, David", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1985", 
+  "dateRange": {
+    "endYear": 1855, 
+    "startYear": 1855, 
+    "text": "published 1855"
+  }, 
+  "dateText": "published 1855", 
+  "depth": "", 
+  "dimensions": "image: 190 x 156 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "English Landscape Scenery, ed. H.G. Bohn", 
+  "height": "156", 
+  "id": 2757, 
+  "inscription": null, 
+  "medium": "Mezzotint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4332, 
+                "name": "corn"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 674, 
+                "name": "donkey"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04096_8.jpg", 
+  "title": "A Cottage in a Cornfield", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-lucas-a-cottage-in-a-cornfield-t04096", 
+  "width": "190"
+}

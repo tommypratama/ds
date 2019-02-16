@@ -1,0 +1,155 @@
+{
+  "acno": "N03631", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131779, 
+  "catalogueGroup": {
+    "accessionRanges": "D08100; D08102-D08106; D08110-D08123; D08125-D08142; D08144-D08175; D08177-D08178; D08182; D25451; N02941; N03631", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Watercolour", 
+    "id": 77169, 
+    "shortTitle": "Liber Studiorum 1807-1819 Watercolours"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Lord Duveen 1922", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1806, 
+    "text": "c.1806-7"
+  }, 
+  "dateText": "c.1806\u20137", 
+  "depth": "", 
+  "dimensions": "support: 214 x 254 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum: Designs for Unpublished Plates: nos.72-91", 
+  "height": "254", 
+  "id": 14912, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 8364, 
+                "name": "St Gotthard Pass"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10593, 
+                "name": "Devil's Bridge"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7306, 
+                "name": "pack animal"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03631_8.jpg", 
+  "title": "Devil\u2019s Bridge, Mt St Gothard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-devils-bridge-mt-st-gothard-n03631", 
+  "width": "214"
+}

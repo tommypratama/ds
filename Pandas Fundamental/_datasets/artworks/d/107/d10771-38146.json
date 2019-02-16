@@ -1,0 +1,129 @@
+{
+  "acno": "D10771", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D10771", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D107/D10771_E.jpg", 
+          "height": 389, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D10647-D10774; D40858", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65784, 
+    "shortTitle": "Walmer Ferry Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1817, 
+    "startYear": 1815, 
+    "text": "c.1815-17"
+  }, 
+  "dateText": "c.1815\u201317", 
+  "depth": "", 
+  "dimensions": "support: 160 x 112 mm", 
+  "finberg": "CXLII 98", 
+  "foreignTitle": null, 
+  "groupTitle": "Walmer Ferry Sketchbook", 
+  "height": "112", 
+  "id": 38146, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 199, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2415, 
+                "name": "swan"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10771_8.jpg", 
+  "title": "Horse Watching Swans in Water", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-horse-watching-swans-in-water-d10771", 
+  "width": "160"
+}

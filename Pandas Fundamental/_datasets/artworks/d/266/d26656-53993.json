@@ -1,0 +1,102 @@
+{
+  "acno": "D26656", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1135093, 
+  "catalogueGroup": {
+    "accessionRanges": "D26619-D26666; D41131-D41132", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65896, 
+    "shortTitle": "Loch Long Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "1831"
+  }, 
+  "dateText": "1831", 
+  "depth": "", 
+  "dimensions": "support: 101 x 158 mm", 
+  "finberg": "CCLXXI 19 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Loch Long Sketchbook", 
+  "height": "158", 
+  "id": 53993, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 40, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26656_8.jpg", 
+  "title": "Dumbarton Rock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dumbarton-rock-d26656", 
+  "width": "101"
+}

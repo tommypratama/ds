@@ -1,0 +1,140 @@
+{
+  "acno": "P01006", 
+  "acquisitionYear": 1909, 
+  "all_artists": "Sir David Cameron", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1865, 
+      "date": "1865\u20131945", 
+      "displayOrder": 1, 
+      "fc": "Sir David Cameron", 
+      "gender": "Male", 
+      "id": 851, 
+      "mda": "Cameron, Sir David", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Ernest Marsh 1909", 
+  "dateRange": {
+    "endYear": 1889, 
+    "startYear": 1889, 
+    "text": "1889"
+  }, 
+  "dateText": "1889", 
+  "depth": "", 
+  "dimensions": "image: 194 x 137 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "137", 
+  "id": 1964, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16254, 
+                "name": "Whitehall, The Admiralty"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 7556, 
+                "name": "colonnade"
+              }, 
+              {
+                "id": 245, 
+                "name": "column"
+              }, 
+              {
+                "id": 10452, 
+                "name": "pediment"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16253, 
+                "name": "government building"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01006_8.jpg", 
+  "title": "The Admiralty", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cameron-the-admiralty-p01006", 
+  "width": "194"
+}

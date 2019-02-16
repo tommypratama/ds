@@ -1,0 +1,178 @@
+{
+  "acno": "D01110", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D01110", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D11/D01110_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 389
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140299, 
+  "catalogueGroup": {
+    "accessionRanges": "D00157-D00160; D00381; D00401; D01109-D01110; D01881; D40254", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127059, 
+    "shortTitle": "Kent and Middlesex"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1794, 
+    "startYear": 1794, 
+    "text": "1794"
+  }, 
+  "dateText": "1794", 
+  "depth": "", 
+  "dimensions": "support: 278 x 210 mm", 
+  "finberg": "XXXVI P", 
+  "foreignTitle": null, 
+  "groupTitle": "Kent and Middlesex", 
+  "height": "210", 
+  "id": 28521, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5515, 
+                "name": "Canterbury, St Augustine's Monastery"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 810, 
+                "name": "Kent"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9798, 
+                "name": "gatehouse"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4526, 
+                "name": "monastery"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01110_8.jpg", 
+  "title": "Canterbury: The Gatehouse of St Augustine\u2019s Monastery", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-canterbury-the-gatehouse-of-st-augustines-monastery-d01110", 
+  "width": "278"
+}

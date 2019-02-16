@@ -1,0 +1,86 @@
+{
+  "acno": "T01596", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Julio Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1876, 
+      "date": "1876\u20131942", 
+      "displayOrder": 1, 
+      "fc": "Julio Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1188, 
+      "mda": "Gonz\u00e1lez, Julio", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mme Roberta Gonzalez-Richard, the artist's niece 1972", 
+  "dateRange": {
+    "endYear": 1918, 
+    "startYear": 1914, 
+    "text": "c.1914-8"
+  }, 
+  "dateText": "c.1914\u20138", 
+  "depth": "", 
+  "dimensions": "support: 518 x 286 mm", 
+  "foreignTitle": "Jeune fille nue", 
+  "groupTitle": null, 
+  "height": "286", 
+  "id": 5453, 
+  "inscription": null, 
+  "medium": "Pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01596_8.jpg", 
+  "title": "Nude Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-nude-girl-t01596", 
+  "width": "518"
+}

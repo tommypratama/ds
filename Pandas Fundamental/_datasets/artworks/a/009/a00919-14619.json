@@ -1,0 +1,206 @@
+{
+  "acno": "A00919", 
+  "acquisitionYear": 1925, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65249, 
+    "shortTitle": "Etchings and Engravings for the 'Liber Studiorum'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by A. Acland Allen through the Art Fund 1925", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1807, 
+    "text": "1807"
+  }, 
+  "dateText": "1807", 
+  "depth": "", 
+  "dimensions": "image: 185 x 258 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "258", 
+  "id": 14619, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7595, 
+                "name": "Basel - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4386, 
+                "name": "River Rhine"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }, 
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00919_8.jpg", 
+  "title": "Basle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-basle-a00919", 
+  "width": "185"
+}

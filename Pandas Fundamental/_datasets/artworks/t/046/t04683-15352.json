@@ -1,0 +1,188 @@
+{
+  "acno": "T04683", 
+  "acquisitionYear": 1986, 
+  "all_artists": "after Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "T04678-T04697", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65621, 
+    "shortTitle": "Turner's Annual Tour, 1833: Wanderings by the Loire"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "after", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1986", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "1833"
+  }, 
+  "dateText": "1833", 
+  "depth": "", 
+  "dimensions": "image: 103 x 142 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Turner's Annual Tour, 1833: Wanderings by the Loire", 
+  "height": "142", 
+  "id": 15352, 
+  "inscription": null, 
+  "medium": "Line engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8132, 
+                "name": "Amboise, Ch\u00e2teau d'Amboise"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8133, 
+                "name": "River Loire"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2388, 
+                "name": "waterfront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04683_8.jpg", 
+  "title": "Amboise", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-amboise-t04683", 
+  "width": "103"
+}

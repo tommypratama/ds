@@ -1,0 +1,124 @@
+{
+  "acno": "D12445", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D12445", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D124/D12445_E.jpg", 
+          "height": 342, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139446, 
+  "catalogueGroup": {
+    "accessionRanges": "D12318-D12448; D40917-D40923", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65799, 
+    "shortTitle": "Durham, North Shore, Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1817, 
+    "startYear": 1817, 
+    "text": "1817"
+  }, 
+  "dateText": "1817", 
+  "depth": "", 
+  "dimensions": "support: 116 x 185 mm", 
+  "finberg": "CLVII 92", 
+  "foreignTitle": null, 
+  "groupTitle": "Durham, North Shore, Sketchbook", 
+  "height": "185", 
+  "id": 39813, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 185, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1561, 
+                "name": "farm"
+              }, 
+              {
+                "id": 2621, 
+                "name": "stable"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12445_8.jpg", 
+  "title": "Rural Buildings and a Bridge, Probably in County Durham or Northumberland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-rural-buildings-and-a-bridge-probably-in-county-durham-or-northumberland-d12445", 
+  "width": "116"
+}

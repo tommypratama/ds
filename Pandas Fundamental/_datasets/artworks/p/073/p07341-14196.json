@@ -1,0 +1,76 @@
+{
+  "acno": "P07341", 
+  "acquisitionYear": 1979, 
+  "all_artists": "William Tillyer", 
+  "catalogueGroup": {
+    "accessionRanges": "P07338-P07342", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65542, 
+    "shortTitle": "A Furnished Landscape"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "William Tillyer", 
+      "gender": "Male", 
+      "id": 2042, 
+      "mda": "Tillyer, William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1979", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 795 x 622 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Furnished Landscape", 
+  "height": "622", 
+  "id": 14196, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Opening", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tillyer-opening-p07341", 
+  "width": "795"
+}

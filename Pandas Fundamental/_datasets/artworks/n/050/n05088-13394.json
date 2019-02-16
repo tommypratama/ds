@@ -1,0 +1,139 @@
+{
+  "acno": "N05088", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Walter Richard Sickert", 
+  "catTextResId": 1139032, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1860, 
+      "date": "1860\u20131942", 
+      "displayOrder": 1, 
+      "fc": "Walter Richard Sickert", 
+      "gender": "Male", 
+      "id": 1941, 
+      "mda": "Sickert, Walter Richard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Bequeathed by Lady Henry Cavendish-Bentinck 1940", 
+  "dateRange": {
+    "endYear": 1911, 
+    "startYear": 1910, 
+    "text": "1910-11"
+  }, 
+  "dateText": "1910\u201311", 
+  "depth": "", 
+  "dimensions": "support: 610 x 502 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "502", 
+  "id": 13394, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16045, 
+                "name": "Hampstead, Rowlandson House"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 466, 
+                "name": "bush"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05088_8.jpg", 
+  "title": "Rowlandson House - Sunset", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-rowlandson-house-sunset-n05088", 
+  "width": "610"
+}

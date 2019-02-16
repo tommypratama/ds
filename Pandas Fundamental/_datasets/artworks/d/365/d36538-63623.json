@@ -1,0 +1,159 @@
+{
+  "acno": "D36538", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner, Thomas Girtin", 
+  "catTextResId": 1141269, 
+  "catalogueGroup": {
+    "accessionRanges": "D00673-D00674; D00904; D01910; D36355; D36501; D36522-D36561; D36563-D36570; D36616-D36624; D36628; D36648; D36667; D40488", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127524, 
+    "shortTitle": "Collaborations with Thomas Girtin for Dr Monro, and Other Copies"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }, 
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 2, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1797, 
+    "text": "c.1797"
+  }, 
+  "dateText": "c.1797", 
+  "depth": "", 
+  "dimensions": "support: 303 x 486 mm", 
+  "finberg": "CCCLXXV 17", 
+  "foreignTitle": null, 
+  "groupTitle": "Collaborations with Thomas Girtin for Dr Monro, and Other Copies", 
+  "height": "486", 
+  "id": 63623, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4214, 
+                "name": "Naples - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay"
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36538_8.jpg", 
+  "title": "View over a Promontory near Naples", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-girtin-view-over-a-promontory-near-naples-d36538", 
+  "width": "303"
+}

@@ -1,0 +1,132 @@
+{
+  "acno": "T02701", 
+  "acquisitionYear": 1979, 
+  "all_artists": "William Daniell", 
+  "catalogueGroup": {
+    "accessionRanges": "T02415-T03024; T03239-T03240", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65233, 
+    "shortTitle": "A Voyage Round Great Britain"
+  }, 
+  "classification": "block for printing", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131837", 
+      "displayOrder": 1, 
+      "fc": "William Daniell", 
+      "gender": "Male", 
+      "id": 138, 
+      "mda": "Daniell, William", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by Tate Gallery Publications 1979", 
+  "dateRange": {
+    "endYear": 1825, 
+    "startYear": 1814, 
+    "text": null
+  }, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "object: 229 x 305 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Voyage Round Great Britain", 
+  "height": "305", 
+  "id": 3296, 
+  "inscription": null, 
+  "medium": "Copper plate", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }, 
+              {
+                "id": 1558, 
+                "name": "Devon"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 18158, 
+                "name": "Mount Edgcumbe"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "View from Mount Edgecumbe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-view-from-mount-edgecumbe-t02701", 
+  "width": "229"
+}

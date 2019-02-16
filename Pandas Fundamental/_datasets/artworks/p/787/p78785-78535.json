@@ -1,0 +1,86 @@
+{
+  "acno": "P78785", 
+  "acquisitionYear": 2003, 
+  "all_artists": "Brian Rice", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Brian Rice", 
+      "gender": "Male", 
+      "id": 6175, 
+      "mda": "Rice, Brian", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 2003", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "", 
+  "dimensions": "support: 787 x 590 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "590", 
+  "id": 78535, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9339, 
+                "name": "Chinese / Japanese text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Brian Rice", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78785_8.jpg", 
+  "title": "Goran Nasai", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rice-goran-nasai-p78785", 
+  "width": "787"
+}

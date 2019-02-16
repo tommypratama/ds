@@ -1,0 +1,102 @@
+{
+  "acno": "P11890", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Carroll Dunham", 
+  "catalogueGroup": {
+    "accessionRanges": "P11882-P11891", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66002, 
+    "shortTitle": "Shadows"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "Carroll Dunham", 
+      "gender": "Male", 
+      "id": 2279, 
+      "mda": "Dunham, Carroll", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery, courtesy of a private collector 2000", 
+  "dateRange": {
+    "endYear": 1989, 
+    "startYear": 1989, 
+    "text": "1989"
+  }, 
+  "dateText": "1989", 
+  "depth": "", 
+  "dimensions": "image: 392 x 579 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Shadows", 
+  "height": "579", 
+  "id": 21353, 
+  "inscription": "date inscribed", 
+  "medium": "Drypoint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1629, 
+                "name": "sexual organs"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "#9", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dunham-9-p11890", 
+  "width": "392"
+}

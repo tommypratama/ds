@@ -1,0 +1,94 @@
+{
+  "acno": "D41431", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D41431", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D414/D41431_E.jpg", 
+          "height": 330, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149310, 
+  "catalogueGroup": {
+    "accessionRanges": "D08283-D08359; D40898-D40901; D41431; D41536", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65763, 
+    "shortTitle": "Finance Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1814, 
+    "startYear": 1807, 
+    "text": "c.1807-14"
+  }, 
+  "dateText": "c.1807\u201314", 
+  "depth": "", 
+  "dimensions": "support: 69 x 112 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Finance Sketchbook", 
+  "height": "112", 
+  "id": 65127, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 60, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41431_8.jpg", 
+  "title": "A Wooded Valley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-wooded-valley-d41431", 
+  "width": "69"
+}

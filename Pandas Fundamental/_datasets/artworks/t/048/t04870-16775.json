@@ -1,0 +1,168 @@
+{
+  "acno": "T04870", 
+  "acquisitionYear": 1987, 
+  "all_artists": "after Thomas Girtin", 
+  "catalogueGroup": {
+    "accessionRanges": "T04868-T04871", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65463, 
+    "shortTitle": "The Rivers of England"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 1, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "after", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1987", 
+  "dateRange": {
+    "endYear": 1825, 
+    "startYear": 1825, 
+    "text": "1825"
+  }, 
+  "dateText": "1825", 
+  "depth": "", 
+  "dimensions": "image: 147 x 224 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Rivers of England", 
+  "height": "224", 
+  "id": 16775, 
+  "inscription": null, 
+  "medium": "Mezzotint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7622, 
+                "name": "Ripon, Ripon Minster"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11071, 
+                "name": "River Skell"
+              }, 
+              {
+                "id": 7620, 
+                "name": "River Ure"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04870_8.jpg", 
+  "title": "The Rivers of England (\u2018River Scenery\u2019): Ripon Minster on the Rivers Ure and Skell, engraved by T. Lupton", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/girtin-the-rivers-of-england-river-scenery-ripon-minster-on-the-rivers-ure-and-skell-t04870", 
+  "width": "147"
+}

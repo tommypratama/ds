@@ -1,0 +1,146 @@
+{
+  "acno": "D13687", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D13687", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D136/D13687_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1132234, 
+  "catalogueGroup": {
+    "accessionRanges": "D13587-D13654; D13656-D13747; D40913-D40916", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65809, 
+    "shortTitle": "Scotch Antiquities Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1818, 
+    "text": "1818"
+  }, 
+  "dateText": "1818", 
+  "depth": "", 
+  "dimensions": "support: 112 x 186 mm", 
+  "finberg": "CLXVII 57 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Scotch Antiquities Sketchbook", 
+  "height": "186", 
+  "id": 41054, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 122, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7098, 
+                "name": "Edinburgh"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3751, 
+                "name": "Edinburgh - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13687_8.jpg", 
+  "title": "Edinburgh from the North-West", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-edinburgh-from-the-north-west-d13687", 
+  "width": "112"
+}

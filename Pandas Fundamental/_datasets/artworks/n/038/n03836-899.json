@@ -1,0 +1,116 @@
+{
+  "acno": "N03836", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Vanessa Bell", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1879, 
+      "date": "1879\u20131961", 
+      "displayOrder": 1, 
+      "fc": "Vanessa Bell", 
+      "gender": "Female", 
+      "id": 731, 
+      "mda": "Bell, Vanessa", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1924", 
+  "dateRange": {
+    "endYear": 1920, 
+    "startYear": 1920, 
+    "text": "1920"
+  }, 
+  "dateText": "1920", 
+  "depth": "", 
+  "dimensions": "support: 610 x 457 mm\r\nframe: 776 x 630 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "457", 
+  "id": 899, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 295, 
+      "name": "Bloomsbury Group"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1460, 
+                "name": "chrysanthemum"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3479, 
+                "name": "cloth"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03836_8.jpg", 
+  "title": "Chrysanthemums", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bell-chrysanthemums-n03836", 
+  "width": "610"
+}

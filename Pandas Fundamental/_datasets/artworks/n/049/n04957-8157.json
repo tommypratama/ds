@@ -1,0 +1,112 @@
+{
+  "acno": "N04957", 
+  "acquisitionYear": 1938, 
+  "all_artists": "Harold Knight", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1874, 
+      "date": "1874\u20131961", 
+      "displayOrder": 1, 
+      "fc": "Harold Knight", 
+      "gender": "Male", 
+      "id": 1423, 
+      "mda": "Knight, Harold", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1938", 
+  "dateRange": {
+    "endYear": 1938, 
+    "startYear": 1938, 
+    "text": "exhibited 1938"
+  }, 
+  "dateText": "exhibited 1938", 
+  "depth": "", 
+  "dimensions": "support: 610 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 8157, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }, 
+              {
+                "id": 4302, 
+                "name": "pencil"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7268, 
+                "name": "student"
+              }
+            ], 
+            "id": 121, 
+            "name": "educational and scientific"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04957_8.jpg", 
+  "title": "A Student", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/knight-a-student-n04957", 
+  "width": "610"
+}

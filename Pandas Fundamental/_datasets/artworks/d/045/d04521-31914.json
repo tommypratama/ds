@@ -1,0 +1,139 @@
+{
+  "acno": "D04521", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1148547, 
+  "catalogueGroup": {
+    "accessionRanges": "D04493-D04503; D04505-D04509; D04512-D04517; D04519-D04521; D04523-D04532; D04534-D04589; D40023; D40064; D40197-D40209", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65723, 
+    "shortTitle": "Grenoble Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 213 x 282 mm", 
+  "finberg": "LXXIV 28", 
+  "foreignTitle": null, 
+  "groupTitle": "Grenoble Sketchbook", 
+  "height": "282", 
+  "id": 31914, 
+  "inscription": null, 
+  "medium": "Chalk, gouache and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7910, 
+                "name": "Grande Chartreuse"
+              }, 
+              {
+                "id": 7902, 
+                "name": "Is\u00e8re valley"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04521_8.jpg", 
+  "title": "?Fourvoirie, Gorges du Guiers Mort, Chartreuse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fourvoirie-gorges-du-guiers-mort-chartreuse-d04521", 
+  "width": "213"
+}

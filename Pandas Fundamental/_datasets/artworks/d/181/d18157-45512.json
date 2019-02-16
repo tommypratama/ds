@@ -1,0 +1,226 @@
+{
+  "acno": "D18157", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1146325, 
+  "catalogueGroup": {
+    "accessionRanges": "D18157", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Watercolour", 
+    "id": 77177, 
+    "shortTitle": "Rivers of Devon 1815-1823 Watercolours"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1815, 
+    "startYear": 1814, 
+    "text": "c.1814-15"
+  }, 
+  "dateText": "c.1814\u201315", 
+  "depth": "", 
+  "dimensions": "support: 280 x 408 mm", 
+  "finberg": "CCVIII X", 
+  "foreignTitle": null, 
+  "groupTitle": "Rivers of Devon 1815-1823 Watercolours", 
+  "height": "408", 
+  "id": 45512, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 15, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1558, 
+                "name": "Devon"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6574, 
+                "name": "Ivybridge"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8245, 
+                "name": "River Erme"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1254, 
+                "name": "carriage"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1115, 
+                "name": "duck"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18157_8.jpg", 
+  "title": "Ivy Bridge, Devonshire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ivy-bridge-devonshire-d18157", 
+  "width": "280"
+}

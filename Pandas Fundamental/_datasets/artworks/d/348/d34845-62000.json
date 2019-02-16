@@ -1,0 +1,118 @@
+{
+  "acno": "D34845", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D34845", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D348/D34845_E.jpg", 
+          "height": 406, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1135607, 
+  "catalogueGroup": {
+    "accessionRanges": "D12109; D34001-D34002; D34791-D34794; D34796-D34797; D34836; D34842-D34849; D34857-D34858; D40300; D40396", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 126526, 
+    "shortTitle": "Sheets Associated with the 1831 Tour of Scotland"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "1831"
+  }, 
+  "dateText": "1831", 
+  "depth": "", 
+  "dimensions": "support: 163 x 206 mm", 
+  "finberg": "CCCXLIV 359", 
+  "foreignTitle": null, 
+  "groupTitle": "Sheets Associated with the 1831 Tour of Scotland", 
+  "height": "206", 
+  "id": 62000, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34845_8.jpg", 
+  "title": "Castle Craig on the Cromarty Firth, Scotland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-craig-on-the-cromarty-firth-scotland-d34845", 
+  "width": "163"
+}

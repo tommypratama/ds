@@ -1,0 +1,158 @@
+{
+  "acno": "P02507", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Dieter Roth", 
+  "catalogueGroup": {
+    "accessionRanges": "P02506-P02510", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65511, 
+    "shortTitle": "Alpa"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Dieter Roth", 
+      "gender": "Male", 
+      "id": 1870, 
+      "mda": "Roth, Dieter", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1979", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 335 x 520 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Alpa", 
+  "height": "520", 
+  "id": 12859, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2568, 
+                "name": "butterfly"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10924, 
+                "name": "product packaging"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Dieter Roth", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02507_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/roth-no-title-p02507", 
+  "width": "335"
+}

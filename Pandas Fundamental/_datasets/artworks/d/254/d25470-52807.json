@@ -1,0 +1,114 @@
+{
+  "acno": "D25470", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149878, 
+  "catalogueGroup": {
+    "accessionRanges": "D17758-D17761; D17766; D25149; D25272; D25322; D25344; D25349; D25362; D25365; D25370; D25378; D25383; D25389; D25390; D25393; D25405; D25422; D25470; D40147", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 190843, 
+    "shortTitle": "'Ports of England' Studies"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1825, 
+    "startYear": 1825, 
+    "text": "c.1825"
+  }, 
+  "dateText": "c.1825", 
+  "depth": "", 
+  "dimensions": "support: 181 x 230 mm", 
+  "finberg": "CCLXIII 347", 
+  "foreignTitle": null, 
+  "groupTitle": "'Ports of England' Studies", 
+  "height": "230", 
+  "id": 52807, 
+  "inscription": null, 
+  "medium": "Gouache and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13976, 
+                "name": "Tintagel, Tintagel Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25470_8.jpg", 
+  "title": "Tintagel Castle from the Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-tintagel-castle-from-the-sea-d25470", 
+  "width": "181"
+}

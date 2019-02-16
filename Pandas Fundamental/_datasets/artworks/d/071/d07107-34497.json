@@ -1,0 +1,98 @@
+{
+  "acno": "D07107", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D07107", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D71/D07107_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134642, 
+  "catalogueGroup": {
+    "accessionRanges": "D06984-D07126; D07128-D07131; D40628-D40630; D40638", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65752, 
+    "shortTitle": "Tabley No.3 Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1825, 
+    "startYear": 1820, 
+    "text": "c.1820-5"
+  }, 
+  "dateText": "c.1820\u20135", 
+  "depth": "", 
+  "dimensions": "support: 108 x 185 mm", 
+  "finberg": "CV 78 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Tabley No.3 Sketchbook", 
+  "height": "185", 
+  "id": 34497, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 178, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07107_8.jpg", 
+  "title": "A Fishing Smack", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-fishing-smack-d07107", 
+  "width": "108"
+}

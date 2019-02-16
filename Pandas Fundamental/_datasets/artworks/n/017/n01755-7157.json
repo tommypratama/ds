@@ -1,0 +1,102 @@
+{
+  "acno": "N01755", 
+  "acquisitionYear": 1896, 
+  "all_artists": "Sir William Goscombe John", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1860, 
+      "date": "1860\u20131952", 
+      "displayOrder": 1, 
+      "fc": "Sir William Goscombe John", 
+      "gender": "Male", 
+      "id": 1364, 
+      "mda": "John, Sir William Goscombe", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1896", 
+  "dateRange": {
+    "endYear": 1895, 
+    "startYear": 1895, 
+    "text": "c.1895"
+  }, 
+  "dateText": "c.1895", 
+  "depth": "1110", 
+  "dimensions": "object: 1415 x 850 x1110 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "850", 
+  "id": 7157, 
+  "inscription": null, 
+  "medium": "Bronze on stone base", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15602, 
+                "name": "balancing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 941, 
+                "name": "playing"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "A Boy at Play", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/john-a-boy-at-play-n01755", 
+  "width": "1415"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "N05987", 
+  "acquisitionYear": 1951, 
+  "all_artists": "Robert Medley", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1905, 
+      "date": "1905\u20131994", 
+      "displayOrder": 1, 
+      "fc": "Robert Medley", 
+      "gender": "Male", 
+      "id": 1616, 
+      "mda": "Medley, Robert", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1951", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1950, 
+    "text": "1950"
+  }, 
+  "dateText": "1950", 
+  "depth": "", 
+  "dimensions": "support: 711 x 908 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "908", 
+  "id": 9425, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12459, 
+                "name": "rhododendron"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Robert Medley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05987_8.jpg", 
+  "title": "Rhododendrons", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/medley-rhododendrons-n05987", 
+  "width": "711"
+}

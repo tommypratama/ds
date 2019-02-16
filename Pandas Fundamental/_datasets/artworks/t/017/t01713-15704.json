@@ -1,0 +1,106 @@
+{
+  "acno": "T01713", 
+  "acquisitionYear": 1973, 
+  "all_artists": "Cornelius Varley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1781, 
+      "date": "1781\u20131873", 
+      "displayOrder": 1, 
+      "fc": "Cornelius Varley", 
+      "gender": "Male", 
+      "id": 568, 
+      "mda": "Varley, Cornelius", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased 1973", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "after 1804"
+  }, 
+  "dateText": "after 1804", 
+  "depth": "", 
+  "dimensions": "support: 213 x 314 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "314", 
+  "id": 15704, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6994, 
+                "name": "Islington, Canonbury House"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01713_8.jpg", 
+  "title": "Canonbury House, Islington", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/varley-canonbury-house-islington-t01713", 
+  "width": "213"
+}

@@ -1,0 +1,132 @@
+{
+  "acno": "N04201", 
+  "acquisitionYear": 1927, 
+  "all_artists": "William York Macgregor", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1855, 
+      "date": "1855\u20131923", 
+      "displayOrder": 1, 
+      "fc": "William York Macgregor", 
+      "gender": "Male", 
+      "id": 362, 
+      "mda": "Macgregor, William York", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 479 x 610 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "610", 
+  "id": 9097, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8255, 
+                "name": "Stirling"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2164, 
+                "name": "Stirling, Stirling Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04201_8.jpg", 
+  "title": "The Carse of Stirling", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/macgregor-the-carse-of-stirling-n04201", 
+  "width": "479"
+}

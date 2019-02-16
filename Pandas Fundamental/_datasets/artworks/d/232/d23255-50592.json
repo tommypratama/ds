@@ -1,0 +1,137 @@
+{
+  "acno": "D23255", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D23246-D23335; D41040-D41042", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65879, 
+    "shortTitle": "Loire, Tours, Orleans and Paris Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1826, 
+    "startYear": 1826, 
+    "text": "1826"
+  }, 
+  "dateText": "1826", 
+  "depth": "", 
+  "dimensions": "support: 153 x 103 mm", 
+  "finberg": "CCXLIX 5 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Loire, Tours, Orleans and Paris Sketchbook", 
+  "height": "103", 
+  "id": 50592, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 12, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8133, 
+                "name": "River Loire"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14161, 
+                "name": "Saint-Cyr-sur-Loire"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23255_8.jpg", 
+  "title": "View over the Loire to the West of St-Cyr", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-over-the-loire-to-the-west-of-st-cyr-d23255", 
+  "width": "153"
+}

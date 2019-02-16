@@ -1,0 +1,96 @@
+{
+  "acno": "P03232", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Richard Pinkney", 
+  "catalogueGroup": {
+    "accessionRanges": "P03232-P03240", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65482, 
+    "shortTitle": "Spare Parts"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Richard Pinkney", 
+      "gender": "Male", 
+      "id": 1772, 
+      "mda": "Pinkney, Richard", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Tetrad Press 1978", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 254 x 254 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Spare Parts", 
+  "height": "254", 
+  "id": 11898, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4207, 
+                "name": "dedication"
+              }, 
+              {
+                "id": 1986, 
+                "name": "title of work"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Pinkney", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03232_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03232", 
+  "width": "254"
+}

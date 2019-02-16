@@ -1,0 +1,82 @@
+{
+  "acno": "T12053", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Brad Lochore", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1960, 
+      "date": "born 1960", 
+      "displayOrder": 1, 
+      "fc": "Brad Lochore", 
+      "gender": "Male", 
+      "id": 3080, 
+      "mda": "Lochore, Brad", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2005", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "18", 
+  "dimensions": "support: 2998 x 1401 x 18 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1401", 
+  "id": 86972, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8482, 
+                "name": "blur"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 458, 
+                "name": "ladder"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Brad Lochore", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12053_8.jpg", 
+  "title": "Ladder", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lochore-ladder-t12053", 
+  "width": "2998"
+}

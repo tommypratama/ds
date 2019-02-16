@@ -1,0 +1,80 @@
+{
+  "acno": "T00470", 
+  "acquisitionYear": 1962, 
+  "all_artists": "Harold Cohen", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "born 1928", 
+      "displayOrder": 1, 
+      "fc": "Harold Cohen", 
+      "gender": "Male", 
+      "id": 925, 
+      "mda": "Cohen, Harold", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1962", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "", 
+  "dimensions": "support: 832 x 2332 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2332", 
+  "id": 2430, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 442, 
+      "name": "Situation"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Harold Cohen", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00470_8.jpg", 
+  "title": "Benedictus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cohen-benedictus-t00470", 
+  "width": "832"
+}

@@ -1,0 +1,87 @@
+{
+  "acno": "D25424", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1830, 
+    "startYear": 1820, 
+    "text": "c.1820-30"
+  }, 
+  "dateText": "c.1820\u201330", 
+  "depth": "", 
+  "dimensions": "support: 172 x 240 mm", 
+  "finberg": "CCLXIII 301", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "240", 
+  "id": 52761, 
+  "inscription": null, 
+  "medium": "Gouache and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 504, 
+                "name": "evening"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25424_8.jpg", 
+  "title": "Landscape: Evening", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-evening-d25424", 
+  "width": "172"
+}

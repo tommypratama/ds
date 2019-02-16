@@ -1,0 +1,122 @@
+{
+  "acno": "T09337", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Inigo Richards", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1731, 
+      "date": "1731\u20131810", 
+      "displayOrder": 1, 
+      "fc": "John Inigo Richards", 
+      "gender": "Male", 
+      "id": 446, 
+      "mda": "Richards, John Inigo", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1758, 
+    "startYear": 1758, 
+    "text": "1758"
+  }, 
+  "dateText": "1758", 
+  "depth": "", 
+  "dimensions": "support: 147 x 222 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "222", 
+  "id": 23418, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7966, 
+                "name": "Carisbrooke, Carisbrooke Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1531, 
+                "name": "Isle of Wight"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09337_8.jpg", 
+  "title": "Carisbrooke Castle, Isle of Wight", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richards-carisbrooke-castle-isle-of-wight-t09337", 
+  "width": "147"
+}

@@ -1,0 +1,276 @@
+{
+  "acno": "T01327", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Tom Phillips", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tom Phillips", 
+      "gender": "Male", 
+      "id": 1764, 
+      "mda": "Phillips, Esq Tom", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1970, 
+    "text": "1970-1"
+  }, 
+  "dateText": "1970\u20131", 
+  "depth": "", 
+  "dimensions": "support: 1219 x 2762 mm\r\nframe: 1382 x 2928 x 51 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2762", 
+  "id": 11839, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 22, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6536, 
+                "name": "Battersea, Battersea Park"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6540, 
+                "name": "Bournemouth, Central Gardens"
+              }, 
+              {
+                "id": 6543, 
+                "name": "Brighton, Old Steine Gardens"
+              }, 
+              {
+                "id": 6539, 
+                "name": "Harrogate, Prospect Gardens, The Terrace"
+              }, 
+              {
+                "id": 6545, 
+                "name": "Llanishen, Parc Cefn On"
+              }, 
+              {
+                "id": 6542, 
+                "name": "Southbourne, Rest Gardens"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1600, 
+                "name": "Dorset"
+              }, 
+              {
+                "id": 1856, 
+                "name": "Sussex, East"
+              }, 
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }, 
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2484, 
+                "name": "Dante, 'Divine Comedy: Inferno'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1635, 
+                "name": "bench"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption"
+              }, 
+              {
+                "id": 2018, 
+                "name": "religious"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6726, 
+                "name": "mortality"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tom Phillips", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01327_8.jpg", 
+  "title": "Benches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-benches-t01327", 
+  "width": "1219"
+}

@@ -1,0 +1,98 @@
+{
+  "acno": "T06608", 
+  "acquisitionYear": 1992, 
+  "all_artists": "Sir Terry Frost", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1915, 
+      "date": "1915\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Sir Terry Frost", 
+      "gender": "Male", 
+      "id": 1126, 
+      "mda": "Frost, Sir Terry", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1992", 
+  "dateRange": {
+    "endYear": 1959, 
+    "startYear": 1957, 
+    "text": "1957-9"
+  }, 
+  "dateText": "1957\u20139", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 2286 x 3657 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3657", 
+  "id": 20456, 
+  "inscription": null, 
+  "medium": "Oil paint on board", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 443, 
+      "name": "Tachism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sir Terry Frost", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06608_8.jpg", 
+  "title": "Yellow Triptych", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-yellow-triptych-t06608", 
+  "width": "2286"
+}

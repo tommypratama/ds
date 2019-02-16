@@ -1,0 +1,76 @@
+{
+  "acno": "T03550", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Robert Ryman", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Robert Ryman", 
+      "gender": "Male", 
+      "id": 1888, 
+      "mda": "Ryman, Robert", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "36", 
+  "dimensions": "support: 763 x 711 x 36 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "711", 
+  "id": 13058, 
+  "inscription": null, 
+  "medium": "Enamelac paint on fibreglass, aluminium and wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Robert Ryman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03550_8.jpg", 
+  "title": "Ledger", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ryman-ledger-t03550", 
+  "width": "763"
+}

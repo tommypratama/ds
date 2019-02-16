@@ -1,0 +1,95 @@
+{
+  "acno": "D29533", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D29379-D29418; D29420-D29436; D29438-D29516; D29518-D29551; D29553-D29586; D29588-D29593; D41098", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65923, 
+    "shortTitle": "Genoa to Grenoble Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1840, 
+    "startYear": 1835, 
+    "text": "c.1835-40"
+  }, 
+  "dateText": "c.1835\u201340", 
+  "depth": "", 
+  "dimensions": "support: 146 x 103 mm", 
+  "finberg": "CCXCV 79 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Genoa to Grenoble Sketchbook", 
+  "height": "103", 
+  "id": 56797, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 162, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29533_8.jpg", 
+  "title": "On Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-on-coast-d29533", 
+  "width": "146"
+}

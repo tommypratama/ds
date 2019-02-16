@@ -1,0 +1,106 @@
+{
+  "acno": "T01215", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Tim Scott", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tim Scott", 
+      "gender": "Male", 
+      "id": 1915, 
+      "mda": "Scott, Tim", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1970", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1961, 
+    "text": "1961-2"
+  }, 
+  "dateText": "1961\u20132", 
+  "depth": "914", 
+  "dimensions": "object: 1219 x 1372 x 914 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1372", 
+  "id": 13209, 
+  "inscription": null, 
+  "medium": "Wood and glass", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4297, 
+                "name": "wheel"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tim Scott", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01215_8.jpg", 
+  "title": "Peach Wheels", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-peach-wheels-t01215", 
+  "width": "1219"
+}

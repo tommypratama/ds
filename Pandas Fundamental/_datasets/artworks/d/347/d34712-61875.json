@@ -1,0 +1,111 @@
+{
+  "acno": "D34712", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1841, 
+    "startYear": 1830, 
+    "text": "c.1830-41"
+  }, 
+  "dateText": "c.1830\u201341", 
+  "depth": "", 
+  "dimensions": "support: 125 x 151 mm", 
+  "finberg": "CCCXLIV 266", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "151", 
+  "id": 61875, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6376, 
+                "name": "French text"
+              }, 
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5931, 
+                "name": "monument"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34712_8.jpg", 
+  "title": "Monument, with Inscription", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-monument-with-inscription-d34712", 
+  "width": "125"
+}

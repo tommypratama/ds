@@ -1,0 +1,108 @@
+{
+  "acno": "P13001", 
+  "acquisitionYear": 2005, 
+  "all_artists": "David Hockney", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "David Hockney", 
+      "gender": "Male", 
+      "id": 1293, 
+      "mda": "Hockney, David", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery 2004", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "", 
+  "dimensions": "support: 225 x 355 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "355", 
+  "id": 26849, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2571, 
+                "name": "fireplace"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3288, 
+                "name": "sewing machine"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Hockney", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P13/P13001_8.jpg", 
+  "title": "Woman with a Sewing Machine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hockney-woman-with-a-sewing-machine-p13001", 
+  "width": "225"
+}

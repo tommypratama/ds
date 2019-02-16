@@ -1,0 +1,130 @@
+{
+  "acno": "D25184", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151533, 
+  "catalogueGroup": {
+    "accessionRanges": "D25124; D25133; D25142; D25144; D25145; D25151; D25153; D25162; D25176; D25184; D25189; D25194; D25204; D25211; D25222; D25224; D25226; D25251; D25282; D25283; D25284; D25294; D25308; D25310; D25473; D25474; D36222; D40191; D40192", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163281, 
+    "shortTitle": "Identified or Likely Subjects, Possibly for 'England and Wales'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1830, 
+    "startYear": 1828, 
+    "text": "c.1828-30"
+  }, 
+  "dateText": "c.1828\u201330", 
+  "depth": "", 
+  "dimensions": "support: 354 x 507 mm", 
+  "finberg": "CCLXIII 62", 
+  "foreignTitle": null, 
+  "groupTitle": "Identified or Likely Subjects, Possibly for 'England and Wales'", 
+  "height": "507", 
+  "id": 52521, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7978, 
+                "name": "Dartmouth - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1558, 
+                "name": "Devon"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7977, 
+                "name": "River Dart"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25184_8.jpg", 
+  "title": "?Dartmouth, Devonshire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dartmouth-devonshire-d25184", 
+  "width": "354"
+}

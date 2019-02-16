@@ -1,0 +1,96 @@
+{
+  "acno": "N01559", 
+  "acquisitionYear": 1894, 
+  "all_artists": "Samuel John Carter", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1835, 
+      "date": "1835\u20131892", 
+      "displayOrder": 1, 
+      "fc": "Samuel John Carter", 
+      "gender": "Male", 
+      "id": 86, 
+      "mda": "Carter, Samuel John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Sir Henry Tate 1894", 
+  "dateRange": {
+    "endYear": 1876, 
+    "startYear": 1876, 
+    "text": "1876"
+  }, 
+  "dateText": "1876", 
+  "depth": "", 
+  "dimensions": "support: 1485 x 2407 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2407", 
+  "id": 2007, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4431, 
+                "name": "antler"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2962, 
+                "name": "deer"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10478, 
+                "name": "lying down"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01559_8.jpg", 
+  "title": "Morning with the Wild Red Deer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/carter-morning-with-the-wild-red-deer-n01559", 
+  "width": "1485"
+}

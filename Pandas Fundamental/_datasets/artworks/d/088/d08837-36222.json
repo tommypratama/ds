@@ -1,0 +1,170 @@
+{
+  "acno": "D08837", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D08837", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D88/D08837_E.jpg", 
+          "height": 450, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1137318, 
+  "catalogueGroup": {
+    "accessionRanges": "D08807-D08815; D08817-D08822; D08824; D08826-D08842; D08844; D08846; D08848-D08863; D08940; D40821; D41522", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65765, 
+    "shortTitle": "Corfe to Dartmouth Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1811, 
+    "text": "1811"
+  }, 
+  "dateText": "1811", 
+  "depth": "", 
+  "dimensions": "support: 170 x 209 mm", 
+  "finberg": "CXXIV 26", 
+  "foreignTitle": null, 
+  "groupTitle": "Corfe to Dartmouth Sketchbook", 
+  "height": "209", 
+  "id": 36222, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 55, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1600, 
+                "name": "Dorset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8699, 
+                "name": "Isle of Portland"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8700, 
+                "name": "Rufus Castle"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08837_8.jpg", 
+  "title": "Bow and Arrow or Rufus Castle, Portland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bow-and-arrow-or-rufus-castle-portland-d08837", 
+  "width": "170"
+}

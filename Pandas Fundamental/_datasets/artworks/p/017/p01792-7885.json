@@ -1,0 +1,86 @@
+{
+  "acno": "P01792", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Ellsworth Kelly", 
+  "catalogueGroup": {
+    "accessionRanges": "P01792", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65549, 
+    "shortTitle": "Suite of Twenty-Seven Color Lithographs"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "born 1923", 
+      "displayOrder": 1, 
+      "fc": "Ellsworth Kelly", 
+      "gender": "Male", 
+      "id": 1391, 
+      "mda": "Kelly, Ellsworth", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by the Museum of Modern Art, New York 1976", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1964, 
+    "text": "1964-5"
+  }, 
+  "dateText": "1964\u20135", 
+  "depth": "", 
+  "dimensions": "image: 594 x 394 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Suite of Twenty-Seven Color Lithographs", 
+  "height": "394", 
+  "id": 7885, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ellsworth Kelly", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01792_8.jpg", 
+  "title": "Yellow (II.2 Yellow; Jaune S\u00e9rie II No.2)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kelly-yellow-ii2-yellow-jaune-serie-ii-no2-p01792", 
+  "width": "594"
+}

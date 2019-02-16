@@ -1,0 +1,276 @@
+{
+  "acno": "T01900", 
+  "acquisitionYear": 1974, 
+  "all_artists": "Benjamin West", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1738, 
+      "date": "1738\u20131820", 
+      "displayOrder": 1, 
+      "fc": "Benjamin West", 
+      "gender": "Male", 
+      "id": 594, 
+      "mda": "West, Benjamin", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1778, 
+    "startYear": 1778, 
+    "text": "1778"
+  }, 
+  "dateText": "1778", 
+  "depth": "", 
+  "dimensions": "support: 292 x 229 mm\r\nframe: 440 x 370 x 60 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "229", 
+  "id": 16107, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on oak", 
+  "movementCount": 0, 
+  "subjectCount": 19, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4756, 
+                "name": "Caernarfonshire and Merionethshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10993, 
+                "name": "River Conwy"
+              }, 
+              {
+                "id": 9615, 
+                "name": "Snowdon"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4753, 
+                "name": "Snowdonia"
+              }, 
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2292, 
+                "name": "Gray, Thomas, 'The Bard'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2311, 
+                "name": "Wales, Edward I's invasion, late 13th c."
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2316, 
+                "name": "Welsh"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2657, 
+                "name": "anger"
+              }, 
+              {
+                "id": 6782, 
+                "name": "heroism"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4117, 
+                "name": "army"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2312, 
+                "name": "instrument, harp"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1181, 
+                "name": "poet"
+              }
+            ], 
+            "id": 126, 
+            "name": "literary"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01900_8.jpg", 
+  "title": "The Bard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/west-the-bard-t01900", 
+  "width": "292"
+}

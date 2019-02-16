@@ -1,0 +1,162 @@
+{
+  "acno": "D05473", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D05473", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D54/D05473_E.jpg", 
+          "height": 335, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139283, 
+  "catalogueGroup": {
+    "accessionRanges": "D05446-D05490; D40701-D40705; D41427", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65736, 
+    "shortTitle": "Nelson Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 114 x 184 mm", 
+  "finberg": "LXXXIX 21 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Nelson Sketchbook", 
+  "height": "184", 
+  "id": 32865, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 58, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3023, 
+                "name": "sailor"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05473_8.jpg", 
+  "title": "Head of an Officer, and a Flag", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-head-of-an-officer-and-a-flag-d05473", 
+  "width": "114"
+}

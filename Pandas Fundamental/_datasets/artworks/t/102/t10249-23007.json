@@ -1,0 +1,96 @@
+{
+  "acno": "T10249", 
+  "acquisitionYear": 1997, 
+  "all_artists": "James Holland", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1799, 
+      "date": "1799\u20131870", 
+      "displayOrder": 1, 
+      "fc": "James Holland", 
+      "gender": "Male", 
+      "id": 268, 
+      "mda": "Holland, James", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1857, 
+    "startYear": 1857, 
+    "text": "1857"
+  }, 
+  "dateText": "1857", 
+  "depth": "", 
+  "dimensions": "support: 240 x 484 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "484", 
+  "id": 23007, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9759, 
+                "name": "Ampezzo"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10249_8.jpg", 
+  "title": "Ampezzo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/holland-ampezzo-t10249", 
+  "width": "240"
+}

@@ -1,0 +1,96 @@
+{
+  "acno": "T08820", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Jean Baptiste Claude Chatelain", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1710, 
+      "date": "c.1710\u2013c.1758", 
+      "displayOrder": 1, 
+      "fc": "Jean Baptiste Claude Chatelain", 
+      "gender": "Male", 
+      "id": 2222, 
+      "mda": "Chatelain, Jean Baptiste Claude", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1745, 
+    "startYear": 1745, 
+    "text": "1745"
+  }, 
+  "dateText": "1745", 
+  "depth": "", 
+  "dimensions": "support: 220 x 390 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "390", 
+  "id": 22399, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08820_8.jpg", 
+  "title": "View in a Park with Buildings in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chatelain-view-in-a-park-with-buildings-in-the-distance-t08820", 
+  "width": "220"
+}

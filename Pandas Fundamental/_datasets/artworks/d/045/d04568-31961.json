@@ -1,0 +1,127 @@
+{
+  "acno": "D04568", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D04568", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D45/D04568_E.jpg", 
+          "height": 387, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1148592, 
+  "catalogueGroup": {
+    "accessionRanges": "D04493-D04503; D04505-D04509; D04512-D04517; D04519-D04521; D04523-D04532; D04534-D04589; D40023; D40064; D40197-D40209", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65723, 
+    "shortTitle": "Grenoble Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 215 x 283 mm", 
+  "finberg": "LXXIV 75", 
+  "foreignTitle": null, 
+  "groupTitle": "Grenoble Sketchbook", 
+  "height": "283", 
+  "id": 31961, 
+  "inscription": null, 
+  "medium": "Gouache and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04568_8.jpg", 
+  "title": "A Waterfall near a Mountain Village", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-waterfall-near-a-mountain-village-d04568", 
+  "width": "215"
+}

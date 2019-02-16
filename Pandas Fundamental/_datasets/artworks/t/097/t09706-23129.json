@@ -1,0 +1,78 @@
+{
+  "acno": "T09706", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Laporte", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1761, 
+      "date": "1761\u20131839", 
+      "displayOrder": 1, 
+      "fc": "John Laporte", 
+      "gender": "Male", 
+      "id": 328, 
+      "mda": "Laporte, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 156 x 278 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "278", 
+  "id": 23129, 
+  "inscription": null, 
+  "medium": "Graphite, gouache and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09706_8.jpg", 
+  "title": "A Water-Mill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/laporte-a-water-mill-t09706", 
+  "width": "156"
+}

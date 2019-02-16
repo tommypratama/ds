@@ -1,0 +1,134 @@
+{
+  "acno": "D11903", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D11903", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D119/D11903_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 356
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151273, 
+  "catalogueGroup": {
+    "accessionRanges": "D11596-D11908; D40859", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65791, 
+    "shortTitle": "Yorkshire 6 Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1816, 
+    "startYear": 1816, 
+    "text": "c.1816"
+  }, 
+  "dateText": "c.1816", 
+  "depth": "", 
+  "dimensions": "support: 149 x 93 mm", 
+  "finberg": "CXLIX 300", 
+  "foreignTitle": null, 
+  "groupTitle": "Yorkshire 6 Sketchbook", 
+  "height": "93", 
+  "id": 39277, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 603, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1262, 
+                "name": "Cumbria"
+              }, 
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 26640, 
+                "name": "Hall Beck Gill"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2332, 
+                "name": "heathland"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11903_8.jpg", 
+  "title": "A Sportsman with a Gun and two Gun Dogs on the Moors near Hall Beck Gill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-sportsman-with-a-gun-and-two-gun-dogs-on-the-moors-near-hall-beck-gill-d11903", 
+  "width": "149"
+}

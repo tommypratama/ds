@@ -1,0 +1,116 @@
+{
+  "acno": "N01976", 
+  "acquisitionYear": 1905, 
+  "all_artists": "Thomas Sidney Cooper", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1803, 
+      "date": "1803\u20131902", 
+      "displayOrder": 1, 
+      "fc": "Thomas Sidney Cooper", 
+      "gender": "Male", 
+      "id": 112, 
+      "mda": "Cooper, Thomas Sidney", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by C. Fraser 1905", 
+  "dateRange": {
+    "endYear": 1860, 
+    "startYear": 1860, 
+    "text": "1860"
+  }, 
+  "dateText": "1860", 
+  "depth": "", 
+  "dimensions": "support: 216 x 298 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "298", 
+  "id": 2785, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }, 
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3521, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01976_8.jpg", 
+  "title": "A Cow and Two Sheep", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cooper-a-cow-and-two-sheep-n01976", 
+  "width": "216"
+}

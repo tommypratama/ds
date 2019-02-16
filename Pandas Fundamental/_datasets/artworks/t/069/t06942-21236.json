@@ -1,0 +1,82 @@
+{
+  "acno": "T06942", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Sir Eduardo Paolozzi", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Sir Eduardo Paolozzi", 
+      "gender": "Male", 
+      "id": 1738, 
+      "mda": "Paolozzi, Sir Eduardo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1995", 
+  "dateRange": {
+    "endYear": 1985, 
+    "startYear": 1985, 
+    "text": "1985"
+  }, 
+  "dateText": "1985", 
+  "depth": "330", 
+  "dimensions": "object: 480 x 225 x 330 mm, 10.6 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "225", 
+  "id": 21236, 
+  "inscription": null, 
+  "medium": "Painted plaster", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6434, 
+                "name": "period: Mayan civilisation"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Eduardo Paolozzi Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06942_8.jpg", 
+  "title": "Mayan Dog", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-mayan-dog-t06942", 
+  "width": "480"
+}

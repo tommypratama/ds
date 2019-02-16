@@ -1,0 +1,82 @@
+{
+  "acno": "T08749", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Constable", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 158 x 165 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "165", 
+  "id": 22418, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08749_8.jpg", 
+  "title": "Landscape with Fence in the Foreground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-landscape-with-fence-in-the-foreground-t08749", 
+  "width": "158"
+}

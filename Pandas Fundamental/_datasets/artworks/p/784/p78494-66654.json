@@ -1,0 +1,201 @@
+{
+  "acno": "P78494", 
+  "acquisitionYear": 2001, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "P78494_141858", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "P/P78/P78494_141858_7.jpg", 
+          "height": 83, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "P/P78/P78494_141858_8.jpg", 
+          "height": 167, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "P/P78/P78494_141858_9.jpg", 
+          "height": 334, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "P/P78/P78494_141858_10.jpg", 
+          "height": 1003, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }, 
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "P78494_141860", 
+      "sizes": [
+        {
+          "caption": "Additional view 2", 
+          "cleared": false, 
+          "file": "P/P78/P78494_141860_7.jpg", 
+          "height": 83, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": false, 
+          "file": "P/P78/P78494_141860_8.jpg", 
+          "height": 167, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": false, 
+          "file": "P/P78/P78494_141860_9.jpg", 
+          "height": 334, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": false, 
+          "file": "P/P78/P78494_141860_10.jpg", 
+          "height": 1002, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Christian Wolff", 
+  "catalogueGroup": {
+    "accessionRanges": "P78487-P78494", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66655, 
+    "shortTitle": "Tetrad Pamphlets Vol. II"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "date": null, 
+      "displayOrder": 1, 
+      "fc": "Christian Wolff", 
+      "gender": "Male", 
+      "id": 3088, 
+      "mda": "Wolff, Christian", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 2001", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "support: 598 x 499 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Tetrad Pamphlets Vol. II", 
+  "height": "499", 
+  "id": 66654, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10065, 
+                "name": "music"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6695, 
+                "name": "sound"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Prose Pieces", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wolff-prose-pieces-p78494", 
+  "width": "598"
+}

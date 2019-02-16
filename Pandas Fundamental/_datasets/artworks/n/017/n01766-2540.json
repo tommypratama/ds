@@ -1,0 +1,112 @@
+{
+  "acno": "N01766", 
+  "acquisitionYear": 1899, 
+  "all_artists": "William Robert Colton", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1867, 
+      "date": "1867\u20131921", 
+      "displayOrder": 1, 
+      "fc": "William Robert Colton", 
+      "gender": "Male", 
+      "id": 933, 
+      "mda": "Colton, William Robert", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1899", 
+  "dateRange": {
+    "endYear": 1898, 
+    "startYear": 1898, 
+    "text": "1898"
+  }, 
+  "dateText": "1898", 
+  "depth": "737", 
+  "dimensions": "object: 1289 x 940 x 737 mm, 275 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "940", 
+  "id": 2540, 
+  "inscription": "date inscribed", 
+  "medium": "Bronze", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 518, 
+                "name": "dressing / undressing"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2378, 
+                "name": "ribbon"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01766_8.jpg", 
+  "title": "The Girdle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/colton-the-girdle-n01766", 
+  "width": "1289"
+}

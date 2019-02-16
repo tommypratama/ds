@@ -1,0 +1,106 @@
+{
+  "acno": "N05396", 
+  "acquisitionYear": 1942, 
+  "all_artists": "Mark Fisher", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1841, 
+      "date": "1841\u20131923", 
+      "displayOrder": 1, 
+      "fc": "Mark Fisher", 
+      "gender": "Male", 
+      "id": 184, 
+      "mda": "Fisher, Mark", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1942", 
+  "dateRange": {
+    "endYear": 1894, 
+    "startYear": 1894, 
+    "text": "1894"
+  }, 
+  "dateText": "1894", 
+  "depth": "", 
+  "dimensions": "support: 457 x 660 mm\r\nframe: 695 x 891 x 87 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "660", 
+  "id": 4338, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05396_8.jpg", 
+  "title": "Snow Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fisher-snow-scene-n05396", 
+  "width": "457"
+}

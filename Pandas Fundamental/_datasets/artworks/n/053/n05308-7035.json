@@ -1,0 +1,169 @@
+{
+  "acno": "N05308", 
+  "acquisitionYear": 1941, 
+  "all_artists": "James Dickson Innes, Derwent Lees", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131914", 
+      "displayOrder": 1, 
+      "fc": "James Dickson Innes", 
+      "gender": "Male", 
+      "id": 1336, 
+      "mda": "Innes, James Dickson", 
+      "role": "artist", 
+      "startLetter": "I"
+    }, 
+    {
+      "birthYear": 1885, 
+      "date": "1885\u20131931", 
+      "displayOrder": 2, 
+      "fc": "Derwent Lees", 
+      "gender": "Male", 
+      "id": 1487, 
+      "mda": "Lees, Derwent", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1941", 
+  "dateRange": {
+    "endYear": 1908, 
+    "startYear": 1908, 
+    "text": "c.1908"
+  }, 
+  "dateText": "c.1908", 
+  "depth": "", 
+  "dimensions": "support: 324 x 203 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "203", 
+  "id": 7035, 
+  "inscription": null, 
+  "medium": "Graphite, ink, watercolour and pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19535, 
+                "name": "Alhambra Theatre"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 584, 
+                "name": "balcony"
+              }, 
+              {
+                "id": 245, 
+                "name": "column"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1802, 
+                "name": "theatre"
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05308_8.jpg", 
+  "title": "The Alhambra", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/innes-lees-the-alhambra-n05308", 
+  "width": "324"
+}

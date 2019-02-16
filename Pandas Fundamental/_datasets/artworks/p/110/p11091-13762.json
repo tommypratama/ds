@@ -1,0 +1,90 @@
+{
+  "acno": "P11091", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Antoni Starczewski", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132000", 
+      "displayOrder": 1, 
+      "fc": "Antoni Starczewski", 
+      "gender": "Male", 
+      "id": 1985, 
+      "mda": "Starczewski, Antoni", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Professor Akumal Ramachander 1985", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1975, 
+    "text": "1975-6"
+  }, 
+  "dateText": "1975\u20136", 
+  "depth": "", 
+  "dimensions": "image: 493 x 385 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "385", 
+  "id": 13762, 
+  "inscription": "date inscribed", 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11714, 
+                "name": "defacement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "G R 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/starczewski-g-r-2-p11091", 
+  "width": "493"
+}

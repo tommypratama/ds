@@ -1,0 +1,204 @@
+{
+  "acno": "D15751", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D15751", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D157/D15751_E.jpg", 
+          "height": 335, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1138217, 
+  "catalogueGroup": {
+    "accessionRanges": "D15739-D15907; D40942-D40944; D41515", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65826, 
+    "shortTitle": "Pompeii, Amalfi, &c., Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 113 x 189 mm", 
+  "finberg": "CLXXXV 8", 
+  "foreignTitle": null, 
+  "groupTitle": "Pompeii, Amalfi, &c., Sketchbook", 
+  "height": "189", 
+  "id": 43107, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 17, 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 29343, 
+                "name": "Pompeii, Porta Ercolano"
+              }, 
+              {
+                "id": 29352, 
+                "name": "Pompeii, Street of Tombs, Schola Tomb of Mamia"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2051, 
+                "name": "capital"
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11496, 
+                "name": "tomb"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3379, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15751_8.jpg", 
+  "title": "View of the Porta Ercolano, Pompeii, with the Schola Tomb of Mamia on the Via dei Sepolcri", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-the-porta-ercolano-pompeii-with-the-schola-tomb-of-mamia-on-the-via-dei-d15751", 
+  "width": "113"
+}

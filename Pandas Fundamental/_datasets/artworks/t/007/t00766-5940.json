@@ -1,0 +1,100 @@
+{
+  "acno": "T00766", 
+  "acquisitionYear": 1965, 
+  "all_artists": "Jean H\u00e9lion", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1904, 
+      "date": "1904\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Jean H\u00e9lion", 
+      "gender": "Male", 
+      "id": 1264, 
+      "mda": "H\u00e9lion, Jean", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1965", 
+  "dateRange": {
+    "endYear": 1935, 
+    "startYear": 1935, 
+    "text": "1935"
+  }, 
+  "dateText": "1935", 
+  "depth": "", 
+  "dimensions": "support: 1454 x 2000 mm\r\nframe: 1530 x 2070 x 58 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2000", 
+  "id": 5940, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 16667, 
+      "name": "Abstraction-Cr\u00e9ation"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00766_8.jpg", 
+  "title": "Ile de France", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/helion-ile-de-france-t00766", 
+  "width": "1454"
+}

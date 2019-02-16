@@ -1,0 +1,140 @@
+{
+  "acno": "P11546", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Peter Doig", 
+  "catalogueGroup": {
+    "accessionRanges": "P11544-P11553", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66077, 
+    "shortTitle": "Grasshopper"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1959, 
+      "date": "born 1959", 
+      "displayOrder": 1, 
+      "fc": "Peter Doig", 
+      "gender": "Male", 
+      "id": 2361, 
+      "mda": "Doig, Peter", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the artist and Charles Booth-Clibborn 1998", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "", 
+  "dimensions": "image: 173 x 275 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Grasshopper", 
+  "height": "275", 
+  "id": 26415, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10071, 
+                "name": "ski lift"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3073, 
+                "name": "skiing"
+              }
+            ], 
+            "id": 54, 
+            "name": "sport"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Peter Doig", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11546_8.jpg", 
+  "title": "Ski Lift", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/doig-ski-lift-p11546", 
+  "width": "173"
+}

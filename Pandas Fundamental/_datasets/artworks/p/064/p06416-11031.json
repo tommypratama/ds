@@ -1,0 +1,86 @@
+{
+  "acno": "P06416", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Alex Packham", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1914, 
+      "date": "born 1914", 
+      "displayOrder": 1, 
+      "fc": "Alex Packham", 
+      "gender": "Male", 
+      "id": 1733, 
+      "mda": "Packham, Alex", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1970, 
+    "text": "1970-1"
+  }, 
+  "dateText": "1970\u20131", 
+  "depth": "", 
+  "dimensions": "image: 429 x 581 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "581", 
+  "id": 11031, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Kitty", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/packham-the-kitty-p06416", 
+  "width": "429"
+}

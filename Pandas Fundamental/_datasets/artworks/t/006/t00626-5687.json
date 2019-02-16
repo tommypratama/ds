@@ -1,0 +1,142 @@
+{
+  "acno": "T00626", 
+  "acquisitionYear": 1963, 
+  "all_artists": "Atkinson Grimshaw", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1836, 
+      "date": "1836\u20131893", 
+      "displayOrder": 1, 
+      "fc": "Atkinson Grimshaw", 
+      "gender": "Male", 
+      "id": 227, 
+      "mda": "Grimshaw, Atkinson", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1963", 
+  "dateRange": {
+    "endYear": 1882, 
+    "startYear": 1882, 
+    "text": "1882"
+  }, 
+  "dateText": "1882", 
+  "depth": "", 
+  "dimensions": "support: 368 x 537 mm\r\nframe: 476 x 639 x 46 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "537", 
+  "id": 5687, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15709, 
+                "name": "Hampstead, Heath Street"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }, 
+              {
+                "id": 210, 
+                "name": "streetlight"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1400, 
+                "name": "rain"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00626_8.jpg", 
+  "title": "View of Heath Street by Night", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/grimshaw-view-of-heath-street-by-night-t00626", 
+  "width": "368"
+}

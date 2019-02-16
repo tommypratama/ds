@@ -1,0 +1,191 @@
+{
+  "acno": "A00841", 
+  "acquisitionYear": 1877, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "A00841_385787", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "A/A00/A00841_385787_7.jpg", 
+          "height": 68, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "A/A00/A00841_385787_8.jpg", 
+          "height": 136, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "A/A00/A00841_385787_9.jpg", 
+          "height": 389, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "A/A00/A00841_385787_10.jpg", 
+          "height": 820, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Thomas Matthews Rooke", 
+  "catalogueGroup": {
+    "accessionRanges": "A00839-A00841", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65245, 
+    "shortTitle": "The Story of Ruth"
+  }, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1842, 
+      "date": "1842\u20131942", 
+      "displayOrder": 1, 
+      "fc": "Thomas Matthews Rooke", 
+      "gender": "Male", 
+      "id": 458, 
+      "mda": "Rooke, Thomas Matthews", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1877", 
+  "dateRange": {
+    "endYear": 1877, 
+    "startYear": 1876, 
+    "text": "1876-7"
+  }, 
+  "dateText": "1876\u20137", 
+  "depth": "", 
+  "dimensions": "support: 660 x 394 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Story of Ruth", 
+  "height": "394", 
+  "id": 12751, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5373, 
+                "name": "Naomi"
+              }, 
+              {
+                "id": 5372, 
+                "name": "Ruth"
+              }, 
+              {
+                "id": 17257, 
+                "name": "Ruth, chapter 4"
+              }
+            ], 
+            "id": 135, 
+            "name": "Bible: Old Testament"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1831, 
+                "name": "palm"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 875, 
+                "name": "supporting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }, 
+              {
+                "id": 1454, 
+                "name": "woman, old"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00841_8.jpg", 
+  "title": "Naomi, Ruth and Obed", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rooke-naomi-ruth-and-obed-a00841", 
+  "width": "660"
+}

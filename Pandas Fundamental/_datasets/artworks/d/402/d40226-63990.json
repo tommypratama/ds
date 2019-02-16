@@ -1,0 +1,138 @@
+{
+  "acno": "D40226", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D40226", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D402/D40226_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 412
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1141318, 
+  "catalogueGroup": {
+    "accessionRanges": "D00116-D00117; D00126-D00129; D00148; D00162; D00178-D00180; D00182-D00183; D00190; D40221; D40225-D40227; D40267; D40547", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127527, 
+    "shortTitle": "Pencil Drawings of Oxford and the Home Counties"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1792, 
+    "startYear": 1792, 
+    "text": "?1792"
+  }, 
+  "dateText": "?1792", 
+  "depth": "", 
+  "dimensions": "support: 272 x 216 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Pencil Drawings of Oxford and the Home Counties", 
+  "height": "216", 
+  "id": 63990, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1215, 
+                "name": "arms folded"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1091, 
+                "name": "pipe"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2800, 
+                "name": "smoking"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40226_8.jpg", 
+  "title": "Study of a Standing Man Smoking a Pipe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-standing-man-smoking-a-pipe-d40226", 
+  "width": "272"
+}

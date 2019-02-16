@@ -1,0 +1,86 @@
+{
+  "acno": "N05940", 
+  "acquisitionYear": 1950, 
+  "all_artists": "James Ward", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131859", 
+      "displayOrder": 1, 
+      "fc": "James Ward", 
+      "gender": "Male", 
+      "id": 581, 
+      "mda": "Ward, James", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Mrs H. Arthurton in memory of her husband 1950", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1824, 
+    "text": "1824"
+  }, 
+  "dateText": "1824", 
+  "depth": "", 
+  "dimensions": "support: 806 x 1121 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1121", 
+  "id": 15937, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05940_8.jpg", 
+  "title": "The Black Horse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ward-the-black-horse-n05940", 
+  "width": "806"
+}

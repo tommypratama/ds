@@ -1,0 +1,108 @@
+{
+  "acno": "T05482", 
+  "acquisitionYear": 1988, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Miss Marjorie Ball 1988", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 248 x 251 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "251", 
+  "id": 17262, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05482_8.jpg", 
+  "title": "A Ruined Gateway", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ruined-gateway-t05482", 
+  "width": "248"
+}

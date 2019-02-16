@@ -1,0 +1,123 @@
+{
+  "acno": "T09480", 
+  "acquisitionYear": 1997, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T09480_140963", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T09/T09480_140963_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 94
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T09/T09480_140963_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 188
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T09/T09480_140963_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 377
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T09/T09480_140963_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1131
+        }
+      ]
+    }
+  ], 
+  "all_artists": "British School 18th century", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1700, 
+      "date": "1700\u20131799", 
+      "displayOrder": 1, 
+      "fc": "British School 18th century", 
+      "gender": null, 
+      "id": 59, 
+      "mda": "British School 18th century", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 280 x 206 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "206", 
+  "id": 24075, 
+  "inscription": null, 
+  "medium": "Chalk on paper. Verso: chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7737, 
+                "name": "weaving"
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09480_8.jpg", 
+  "title": "A Young Man ?Weaving. Verso: A Loom", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/british-school-18th-century-a-young-man-weaving-verso-a-loom-t09480", 
+  "width": "280"
+}

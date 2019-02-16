@@ -1,0 +1,102 @@
+{
+  "acno": "T05558", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Richard Deacon", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "Richard Deacon", 
+      "gender": "Male", 
+      "id": 986, 
+      "mda": "Deacon, Richard", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1989", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1988, 
+    "text": "1988"
+  }, 
+  "dateText": "1988", 
+  "depth": "2500", 
+  "dimensions": "object: 1580 x 3900 x 2500 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3900", 
+  "id": 17410, 
+  "inscription": null, 
+  "medium": "Steel", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1682, 
+      "name": "New British Sculpture"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4484, 
+                "name": "silence"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Deacon", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05558_8.jpg", 
+  "title": "Struck Dumb", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/deacon-struck-dumb-t05558", 
+  "width": "1580"
+}

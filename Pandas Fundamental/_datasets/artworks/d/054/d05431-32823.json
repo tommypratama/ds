@@ -1,0 +1,114 @@
+{
+  "acno": "D05431", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D05431", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D54/D05431_E.jpg", 
+          "height": 355, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139211, 
+  "catalogueGroup": {
+    "accessionRanges": "D05428-D05445; D40697-D40700", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65735, 
+    "shortTitle": "Shipwreck (2) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "c.1805"
+  }, 
+  "dateText": "c.1805", 
+  "depth": "", 
+  "dimensions": "support: 119 x 189 mm", 
+  "finberg": "LXXXVIII 4", 
+  "foreignTitle": null, 
+  "groupTitle": "Shipwreck (2) Sketchbook", 
+  "height": "189", 
+  "id": 32823, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "pageNumber": 9, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5656, 
+                "name": "shipwreck"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05431_8.jpg", 
+  "title": "Wreckage in Surf", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wreckage-in-surf-d05431", 
+  "width": "119"
+}

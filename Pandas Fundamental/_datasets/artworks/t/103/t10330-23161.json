@@ -1,0 +1,92 @@
+{
+  "acno": "T10330", 
+  "acquisitionYear": 1997, 
+  "all_artists": "George Robert Lewis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131871", 
+      "displayOrder": 1, 
+      "fc": "George Robert Lewis", 
+      "gender": "Male", 
+      "id": 349, 
+      "mda": "Lewis, George Robert", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "1833"
+  }, 
+  "dateText": "1833", 
+  "depth": "", 
+  "dimensions": "support: 112 x 188 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "188", 
+  "id": 23161, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 723, 
+                "name": "lying down"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10330_8.jpg", 
+  "title": "Studies of Carts at Ghent", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-studies-of-carts-at-ghent-t10330", 
+  "width": "112"
+}

@@ -1,0 +1,70 @@
+{
+  "acno": "P02954", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Sean Scully", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Sean Scully", 
+      "gender": "Male", 
+      "id": 1917, 
+      "mda": "Scully, Sean", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1989", 
+  "dateRange": {
+    "endYear": 1983, 
+    "startYear": 1983, 
+    "text": "1983"
+  }, 
+  "dateText": "1983", 
+  "depth": "", 
+  "dimensions": "image: 554 x 365 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "365", 
+  "id": 3686, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Sean Scully", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02954_8.jpg", 
+  "title": "The Fall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scully-the-fall-p02954", 
+  "width": "554"
+}

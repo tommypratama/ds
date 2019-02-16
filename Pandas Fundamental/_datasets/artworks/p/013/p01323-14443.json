@@ -1,0 +1,108 @@
+{
+  "acno": "P01323", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Julian Trevelyan", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Julian Trevelyan", 
+      "gender": "Male", 
+      "id": 2065, 
+      "mda": "Trevelyan, Julian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Waddington Galleries through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 352 x 483 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "483", 
+  "id": 14443, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 672, 
+                "name": "camel"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1831, 
+                "name": "palm"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Julian Trevelyan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01323_8.jpg", 
+  "title": "Camels", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-camels-p01323", 
+  "width": "352"
+}

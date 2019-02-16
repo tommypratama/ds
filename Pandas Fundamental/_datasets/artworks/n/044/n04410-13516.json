@@ -1,0 +1,92 @@
+{
+  "acno": "N04410", 
+  "acquisitionYear": 1928, 
+  "all_artists": "Sir Matthew Smith", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1879, 
+      "date": "1879\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Sir Matthew Smith", 
+      "gender": "Male", 
+      "id": 1958, 
+      "mda": "Smith, Sir Matthew", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1928", 
+  "dateRange": {
+    "endYear": 1928, 
+    "startYear": 1928, 
+    "text": "exhibited 1928"
+  }, 
+  "dateText": "exhibited 1928", 
+  "depth": "", 
+  "dimensions": "support: 762 x 635 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "635", 
+  "id": 13516, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14809, 
+                "name": "peony"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "By permission of the estate of the artist", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04410_8.jpg", 
+  "title": "Peonies", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-peonies-n04410", 
+  "width": "762"
+}

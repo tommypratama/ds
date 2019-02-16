@@ -1,0 +1,86 @@
+{
+  "acno": "P20160", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Ellsworth Kelly", 
+  "catalogueGroup": {
+    "accessionRanges": "P20160-P20163", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66004, 
+    "shortTitle": "The Mallarm\u00e9 Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "born 1923", 
+      "displayOrder": 1, 
+      "fc": "Ellsworth Kelly", 
+      "gender": "Male", 
+      "id": 1391, 
+      "mda": "Kelly, Ellsworth", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by the artist in memory of E.J. Power 1995", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "", 
+  "dimensions": "image: 738 x 547 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Mallarm\u00e9 Suite", 
+  "height": "547", 
+  "id": 21426, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ellsworth Kelly", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20160_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kelly-no-title-p20160", 
+  "width": "738"
+}

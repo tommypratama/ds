@@ -1,0 +1,136 @@
+{
+  "acno": "T11884", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Richard Long", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Richard Long", 
+      "gender": "Male", 
+      "id": 1525, 
+      "mda": "Long, Richard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Estate of Tom Bendhem 2004", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1988, 
+    "text": "1988"
+  }, 
+  "dateText": "1988", 
+  "depth": "4000", 
+  "dimensions": "displayed: 370 x 4000 x 4000 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "4000", 
+  "id": 27070, 
+  "inscription": null, 
+  "medium": "Slate", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 429, 
+      "name": "Land Art"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16348, 
+                "name": "USA, New York"
+              }, 
+              {
+                "id": 4323, 
+                "name": "USA, Vermont"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4645, 
+                "name": "slate"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Long", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11884_8.jpg", 
+  "title": "Red Slate Circle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-red-slate-circle-t11884", 
+  "width": "370"
+}

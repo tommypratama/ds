@@ -1,0 +1,127 @@
+{
+  "acno": "D10334", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D10334", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D103/D10334_E.jpg", 
+          "height": 322, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131378, 
+  "catalogueGroup": {
+    "accessionRanges": "D10320-D10324; D10326-D10342; D40296-D40298", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65780, 
+    "shortTitle": "Views in Sussex Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1816, 
+    "startYear": 1810, 
+    "text": "c.1810-16"
+  }, 
+  "dateText": "c.1810\u201316", 
+  "depth": "", 
+  "dimensions": "support: 199 x 324 mm", 
+  "finberg": "CXXXVIII 12 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Views in Sussex Sketchbook", 
+  "height": "324", 
+  "id": 37711, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1856, 
+                "name": "Sussex, East"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10334_8.jpg", 
+  "title": "Downs or Weald", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-downs-or-weald-d10334", 
+  "width": "199"
+}

@@ -1,0 +1,312 @@
+{
+  "acno": "N01982", 
+  "acquisitionYear": 1905, 
+  "all_artists": "Stephen Slaughter", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1697, 
+      "date": "1697\u20131765", 
+      "displayOrder": 1, 
+      "fc": "Stephen Slaughter", 
+      "gender": "Male", 
+      "id": 498, 
+      "mda": "Slaughter, Stephen", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Bequeathed by Mrs A. Sealy 1905", 
+  "dateRange": {
+    "endYear": 1746, 
+    "startYear": 1746, 
+    "text": "c.1746"
+  }, 
+  "dateText": "c.1746", 
+  "depth": "", 
+  "dimensions": "support: 737 x 616 mm\r\nframe: 980 x 853 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "616", 
+  "id": 13459, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 340, 
+      "name": "Conversation Piece"
+    }
+  ], 
+  "subjectCount": 30, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7036, 
+                "name": "Anguish, Anne"
+              }, 
+              {
+                "id": 7038, 
+                "name": "Anguish, Edmund"
+              }, 
+              {
+                "id": 7037, 
+                "name": "Anguish, Rebecca"
+              }, 
+              {
+                "id": 7034, 
+                "name": "Betts"
+              }, 
+              {
+                "id": 14589, 
+                "name": "Betts, Anne"
+              }, 
+              {
+                "id": 15679, 
+                "name": "Betts, Rebecca"
+              }, 
+              {
+                "id": 7033, 
+                "name": "Hoadly, Benjamin, Dr"
+              }, 
+              {
+                "id": 7035, 
+                "name": "Hoadly, Elizabeth"
+              }, 
+              {
+                "id": 15680, 
+                "name": "Raper, Anne"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15970, 
+                "name": "Betts family"
+              }
+            ], 
+            "id": 101, 
+            "name": "named families"
+          }, 
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20115, 
+                "name": "groups"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }, 
+              {
+                "id": 1454, 
+                "name": "woman, old"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14590, 
+                "name": "Hogarth, William, painting, 'Elizabeth Hoadly'"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress"
+              }, 
+              {
+                "id": 2303, 
+                "name": "hat, bonnet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2009, 
+                "name": "fruit, pear"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7039, 
+                "name": "painting, miniature"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2828, 
+                "name": "doctor"
+              }
+            ], 
+            "id": 127, 
+            "name": "medical"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5079, 
+                "name": "playwright"
+              }
+            ], 
+            "id": 126, 
+            "name": "literary"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6907, 
+                "name": "family"
+              }, 
+              {
+                "id": 6926, 
+                "name": "widower"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 931, 
+                "name": "garland"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01982_8.jpg", 
+  "title": "The Betts Family", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/slaughter-the-betts-family-n01982", 
+  "width": "737"
+}

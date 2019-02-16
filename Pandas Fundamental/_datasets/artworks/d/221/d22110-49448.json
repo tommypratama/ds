@@ -1,0 +1,130 @@
+{
+  "acno": "D22110", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22110", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D221/D22110_E.jpg", 
+          "height": 318, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150399, 
+  "catalogueGroup": {
+    "accessionRanges": "D21975-D22012; D22014-D22150; D41045-D41046; D41540", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65869, 
+    "shortTitle": "Kenilworth Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1830, 
+    "startYear": 1830, 
+    "text": "1830"
+  }, 
+  "dateText": "1830", 
+  "depth": "", 
+  "dimensions": "support: 120 x 203 mm", 
+  "finberg": "CCXXXVIII 69 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Kenilworth Sketchbook", 
+  "height": "203", 
+  "id": 49448, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 144, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22110_8.jpg", 
+  "title": "Dudley Castle: The Barbican below the Keep; the Keep", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dudley-castle-the-barbican-below-the-keep-the-keep-d22110", 
+  "width": "120"
+}

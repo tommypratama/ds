@@ -1,0 +1,128 @@
+{
+  "acno": "N04712", 
+  "acquisitionYear": 1933, 
+  "all_artists": "Edgar Degas", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1834, 
+      "date": "1834\u20131917", 
+      "displayOrder": 1, 
+      "fc": "Edgar Degas", 
+      "gender": "Male", 
+      "id": 988, 
+      "mda": "Degas, Edgar", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by C. Frank Stoop 1933", 
+  "dateRange": {
+    "endYear": 1885, 
+    "startYear": 1880, 
+    "text": "c.1880-5"
+  }, 
+  "dateText": "c.1880\u20135", 
+  "depth": "", 
+  "dimensions": "support: 229 x 445 mm", 
+  "foreignTitle": "Le Coucher", 
+  "groupTitle": null, 
+  "height": "445", 
+  "id": 3699, 
+  "inscription": null, 
+  "medium": "Pastel and print on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 357, 
+      "name": "Impressionism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04712_8.jpg", 
+  "title": "Bed-Time", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/degas-bed-time-n04712", 
+  "width": "229"
+}

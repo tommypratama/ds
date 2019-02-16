@@ -1,0 +1,132 @@
+{
+  "acno": "N01968", 
+  "acquisitionYear": 1905, 
+  "all_artists": "Edward William Cooke", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1811, 
+      "date": "1811\u20131880", 
+      "displayOrder": 1, 
+      "fc": "Edward William Cooke", 
+      "gender": "Male", 
+      "id": 110, 
+      "mda": "Cooke, Edward William", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by C. Fraser 1905", 
+  "dateRange": {
+    "endYear": 1858, 
+    "startYear": 1858, 
+    "text": "1858"
+  }, 
+  "dateText": "1858", 
+  "depth": "", 
+  "dimensions": "support: 279 x 400 mm\r\nframe: 542 x 657 x 105 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "400", 
+  "id": 2775, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2768, 
+                "name": "Venice - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 2985, 
+                "name": "lagoon"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01968_8.jpg", 
+  "title": "Boat, near Venice", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cooke-boat-near-venice-n01968", 
+  "width": "279"
+}

@@ -1,0 +1,126 @@
+{
+  "acno": "D40754", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D40754", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D407/D40754_E.jpg", 
+          "height": 359, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140717, 
+  "catalogueGroup": {
+    "accessionRanges": "D00260-D00326; D40753-D40754", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65684, 
+    "shortTitle": "Marford Mill Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1794, 
+    "startYear": 1794, 
+    "text": "c.1794"
+  }, 
+  "dateText": "c.1794", 
+  "depth": "", 
+  "dimensions": "support: 99 x 152 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Marford Mill Sketchbook", 
+  "height": "152", 
+  "id": 64501, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 86, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9937, 
+                "name": "grindstone"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1018, 
+                "name": "platform / stage"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40754_8.jpg", 
+  "title": "Studies of a Seated Cat, and a Wooden Platform with a Grinding Wheel Set in It", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-a-seated-cat-and-a-wooden-platform-with-a-grinding-wheel-set-in-it-d40754", 
+  "width": "99"
+}

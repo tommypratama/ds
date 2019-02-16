@@ -1,0 +1,94 @@
+{
+  "acno": "D13583", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D13583", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D135/D13583_E.jpg", 
+          "height": 415, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1132128, 
+  "catalogueGroup": {
+    "accessionRanges": "D13449-D13586; D40934-D40937", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65808, 
+    "shortTitle": "Edinburgh, 1818, Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1818, 
+    "text": "1818"
+  }, 
+  "dateText": "1818", 
+  "depth": "", 
+  "dimensions": "support: 90 x 112 mm", 
+  "finberg": "CLXVI 69", 
+  "foreignTitle": null, 
+  "groupTitle": "Edinburgh, 1818, Sketchbook", 
+  "height": "112", 
+  "id": 40951, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 139, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13583_8.jpg", 
+  "title": "A Sketch Associated with Borthwick", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-sketch-associated-with-borthwick-d13583", 
+  "width": "90"
+}

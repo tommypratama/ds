@@ -1,0 +1,118 @@
+{
+  "acno": "N04091", 
+  "acquisitionYear": 1925, 
+  "all_artists": "Bertram Nicholls", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1883, 
+      "date": "1883\u20131974", 
+      "displayOrder": 1, 
+      "fc": "Bertram Nicholls", 
+      "gender": "Male", 
+      "id": 1701, 
+      "mda": "Nicholls, Bertram", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Lucy Carrington Wertheim through the Art Fund 1925", 
+  "dateRange": {
+    "endYear": 1921, 
+    "startYear": 1921, 
+    "text": "1921"
+  }, 
+  "dateText": "1921", 
+  "depth": "", 
+  "dimensions": "support: 508 x 406 mm\r\nframe: 766 x 659 x 93 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "406", 
+  "id": 10647, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14976, 
+                "name": "Steyning, St Andrew's Church"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2023, 
+                "name": "Sussex, West"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04091_8.jpg", 
+  "title": "Steyning Church, Sussex", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholls-steyning-church-sussex-n04091", 
+  "width": "508"
+}

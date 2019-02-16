@@ -1,0 +1,128 @@
+{
+  "acno": "N02939", 
+  "acquisitionYear": 1913, 
+  "all_artists": "Alfred Stevens", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1817, 
+      "date": "1817\u20131875", 
+      "displayOrder": 1, 
+      "fc": "Alfred Stevens", 
+      "gender": "Male", 
+      "id": 525, 
+      "mda": "Stevens, Alfred", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Alfred A. de Pass 1913", 
+  "dateRange": {
+    "endYear": 1851, 
+    "startYear": 1851, 
+    "text": "c.1851"
+  }, 
+  "dateText": "c.1851", 
+  "depth": "", 
+  "dimensions": "support: 613 x 508 mm\r\nframe: 845 x 750 x 100 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 13859, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14465, 
+                "name": "Spence, William Blundell"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2465, 
+                "name": "moustache"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 199, 
+                "name": "palette"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02939_8.jpg", 
+  "title": "William Blundell Spence", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stevens-william-blundell-spence-n02939", 
+  "width": "613"
+}

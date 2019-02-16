@@ -1,0 +1,98 @@
+{
+  "acno": "P03153", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Barry Flanagan", 
+  "catalogueGroup": {
+    "accessionRanges": "P03149-P03161; P03180-P03185", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65656, 
+    "shortTitle": "For John Constable"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1941, 
+      "date": "1941\u20132009", 
+      "displayOrder": 1, 
+      "fc": "Barry Flanagan", 
+      "gender": "Male", 
+      "id": 1100, 
+      "mda": "Flanagan, Barry", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by Bernard Jacobson Gallery 1976", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 162 x 235 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "For John Constable", 
+  "height": "235", 
+  "id": 4466, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Barry Flanagan, courtesy Plubronze Ltd", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03153_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flanagan-untitled-p03153", 
+  "width": "162"
+}

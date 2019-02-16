@@ -1,0 +1,346 @@
+{
+  "acno": "N05379", 
+  "acquisitionYear": 1942, 
+  "all_artists": "Osbert Lancaster", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Osbert Lancaster", 
+      "gender": "Male", 
+      "id": 1461, 
+      "mda": "Lancaster, Osbert", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1942", 
+  "dateRange": {
+    "endYear": 1939, 
+    "startYear": 1939, 
+    "text": "1939"
+  }, 
+  "dateText": "1939", 
+  "depth": "", 
+  "dimensions": "support: 356 x 254 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "254", 
+  "id": 8281, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 351, 
+      "name": "Aesthetic Movement"
+    }
+  ], 
+  "subjectCount": 31, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19544, 
+                "name": "Lancaster, Osbert, 'Homes Sweet Homes'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19545, 
+                "name": "Morris, William, design"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1635, 
+                "name": "bench"
+              }, 
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 841, 
+                "name": "curtain"
+              }, 
+              {
+                "id": 771, 
+                "name": "screen"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }, 
+              {
+                "id": 1071, 
+                "name": "table cloth"
+              }, 
+              {
+                "id": 2090, 
+                "name": "wallpaper"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2499, 
+                "name": "fan"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2571, 
+                "name": "fireplace"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 204, 
+                "name": "painting"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1235, 
+                "name": "Wilde, Oscar"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1070, 
+                "name": "gesticulating"
+              }, 
+              {
+                "id": 712, 
+                "name": "talking"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10927, 
+                "name": "listening"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 847, 
+                "name": "caricature"
+              }, 
+              {
+                "id": 843, 
+                "name": "satire"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 18481, 
+                "name": "design"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16105, 
+                "name": "cartoon / comic strip"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 761, 
+                "name": "living room"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3974, 
+                "name": "sunflower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05379_8.jpg", 
+  "title": "Greenery Yallery", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lancaster-greenery-yallery-n05379", 
+  "width": "356"
+}

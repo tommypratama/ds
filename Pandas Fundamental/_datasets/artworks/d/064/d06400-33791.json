@@ -1,0 +1,130 @@
+{
+  "acno": "D06400", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06400", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D64/D06400_E.jpg", 
+          "height": 334, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130595, 
+  "catalogueGroup": {
+    "accessionRanges": "D06363-D06491; D06493-D06517; D17159; D40596-D40602", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65746, 
+    "shortTitle": "River and Margate Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1805, 
+    "text": "c.1805-9"
+  }, 
+  "dateText": "c.1805\u20139", 
+  "depth": "", 
+  "dimensions": "support: 115 x 190 mm", 
+  "finberg": "XCIX 25 a", 
+  "foreignTitle": null, 
+  "groupTitle": "River and Margate Sketchbook", 
+  "height": "190", 
+  "id": 33791, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 60, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06400_8.jpg", 
+  "title": "Sun Rise over a Hill: ?Near Rochester", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sun-rise-over-a-hill-near-rochester-d06400", 
+  "width": "115"
+}

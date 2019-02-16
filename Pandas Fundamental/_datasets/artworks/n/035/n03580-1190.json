@@ -1,0 +1,116 @@
+{
+  "acno": "N03580", 
+  "acquisitionYear": 1921, 
+  "all_artists": "Jacques-Emile Blanche", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1861, 
+      "date": "1861\u20131942", 
+      "displayOrder": 1, 
+      "fc": "Jacques-Emile Blanche", 
+      "gender": "Male", 
+      "id": 765, 
+      "mda": "Blanche, Jacques-Emile", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from subscribers 1921", 
+  "dateRange": {
+    "endYear": 1906, 
+    "startYear": 1906, 
+    "text": "1906"
+  }, 
+  "dateText": "1906", 
+  "depth": "", 
+  "dimensions": "support: 918 x 730 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "730", 
+  "id": 1190, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2036, 
+                "name": "Hardy, Thomas"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1196, 
+                "name": "author"
+              }, 
+              {
+                "id": 1181, 
+                "name": "poet"
+              }
+            ], 
+            "id": 126, 
+            "name": "literary"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03580_8.jpg", 
+  "title": "Thomas Hardy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blanche-thomas-hardy-n03580", 
+  "width": "918"
+}

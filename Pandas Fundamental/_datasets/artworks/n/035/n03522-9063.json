@@ -1,0 +1,134 @@
+{
+  "acno": "N03522", 
+  "acquisitionYear": 1919, 
+  "all_artists": "Dugald Sutherland Maccoll", 
+  "catalogueGroup": {}, 
+  "classification": null, 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1859, 
+      "date": "1859\u20131948", 
+      "displayOrder": 1, 
+      "fc": "Dugald Sutherland Maccoll", 
+      "gender": "Male", 
+      "id": 360, 
+      "mda": "Maccoll, Dugald Sutherland", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Geoffrey Blackwell 1919", 
+  "dateRange": {
+    "endYear": 1917, 
+    "startYear": 1917, 
+    "text": "1917"
+  }, 
+  "dateText": "1917", 
+  "depth": "", 
+  "dimensions": "support: 248 x 346 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "346", 
+  "id": 9063, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour and graphite on board", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1856, 
+                "name": "Sussex, East"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15966, 
+                "name": "Wilmington"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2832, 
+                "name": "barn"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3568, 
+                "name": "ceiling"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1142, 
+                "name": "hay"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Dugald Sutherland Maccoll", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03522_8.jpg", 
+  "title": "Wilmington Barn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/maccoll-wilmington-barn-n03522", 
+  "width": "248"
+}

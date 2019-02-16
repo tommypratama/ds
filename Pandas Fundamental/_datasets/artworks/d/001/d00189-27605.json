@@ -1,0 +1,116 @@
+{
+  "acno": "D00189", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140320, 
+  "catalogueGroup": {
+    "accessionRanges": "D00189; D00192-D00194; D00898; D40230-D40232", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127051, 
+    "shortTitle": "Literary and Other Subjects and Copies"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1792, 
+    "startYear": 1792, 
+    "text": "1792"
+  }, 
+  "dateText": "1792", 
+  "depth": "", 
+  "dimensions": "support: 136 x 96 mm", 
+  "finberg": "XVII N", 
+  "foreignTitle": null, 
+  "groupTitle": "Literary and Other Subjects and Copies", 
+  "height": "96", 
+  "id": 27605, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4268, 
+                "name": "Cervantes, 'Don Quixote de la Mancha'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 854, 
+                "name": "armour"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1025, 
+                "name": "torso"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00189_8.jpg", 
+  "title": "Study of a Seated Figure in Armour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-seated-figure-in-armour-d00189", 
+  "width": "136"
+}

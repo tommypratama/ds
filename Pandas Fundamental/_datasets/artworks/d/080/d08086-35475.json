@@ -1,0 +1,121 @@
+{
+  "acno": "D08086", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131808, 
+  "catalogueGroup": {
+    "accessionRanges": "D08084-D08101; D40351-D40381", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65762, 
+    "shortTitle": "Studies for Liber Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1807, 
+    "text": "c.1807-19"
+  }, 
+  "dateText": "c.1807\u201319", 
+  "depth": "", 
+  "dimensions": "support: 231 x 377 mm", 
+  "finberg": "CXV 3", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies for Liber Sketchbook", 
+  "height": "377", 
+  "id": 35475, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2608, 
+                "name": "fish basket"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08086_8.jpg", 
+  "title": "A River Scene with Eel Traps", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-river-scene-with-eel-traps-d08086", 
+  "width": "231"
+}

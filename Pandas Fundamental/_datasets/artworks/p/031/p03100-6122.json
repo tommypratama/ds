@@ -1,0 +1,108 @@
+{
+  "acno": "P03100", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Gertrude Hermes", 
+  "catalogueGroup": {
+    "accessionRanges": "P03096-P03104; P03107", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65668, 
+    "shortTitle": "IAA Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1901, 
+      "date": "1901\u20131983", 
+      "displayOrder": 1, 
+      "fc": "Gertrude Hermes", 
+      "gender": "Female", 
+      "id": 1277, 
+      "mda": "Hermes, Gertrude", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the International Association of Art 1975", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "", 
+  "dimensions": "image: 359 x 308 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "IAA Portfolio", 
+  "height": "308", 
+  "id": 6122, 
+  "inscription": "date inscribed", 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 487, 
+                "name": "egg"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Gertrude Hermes", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03100_8.jpg", 
+  "title": "The Yolk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hermes-the-yolk-p03100", 
+  "width": "359"
+}

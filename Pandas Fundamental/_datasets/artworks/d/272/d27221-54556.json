@@ -1,0 +1,110 @@
+{
+  "acno": "D27221", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D27221", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D272/D27221_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 342
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1135588, 
+  "catalogueGroup": {
+    "accessionRanges": "D27046-D27225; D41038-D41039", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65902, 
+    "shortTitle": "Inverness Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "1831"
+  }, 
+  "dateText": "1831", 
+  "depth": "", 
+  "dimensions": "support: 163 x 104 mm", 
+  "finberg": "CCLXXVII 144", 
+  "foreignTitle": null, 
+  "groupTitle": "Inverness Sketchbook", 
+  "height": "104", 
+  "id": 54556, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 289, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27221_8.jpg", 
+  "title": "?Castle Stuart, Moray Firth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-stuart-moray-firth-d27221", 
+  "width": "163"
+}

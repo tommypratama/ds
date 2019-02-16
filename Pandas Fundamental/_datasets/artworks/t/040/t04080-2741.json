@@ -1,0 +1,213 @@
+{
+  "acno": "T04080", 
+  "acquisitionYear": 1985, 
+  "all_artists": "John Constable, David Lucas", 
+  "catalogueGroup": {
+    "accessionRanges": "T04064-T04103", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65232, 
+    "shortTitle": "English Landscape Scenery, ed. H.G. Bohn"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }, 
+    {
+      "birthYear": 1802, 
+      "date": "1802\u20131881", 
+      "displayOrder": 2, 
+      "fc": "David Lucas", 
+      "gender": "Male", 
+      "id": 2708, 
+      "mda": "Lucas, David", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1985", 
+  "dateRange": {
+    "endYear": 1855, 
+    "startYear": 1855, 
+    "text": "published 1855"
+  }, 
+  "dateText": "published 1855", 
+  "depth": "", 
+  "dimensions": "image: 136 x 221 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "English Landscape Scenery, ed. H.G. Bohn", 
+  "height": "221", 
+  "id": 2741, 
+  "inscription": null, 
+  "medium": "Mezzotint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1204, 
+                "name": "River Thames"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2728, 
+                "name": "Waterloo Bridge"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2388, 
+                "name": "waterfront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2735, 
+                "name": "society: Waterloo Bridge, opening, 18 Jun 1817"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04080_8.jpg", 
+  "title": "Opening of Waterloo Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-lucas-opening-of-waterloo-bridge-t04080", 
+  "width": "136"
+}

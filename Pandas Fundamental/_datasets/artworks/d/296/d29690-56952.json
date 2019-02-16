@@ -1,0 +1,127 @@
+{
+  "acno": "D29690", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D29595-D29771; D41099; D41200-D41201", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65924, 
+    "shortTitle": "Brussels up to Mannheim - Rhine Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "1833"
+  }, 
+  "dateText": "1833", 
+  "depth": "", 
+  "dimensions": "support: 113 x 185 mm", 
+  "finberg": "CCXCVI 49", 
+  "foreignTitle": null, 
+  "groupTitle": "Brussels up to Mannheim - Rhine Sketchbook", 
+  "height": "185", 
+  "id": 56952, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 101, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9175, 
+                "name": "Mainz - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4386, 
+                "name": "River Rhine"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29690_8.jpg", 
+  "title": "Mainz, Looking Downstream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mainz-looking-downstream-d29690", 
+  "width": "113"
+}

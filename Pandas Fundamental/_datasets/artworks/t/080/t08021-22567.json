@@ -1,0 +1,116 @@
+{
+  "acno": "T08021", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Alexander Cozens", 
+  "catalogueGroup": {
+    "accessionRanges": "T08000-T08082; T10676", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66030, 
+    "shortTitle": "Mackworth Praed Book"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1717, 
+      "date": "1717\u20131786", 
+      "displayOrder": 1, 
+      "fc": "Alexander Cozens", 
+      "gender": "Male", 
+      "id": 118, 
+      "mda": "Cozens, Alexander", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 99 x 159 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Mackworth Praed Book", 
+  "height": "159", 
+  "id": 22567, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08021_8.jpg", 
+  "title": "Coast Line with Ruined Town, to Left", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-coast-line-with-ruined-town-to-left-t08021", 
+  "width": "99"
+}

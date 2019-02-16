@@ -1,0 +1,86 @@
+{
+  "acno": "T05003", 
+  "acquisitionYear": 1987, 
+  "all_artists": "John McLean", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "John McLean", 
+      "gender": "Male", 
+      "id": 1611, 
+      "mda": "McLean, John", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1987", 
+  "dateRange": {
+    "endYear": 1987, 
+    "startYear": 1987, 
+    "text": "1987"
+  }, 
+  "dateText": "1987", 
+  "depth": "", 
+  "dimensions": "support: 750 x 2285 mm\r\nframe: 778 x 2322 x 42 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2285", 
+  "id": 9134, 
+  "inscription": "date inscribed", 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 940, 
+                "name": "happiness"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John McLean", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05003_8.jpg", 
+  "title": "Opening", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mclean-opening-t05003", 
+  "width": "750"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "P07402", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Richard Smith", 
+  "catalogueGroup": {
+    "accessionRanges": "P07401-P07403", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65533, 
+    "shortTitle": "Two of a Kind, Three of a Kind"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Richard Smith", 
+      "gender": "Male", 
+      "id": 1959, 
+      "mda": "Smith, Richard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1978, 
+    "text": "1978"
+  }, 
+  "dateText": "1978", 
+  "depth": "", 
+  "dimensions": "support: 708 x 793 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Two of a Kind, Three of a Kind", 
+  "height": "793", 
+  "id": 13597, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on papers and 8 metal paperclips", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07402_8.jpg", 
+  "title": "Triangles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-triangles-p07402", 
+  "width": "708"
+}

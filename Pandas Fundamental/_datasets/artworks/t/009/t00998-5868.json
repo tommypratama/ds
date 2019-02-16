@@ -1,0 +1,72 @@
+{
+  "acno": "T00998", 
+  "acquisitionYear": 1967, 
+  "all_artists": "William Havell", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131857", 
+      "displayOrder": 1, 
+      "fc": "William Havell", 
+      "gender": "Male", 
+      "id": 242, 
+      "mda": "Havell, William", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund (Herbert Powell Bequest) 1967", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 365 x 343 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "343", 
+  "id": 5868, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00998_8.jpg", 
+  "title": "Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/havell-landscape-t00998", 
+  "width": "365"
+}

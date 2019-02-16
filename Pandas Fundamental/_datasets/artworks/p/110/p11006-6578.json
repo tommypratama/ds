@@ -1,0 +1,146 @@
+{
+  "acno": "P11006", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Howard Hodgkin", 
+  "catalogueGroup": {
+    "accessionRanges": "P07395-P07396; P11005-P11006", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65350, 
+    "shortTitle": "In the Museum of Modern Art"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Howard Hodgkin", 
+      "gender": "Male", 
+      "id": 1295, 
+      "mda": "Hodgkin, Howard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by E.J. Power through the Friends of the Tate Gallery 1980", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": "image: 755 x 1003 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "In the Museum of Modern Art", 
+  "height": "1003", 
+  "id": 6578, 
+  "inscription": "date inscribed", 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17026, 
+                "name": "New York, Museum of Modern Art"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7203, 
+                "name": "art appreciation"
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8634, 
+                "name": "museum"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Howard Hodgkin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11006_8.jpg", 
+  "title": "Thinking Aloud in the Museum of Art", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkin-thinking-aloud-in-the-museum-of-art-p11006", 
+  "width": "755"
+}

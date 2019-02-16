@@ -1,0 +1,86 @@
+{
+  "acno": "P08018", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Don Kunkel", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Don Kunkel", 
+      "gender": "Male", 
+      "id": 1447, 
+      "mda": "Kunkel, Don", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1978", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 79 x 79 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "79", 
+  "id": 8239, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kunkel-untitled-p08018", 
+  "width": "79"
+}

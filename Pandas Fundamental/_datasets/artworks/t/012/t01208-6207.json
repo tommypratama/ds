@@ -1,0 +1,118 @@
+{
+  "acno": "T01208", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Thomas Hickey", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1741, 
+      "date": "1741\u20131824", 
+      "displayOrder": 1, 
+      "fc": "Thomas Hickey", 
+      "gender": "Male", 
+      "id": 254, 
+      "mda": "Hickey, Thomas", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by Mrs Helena Beatrice Anderson 1970", 
+  "dateRange": {
+    "endYear": 1779, 
+    "startYear": 1779, 
+    "text": "1779"
+  }, 
+  "dateText": "1779", 
+  "depth": "", 
+  "dimensions": "support: 746 x 622 mm\r\nframe: 900 x 773 x 79 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "622", 
+  "id": 6207, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5063, 
+                "name": "Heath, John, Dr"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5062, 
+                "name": "cravat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2828, 
+                "name": "doctor"
+              }
+            ], 
+            "id": 127, 
+            "name": "medical"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01208_8.jpg", 
+  "title": "Dr John Heath", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hickey-dr-john-heath-t01208", 
+  "width": "746"
+}

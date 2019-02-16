@@ -1,0 +1,136 @@
+{
+  "acno": "N05132", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Mary Potter", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1900, 
+      "date": "1900\u20131981", 
+      "displayOrder": 1, 
+      "fc": "Mary Potter", 
+      "gender": "Female", 
+      "id": 1795, 
+      "mda": "Potter, Mary", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1940", 
+  "dateRange": {
+    "endYear": 1939, 
+    "startYear": 1939, 
+    "text": "1939"
+  }, 
+  "dateText": "1939", 
+  "depth": "", 
+  "dimensions": "support: 508 x 406 mm\r\n", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "406", 
+  "id": 12202, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6501, 
+                "name": "fish, kipper"
+              }, 
+              {
+                "id": 6502, 
+                "name": "salad"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 22783, 
+                "name": "fork"
+              }, 
+              {
+                "id": 1296, 
+                "name": "plate"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2778, 
+                "name": "paper"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1269, 
+                "name": "eating"
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05132_8.jpg", 
+  "title": "Golden Kipper", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/potter-golden-kipper-n05132", 
+  "width": "508"
+}

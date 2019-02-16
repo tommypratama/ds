@@ -1,0 +1,92 @@
+{
+  "acno": "T02146", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1977", 
+  "dateRange": {
+    "endYear": 1936, 
+    "startYear": 1928, 
+    "text": "1928-36"
+  }, 
+  "dateText": "1928\u201336", 
+  "depth": "400", 
+  "dimensions": "object: 352 x 410 x 400 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "410", 
+  "id": 4815, 
+  "inscription": null, 
+  "medium": "Perspex", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02146_8.jpg", 
+  "title": "Torsion", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-torsion-t02146", 
+  "width": "352"
+}

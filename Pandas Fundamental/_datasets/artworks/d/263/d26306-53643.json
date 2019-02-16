@@ -1,0 +1,112 @@
+{
+  "acno": "D26306", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D26306", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D263/D26306_E.jpg", 
+          "height": 334, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1136236, 
+  "catalogueGroup": {
+    "accessionRanges": "D26259-D26435; D41047-D41049", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65894, 
+    "shortTitle": "Stirling and Edinburgh Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "1834"
+  }, 
+  "dateText": "1834", 
+  "depth": "", 
+  "dimensions": "support: 113 x 190 mm", 
+  "finberg": "CCLXIX 24 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Stirling and Edinburgh Sketchbook", 
+  "height": "190", 
+  "id": 53643, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 50, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 5929, 
+                "name": "drainpipe"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26306_8.jpg", 
+  "title": "Interior of St Bride\u2019s Church, Douglas, with the Douglas Tombs, Lanarkshire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-interior-of-st-brides-church-douglas-with-the-douglas-tombs-lanarkshire-d26306", 
+  "width": "113"
+}

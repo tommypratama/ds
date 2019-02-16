@@ -1,0 +1,132 @@
+{
+  "acno": "T00983", 
+  "acquisitionYear": 1967, 
+  "all_artists": "John Robert Cozens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1752, 
+      "date": "1752\u20131797", 
+      "displayOrder": 1, 
+      "fc": "John Robert Cozens", 
+      "gender": "Male", 
+      "id": 119, 
+      "mda": "Cozens, John Robert", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund (Herbert Powell Bequest) 1967", 
+  "dateRange": {
+    "endYear": 1783, 
+    "startYear": 1783, 
+    "text": "after 1782"
+  }, 
+  "dateText": "after 1782", 
+  "depth": "", 
+  "dimensions": "support: 260 x 371 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "371", 
+  "id": 2915, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13096, 
+                "name": "Padua"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1399, 
+                "name": "lightning"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Padua", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-padua-t00983", 
+  "width": "260"
+}

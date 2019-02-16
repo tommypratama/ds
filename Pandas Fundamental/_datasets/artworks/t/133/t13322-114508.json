@@ -1,0 +1,80 @@
+{
+  "acno": "T13322", 
+  "acquisitionYear": 2011, 
+  "all_artists": "Mary Martin", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20131969", 
+      "displayOrder": 1, 
+      "fc": "Mary Martin", 
+      "gender": "Female", 
+      "id": 1586, 
+      "mda": "Martin, Mary", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 2011", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "118", 
+  "dimensions": "object: 911 x 913 x 118 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "913", 
+  "id": 114508, 
+  "inscription": null, 
+  "medium": "Wood and emulsion paint", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Mary Martin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13322_8.jpg", 
+  "title": "Expanding Form", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-expanding-form-t13322", 
+  "width": "911"
+}

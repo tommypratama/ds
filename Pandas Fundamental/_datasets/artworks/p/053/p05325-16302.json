@@ -1,0 +1,88 @@
+{
+  "acno": "P05325", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Gerd Winner", 
+  "catalogueGroup": {
+    "accessionRanges": "P05320-P05326", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65584, 
+    "shortTitle": "London Transport"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Gerd Winner", 
+      "gender": "Male", 
+      "id": 2154, 
+      "mda": "Winner, Gerd", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 1042 x 790 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "London Transport", 
+  "height": "790", 
+  "id": 16302, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1109, 
+                "name": "train"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Gerd Winner", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05325_8.jpg", 
+  "title": "Suburban Train", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-suburban-train-p05325", 
+  "width": "1042"
+}

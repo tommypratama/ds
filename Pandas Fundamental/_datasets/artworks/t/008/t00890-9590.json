@@ -1,0 +1,102 @@
+{
+  "acno": "T00890", 
+  "acquisitionYear": 1966, 
+  "all_artists": "Denis Mitchell", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20131993", 
+      "displayOrder": 1, 
+      "fc": "Denis Mitchell", 
+      "gender": "Male", 
+      "id": 1647, 
+      "mda": "Mitchell, Denis", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by T.L. Johnson 1966", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1964, 
+    "text": "1964"
+  }, 
+  "dateText": "1964", 
+  "depth": "286", 
+  "dimensions": "object: 1918 x 279 x 286 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "279", 
+  "id": 9590, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17240, 
+                "name": "Praze"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Denis Mitchell", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00890_8.jpg", 
+  "title": "Praze", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mitchell-praze-t00890", 
+  "width": "1918"
+}

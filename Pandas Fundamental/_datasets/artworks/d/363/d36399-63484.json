@@ -1,0 +1,101 @@
+{
+  "acno": "D36399", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Philip James De Loutherbourg", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1740, 
+      "date": "1740\u20131812", 
+      "displayOrder": 1, 
+      "fc": "Philip James De Loutherbourg", 
+      "gender": "Male", 
+      "id": 145, 
+      "mda": "De Loutherbourg, Philip James", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1800, 
+    "startYear": 1786, 
+    "text": "1786 or 1800"
+  }, 
+  "dateText": "1786 or 1800", 
+  "depth": "", 
+  "dimensions": "support: 80 x 109 mm", 
+  "finberg": "CCCLXXII 40", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "109", 
+  "id": 63484, 
+  "inscription": null, 
+  "medium": "Pen and ink and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36399_8.jpg", 
+  "title": "View over a River Valley with a Tower in the Foreground and Hills Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-over-a-river-valley-with-a-tower-in-the-foreground-and-hills-beyond-d36399", 
+  "width": "80"
+}

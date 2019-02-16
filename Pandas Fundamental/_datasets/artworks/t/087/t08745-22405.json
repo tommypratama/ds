@@ -1,0 +1,92 @@
+{
+  "acno": "T08745", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Jean Baptiste Claude Chatelain", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1710, 
+      "date": "c.1710\u2013c.1758", 
+      "displayOrder": 1, 
+      "fc": "Jean Baptiste Claude Chatelain", 
+      "gender": "Male", 
+      "id": 2222, 
+      "mda": "Chatelain, Jean Baptiste Claude", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 169 x 220 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "220", 
+  "id": 22405, 
+  "inscription": null, 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08745_8.jpg", 
+  "title": "Landscape Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-t08745", 
+  "width": "169"
+}

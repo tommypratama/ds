@@ -1,0 +1,92 @@
+{
+  "acno": "T03267", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Barry Flanagan", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1941, 
+      "date": "1941\u20132009", 
+      "displayOrder": 1, 
+      "fc": "Barry Flanagan", 
+      "gender": "Male", 
+      "id": 1100, 
+      "mda": "Flanagan, Barry", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by the Sainsbury Charitable Fund through the Friends of the Tate Gallery 1981", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "610", 
+  "dimensions": "object: 1260 x 521 x 610 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "521", 
+  "id": 4480, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1682, 
+      "name": "New British Sculpture"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1547, 
+                "name": "hare"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 868, 
+                "name": "helmet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Barry Flanagan, courtesy Plubronze Ltd", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03267_8.jpg", 
+  "title": "Hare and Helmet II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flanagan-hare-and-helmet-ii-t03267", 
+  "width": "1260"
+}

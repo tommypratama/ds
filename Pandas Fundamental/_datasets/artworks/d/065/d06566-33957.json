@@ -1,0 +1,104 @@
+{
+  "acno": "D06566", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06566", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D65/D06566_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139098, 
+  "catalogueGroup": {
+    "accessionRanges": "D06518-D06617; D06716-D06719; D40605-D40615; D40732; D41428-D41430; D41495", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "C", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65747, 
+    "shortTitle": "Spithead Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1807, 
+    "text": "1807"
+  }, 
+  "dateText": "1807", 
+  "depth": "", 
+  "dimensions": "support: 118 x 187 mm", 
+  "finberg": "C 42", 
+  "foreignTitle": null, 
+  "groupTitle": "Spithead Sketchbook", 
+  "height": "187", 
+  "id": 33957, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 93, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06566_8.jpg", 
+  "title": "Cloudy Sky with Low Sun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cloudy-sky-with-low-sun-d06566", 
+  "width": "118"
+}

@@ -1,0 +1,112 @@
+{
+  "acno": "P01594", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Norman Stevens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "1937\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Norman Stevens", 
+      "gender": "Male", 
+      "id": 1998, 
+      "mda": "Stevens, Norman", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Editions Alecto through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "image: 403 x 305 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "305", 
+  "id": 13871, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7914, 
+                "name": "dusk"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 447, 
+                "name": "hedge"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Dusk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stevens-dusk-p01594", 
+  "width": "403"
+}

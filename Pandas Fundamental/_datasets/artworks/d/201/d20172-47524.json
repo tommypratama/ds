@@ -1,0 +1,165 @@
+{
+  "acno": "D20172", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D20172", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D201/D20172_E.jpg", 
+          "height": 364, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D20162-D20206; D41010; D41503", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65856, 
+    "shortTitle": "Moselle (or Rhine) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1824, 
+    "text": "1824"
+  }, 
+  "dateText": "1824", 
+  "depth": "", 
+  "dimensions": "support: 160 x 235 mm", 
+  "finberg": "CCXIX 11", 
+  "foreignTitle": null, 
+  "groupTitle": "Moselle (or Rhine) Sketchbook", 
+  "height": "235", 
+  "id": 47524, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 27, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13648, 
+                "name": "Kloster Stuben"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7805, 
+                "name": "River Mosel"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4526, 
+                "name": "monastery"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20172_8.jpg", 
+  "title": "Kloster Stuben", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-kloster-stuben-d20172", 
+  "width": "160"
+}

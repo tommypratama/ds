@@ -1,0 +1,86 @@
+{
+  "acno": "T13033", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Stuart Brisley", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Stuart Brisley", 
+      "gender": "Male", 
+      "id": 813, 
+      "mda": "Brisley, Stuart", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 2010", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "c.1960"
+  }, 
+  "dateText": "c.1960", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 1099 x 1505 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1505", 
+  "id": 109927, 
+  "inscription": null, 
+  "medium": "Roofing underlay, roofing felt, tarpaulin, canvas, sacking, bitumen and sand on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15901, 
+                "name": "fragility"
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Stuart Brisley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13033_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brisley-untitled-t13033", 
+  "width": "1099"
+}

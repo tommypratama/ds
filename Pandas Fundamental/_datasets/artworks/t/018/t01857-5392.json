@@ -1,0 +1,86 @@
+{
+  "acno": "T01857", 
+  "acquisitionYear": 1974, 
+  "all_artists": "John Golding", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1929, 
+      "date": "1929\u20132012", 
+      "displayOrder": 1, 
+      "fc": "John Golding", 
+      "gender": "Male", 
+      "id": 1184, 
+      "mda": "Golding, John", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "support: 2134 x 3048 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3048", 
+  "id": 5392, 
+  "inscription": "date inscribed", 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Golding", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01857_8.jpg", 
+  "title": "CV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/golding-cv-t01857", 
+  "width": "2134"
+}

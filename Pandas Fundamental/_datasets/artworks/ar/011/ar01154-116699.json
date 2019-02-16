@@ -1,0 +1,109 @@
+{
+  "acno": "AR01154", 
+  "acquisitionYear": 2012, 
+  "all_artists": "Martin Creed", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1968, 
+      "date": "born 1968", 
+      "displayOrder": 1, 
+      "fc": "Martin Creed", 
+      "gender": "Male", 
+      "id": 2760, 
+      "mda": "Creed, Martin", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nPresented by the artist jointly to National Galleries of Scotland and Tate and acquired with assistance of the ARTIST ROOMS Endowment, supported by the Henry Moore Foundation and Tate Members 2011", 
+  "dateRange": {
+    "endYear": 2011, 
+    "startYear": 2011, 
+    "text": "2011"
+  }, 
+  "dateText": "2011", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 610 x 457 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "457", 
+  "id": 116699, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance"
+              }, 
+              {
+                "id": 11717, 
+                "name": "order"
+              }, 
+              {
+                "id": 8034, 
+                "name": "sequence"
+              }, 
+              {
+                "id": 6749, 
+                "name": "symmetry"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Martin Creed", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR01154_8.jpg", 
+  "title": "Work No. 1105", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/creed-work-no-1105-ar01154", 
+  "width": "610"
+}

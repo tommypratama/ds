@@ -1,0 +1,102 @@
+{
+  "acno": "D27403", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D27366-D27419; D27421-D27431; D27433-D27441; D27443-D27444; D27446-D27450; D27452-D27453; D27455-D27462; D27464-D27473; D27475-D27480; D41108-D41109", 
+    "completeStatus": "COMPLETE", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65905, 
+    "shortTitle": "Life Class (1) Sketchbook [Finberg CCLXXIX (a)]"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1832, 
+    "startYear": 1832, 
+    "text": "c.1832"
+  }, 
+  "dateText": "c.1832", 
+  "depth": "", 
+  "dimensions": "support: 86 x 111 mm", 
+  "finberg": "CCLXXIX a 19 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Life Class (1) Sketchbook [Finberg CCLXXIX (a)]", 
+  "height": "111", 
+  "id": 54738, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 40, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 565, 
+                "name": "reclining"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27403_8.jpg", 
+  "title": "Study, Female Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-female-figure-d27403", 
+  "width": "86"
+}

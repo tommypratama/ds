@@ -1,0 +1,86 @@
+{
+  "acno": "T11786", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Stephen Willats", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1943, 
+      "date": "born 1943", 
+      "displayOrder": 1, 
+      "fc": "Stephen Willats", 
+      "gender": "Male", 
+      "id": 2147, 
+      "mda": "Willats, Stephen", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased from funds provided by the Knapping Fund 2004", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1964, 
+    "text": "1964"
+  }, 
+  "dateText": "1964", 
+  "depth": "220", 
+  "dimensions": "object: 1910 x 1220 x 220 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1220", 
+  "id": 80007, 
+  "inscription": null, 
+  "medium": "Plywood, wood, plastic, metal, light bulbs and circuit board", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12083, 
+                "name": "light"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Stephen Willats", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11786_8.jpg", 
+  "title": "Visual Field Automatic No.1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/willats-visual-field-automatic-no1-t11786", 
+  "width": "1910"
+}

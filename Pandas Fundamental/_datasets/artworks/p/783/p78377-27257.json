@@ -1,0 +1,124 @@
+{
+  "acno": "P78377", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Roy Lichtenstein", 
+  "catalogueGroup": {
+    "accessionRanges": "P78374-P78379", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 66099, 
+    "shortTitle": "Entablature"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "1923\u20131997", 
+      "displayOrder": 1, 
+      "fc": "Roy Lichtenstein", 
+      "gender": "Male", 
+      "id": 1508, 
+      "mda": "Lichtenstein, Roy", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery 2000", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 500 x 963 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Entablature", 
+  "height": "963", 
+  "id": 27257, 
+  "inscription": null, 
+  "medium": "Screenprint and silver foils on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 437, 
+      "name": "Pop Art"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16862, 
+                "name": "New York, Manhattan"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7552, 
+                "name": "entablature"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Roy Lichtenstein/DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78377_8.jpg", 
+  "title": "Entablature VII", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lichtenstein-entablature-vii-p78377", 
+  "width": "500"
+}

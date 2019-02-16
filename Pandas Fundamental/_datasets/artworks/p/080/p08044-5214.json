@@ -1,0 +1,118 @@
+{
+  "acno": "P08044", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Eric Gill", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Eric Gill", 
+      "gender": "Male", 
+      "id": 1168, 
+      "mda": "Gill, Eric", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1979", 
+  "dateRange": {
+    "endYear": 1915, 
+    "startYear": 1915, 
+    "text": "1915"
+  }, 
+  "dateText": "1915", 
+  "depth": "", 
+  "dimensions": "image: 133 x 133 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "133", 
+  "id": 5214, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1132, 
+                "name": "pig"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10924, 
+                "name": "product packaging"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2610, 
+                "name": "sheaf"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08044_8.jpg", 
+  "title": "Hog and Wheatsheaf", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gill-hog-and-wheatsheaf-p08044", 
+  "width": "133"
+}

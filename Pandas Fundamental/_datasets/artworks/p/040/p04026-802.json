@@ -1,0 +1,98 @@
+{
+  "acno": "P04026", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Herbert Bayer", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1900, 
+      "date": "1900\u20131985", 
+      "displayOrder": 1, 
+      "fc": "Herbert Bayer", 
+      "gender": "Male", 
+      "id": 711, 
+      "mda": "Bayer, Herbert", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "", 
+  "dimensions": "image: 445 x 448 mm", 
+  "foreignTitle": "Die Vier Jahreszeiten", 
+  "groupTitle": null, 
+  "height": "448", 
+  "id": 802, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn"
+              }, 
+              {
+                "id": 1615, 
+                "name": "spring"
+              }, 
+              {
+                "id": 806, 
+                "name": "summer"
+              }, 
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04026_8.jpg", 
+  "title": "The Four Seasons", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bayer-the-four-seasons-p04026", 
+  "width": "445"
+}

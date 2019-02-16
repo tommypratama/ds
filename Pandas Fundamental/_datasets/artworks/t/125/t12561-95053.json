@@ -1,0 +1,108 @@
+{
+  "acno": "T12561", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Bob and Roberta Smith", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1963, 
+      "date": "born 1963", 
+      "displayOrder": 1, 
+      "fc": "Bob and Roberta Smith", 
+      "gender": "Male", 
+      "id": 10029, 
+      "mda": "Smith, Bob and Roberta", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Tate Patrons 2007", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "48", 
+  "dimensions": "support: 1537 x 1524 x 48 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1524", 
+  "id": 95053, 
+  "inscription": null, 
+  "medium": "Commercial paint on plywood", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6767, 
+                "name": "creativity"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3592, 
+                "name": "war"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bob and Roberta Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12561_8.jpg", 
+  "title": "Make Art Not War", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-make-art-not-war-t12561", 
+  "width": "1537"
+}

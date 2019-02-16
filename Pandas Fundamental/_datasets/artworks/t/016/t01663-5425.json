@@ -1,0 +1,141 @@
+{
+  "acno": "T01663", 
+  "acquisitionYear": 1972, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T01663_84285", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T01/T01663_84285_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 49
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T01/T01663_84285_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 98
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T01/T01663_84285_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 197
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T01/T01663_84285_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 592
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joan Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131908", 
+      "displayOrder": 1, 
+      "fc": "Joan Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1187, 
+      "mda": "Gonz\u00e1lez, Joan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mme Roberta Gonzalez-Richard, the artist's niece 1972", 
+  "dateRange": {
+    "endYear": 1905, 
+    "startYear": 1905, 
+    "text": "c.1905"
+  }, 
+  "dateText": "c.1905", 
+  "depth": "", 
+  "dimensions": "support: 483 x 168 mm", 
+  "foreignTitle": "Jeune femme gant\u00e9e de noir", 
+  "groupTitle": null, 
+  "height": "168", 
+  "id": 5425, 
+  "inscription": null, 
+  "medium": "Pastel on paper. Verso: pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1120, 
+                "name": "glove"
+              }, 
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01663_8.jpg", 
+  "title": "Girl with Black Gloves", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-girl-with-black-gloves-t01663", 
+  "width": "483"
+}

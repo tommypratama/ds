@@ -1,0 +1,76 @@
+{
+  "acno": "T03728", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Henri Gaudier-Brzeska", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131915", 
+      "displayOrder": 1, 
+      "fc": "Henri Gaudier-Brzeska", 
+      "gender": "Male", 
+      "id": 1143, 
+      "mda": "Gaudier-Brzeska, Henri", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "1913, posthumous cast"
+  }, 
+  "dateText": "1913, posthumous cast", 
+  "depth": "216", 
+  "dimensions": "object: 114 x 254 x 216 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "254", 
+  "id": 5033, 
+  "inscription": null, 
+  "medium": "Painted plaster", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2962, 
+                "name": "deer"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3521, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03728_8.jpg", 
+  "title": "Sleeping Fawn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-sleeping-fawn-t03728", 
+  "width": "114"
+}

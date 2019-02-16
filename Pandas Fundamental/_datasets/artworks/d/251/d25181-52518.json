@@ -1,0 +1,130 @@
+{
+  "acno": "D25181", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151503, 
+  "catalogueGroup": {
+    "accessionRanges": "D17204; D25123; D25129; D25131; D25132; D25136; D25141; D25143; D25150; D25156; D25158; D25159; D25161; D25163; D25165; D25166; D25171; D25172; D25174; D25177; D25181; D25183; D25187; D25195; D25198; D25203; D25205; D25207; D25214; D25215; D25221;...", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163280, 
+    "shortTitle": "Studies for Published 'England and Wales' Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "c.1834"
+  }, 
+  "dateText": "c.1834", 
+  "depth": "", 
+  "dimensions": "support: 350 x 510 mm", 
+  "finberg": "CCLXIII 59", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies for Published 'England and Wales' Subjects", 
+  "height": "510", 
+  "id": 52518, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5069, 
+                "name": "Powys"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8894, 
+                "name": "Powys Castle"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4989, 
+                "name": "terrace"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25181_8.jpg", 
+  "title": "Powis Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-powis-castle-d25181", 
+  "width": "350"
+}

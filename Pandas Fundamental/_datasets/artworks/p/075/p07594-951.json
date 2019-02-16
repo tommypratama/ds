@@ -1,0 +1,82 @@
+{
+  "acno": "P07594", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Joseph Beuys", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 292 x 163 mm", 
+  "foreignTitle": "Luftpost", 
+  "groupTitle": null, 
+  "height": "163", 
+  "id": 951, 
+  "inscription": null, 
+  "medium": "Lithograph, letterpress, stamp and relief print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4194, 
+                "name": "German"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1169, 
+                "name": "letter"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07594_8.jpg", 
+  "title": "Airmail", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-airmail-p07594", 
+  "width": "292"
+}

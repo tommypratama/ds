@@ -1,0 +1,133 @@
+{
+  "acno": "D01714", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D01714", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D17/D01714_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 375
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D01676-D01805; D01807-D01815; D41424-D41426", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65696, 
+    "shortTitle": "Swans Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1799, 
+    "startYear": 1798, 
+    "text": "1798-9"
+  }, 
+  "dateText": "1798\u20139", 
+  "depth": "", 
+  "dimensions": "support: 174 x 125 mm", 
+  "finberg": "XLII 39", 
+  "foreignTitle": null, 
+  "groupTitle": "Swans Sketchbook", 
+  "height": "125", 
+  "id": 29119, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 41, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5845, 
+                "name": "Malvern Hills"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16622, 
+                "name": "Worcestershire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01714_8.jpg", 
+  "title": "An Extensive Landscape with a Distant View of the Malvern Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-an-extensive-landscape-with-a-distant-view-of-the-malvern-hills-d01714", 
+  "width": "174"
+}

@@ -1,0 +1,122 @@
+{
+  "acno": "T04125", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Peter Potworowski", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131962", 
+      "displayOrder": 1, 
+      "fc": "Peter Potworowski", 
+      "gender": "Male", 
+      "id": 1796, 
+      "mda": "Potworowski, Peter", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1985", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "", 
+  "dimensions": "support: 641 x 764 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "764", 
+  "id": 12205, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6512, 
+                "name": "Sancreed"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Peter Potworowski", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04125_8.jpg", 
+  "title": "Forest (Cornwall)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/potworowski-forest-cornwall-t04125", 
+  "width": "641"
+}

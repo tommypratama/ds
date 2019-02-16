@@ -1,0 +1,106 @@
+{
+  "acno": "T06812", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Juan Gris", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131927", 
+      "displayOrder": 1, 
+      "fc": "Juan Gris", 
+      "gender": "Male", 
+      "id": 1221, 
+      "mda": "Gris, Juan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Gustav and Elly Kahnweiler 1974, accessioned 1994", 
+  "dateRange": {
+    "endYear": 1924, 
+    "startYear": 1924, 
+    "text": "1924"
+  }, 
+  "dateText": "1924", 
+  "depth": "", 
+  "dimensions": "support: 180 x 223 mm\r\nframe: 340 x 390 x 31 mm", 
+  "foreignTitle": "Pipe et domino", 
+  "groupTitle": null, 
+  "height": "223", 
+  "id": 20870, 
+  "inscription": null, 
+  "medium": "Gouache on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 299, 
+      "name": "Cubism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3479, 
+                "name": "cloth"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4609, 
+                "name": "domino"
+              }
+            ], 
+            "id": 285, 
+            "name": "sports and games"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1091, 
+                "name": "pipe"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06812_8.jpg", 
+  "title": "Pipe and Domino", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gris-pipe-and-domino-t06812", 
+  "width": "180"
+}

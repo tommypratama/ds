@@ -1,0 +1,88 @@
+{
+  "acno": "D25170", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151599, 
+  "catalogueGroup": {
+    "accessionRanges": "D25128; D25130; D25134; D25146; D25154; D25170; D25179; D25185; D25227; D25270; D25318; D25427; D25484", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163217, 
+    "shortTitle": "Tentatively Identified Subjects, Possibly for 'England and Wales'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1837, 
+    "startYear": 1828, 
+    "text": "c.1828-37"
+  }, 
+  "dateText": "c.1828\u201337", 
+  "depth": "", 
+  "dimensions": "support: 355 x 510 mm", 
+  "finberg": "CCLXIII 48", 
+  "foreignTitle": null, 
+  "groupTitle": "Tentatively Identified Subjects, Possibly for 'England and Wales'", 
+  "height": "510", 
+  "id": 52507, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1399, 
+                "name": "lightning"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25170_8.jpg", 
+  "title": "A Stormy Coast, Possibly near Criccieth Castle, Bamburgh Castle or Dunwich", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-stormy-coast-possibly-near-criccieth-castle-bamburgh-castle-or-dunwich-d25170", 
+  "width": "355"
+}

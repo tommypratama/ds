@@ -1,0 +1,88 @@
+{
+  "acno": "P79941", 
+  "acquisitionYear": 2011, 
+  "all_artists": "Werner Mantz", 
+  "catalogueGroup": {
+    "accessionRanges": "P79940-P79949", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 114340, 
+    "shortTitle": "Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1901, 
+      "date": "1901\u20131983", 
+      "displayOrder": 1, 
+      "fc": "Werner Mantz", 
+      "gender": "Male", 
+      "id": 14941, 
+      "mda": "Mantz, Werner", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Photography Acquisitions Committee 2011", 
+  "dateRange": {
+    "endYear": 1928, 
+    "startYear": 1928, 
+    "text": "1928, printed 1977"
+  }, 
+  "dateText": "1928, printed 1977", 
+  "depth": "", 
+  "dimensions": "image: 223 x 165 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Portfolio", 
+  "height": "165", 
+  "id": 114533, 
+  "inscription": null, 
+  "medium": "Photograph, gelatin silver print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 487, 
+                "name": "egg"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79941_8.jpg", 
+  "title": "Title of WDR-radio programme, Cologne 1928", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mantz-title-of-wdr-radio-programme-cologne-1928-p79941", 
+  "width": "223"
+}

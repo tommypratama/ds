@@ -1,0 +1,126 @@
+{
+  "acno": "D06175", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06175", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D61/D06175_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130356, 
+  "catalogueGroup": {
+    "accessionRanges": "D06072-D06178; D40655-D40658", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65744, 
+    "shortTitle": "Windsor and Eton Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1806, 
+    "text": "c.1806-8"
+  }, 
+  "dateText": "c.1806\u20138", 
+  "depth": "", 
+  "dimensions": "support: 107 x 182 mm", 
+  "finberg": "XCVII 90", 
+  "foreignTitle": null, 
+  "groupTitle": "Windsor and Eton Sketchbook", 
+  "height": "182", 
+  "id": 33566, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 181, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06175_8.jpg", 
+  "title": "Vessels, with Diagrams and Measurements of Sails", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vessels-with-diagrams-and-measurements-of-sails-d06175", 
+  "width": "107"
+}

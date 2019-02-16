@@ -1,0 +1,93 @@
+{
+  "acno": "T08838", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Alexander Cozens and a pupil", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "append_role_after_name": true, 
+      "birthYear": 1717, 
+      "date": "1717\u20131786", 
+      "displayOrder": 1, 
+      "fc": "Alexander Cozens", 
+      "gender": "Male", 
+      "id": 118, 
+      "mda": "Cozens, Alexander", 
+      "role": "and a pupil", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 167 x 250 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "250", 
+  "id": 22633, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08838_8.jpg", 
+  "title": "Landscape Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-landscape-composition-t08838", 
+  "width": "167"
+}

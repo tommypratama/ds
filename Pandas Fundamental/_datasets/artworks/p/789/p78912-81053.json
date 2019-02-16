@@ -1,0 +1,92 @@
+{
+  "acno": "P78912", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Bob Law", 
+  "catalogueGroup": {
+    "accessionRanges": "P78908-P78915", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 83592, 
+    "shortTitle": "Kisses and Crosses"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20132004", 
+      "displayOrder": 1, 
+      "fc": "Bob Law", 
+      "gender": "Male", 
+      "id": 1476, 
+      "mda": "Law, Bob", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 2004", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "image: 285 x 385 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Kisses and Crosses", 
+  "height": "385", 
+  "id": 81053, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16420, 
+                "name": "cross"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Bob Law", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78912_8.jpg", 
+  "title": "A Cross to Bare", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/law-a-cross-to-bare-p78912", 
+  "width": "285"
+}

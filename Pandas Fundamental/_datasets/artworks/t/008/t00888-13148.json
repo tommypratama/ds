@@ -1,0 +1,106 @@
+{
+  "acno": "T00888", 
+  "acquisitionYear": 1966, 
+  "all_artists": "Francis Sartorius", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1734, 
+      "date": "1734\u20131804", 
+      "displayOrder": 1, 
+      "fc": "Francis Sartorius", 
+      "gender": "Male", 
+      "id": 476, 
+      "mda": "Sartorius, Francis", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1966", 
+  "dateRange": {
+    "endYear": 1793, 
+    "startYear": 1793, 
+    "text": "1793"
+  }, 
+  "dateText": "1793", 
+  "depth": "", 
+  "dimensions": "support: 346 x 416 mm\r\nframe: 455 x 528 x 51 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "416", 
+  "id": 13148, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }, 
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00888_8.jpg", 
+  "title": "A Black Horse with Two Dogs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sartorius-a-black-horse-with-two-dogs-t00888", 
+  "width": "346"
+}

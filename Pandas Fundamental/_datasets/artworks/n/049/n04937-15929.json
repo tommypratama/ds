@@ -1,0 +1,86 @@
+{
+  "acno": "N04937", 
+  "acquisitionYear": 1938, 
+  "all_artists": "James Ward", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131859", 
+      "displayOrder": 1, 
+      "fc": "James Ward", 
+      "gender": "Male", 
+      "id": 581, 
+      "mda": "Ward, James", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Francis Howard 1938", 
+  "dateRange": {
+    "endYear": 1827, 
+    "startYear": 1827, 
+    "text": "1827"
+  }, 
+  "dateText": "1827", 
+  "depth": "", 
+  "dimensions": "support: 1448 x 2126 mm\r\nframe: 1685 x 2390 x 115 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2126", 
+  "id": 15929, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04937_8.jpg", 
+  "title": "L\u2019Amour de Cheval", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ward-lamour-de-cheval-n04937", 
+  "width": "1448"
+}

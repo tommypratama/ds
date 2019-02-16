@@ -1,0 +1,86 @@
+{
+  "acno": "P02973", 
+  "acquisitionYear": 1990, 
+  "all_artists": "Karl-Otto G\u00f6tz", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1914, 
+      "date": "born 1914", 
+      "displayOrder": 1, 
+      "fc": "Karl-Otto G\u00f6tz", 
+      "gender": "Male", 
+      "id": 2203, 
+      "mda": "G\u00f6tz, Professor Karl-Otto", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1990", 
+  "dateRange": {
+    "endYear": 1946, 
+    "startYear": 1946, 
+    "text": "1946"
+  }, 
+  "dateText": "1946", 
+  "depth": "", 
+  "dimensions": "image: 202 x 290 mm", 
+  "foreignTitle": "Das Junge kommt", 
+  "groupTitle": null, 
+  "height": "290", 
+  "id": 19135, 
+  "inscription": "date inscribed", 
+  "medium": "Monotype on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16453, 
+                "name": "animal / plant"
+              }, 
+              {
+                "id": 1708, 
+                "name": "monster"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 758, 
+                "name": "anxiety"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Karl-Otto G\u00f6tz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02973_8.jpg", 
+  "title": "The Young One is Coming", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gotz-the-young-one-is-coming-p02973", 
+  "width": "202"
+}

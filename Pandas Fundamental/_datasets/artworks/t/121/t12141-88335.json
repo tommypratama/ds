@@ -1,0 +1,118 @@
+{
+  "acno": "T12141", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Ian Hamilton Finlay", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20132006", 
+      "displayOrder": 1, 
+      "fc": "Ian Hamilton Finlay", 
+      "gender": "Male", 
+      "id": 1093, 
+      "mda": "Hamilton Finlay, Ian", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 2006", 
+  "dateRange": {
+    "endYear": 1991, 
+    "startYear": 1991, 
+    "text": "1991"
+  }, 
+  "dateText": "1991", 
+  "depth": "438", 
+  "dimensions": "object: 530 x 1228 x 438 mm, 150.5 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1228", 
+  "id": 88335, 
+  "inscription": null, 
+  "medium": "Bronze on stone base", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2974, 
+                "name": "ambiguity"
+              }, 
+              {
+                "id": 5719, 
+                "name": "danger"
+              }, 
+              {
+                "id": 1704, 
+                "name": "irony"
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6412, 
+                "name": "gun, machine gun"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1280, 
+                "name": "instrument, flute"
+              }, 
+              {
+                "id": 856, 
+                "name": "plinth"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Ian Hamilton Finlay", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12141_8.jpg", 
+  "title": "Flute", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-flute-t12141", 
+  "width": "530"
+}

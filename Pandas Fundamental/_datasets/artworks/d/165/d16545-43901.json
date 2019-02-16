@@ -1,0 +1,196 @@
+{
+  "acno": "D16545", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D16545", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D165/D16545_E.jpg", 
+          "height": 341, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1138438, 
+  "catalogueGroup": {
+    "accessionRanges": "D16486-D16640; D40955-D40957", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXCI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65832, 
+    "shortTitle": "Rome and Florence Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 113 x 189 mm", 
+  "finberg": "CXCI 32 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Rome and Florence Sketchbook", 
+  "height": "189", 
+  "id": 43901, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 66, 
+  "subjectCount": 13, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1929, 
+                "name": "Florence - non-specific"
+              }, 
+              {
+                "id": 29481, 
+                "name": "Florence, Forte Belvedere"
+              }, 
+              {
+                "id": 29479, 
+                "name": "Florence, Porta San Niccol\u00f2"
+              }, 
+              {
+                "id": 29480, 
+                "name": "Florence, San Niccol\u00f2 Oltrano"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6888, 
+                "name": "River Arno"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 997, 
+                "name": "city wall"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16545_8.jpg", 
+  "title": "View of the River Arno, Florence, with the Porta San Niccol\u00f2 and the Ponte alle Grazie", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-the-river-arno-florence-with-the-porta-san-niccolo-and-the-ponte-alle-d16545", 
+  "width": "113"
+}

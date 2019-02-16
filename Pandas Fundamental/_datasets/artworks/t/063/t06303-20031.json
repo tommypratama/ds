@@ -1,0 +1,100 @@
+{
+  "acno": "T06303", 
+  "acquisitionYear": 1988, 
+  "all_artists": "after Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "after", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Transferred from the British Museum 1988", 
+  "dateRange": {
+    "endYear": 1861, 
+    "startYear": 1859, 
+    "text": "published 1859-61"
+  }, 
+  "dateText": "published 1859\u201361", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 20031, 
+  "inscription": null, 
+  "medium": "Engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }, 
+              {
+                "id": 1738, 
+                "name": "ship - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06303_8.jpg", 
+  "title": "Dutch Boats in a Gale (Bridgewater Gallery), engraved by Armytage", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dutch-boats-in-a-gale-bridgewater-gallery-engraved-by-armytage-t06303", 
+  "width": ""
+}

@@ -1,0 +1,136 @@
+{
+  "acno": "T11637", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Scarlett Davis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1804, 
+      "date": "1804\u20131845", 
+      "displayOrder": 1, 
+      "fc": "John Scarlett Davis", 
+      "gender": "Male", 
+      "id": 140, 
+      "mda": "Davis, John Scarlett", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "1834"
+  }, 
+  "dateText": "1834", 
+  "depth": "", 
+  "dimensions": "image: 103 x 156 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "156", 
+  "id": 22794, 
+  "inscription": "date inscribed", 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8999, 
+                "name": "Florence, Palazzo Pitti"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1011, 
+                "name": "balustrade"
+              }, 
+              {
+                "id": 1151, 
+                "name": "dome"
+              }, 
+              {
+                "id": 4989, 
+                "name": "terrace"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11637_8.jpg", 
+  "title": "The Pitti Palace", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/davis-the-pitti-palace-t11637", 
+  "width": "103"
+}

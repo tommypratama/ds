@@ -1,0 +1,76 @@
+{
+  "acno": "T01371", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Tim Scott", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tim Scott", 
+      "gender": "Male", 
+      "id": 1915, 
+      "mda": "Scott, Tim", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1970", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "686", 
+  "dimensions": "object: 940 x 1994 x 686 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1994", 
+  "id": 13219, 
+  "inscription": null, 
+  "medium": "Steel and plastic", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tim Scott", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01371_8.jpg", 
+  "title": "Pool V", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-pool-v-t01371", 
+  "width": "940"
+}

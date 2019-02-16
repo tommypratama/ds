@@ -1,0 +1,144 @@
+{
+  "acno": "D22394", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22394", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D223/D22394_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150192, 
+  "catalogueGroup": {
+    "accessionRanges": "D22323-D22462; D41056-D41057", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXL", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65871, 
+    "shortTitle": "Birmingham and Coventry Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1830, 
+    "startYear": 1830, 
+    "text": "1830"
+  }, 
+  "dateText": "1830", 
+  "depth": "", 
+  "dimensions": "support: 78 x 110 mm", 
+  "finberg": "CCXL 38 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Birmingham and Coventry Sketchbook", 
+  "height": "110", 
+  "id": 49732, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 78, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7859, 
+                "name": "Birmingham"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8680, 
+                "name": "Birmingham"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22394_8.jpg", 
+  "title": "Birmingham Church Towers: Christ Church, St Philip\u2019s and St George\u2019s Hockley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-birmingham-church-towers-christ-church-st-philips-and-st-georges-hockley-d22394", 
+  "width": "78"
+}

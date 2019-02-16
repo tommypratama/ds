@@ -1,0 +1,148 @@
+{
+  "acno": "T01199", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Richard Smith", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Richard Smith", 
+      "gender": "Male", 
+      "id": 1959, 
+      "mda": "Smith, Richard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "160", 
+  "dimensions": "support: 2466 x 3222 x 160 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3222", 
+  "id": 13606, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 442, 
+      "name": "Situation"
+    }
+  ], 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6928, 
+                "name": "advertising"
+              }, 
+              {
+                "id": 12910, 
+                "name": "high art"
+              }, 
+              {
+                "id": 12911, 
+                "name": "popular culture"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4063, 
+                "name": "consumerism"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1193, 
+                "name": "cigar"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01199_8.jpg", 
+  "title": "Panatella", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-panatella-t01199", 
+  "width": "2466"
+}

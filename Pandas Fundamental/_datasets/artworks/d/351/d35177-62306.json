@@ -1,0 +1,95 @@
+{
+  "acno": "D35177", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D35175-D35192; D35194-D35218", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65971, 
+    "shortTitle": "Rhine and Rhine Castles Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1844, 
+    "startYear": 1844, 
+    "text": "1844"
+  }, 
+  "dateText": "1844", 
+  "depth": "", 
+  "dimensions": "support: 229 x 327 mm", 
+  "finberg": "CCCLI 3", 
+  "foreignTitle": null, 
+  "groupTitle": "Rhine and Rhine Castles Sketchbook", 
+  "height": "327", 
+  "id": 62306, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 7, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35177_8.jpg", 
+  "title": "Storm over a River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-storm-over-a-river-d35177", 
+  "width": "229"
+}

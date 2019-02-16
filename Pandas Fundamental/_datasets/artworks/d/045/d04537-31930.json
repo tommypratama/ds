@@ -1,0 +1,117 @@
+{
+  "acno": "D04537", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1148561, 
+  "catalogueGroup": {
+    "accessionRanges": "D04493-D04503; D04505-D04509; D04512-D04517; D04519-D04521; D04523-D04532; D04534-D04589; D40023; D40064; D40197-D40209", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65723, 
+    "shortTitle": "Grenoble Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 210 x 282 mm", 
+  "finberg": "LXXIV 44", 
+  "foreignTitle": null, 
+  "groupTitle": "Grenoble Sketchbook", 
+  "height": "282", 
+  "id": 31930, 
+  "inscription": null, 
+  "medium": "Chalk, gouache and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 7926, 
+                "name": "Eiger"
+              }, 
+              {
+                "id": 882, 
+                "name": "Grindelwald Glacier"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04537_8.jpg", 
+  "title": "The Lower Glacier, Grindelwald, with the Eiger", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-lower-glacier-grindelwald-with-the-eiger-d04537", 
+  "width": "210"
+}

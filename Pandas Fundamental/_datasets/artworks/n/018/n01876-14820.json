@@ -1,0 +1,76 @@
+{
+  "acno": "N01876", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1835, 
+    "startYear": 1830, 
+    "text": "?c.1830-5"
+  }, 
+  "dateText": "?c.1830\u20135", 
+  "depth": "", 
+  "dimensions": "support: 667 x 819 mm\r\nframe: 905 x 1067 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "819", 
+  "id": 14820, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01876_8.jpg", 
+  "title": "Sunset", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sunset-n01876", 
+  "width": "667"
+}

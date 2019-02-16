@@ -1,0 +1,98 @@
+{
+  "acno": "D18543", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D18543", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D185/D18543_E.jpg", 
+          "height": 346, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1145218, 
+  "catalogueGroup": {
+    "accessionRanges": "D18525-D18568; D18571-D18590; D40975-D40977", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65848, 
+    "shortTitle": "Paris, Seine and Dieppe Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1821, 
+    "startYear": 1821, 
+    "text": "1821"
+  }, 
+  "dateText": "1821", 
+  "depth": "", 
+  "dimensions": "support: 113 x 189 mm", 
+  "finberg": "CCXI 12", 
+  "foreignTitle": null, 
+  "groupTitle": "Paris, Seine and Dieppe Sketchbook", 
+  "height": "189", 
+  "id": 45896, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 25, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2354, 
+                "name": "mast"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18543_8.jpg", 
+  "title": "Bows, and Rigging of a Vessel at Greenwich", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bows-and-rigging-of-a-vessel-at-greenwich-d18543", 
+  "width": "113"
+}

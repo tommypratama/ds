@@ -1,0 +1,102 @@
+{
+  "acno": "T00861", 
+  "acquisitionYear": 1966, 
+  "all_artists": "Charles Hardaker", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "born 1934", 
+      "displayOrder": 1, 
+      "fc": "Charles Hardaker", 
+      "gender": "Male", 
+      "id": 1247, 
+      "mda": "Hardaker, Charles", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1966", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "20", 
+  "dimensions": "support: 1215 x 912 x 20 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "912", 
+  "id": 5839, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5348, 
+                "name": "Plato, 'Timaeus'"
+              }
+            ], 
+            "id": 56, 
+            "name": "classical"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }, 
+              {
+                "id": 1284, 
+                "name": "box"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5349, 
+                "name": "philosophy"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Charles Hardaker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00861_8.jpg", 
+  "title": "Still Life: Vertical Structures, Three Times Three", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hardaker-still-life-vertical-structures-three-times-three-t00861", 
+  "width": "1215"
+}

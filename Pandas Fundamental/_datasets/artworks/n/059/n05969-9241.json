@@ -1,0 +1,76 @@
+{
+  "acno": "N05969", 
+  "acquisitionYear": 1950, 
+  "all_artists": "Giacomo Manzu", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131991", 
+      "displayOrder": 1, 
+      "fc": "Giacomo Manzu", 
+      "gender": "Male", 
+      "id": 1572, 
+      "mda": "Manzu, Giacomo", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1950", 
+  "dateRange": {
+    "endYear": 1944, 
+    "startYear": 1944, 
+    "text": "1944"
+  }, 
+  "dateText": "1944", 
+  "depth": "", 
+  "dimensions": "support: 254 x 381 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "381", 
+  "id": 9241, 
+  "inscription": null, 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Reclining Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/manzu-reclining-woman-n05969", 
+  "width": "254"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "T01654", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Joan Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131908", 
+      "displayOrder": 1, 
+      "fc": "Joan Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1187, 
+      "mda": "Gonz\u00e1lez, Joan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mme Roberta Gonzalez-Richard, the artist's niece 1972", 
+  "dateRange": {
+    "endYear": 1905, 
+    "startYear": 1905, 
+    "text": "c.1905"
+  }, 
+  "dateText": "c.1905", 
+  "depth": "", 
+  "dimensions": "support: 479 x 622 mm", 
+  "foreignTitle": "Les Quatre Arbres", 
+  "groupTitle": null, 
+  "height": "622", 
+  "id": 5416, 
+  "inscription": null, 
+  "medium": "Watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 466, 
+                "name": "bush"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01654_8.jpg", 
+  "title": "Four Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-four-trees-t01654", 
+  "width": "479"
+}

@@ -1,0 +1,128 @@
+{
+  "acno": "P11141", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Ivor Abrahams", 
+  "catalogueGroup": {
+    "accessionRanges": "P11135-P11154", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65664, 
+    "shortTitle": "E.A. Poe: Tales and Poems"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Ivor Abrahams", 
+      "gender": "Male", 
+      "id": 622, 
+      "mda": "Abrahams, Ivor", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Evelyne Abrahams, the artist's wife 1986", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 220 x 180 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "E.A. Poe: Tales and Poems", 
+  "height": "180", 
+  "id": 369, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 320, 
+      "name": "Surrealism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8488, 
+                "name": "Poe, Edgar Allan, 'A Dream within a Dream'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6368, 
+                "name": "hour glass"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6743, 
+                "name": "illogicality"
+              }, 
+              {
+                "id": 4312, 
+                "name": "time"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ivor Abrahams", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11141_8.jpg", 
+  "title": "A Dream Within a Dream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-a-dream-within-a-dream-p11141", 
+  "width": "220"
+}

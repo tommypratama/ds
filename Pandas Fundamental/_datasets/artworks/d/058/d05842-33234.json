@@ -1,0 +1,134 @@
+{
+  "acno": "D05842", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D05842", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D58/D05842_E.jpg", 
+          "height": 346, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130064, 
+  "catalogueGroup": {
+    "accessionRanges": "D05766-D05842; D05844; D40632; D40634-D40636", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65740, 
+    "shortTitle": "Hesperides (1) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 171 x 262 mm", 
+  "finberg": "XCIII 44", 
+  "foreignTitle": null, 
+  "groupTitle": "Hesperides (1) Sketchbook", 
+  "height": "262", 
+  "id": 33234, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "pageNumber": 89, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1105, 
+                "name": "ford"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05842_8.jpg", 
+  "title": "Figures and Horses: Related to \u2018Men with Horses Crossing a River\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-and-horses-related-to-men-with-horses-crossing-a-river-d05842", 
+  "width": "171"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "P79065", 
+  "acquisitionYear": 2005, 
+  "all_artists": "John Latham", 
+  "catalogueGroup": {
+    "accessionRanges": "P79062-P79066", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 85189, 
+    "shortTitle": "(5 photo etchings)"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u2013 2006", 
+      "displayOrder": 1, 
+      "fc": "John Latham", 
+      "gender": "Male", 
+      "id": 1470, 
+      "mda": "Latham, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Anne Best 2005", 
+  "dateRange": {
+    "endYear": 2004, 
+    "startYear": 2004, 
+    "text": "2004"
+  }, 
+  "dateText": "2004", 
+  "depth": "", 
+  "dimensions": "image: 803 x 598 mm\r\nsupport: 997 x 792 mm\r\nplate: 807 x 605 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "(5 photo etchings)", 
+  "height": "598", 
+  "id": 85187, 
+  "inscription": null, 
+  "medium": "Photo-etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Latham Estate, courtesy Lisson Gallery, London", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79065_8.jpg", 
+  "title": "Presumed Level of Abstraction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/latham-presumed-level-of-abstraction-p79065", 
+  "width": "803"
+}

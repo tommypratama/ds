@@ -1,0 +1,92 @@
+{
+  "acno": "T12753", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Andreas Slominski", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1959, 
+      "date": "born 1959", 
+      "displayOrder": 1, 
+      "fc": "Andreas Slominski", 
+      "gender": "Male", 
+      "id": 11404, 
+      "mda": "Slominski, Andreas", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased using funds provided by the 2007 Outset / Frieze Art Fair Fund to benefit the Tate Collection 2008", 
+  "dateRange": {
+    "endYear": 2002, 
+    "startYear": 1998, 
+    "text": "1998, reconstructed 2002"
+  }, 
+  "dateText": "1998, reconstructed 2002", 
+  "depth": "1630", 
+  "dimensions": "unconfirmed: 3770 x 1620 x 1630 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1620", 
+  "id": 97081, 
+  "inscription": null, 
+  "medium": "Wood, metal, tar and rope", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 18564, 
+                "name": "Paris, Moulin Rouge"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Andreas Slominski", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12753_8.jpg", 
+  "title": "Moulin Rouge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/slominski-moulin-rouge-t12753", 
+  "width": "3770"
+}

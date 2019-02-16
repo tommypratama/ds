@@ -1,0 +1,96 @@
+{
+  "acno": "T03105", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Lucian Freud", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Lucian Freud", 
+      "gender": "Male", 
+      "id": 1120, 
+      "mda": "Freud, Lucian", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1977, 
+    "text": "1977-80"
+  }, 
+  "dateText": "1977\u201380", 
+  "depth": "", 
+  "dimensions": "support: 1499 x 1200 mm\r\nframe: 1670 x 1365 x 90 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1200", 
+  "id": 4556, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1666, 
+      "name": "School of London"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4291, 
+                "name": "aspidistra"
+              }, 
+              {
+                "id": 15558, 
+                "name": "helichrysum"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 206, 
+                "name": "studio"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Lucian Freud Archive", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03105_8.jpg", 
+  "title": "Two Plants", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/freud-two-plants-t03105", 
+  "width": "1499"
+}

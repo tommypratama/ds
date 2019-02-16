@@ -1,0 +1,130 @@
+{
+  "acno": "P03228", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Joel Smith", 
+  "catalogueGroup": {
+    "accessionRanges": "P03217-P03229", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65604, 
+    "shortTitle": "Centennial Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1929, 
+      "date": "born 1929", 
+      "displayOrder": 1, 
+      "fc": "Joel Smith", 
+      "gender": "Male", 
+      "id": 1957, 
+      "mda": "Smith, Joel", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Simon Fraser University, British Columbia 1977", 
+  "dateRange": {
+    "endYear": 1968, 
+    "startYear": 1967, 
+    "text": "1967-8"
+  }, 
+  "dateText": "1967\u20138", 
+  "depth": "", 
+  "dimensions": "image: 486 x 359 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Centennial Suite", 
+  "height": "359", 
+  "id": 13515, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4608, 
+                "name": "playing card"
+              }
+            ], 
+            "id": 285, 
+            "name": "sports and games"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Red Queen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-the-red-queen-p03228", 
+  "width": "486"
+}

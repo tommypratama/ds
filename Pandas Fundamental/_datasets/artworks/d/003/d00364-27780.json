@@ -1,0 +1,152 @@
+{
+  "acno": "D00364", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00364", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D03/D00364_E.jpg", 
+          "height": 405, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1141075, 
+  "catalogueGroup": {
+    "accessionRanges": "D00327-D00328; D00330-D00344; D00347-D00354; D00358-D00366; D00369-D00372; D00377-D00378; D00402-D00403; D00405; D00662; D00664; D00699-D00700; D36581-D36583; D40040-D40041; D40235-D40238; D40271", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127528, 
+    "shortTitle": "Drawings Made on the Midland Tour"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1794, 
+    "startYear": 1794, 
+    "text": "1794"
+  }, 
+  "dateText": "1794", 
+  "depth": "", 
+  "dimensions": "support: 216 x 276 mm", 
+  "finberg": "XXII K", 
+  "foreignTitle": null, 
+  "groupTitle": "Drawings Made on the Midland Tour", 
+  "height": "276", 
+  "id": 27780, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7937, 
+                "name": "Lincoln, Lincoln Cathedral"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2871, 
+                "name": "Lincolnshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }, 
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00364_8.jpg", 
+  "title": "Lincoln: The Cathedral Seen over Houses, from the South West", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lincoln-the-cathedral-seen-over-houses-from-the-south-west-d00364", 
+  "width": "216"
+}

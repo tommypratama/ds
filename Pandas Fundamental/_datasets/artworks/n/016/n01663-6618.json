@@ -1,0 +1,140 @@
+{
+  "acno": "N01663", 
+  "acquisitionYear": 1898, 
+  "all_artists": "William Hogarth", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1697, 
+      "date": "1697\u20131764", 
+      "displayOrder": 1, 
+      "fc": "William Hogarth", 
+      "gender": "Male", 
+      "id": 265, 
+      "mda": "Hogarth, William", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1898", 
+  "dateRange": {
+    "endYear": 1741, 
+    "startYear": 1741, 
+    "text": "1741"
+  }, 
+  "dateText": "1741", 
+  "depth": "", 
+  "dimensions": "support: 762 x 635 mm\r\nframe: 1037 x 916 x 122 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "635", 
+  "id": 6618, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 346, 
+      "name": "Rococo"
+    }
+  ], 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4040, 
+                "name": "Salter, Elizabeth"
+              }, 
+              {
+                "id": 4041, 
+                "name": "Secker, Elizabeth"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5689, 
+                "name": "cartouche"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress"
+              }, 
+              {
+                "id": 629, 
+                "name": "jewellery"
+              }, 
+              {
+                "id": 7842, 
+                "name": "lace"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01663_8.jpg", 
+  "title": "Mrs Salter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hogarth-mrs-salter-n01663", 
+  "width": "762"
+}

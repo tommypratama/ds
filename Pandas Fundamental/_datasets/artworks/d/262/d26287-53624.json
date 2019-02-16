@@ -1,0 +1,94 @@
+{
+  "acno": "D26287", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D26287", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D262/D26287_E.jpg", 
+          "height": 332, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1136217, 
+  "catalogueGroup": {
+    "accessionRanges": "D26259-D26435; D41047-D41049", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65894, 
+    "shortTitle": "Stirling and Edinburgh Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "1834"
+  }, 
+  "dateText": "1834", 
+  "depth": "", 
+  "dimensions": "support: 113 x 190 mm", 
+  "finberg": "CCLXIX 15", 
+  "foreignTitle": null, 
+  "groupTitle": "Stirling and Edinburgh Sketchbook", 
+  "height": "190", 
+  "id": 53624, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 31, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26287_8.jpg", 
+  "title": "Craignethan Castle, Lanarkshire from the North", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-craignethan-castle-lanarkshire-from-the-north-d26287", 
+  "width": "113"
+}

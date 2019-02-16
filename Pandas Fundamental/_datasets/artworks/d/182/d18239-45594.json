@@ -1,0 +1,103 @@
+{
+  "acno": "D18239", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D18239", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D182/D18239_E.jpg", 
+          "height": 343, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D18159-D18310; D41437-D41439", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65845, 
+    "shortTitle": "Norfolk, Suffolk and Essex Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1824, 
+    "text": "c.1824"
+  }, 
+  "dateText": "c.1824", 
+  "depth": "", 
+  "dimensions": "support: 115 x 188 mm", 
+  "finberg": "CCIX 42 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Norfolk, Suffolk and Essex Sketchbook", 
+  "height": "188", 
+  "id": 45594, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 86, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2043, 
+                "name": "lighthouse"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18239_8.jpg", 
+  "title": "Groups of Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-groups-of-buildings-d18239", 
+  "width": "115"
+}

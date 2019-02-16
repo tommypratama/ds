@@ -1,0 +1,111 @@
+{
+  "acno": "D25458", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1830, 
+    "startYear": 1820, 
+    "text": "c.1820"
+  }, 
+  "dateText": "c.1820", 
+  "depth": "", 
+  "dimensions": "support: 143 x 226 mm", 
+  "finberg": "CCLXIII 335", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "226", 
+  "id": 52795, 
+  "inscription": null, 
+  "medium": "Gouache and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3529, 
+                "name": "artillery"
+              }, 
+              {
+                "id": 12084, 
+                "name": "weapon, firing / explosion"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }, 
+              {
+                "id": 1163, 
+                "name": "ship, warship"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25458_8.jpg", 
+  "title": "The Morning Gun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-morning-gun-d25458", 
+  "width": "143"
+}

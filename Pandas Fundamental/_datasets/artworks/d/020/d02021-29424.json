@@ -1,0 +1,159 @@
+{
+  "acno": "D02021", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D02021", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D20/D02021_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 346
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D01993-D02177; D40765-D40771", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65699, 
+    "shortTitle": "Dolbadarn Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1800, 
+    "startYear": 1799, 
+    "text": "1799-1800"
+  }, 
+  "dateText": "1799\u20131800", 
+  "depth": "", 
+  "dimensions": "support: 131 x 78 mm", 
+  "finberg": "XLVI 18 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Dolbadarn Sketchbook", 
+  "height": "78", 
+  "id": 29424, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 40, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5669, 
+                "name": "Flintshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12102, 
+                "name": "Holywell, St Winefride's Well"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7712, 
+                "name": "cloisters"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02021_8.jpg", 
+  "title": "The Interior of the Cloisters, St Winefride\u2019s Well, Holywell", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-interior-of-the-cloisters-st-winefrides-well-holywell-d02021", 
+  "width": "131"
+}

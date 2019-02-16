@@ -1,0 +1,140 @@
+{
+  "acno": "N03423", 
+  "acquisitionYear": 1919, 
+  "all_artists": "Charles Conder", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131909", 
+      "displayOrder": 1, 
+      "fc": "Charles Conder", 
+      "gender": "Male", 
+      "id": 934, 
+      "mda": "Conder, Charles", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by Arthur Studd 1919", 
+  "dateRange": {
+    "endYear": 1891, 
+    "startYear": 1891, 
+    "text": "1891"
+  }, 
+  "dateText": "1891", 
+  "depth": "", 
+  "dimensions": "support: 800 x 451 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "451", 
+  "id": 2547, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 351, 
+      "name": "Aesthetic Movement"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16651, 
+      "name": "Fin de Si\u00e8cle"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2270, 
+                "name": "blossom"
+              }, 
+              {
+                "id": 2386, 
+                "name": "plum"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1615, 
+                "name": "spring"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03423_8.jpg", 
+  "title": "The Plum Tree", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/conder-the-plum-tree-n03423", 
+  "width": "800"
+}

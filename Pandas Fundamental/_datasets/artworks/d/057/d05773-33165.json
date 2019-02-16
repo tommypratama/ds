@@ -1,0 +1,130 @@
+{
+  "acno": "D05773", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D05773", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D57/D05773_E.jpg", 
+          "height": 351, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1129994, 
+  "catalogueGroup": {
+    "accessionRanges": "D05766-D05842; D05844; D40632; D40634-D40636", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65740, 
+    "shortTitle": "Hesperides (1) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 171 x 190 mm", 
+  "finberg": "XCIII 4 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Hesperides (1) Sketchbook", 
+  "height": "190", 
+  "id": 33165, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "pageNumber": 10, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05773_8.jpg", 
+  "title": "Studies for Figures in \u2018Dido and Aeneas\u2019; and of a Horse, Related to \u2018The Destruction of Sodom\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-for-figures-in-dido-and-aeneas-and-of-a-horse-related-to-the-destruction-of-d05773", 
+  "width": "171"
+}

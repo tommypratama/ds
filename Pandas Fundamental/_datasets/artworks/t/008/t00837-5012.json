@@ -1,0 +1,130 @@
+{
+  "acno": "T00837", 
+  "acquisitionYear": 1966, 
+  "all_artists": "Henri Gaudier-Brzeska", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131915", 
+      "displayOrder": 1, 
+      "fc": "Henri Gaudier-Brzeska", 
+      "gender": "Male", 
+      "id": 1143, 
+      "mda": "Gaudier-Brzeska, Henri", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Kettle's Yard Collection, Cambridge 1966", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1914, 
+    "text": "1914, cast 1965"
+  }, 
+  "dateText": "1914, cast 1965", 
+  "depth": "76", 
+  "dimensions": "object: 711 x 927 x 76 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "927", 
+  "id": 5012, 
+  "inscription": null, 
+  "medium": "Plaster", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 9312, 
+      "name": "London Group"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 322, 
+      "name": "Vorticism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 545, 
+                "name": "fighting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1866, 
+                "name": "twisting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1522, 
+                "name": "wrestling"
+              }
+            ], 
+            "id": 54, 
+            "name": "sport"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00837_8.jpg", 
+  "title": "Wrestlers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-wrestlers-t00837", 
+  "width": "711"
+}

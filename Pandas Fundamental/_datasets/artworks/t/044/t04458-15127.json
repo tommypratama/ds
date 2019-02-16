@@ -1,0 +1,172 @@
+{
+  "acno": "T04458", 
+  "acquisitionYear": 1986, 
+  "all_artists": "after Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "T04439-T04484", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65615, 
+    "shortTitle": "History of Richmondshire"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "after", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1986", 
+  "dateRange": {
+    "endYear": 1822, 
+    "startYear": 1822, 
+    "text": "1822"
+  }, 
+  "dateText": "1822", 
+  "depth": "", 
+  "dimensions": "image: 189 x 270 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "History of Richmondshire", 
+  "height": "270", 
+  "id": 15127, 
+  "inscription": null, 
+  "medium": "Line engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12492, 
+                "name": "Marrick, Marrick Priory"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9130, 
+                "name": "River Swale"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }, 
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04458_8.jpg", 
+  "title": "Merrick Abbey, Swaledale", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-merrick-abbey-swaledale-t04458", 
+  "width": "189"
+}

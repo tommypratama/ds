@@ -1,0 +1,90 @@
+{
+  "acno": "T01652", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Joan Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131908", 
+      "displayOrder": 1, 
+      "fc": "Joan Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1187, 
+      "mda": "Gonz\u00e1lez, Joan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mme Roberta Gonzalez-Richard, the artist's niece 1972", 
+  "dateRange": {
+    "endYear": 1904, 
+    "startYear": 1904, 
+    "text": "1904"
+  }, 
+  "dateText": "1904", 
+  "depth": "", 
+  "dimensions": "support: 470 x 610 mm", 
+  "foreignTitle": "Paysage dit 'La Grille'", 
+  "groupTitle": null, 
+  "height": "610", 
+  "id": 5414, 
+  "inscription": "date inscribed", 
+  "medium": "Gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01652_8.jpg", 
+  "title": "Landscape Known As \u2018The Iron Gate\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-landscape-known-as-the-iron-gate-t01652", 
+  "width": "470"
+}

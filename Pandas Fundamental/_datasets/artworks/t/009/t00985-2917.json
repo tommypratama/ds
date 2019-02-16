@@ -1,0 +1,126 @@
+{
+  "acno": "T00985", 
+  "acquisitionYear": 1967, 
+  "all_artists": "John Robert Cozens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1752, 
+      "date": "1752\u20131797", 
+      "displayOrder": 1, 
+      "fc": "John Robert Cozens", 
+      "gender": "Male", 
+      "id": 119, 
+      "mda": "Cozens, John Robert", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund (Herbert Powell Bequest) 1967", 
+  "dateRange": {
+    "endYear": 1776, 
+    "startYear": 1776, 
+    "text": "?1776"
+  }, 
+  "dateText": "?1776", 
+  "depth": "", 
+  "dimensions": "support: 229 x 359 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "359", 
+  "id": 2917, 
+  "inscription": null, 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 7923, 
+                "name": "Lake Geneva"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00985_8.jpg", 
+  "title": "The Lake of Geneva (?)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-the-lake-of-geneva-t00985", 
+  "width": "229"
+}

@@ -1,0 +1,298 @@
+{
+  "acno": "T06562", 
+  "acquisitionYear": 1992, 
+  "all_artists": "James Barry", 
+  "catalogueGroup": {
+    "accessionRanges": "T06557-T06568; T06571-T06584", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65516, 
+    "shortTitle": "A Series of Etchings by James Barry, Esq. from his Original and Justly Celebrated Paintings, in the Great Room of the Society of Arts"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1741, 
+      "date": "1741\u20131806", 
+      "displayOrder": 1, 
+      "fc": "James Barry", 
+      "gender": "Male", 
+      "id": 24, 
+      "mda": "Barry, James", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1992", 
+  "dateRange": {
+    "endYear": 1795, 
+    "startYear": 1795, 
+    "text": "1795"
+  }, 
+  "dateText": "1795", 
+  "depth": "", 
+  "dimensions": "image: 849 x 476 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Series of Etchings by James Barry, Esq. from his Original and Justly Celebrated Paintings, in the Great Room of the Society of Arts", 
+  "height": "476", 
+  "id": 20426, 
+  "inscription": null, 
+  "medium": "Etching and line engraving on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 344, 
+      "name": "Neo-Classicism"
+    }
+  ], 
+  "subjectCount": 28, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 22710, 
+                "name": "Aristotle"
+              }, 
+              {
+                "id": 13749, 
+                "name": "Brutus, Lucius Junius"
+              }, 
+              {
+                "id": 13750, 
+                "name": "Brutus, Marcus Junius"
+              }, 
+              {
+                "id": 13751, 
+                "name": "Cato the Younger"
+              }, 
+              {
+                "id": 8448, 
+                "name": "Columbus, Christopher"
+              }, 
+              {
+                "id": 13747, 
+                "name": "Epaminondas"
+              }, 
+              {
+                "id": 22706, 
+                "name": "Harvey, William"
+              }, 
+              {
+                "id": 20590, 
+                "name": "Hippocrates"
+              }, 
+              {
+                "id": 22709, 
+                "name": "Locke, John"
+              }, 
+              {
+                "id": 22705, 
+                "name": "Lucius Junius Brutus"
+              }, 
+              {
+                "id": 5050, 
+                "name": "More, Thomas, Sir"
+              }, 
+              {
+                "id": 20684, 
+                "name": "Plato"
+              }, 
+              {
+                "id": 20720, 
+                "name": "Shaftesbury, Anthony Ashley-Cooper, Earl of"
+              }, 
+              {
+                "id": 13748, 
+                "name": "Socrates"
+              }, 
+              {
+                "id": 22711, 
+                "name": "Zeno"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20115, 
+                "name": "groups"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11468, 
+                "name": "Swift, Jonathan, 'Gulliver's Travels'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5733, 
+                "name": "angel"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1196, 
+                "name": "author"
+              }
+            ], 
+            "id": 126, 
+            "name": "literary"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13711, 
+                "name": "philosopher"
+              }
+            ], 
+            "id": 121, 
+            "name": "educational and scientific"
+          }, 
+          {
+            "children": [
+              {
+                "id": 808, 
+                "name": "politician - non-specific"
+              }
+            ], 
+            "id": 130, 
+            "name": "public service"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3564, 
+                "name": "democracy"
+              }, 
+              {
+                "id": 4438, 
+                "name": "political belief"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }, 
+          {
+            "children": [
+              {
+                "id": 232, 
+                "name": "freedom"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5210, 
+                "name": "toga"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06562_8.jpg", 
+  "title": "The Glorious Sextumvirate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barry-the-glorious-sextumvirate-t06562", 
+  "width": "849"
+}

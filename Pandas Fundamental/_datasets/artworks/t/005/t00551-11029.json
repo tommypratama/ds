@@ -1,0 +1,86 @@
+{
+  "acno": "T00551", 
+  "acquisitionYear": 1962, 
+  "all_artists": "Am\u00e9d\u00e9e Ozenfant", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1886, 
+      "date": "1886\u20131966", 
+      "displayOrder": 1, 
+      "fc": "Am\u00e9d\u00e9e Ozenfant", 
+      "gender": "Male", 
+      "id": 1731, 
+      "mda": "Ozenfant, Am\u00e9d\u00e9e", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Purchased 1962", 
+  "dateRange": {
+    "endYear": 1926, 
+    "startYear": 1922, 
+    "text": "c.1922-6"
+  }, 
+  "dateText": "c.1922\u20136", 
+  "depth": "", 
+  "dimensions": "support: 727 x 603 mm\r\nframe: 905 x 784 x 60 mm", 
+  "foreignTitle": "Verres et bouteilles", 
+  "groupTitle": null, 
+  "height": "603", 
+  "id": 11029, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1664, 
+      "name": "Purism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00551_8.jpg", 
+  "title": "Glasses and Bottles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ozenfant-glasses-and-bottles-t00551", 
+  "width": "727"
+}

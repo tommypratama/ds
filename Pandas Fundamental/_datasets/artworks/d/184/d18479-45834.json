@@ -1,0 +1,100 @@
+{
+  "acno": "D18479", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D18479; D18481; D18483-D18524; D40743", 
+    "completeStatus": "COMPLETE", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65847, 
+    "shortTitle": "Academy Auditing Sketchbook [Finberg CCX(a)]"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1810, 
+    "text": "c.1810-24"
+  }, 
+  "dateText": "c.1810\u201324", 
+  "depth": "", 
+  "dimensions": "support: 187 x 115 mm", 
+  "finberg": "CCX a 1", 
+  "foreignTitle": null, 
+  "groupTitle": "Academy Auditing Sketchbook [Finberg CCX(a)]", 
+  "height": "115", 
+  "id": 45834, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 4, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18479_8.jpg", 
+  "title": "A Study of a Cloudy Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-study-of-a-cloudy-sky-d18479", 
+  "width": "187"
+}

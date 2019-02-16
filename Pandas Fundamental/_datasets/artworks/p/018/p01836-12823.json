@@ -1,0 +1,140 @@
+{
+  "acno": "P01836", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Dieter Roth", 
+  "catalogueGroup": {
+    "accessionRanges": "P01836-P01838", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65508, 
+    "shortTitle": "German Cities"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Dieter Roth", 
+      "gender": "Male", 
+      "id": 1870, 
+      "mda": "Roth, Dieter", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Richard Hamilton 1978", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 552 x 768 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "German Cities", 
+  "height": "768", 
+  "id": 12823, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10404, 
+                "name": "Berlin - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5931, 
+                "name": "monument"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Dieter Roth", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01836_8.jpg", 
+  "title": "Berlin 1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/roth-berlin-1-p01836", 
+  "width": "552"
+}

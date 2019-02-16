@@ -1,0 +1,112 @@
+{
+  "acno": "T00080", 
+  "acquisitionYear": 1956, 
+  "all_artists": "John Marin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1870, 
+      "date": "1870\u20131953", 
+      "displayOrder": 1, 
+      "fc": "John Marin", 
+      "gender": "Male", 
+      "id": 1580, 
+      "mda": "Marin, John", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased out of a sum of money made available from the Bruern Foundation 1956", 
+  "dateRange": {
+    "endYear": 1923, 
+    "startYear": 1923, 
+    "text": "1923"
+  }, 
+  "dateText": "1923", 
+  "depth": "", 
+  "dimensions": "support: 679 x 552 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "552", 
+  "id": 9291, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5033, 
+                "name": "New York - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7289, 
+                "name": "tower block"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Downtown, New York", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/marin-downtown-new-york-t00080", 
+  "width": "679"
+}

@@ -1,0 +1,98 @@
+{
+  "acno": "N02868", 
+  "acquisitionYear": 1912, 
+  "all_artists": "Walter Howell Deverell", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1827, 
+      "date": "1827\u20131854", 
+      "displayOrder": 1, 
+      "fc": "Walter Howell Deverell", 
+      "gender": "Male", 
+      "id": 147, 
+      "mda": "Deverell, Walter Howell", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by Wykeham Deverell 1912", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 140 x 102 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "102", 
+  "id": 3830, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2378, 
+                "name": "ribbon"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02868_8.jpg", 
+  "title": "Louisa", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/deverell-louisa-n02868", 
+  "width": "140"
+}

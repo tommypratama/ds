@@ -1,0 +1,154 @@
+{
+  "acno": "D13433", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D13433", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D134/D13433_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 345
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131979, 
+  "catalogueGroup": {
+    "accessionRanges": "D13322-D13448; D40682-D40684", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65807, 
+    "shortTitle": "Bass Rock and Edinburgh Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1818, 
+    "text": "1818"
+  }, 
+  "dateText": "1818", 
+  "depth": "", 
+  "dimensions": "support: 159 x 99 mm", 
+  "finberg": "CLXV 61", 
+  "foreignTitle": null, 
+  "groupTitle": "Bass Rock and Edinburgh Sketchbook", 
+  "height": "99", 
+  "id": 40801, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 127, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 26747, 
+                "name": "Edinburgh, George Street, St Andrew's Church"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7249, 
+                "name": "Lothian, East"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13433_8.jpg", 
+  "title": "St Andrew\u2019s Church, Edinburgh; and East Lothian Coastlines", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-andrews-church-edinburgh-and-east-lothian-coastlines-d13433", 
+  "width": "159"
+}

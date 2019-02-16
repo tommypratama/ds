@@ -1,0 +1,88 @@
+{
+  "acno": "P11261", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Julian Trevelyan", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Julian Trevelyan", 
+      "gender": "Male", 
+      "id": 2065, 
+      "mda": "Trevelyan, Julian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Mary Trevelyan, the artist's widow 1989", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1946, 
+    "text": "after 1945"
+  }, 
+  "dateText": "after 1945", 
+  "depth": "", 
+  "dimensions": "image: 498 x 375 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "375", 
+  "id": 18922, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement"
+              }, 
+              {
+                "id": 2885, 
+                "name": "clocktower"
+              }, 
+              {
+                "id": 971, 
+                "name": "door"
+              }, 
+              {
+                "id": 1702, 
+                "name": "niche"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Julian Trevelyan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11261_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-no-title-p11261", 
+  "width": "498"
+}

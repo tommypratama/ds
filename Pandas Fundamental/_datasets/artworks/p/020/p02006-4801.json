@@ -1,0 +1,86 @@
+{
+  "acno": "P02006", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {
+    "accessionRanges": "P01930-P01937; P02006", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65317, 
+    "shortTitle": "Opus 6"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1971", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1955, 
+    "text": "1955-6"
+  }, 
+  "dateText": "1955\u20136", 
+  "depth": "", 
+  "dimensions": "image: 385 x 333 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Opus 6", 
+  "height": "333", 
+  "id": 4801, 
+  "inscription": null, 
+  "medium": "Monoprint from wood engraving on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02006_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02006", 
+  "width": "385"
+}

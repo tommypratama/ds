@@ -1,0 +1,104 @@
+{
+  "acno": "N05547", 
+  "acquisitionYear": 1944, 
+  "all_artists": "Charles Conder", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131909", 
+      "displayOrder": 1, 
+      "fc": "Charles Conder", 
+      "gender": "Male", 
+      "id": 934, 
+      "mda": "Conder, Charles", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Dr Robert Steele 1944", 
+  "dateRange": {
+    "endYear": 1895, 
+    "startYear": 1895, 
+    "text": "c.1895"
+  }, 
+  "dateText": "c.1895", 
+  "depth": "", 
+  "dimensions": "support: 724 x 597 mm\r\nframe: 869 x 736 x 69 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "597", 
+  "id": 2560, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 351, 
+      "name": "Aesthetic Movement"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16651, 
+      "name": "Fin de Si\u00e8cle"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05547_8.jpg", 
+  "title": "Trees in a Meadow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/conder-trees-in-a-meadow-n05547", 
+  "width": "724"
+}

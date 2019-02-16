@@ -1,0 +1,320 @@
+{
+  "acno": "P03089", 
+  "acquisitionYear": 1918, 
+  "all_artists": "Edmund J. Sullivan", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1869, 
+      "date": "1869\u20131933", 
+      "displayOrder": 1, 
+      "fc": "Edmund J. Sullivan", 
+      "gender": "Male", 
+      "id": 2010, 
+      "mda": "Sullivan, Edmund J.", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Ministry of Information 1918", 
+  "dateRange": {
+    "endYear": 1917, 
+    "startYear": 1917, 
+    "text": "1917"
+  }, 
+  "dateText": "1917", 
+  "depth": "", 
+  "dimensions": "image: 689 x 438 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "438", 
+  "id": 14009, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 10525, 
+      "name": "British War Art"
+    }
+  ], 
+  "subjectCount": 29, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11168, 
+                "name": "Africa"
+              }, 
+              {
+                "id": 3237, 
+                "name": "Asia"
+              }, 
+              {
+                "id": 4359, 
+                "name": "Far East"
+              }, 
+              {
+                "id": 7332, 
+                "name": "Native American"
+              }
+            ], 
+            "id": 152, 
+            "name": "dress: nations/regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11170, 
+                "name": "justice"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3111, 
+                "name": "Asian"
+              }, 
+              {
+                "id": 1902, 
+                "name": "Native American"
+              }, 
+              {
+                "id": 1325, 
+                "name": "black"
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 1056, 
+                "name": "crawling"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 794, 
+                "name": "figure"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9590, 
+                "name": "saluting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific"
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1901, 
+                "name": "headdress"
+              }, 
+              {
+                "id": 1871, 
+                "name": "turban"
+              }, 
+              {
+                "id": 5040, 
+                "name": "wig"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9109, 
+                "name": "scales"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }, 
+          {
+            "children": [
+              {
+                "id": 878, 
+                "name": "spear"
+              }, 
+              {
+                "id": 619, 
+                "name": "sword"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11167, 
+                "name": "justice - woman with sword and scales"
+              }
+            ], 
+            "id": 8024, 
+            "name": "society"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1708, 
+                "name": "monster"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5377, 
+                "name": "rainbow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1018, 
+                "name": "platform / stage"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03089_8.jpg", 
+  "title": "Reign of Justice", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sullivan-reign-of-justice-p03089", 
+  "width": "689"
+}

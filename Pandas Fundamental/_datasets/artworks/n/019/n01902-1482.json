@@ -1,0 +1,136 @@
+{
+  "acno": "N01902", 
+  "acquisitionYear": 1902, 
+  "all_artists": "John Brett", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1831, 
+      "date": "1831\u20131902", 
+      "displayOrder": 1, 
+      "fc": "John Brett", 
+      "gender": "Male", 
+      "id": 53, 
+      "mda": "Brett, John", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Brett 1902", 
+  "dateRange": {
+    "endYear": 1871, 
+    "startYear": 1871, 
+    "text": "1871"
+  }, 
+  "dateText": "1871", 
+  "depth": "", 
+  "dimensions": "support: 1060 x 2127 mm\r\nframe: 1390 x 2458 x 121 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2127", 
+  "id": 1482, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1600, 
+                "name": "Dorset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1603, 
+                "name": "English Channel"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01902_8.jpg", 
+  "title": "The British Channel Seen from the Dorsetshire Cliffs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brett-the-british-channel-seen-from-the-dorsetshire-cliffs-n01902", 
+  "width": "1060"
+}

@@ -1,0 +1,83 @@
+{
+  "acno": "AR01127", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Robert Therrien", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1947, 
+      "date": "born 1947", 
+      "displayOrder": 1, 
+      "fc": "Robert Therrien", 
+      "gender": "Male", 
+      "id": 2312, 
+      "mda": "Therrien, Robert", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nPresented by the artist jointly to National Galleries of Scotland and Tate and acquired with assistance of the ARTIST ROOMS Endowment, supported by the Henry Moore Foundation 2011\r\n", 
+  "dateRange": {
+    "endYear": 2010, 
+    "startYear": 2010, 
+    "text": "2010"
+  }, 
+  "dateText": "2010", 
+  "depth": "1370", 
+  "dimensions": "displayed: 2390 x 1370 x 1370 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1370", 
+  "id": 111887, 
+  "inscription": null, 
+  "medium": "Plastic", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Robert Therrien", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR01127_8.jpg", 
+  "title": "No Title (Stacked Plates)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/therrien-no-title-stacked-plates-ar01127", 
+  "width": "2390"
+}

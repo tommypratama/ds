@@ -1,0 +1,122 @@
+{
+  "acno": "T03285", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Elsie Few", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1909, 
+      "date": "1909\u20131980", 
+      "displayOrder": 1, 
+      "fc": "Elsie Few", 
+      "gender": "Female", 
+      "id": 1090, 
+      "mda": "Few, Elsie", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1981", 
+  "dateRange": {
+    "endYear": 1947, 
+    "startYear": 1947, 
+    "text": "1947"
+  }, 
+  "dateText": "1947", 
+  "depth": "", 
+  "dimensions": "support: 305 x 356 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "356", 
+  "id": 4271, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1263, 
+                "name": "Essex"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12811, 
+                "name": "Toppesfield, Bradfields"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Elsie Few", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03285_8.jpg", 
+  "title": "Bradfields", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/few-bradfields-t03285", 
+  "width": "305"
+}

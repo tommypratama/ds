@@ -1,0 +1,146 @@
+{
+  "acno": "D00128", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00128", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D01/D00128_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 404
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1141334, 
+  "catalogueGroup": {
+    "accessionRanges": "D00116-D00117; D00126-D00129; D00148; D00162; D00178-D00180; D00182-D00183; D00190; D40221; D40225-D40227; D40267; D40547", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127527, 
+    "shortTitle": "Pencil Drawings of Oxford and the Home Counties"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1793, 
+    "startYear": 1792, 
+    "text": "1792-3"
+  }, 
+  "dateText": "1792\u20133", 
+  "depth": "", 
+  "dimensions": "support: 273 x 210 mm", 
+  "finberg": "XI C", 
+  "foreignTitle": null, 
+  "groupTitle": "Pencil Drawings of Oxford and the Home Counties", 
+  "height": "210", 
+  "id": 27544, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7587, 
+                "name": "Oxford, Christ Church College"
+              }, 
+              {
+                "id": 7588, 
+                "name": "Oxford, Kill Canon Passage"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 654, 
+                "name": "Oxfordshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6467, 
+                "name": "alley"
+              }, 
+              {
+                "id": 210, 
+                "name": "streetlight"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00128_8.jpg", 
+  "title": "Oxford: Kill Canon Passage, Christ Church, with Tom Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-oxford-kill-canon-passage-christ-church-with-tom-tower-d00128", 
+  "width": "273"
+}

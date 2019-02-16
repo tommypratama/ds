@@ -1,0 +1,96 @@
+{
+  "acno": "T00799", 
+  "acquisitionYear": 1965, 
+  "all_artists": "Sir Anthony Caro", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132013", 
+      "displayOrder": 1, 
+      "fc": "Sir Anthony Caro", 
+      "gender": "Male", 
+      "id": 865, 
+      "mda": "Caro, Sir Anthony", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1965", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "3975", 
+  "dimensions": "object: 1791 x 1981 x 3975 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1981", 
+  "id": 1993, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Anthony Caro/Barford Sculptures Ltd", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00799_8.jpg", 
+  "title": "Yellow Swing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caro-yellow-swing-t00799", 
+  "width": "1791"
+}

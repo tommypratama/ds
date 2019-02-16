@@ -1,0 +1,288 @@
+{
+  "acno": "T03551", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Francesco Clemente", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1952, 
+      "date": "born 1952", 
+      "displayOrder": 1, 
+      "fc": "Francesco Clemente", 
+      "gender": "Male", 
+      "id": 917, 
+      "mda": "Clemente, Francesco", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "", 
+  "dimensions": "support: 2010 x 2507 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2507", 
+  "id": 2302, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 431, 
+      "name": "Neo-Expressionism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 12069, 
+      "name": "Transavanguardia"
+    }
+  ], 
+  "subjectCount": 19, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6272, 
+                "name": "Hinduism"
+              }
+            ], 
+            "id": 137, 
+            "name": "world religions"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15736, 
+                "name": "Shiva - eye"
+              }
+            ], 
+            "id": 165, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15735, 
+                "name": "female - boat"
+              }
+            ], 
+            "id": 848, 
+            "name": "gender"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2974, 
+                "name": "ambiguity"
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15737, 
+                "name": "androgyny"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1572, 
+                "name": "eye"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }, 
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4208, 
+                "name": "blindfold"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3050, 
+                "name": "sex"
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3902, 
+                "name": "tile"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Midnight Sun II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clemente-midnight-sun-ii-t03551", 
+  "width": "2010"
+}

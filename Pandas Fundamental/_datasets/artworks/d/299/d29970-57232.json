@@ -1,0 +1,139 @@
+{
+  "acno": "D29970", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D29814-D29987; D29989-D29998; D30000-D30001; D41209-D41210", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65926, 
+    "shortTitle": "Heidelberg up to Salzburg Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "1833"
+  }, 
+  "dateText": "1833", 
+  "depth": "", 
+  "dimensions": "support: 165 x 110 mm", 
+  "finberg": "CCXCVIII 79", 
+  "foreignTitle": null, 
+  "groupTitle": "Heidelberg up to Salzburg Sketchbook", 
+  "height": "110", 
+  "id": 57232, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 159, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7000, 
+                "name": "Austria"
+              }, 
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14193, 
+                "name": "Salzburg - non-specific"
+              }, 
+              {
+                "id": 14190, 
+                "name": "Wasserburg am Inn"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29970_8.jpg", 
+  "title": "Salzburg: The Monastery on the Kapuzinerberg from across the Salzach with the Houses of the Inner Stein; Wasserburg am Inn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-salzburg-the-monastery-on-the-kapuzinerberg-from-across-the-salzach-with-the-houses-d29970", 
+  "width": "165"
+}

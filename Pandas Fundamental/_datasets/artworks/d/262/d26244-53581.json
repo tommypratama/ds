@@ -1,0 +1,90 @@
+{
+  "acno": "D26244", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1136172, 
+  "catalogueGroup": {
+    "accessionRanges": "D26096-D26258", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65893, 
+    "shortTitle": "Edinburgh Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "1834"
+  }, 
+  "dateText": "1834", 
+  "depth": "", 
+  "dimensions": "support: 111 x 181 mm", 
+  "finberg": "CCLXVIII 78 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Edinburgh Sketchbook", 
+  "height": "181", 
+  "id": 53581, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 160, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26244_8.jpg", 
+  "title": "Island or Cliffs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-island-or-cliffs-d26244", 
+  "width": "111"
+}

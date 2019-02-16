@@ -1,0 +1,86 @@
+{
+  "acno": "P02005", 
+  "acquisitionYear": 1967, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {
+    "accessionRanges": "P01928; P02005", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65312, 
+    "shortTitle": "Opus 5"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1967", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1950, 
+    "text": "1950"
+  }, 
+  "dateText": "1950", 
+  "depth": "", 
+  "dimensions": "image: 243 x 302 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Opus 5", 
+  "height": "302", 
+  "id": 4800, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02005_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02005", 
+  "width": "243"
+}

@@ -1,0 +1,122 @@
+{
+  "acno": "N04725", 
+  "acquisitionYear": 1933, 
+  "all_artists": "Paul C\u00e9zanne", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1839, 
+      "date": "1839\u20131906", 
+      "displayOrder": 1, 
+      "fc": "Paul C\u00e9zanne", 
+      "gender": "Male", 
+      "id": 879, 
+      "mda": "C\u00e9zanne, Paul", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by C. Frank Stoop 1933", 
+  "dateRange": {
+    "endYear": 1893, 
+    "startYear": 1892, 
+    "text": "c.1892-3"
+  }, 
+  "dateText": "c.1892\u20133", 
+  "depth": "", 
+  "dimensions": "support: 530 x 711 mm\r\nframe: 710 x 900 x 90 mm", 
+  "foreignTitle": "Nature morte \u00e0 la cruche", 
+  "groupTitle": null, 
+  "height": "711", 
+  "id": 2116, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 4229, 
+      "name": "Post-Impressionism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1037, 
+                "name": "fruit, apple"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1071, 
+                "name": "table cloth"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04725_8.jpg", 
+  "title": "Still Life with Water Jug", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cezanne-still-life-with-water-jug-n04725", 
+  "width": "530"
+}

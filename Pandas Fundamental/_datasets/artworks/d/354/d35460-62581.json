@@ -1,0 +1,137 @@
+{
+  "acno": "D35460", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D35459-D35478; D35480; D35482; D35484; D35486", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65980, 
+    "shortTitle": "Dieppe Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1845, 
+    "text": "1845"
+  }, 
+  "dateText": "1845", 
+  "depth": "", 
+  "dimensions": "support: 232 x 332 mm", 
+  "finberg": "CCCLX 2", 
+  "foreignTitle": null, 
+  "groupTitle": "Dieppe Sketchbook", 
+  "height": "332", 
+  "id": 62581, 
+  "inscription": null, 
+  "medium": "Graphite, gouache and watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 3, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2040, 
+                "name": "Dieppe - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1567, 
+                "name": "seafront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35460_8.jpg", 
+  "title": "The Church of St-Jacques and Dieppe Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-church-of-st-jacques-and-dieppe-harbour-d35460", 
+  "width": "232"
+}

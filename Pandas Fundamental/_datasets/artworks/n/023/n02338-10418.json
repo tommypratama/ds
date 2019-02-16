@@ -1,0 +1,88 @@
+{
+  "acno": "N02338", 
+  "acquisitionYear": 1908, 
+  "all_artists": "William James M\u00fcller", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1812, 
+      "date": "1812\u20131845", 
+      "displayOrder": 1, 
+      "fc": "William James M\u00fcller", 
+      "gender": "Male", 
+      "id": 391, 
+      "mda": "M\u00fcller, William James", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Lady Weston as part of the Sir Joseph Weston Gift 1908", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 106 x 220 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "220", 
+  "id": 10418, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02338_8.jpg", 
+  "title": "Lake or River Bank, with Houses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/muller-lake-or-river-bank-with-houses-n02338", 
+  "width": "106"
+}

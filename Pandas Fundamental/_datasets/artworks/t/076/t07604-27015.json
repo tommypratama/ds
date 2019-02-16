@@ -1,0 +1,108 @@
+{
+  "acno": "T07604", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Barry Martin", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1943, 
+      "date": "born 1943", 
+      "displayOrder": 1, 
+      "fc": "Barry Martin", 
+      "gender": "Male", 
+      "id": 2746, 
+      "mda": "Martin, Barry", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2000", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "", 
+  "dimensions": "200 x 200 x 410 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "410", 
+  "id": 27015, 
+  "inscription": null, 
+  "medium": "Metal, plastic and 3 motors", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 12072, 
+      "name": "Kinetic Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Barry Martin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07604_8.jpg", 
+  "title": "Double Ringed Movement", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-double-ringed-movement-t07604", 
+  "width": "200"
+}

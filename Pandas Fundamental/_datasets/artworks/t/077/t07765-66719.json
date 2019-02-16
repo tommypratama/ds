@@ -1,0 +1,108 @@
+{
+  "acno": "T07765", 
+  "acquisitionYear": 2001, 
+  "all_artists": "Richard Wentworth", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1947, 
+      "date": "born 1947", 
+      "displayOrder": 1, 
+      "fc": "Richard Wentworth", 
+      "gender": "Male", 
+      "id": 2132, 
+      "mda": "Wentworth, Richard", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Carol and Neville Conrad 2001.", 
+  "dateRange": {
+    "endYear": 1985, 
+    "startYear": 1985, 
+    "text": "1985"
+  }, 
+  "dateText": "1985", 
+  "depth": "", 
+  "dimensions": "displayed:600x605x35mm\r\nweight:2kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "35", 
+  "id": 66719, 
+  "inscription": null, 
+  "medium": "Steel and soap", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16844, 
+                "name": "soap"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Wentworth", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07765_8.jpg", 
+  "title": "Dip", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wentworth-dip-t07765", 
+  "width": "605"
+}

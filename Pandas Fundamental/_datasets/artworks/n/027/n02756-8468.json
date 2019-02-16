@@ -1,0 +1,112 @@
+{
+  "acno": "N02756", 
+  "acquisitionYear": 1910, 
+  "all_artists": "Edward Lear", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1812, 
+      "date": "1812\u20131888", 
+      "displayOrder": 1, 
+      "fc": "Edward Lear", 
+      "gender": "Male", 
+      "id": 337, 
+      "mda": "Lear, Edward", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Earl of Northbrook 1910", 
+  "dateRange": {
+    "endYear": 1868, 
+    "startYear": 1868, 
+    "text": "1868"
+  }, 
+  "dateText": "1868", 
+  "depth": "", 
+  "dimensions": "support: 152 x 229 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "229", 
+  "id": 8468, 
+  "inscription": "date inscribed", 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13693, 
+                "name": "Calvi"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13660, 
+                "name": "France, Corsica"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02756_8.jpg", 
+  "title": "Near Calvi", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lear-near-calvi-n02756", 
+  "width": "152"
+}

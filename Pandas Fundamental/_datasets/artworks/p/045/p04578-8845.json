@@ -1,0 +1,86 @@
+{
+  "acno": "P04578", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Richard Lin", 
+  "catalogueGroup": {
+    "accessionRanges": "P04575-P04578", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65386, 
+    "shortTitle": "The Four Seasons"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Richard Lin", 
+      "gender": "Male", 
+      "id": 1513, 
+      "mda": "Lin, Richard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "", 
+  "dimensions": "image: 524 x 595 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Four Seasons", 
+  "height": "595", 
+  "id": 8845, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Winter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lin-winter-p04578", 
+  "width": "524"
+}

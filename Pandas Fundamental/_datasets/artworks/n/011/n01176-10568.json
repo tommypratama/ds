@@ -1,0 +1,132 @@
+{
+  "acno": "N01176", 
+  "acquisitionYear": 1885, 
+  "all_artists": "Patrick Nasmyth", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1787, 
+      "date": "1787\u20131831", 
+      "displayOrder": 1, 
+      "fc": "Patrick Nasmyth", 
+      "gender": "Male", 
+      "id": 397, 
+      "mda": "Nasmyth, Patrick", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Bequeathed by Mrs Elizabeth Vaughan 1885", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1828, 
+    "text": "1828"
+  }, 
+  "dateText": "1828", 
+  "depth": "", 
+  "dimensions": "support: 203 x 257 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "257", 
+  "id": 10568, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }, 
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2332, 
+                "name": "heathland"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01176_8.jpg", 
+  "title": "Landscape with a Cottage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nasmyth-landscape-with-a-cottage-n01176", 
+  "width": "203"
+}

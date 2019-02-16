@@ -1,0 +1,98 @@
+{
+  "acno": "P78219", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Uta Barth", 
+  "catalogueGroup": {
+    "accessionRanges": "P78217-P78226", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66080, 
+    "shortTitle": "........................ in passing."
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1958, 
+      "date": "born 1958", 
+      "displayOrder": 1, 
+      "fc": "Uta Barth", 
+      "gender": "Female", 
+      "id": 2678, 
+      "mda": "Barth, Uta", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1998", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1995, 
+    "text": "1995-7"
+  }, 
+  "dateText": "1995\u20137", 
+  "depth": "", 
+  "dimensions": "image: 73 x 118 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "........................ in passing.", 
+  "height": "118", 
+  "id": 26432, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Uta Barth, courtesy Tanya Bonakdar Gallery, NY", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78219_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barth-no-title-p78219", 
+  "width": "73"
+}

@@ -1,0 +1,70 @@
+{
+  "acno": "P02303", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Richard Smith", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Richard Smith", 
+      "gender": "Male", 
+      "id": 1959, 
+      "mda": "Smith, Richard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1976", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1964, 
+    "text": "1964"
+  }, 
+  "dateText": "1964", 
+  "depth": "", 
+  "dimensions": "image: 651 x 651 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "651", 
+  "id": 13558, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02303_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-untitled-p02303", 
+  "width": "651"
+}

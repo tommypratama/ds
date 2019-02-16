@@ -1,0 +1,107 @@
+{
+  "acno": "D04161", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1800, 
+    "text": "c.1800-2"
+  }, 
+  "dateText": "c.1800\u20132", 
+  "depth": "", 
+  "dimensions": "support: 556 x 768 mm", 
+  "finberg": "LXX J", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "768", 
+  "id": 31556, 
+  "inscription": null, 
+  "medium": "Gouache, graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04161_8.jpg", 
+  "title": "Cattle in Stream, with Ruins on Bank", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cattle-in-stream-with-ruins-on-bank-d04161", 
+  "width": "556"
+}

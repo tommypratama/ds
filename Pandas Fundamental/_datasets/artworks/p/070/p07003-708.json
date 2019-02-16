@@ -1,0 +1,96 @@
+{
+  "acno": "P07003", 
+  "acquisitionYear": 1972, 
+  "all_artists": "John Banting", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1902, 
+      "date": "1902\u20131971", 
+      "displayOrder": 1, 
+      "fc": "John Banting", 
+      "gender": "Male", 
+      "id": 691, 
+      "mda": "Banting, John", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1972", 
+  "dateRange": {
+    "endYear": 1931, 
+    "startYear": 1931, 
+    "text": "1931"
+  }, 
+  "dateText": "1931", 
+  "depth": "", 
+  "dimensions": "image: 83 x 127 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "127", 
+  "id": 708, 
+  "inscription": "date inscribed", 
+  "medium": "Linocut on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2952, 
+                "name": "explosion"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Banting", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07003_8.jpg", 
+  "title": "Explosion", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/banting-explosion-p07003", 
+  "width": "83"
+}

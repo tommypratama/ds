@@ -1,0 +1,82 @@
+{
+  "acno": "T08732", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Heneage Finch, Fifth Earl of Aylesford", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131859", 
+      "displayOrder": 1, 
+      "fc": "Heneage Finch, Fifth Earl of Aylesford", 
+      "gender": "Male", 
+      "id": 2479, 
+      "mda": "Aylesford, Heneage Finch, Fifth Earl of", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 113 x 215 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "215", 
+  "id": 22268, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08732_8.jpg", 
+  "title": "Cottages and Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/aylesford-cottages-and-trees-t08732", 
+  "width": "113"
+}

@@ -1,0 +1,181 @@
+{
+  "acno": "T04203", 
+  "acquisitionYear": 1986, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T04203_82930", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T04/T04203_82930_7.jpg", 
+          "height": 102, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T04/T04203_82930_8.jpg", 
+          "height": 205, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T04/T04203_82930_9.jpg", 
+          "height": 410, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T04/T04203_82930_10.jpg", 
+          "height": 1230, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Highmore", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1692, 
+      "date": "1692\u20131780", 
+      "displayOrder": 1, 
+      "fc": "Joseph Highmore", 
+      "gender": "Male", 
+      "id": 256, 
+      "mda": "Highmore, Joseph", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Joan Highmore Blackhall and Dr R.B. McConnell 1986", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 105 x 130 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "130", 
+  "id": 6250, 
+  "inscription": null, 
+  "medium": "Graphite on paper. Verso: graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }, 
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20115, 
+                "name": "groups"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6907, 
+                "name": "family"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5988, 
+                "name": "gun, rifle"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04203_8.jpg", 
+  "title": "Family Group of Five Persons, Three-quarter-length", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/highmore-family-group-of-five-persons-three-quarter-length-t04203", 
+  "width": "105"
+}

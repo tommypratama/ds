@@ -1,0 +1,82 @@
+{
+  "acno": "T00509", 
+  "acquisitionYear": 1962, 
+  "all_artists": "John Plumb", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "1927\u20132008", 
+      "displayOrder": 1, 
+      "fc": "John Plumb", 
+      "gender": "Male", 
+      "id": 1781, 
+      "mda": "Plumb, John", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by E.J. Power through the Friends of the Tate Gallery 1962", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1962, 
+    "text": "1962"
+  }, 
+  "dateText": "1962", 
+  "depth": "53", 
+  "dimensions": "support: 1806 x 1220 x 53 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1220", 
+  "id": 12133, 
+  "inscription": null, 
+  "medium": "Acrylic paint, PVC, vinyl and tape on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15666, 
+                "name": "Edgehill, Battle, 23 Oct, 1643"
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Plumb", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00509_8.jpg", 
+  "title": "Edgehill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/plumb-edgehill-t00509", 
+  "width": "1806"
+}

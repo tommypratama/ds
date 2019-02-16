@@ -1,0 +1,92 @@
+{
+  "acno": "P12155", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Malcolm Morley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Malcolm Morley", 
+      "gender": "Male", 
+      "id": 1665, 
+      "mda": "Morley, Malcolm", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Tyler Graphics Ltd in honour of Pat Gilmour, Tate Print Department 1974-7, 2004", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "", 
+  "dimensions": "image: 1108 x 804 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "804", 
+  "id": 80038, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Malcolm Morley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12155_8.jpg", 
+  "title": "Devonshire Cows", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/morley-devonshire-cows-p12155", 
+  "width": "1108"
+}

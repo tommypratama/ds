@@ -1,0 +1,302 @@
+{
+  "acno": "T06267", 
+  "acquisitionYear": 1988, 
+  "all_artists": "after Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "after", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Transferred from the British Museum 1988", 
+  "dateRange": {
+    "endYear": 1836, 
+    "startYear": 1836, 
+    "text": "published 1836"
+  }, 
+  "dateText": "published 1836", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 19995, 
+  "inscription": null, 
+  "medium": "Engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 21, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8333, 
+                "name": "Vincennes"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }, 
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6338, 
+                "name": "prison"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8144, 
+                "name": "Scott, Walter, Sir, 'Life of Napoleon'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9940, 
+                "name": "d'Enghien, Louis-Antoine-Henri de Bourbon-Cond\u00e9, duc"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 500, 
+                "name": "falling"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13540, 
+                "name": "shot"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5052, 
+                "name": "execution"
+              }
+            ], 
+            "id": 147, 
+            "name": "crime and punishment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9941, 
+                "name": "death: Duc d'Enghien, execution, 21 Mar 1804"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5988, 
+                "name": "gun, rifle"
+              }, 
+              {
+                "id": 12084, 
+                "name": "weapon, firing / explosion"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1435, 
+                "name": "prince"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }, 
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06267_8.jpg", 
+  "title": "Vincennes (Vignette), engraved by W. Miller", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vincennes-vignette-engraved-by-w-miller-t06267", 
+  "width": ""
+}

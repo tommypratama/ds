@@ -1,0 +1,110 @@
+{
+  "acno": "N05411", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Thomas Hennell", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131945", 
+      "displayOrder": 1, 
+      "fc": "Thomas Hennell", 
+      "gender": "Male", 
+      "id": 1271, 
+      "mda": "Hennell, Thomas", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1940", 
+  "dateRange": {
+    "endYear": 1932, 
+    "startYear": 1930, 
+    "text": "c.1930-2"
+  }, 
+  "dateText": "c.1930\u20132", 
+  "depth": "", 
+  "dimensions": "support: 394 x 292 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "292", 
+  "id": 5958, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed"
+              }, 
+              {
+                "id": 3747, 
+                "name": "chest of drawers"
+              }, 
+              {
+                "id": 1078, 
+                "name": "mirror"
+              }, 
+              {
+                "id": 844, 
+                "name": "rug"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05411_8.jpg", 
+  "title": "Interior", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hennell-interior-n05411", 
+  "width": "394"
+}

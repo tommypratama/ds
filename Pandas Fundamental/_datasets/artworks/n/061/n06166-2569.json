@@ -1,0 +1,118 @@
+{
+  "acno": "N06166", 
+  "acquisitionYear": 1953, 
+  "all_artists": "Pietro Consagra", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1920, 
+      "date": "1920\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Pietro Consagra", 
+      "gender": "Male", 
+      "id": 936, 
+      "mda": "Consagra, Pietro", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1953", 
+  "dateRange": {
+    "endYear": 1952, 
+    "startYear": 1952, 
+    "text": "1952"
+  }, 
+  "dateText": "1952", 
+  "depth": "286", 
+  "dimensions": "object: 502 x 267 x 286 mm", 
+  "foreignTitle": "Prigioniero politico ignoto", 
+  "groupTitle": null, 
+  "height": "267", 
+  "id": 2569, 
+  "inscription": null, 
+  "medium": "Bronze on marble base", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2425, 
+                "name": "barbed wire"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 231, 
+                "name": "political prisoner"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Unknown Political Prisoner", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/consagra-the-unknown-political-prisoner-n06166", 
+  "width": "502"
+}

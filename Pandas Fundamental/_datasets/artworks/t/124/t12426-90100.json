@@ -1,0 +1,112 @@
+{
+  "acno": "T12426", 
+  "acquisitionYear": 2007, 
+  "all_artists": "Michael Sandle", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Michael Sandle", 
+      "gender": "Male", 
+      "id": 1895, 
+      "mda": "Sandle, Michael", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2007", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "980 x 1480 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 90100, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6424, 
+                "name": "air crash"
+              }, 
+              {
+                "id": 3464, 
+                "name": "aircraft, military"
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1755, 
+                "name": "memorial"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3529, 
+                "name": "artillery"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5931, 
+                "name": "monument"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Michael Sandle", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12426_8.jpg", 
+  "title": "Anti-Aircraft Memorial", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/sandle-anti-aircraft-memorial-t12426", 
+  "width": ""
+}

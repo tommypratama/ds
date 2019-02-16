@@ -1,0 +1,122 @@
+{
+  "acno": "N01592", 
+  "acquisitionYear": 1894, 
+  "all_artists": "Matthew Ridley Corbet", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1850, 
+      "date": "1850\u20131902", 
+      "displayOrder": 1, 
+      "fc": "Matthew Ridley Corbet", 
+      "gender": "Male", 
+      "id": 114, 
+      "mda": "Corbet, Matthew Ridley", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1894", 
+  "dateRange": {
+    "endYear": 1894, 
+    "startYear": 1893, 
+    "text": "1893-4"
+  }, 
+  "dateText": "1893\u20134", 
+  "depth": "", 
+  "dimensions": "support: 1245 x 2032 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2032", 
+  "id": 2794, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1250, 
+                "name": "Shropshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 681, 
+                "name": "morning"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01592_8.jpg", 
+  "title": "Morning Glory", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/corbet-morning-glory-n01592", 
+  "width": "1245"
+}

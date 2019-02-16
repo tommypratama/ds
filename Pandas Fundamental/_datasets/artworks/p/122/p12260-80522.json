@@ -1,0 +1,82 @@
+{
+  "acno": "P12260", 
+  "acquisitionYear": 2004, 
+  "all_artists": "T.L. Solien", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "T.L. Solien", 
+      "gender": "Male", 
+      "id": 6672, 
+      "mda": "Solien, T.L.", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Tyler Graphics Ltd in honour of Pat Gilmour, Tate Print Department 1974-7, 2004", 
+  "dateRange": {
+    "endYear": 1985, 
+    "startYear": 1985, 
+    "text": "1985"
+  }, 
+  "dateText": "1985", 
+  "depth": "", 
+  "dimensions": "image: 579 x 572 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "572", 
+  "id": 80522, 
+  "inscription": null, 
+  "medium": "Woodcut, aquatint and etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6849, 
+                "name": "cage"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 T.L Solien", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12260_8.jpg", 
+  "title": "Psyche: The Blue Martin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/solien-psyche-the-blue-martin-p12260", 
+  "width": "579"
+}

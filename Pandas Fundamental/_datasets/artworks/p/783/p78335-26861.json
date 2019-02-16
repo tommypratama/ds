@@ -1,0 +1,106 @@
+{
+  "acno": "P78335", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Vija Celmins", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Vija Celmins", 
+      "gender": "Female", 
+      "id": 2731, 
+      "mda": "Celmins, Vija", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1999", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 317 x 418 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "418", 
+  "id": 26861, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17865, 
+                "name": "galaxy"
+              }, 
+              {
+                "id": 1707, 
+                "name": "star"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Vija Celmins", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78335_8.jpg", 
+  "title": "Galaxy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/celmins-galaxy-p78335", 
+  "width": "317"
+}

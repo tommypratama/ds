@@ -1,0 +1,136 @@
+{
+  "acno": "T07036", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Stephen McKenna", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "Stephen McKenna", 
+      "gender": "Male", 
+      "id": 2194, 
+      "mda": "McKenna, Stephen", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1995", 
+  "dateRange": {
+    "endYear": 1993, 
+    "startYear": 1993, 
+    "text": "1993"
+  }, 
+  "dateText": "1993", 
+  "depth": "", 
+  "dimensions": "support: 1202 x 1601 mm\r\nframe: 1226 x 1667 x 50 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1601", 
+  "id": 21509, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4936, 
+                "name": "Castiglion Fiorentino"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1200, 
+                "name": "easel"
+              }, 
+              {
+                "id": 204, 
+                "name": "painting"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 206, 
+                "name": "studio"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Stephen McKenna", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07036_8.jpg", 
+  "title": "Large Studio at Castiglion", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mckenna-large-studio-at-castiglion-t07036", 
+  "width": "1202"
+}

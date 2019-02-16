@@ -1,0 +1,80 @@
+{
+  "acno": "P11387", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Bequeathed by Miriam Gabo, the artist's widow 1995", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1955, 
+    "text": "c.1955-6"
+  }, 
+  "dateText": "c.1955\u20136", 
+  "depth": "", 
+  "dimensions": "image: 385 x 334 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "334", 
+  "id": 21305, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11387_8.jpg", 
+  "title": "Opus 6", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-opus-6-p11387", 
+  "width": "385"
+}

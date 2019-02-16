@@ -1,0 +1,86 @@
+{
+  "acno": "P11512", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Jack Smith", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Jack Smith", 
+      "gender": "Male", 
+      "id": 1956, 
+      "mda": "Smith, Jack", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Klaus Anschel in memory of his wife Gerty 1997", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1969, 
+    "text": "1969-70"
+  }, 
+  "dateText": "1969\u201370", 
+  "depth": "", 
+  "dimensions": "image: 520 x 648 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "648", 
+  "id": 25968, 
+  "inscription": "date inscribed", 
+  "medium": "Etching and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }, 
+              {
+                "id": 12083, 
+                "name": "light"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Jack Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11512_8.jpg", 
+  "title": "Light and Nature Structure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-light-and-nature-structure-p11512", 
+  "width": "520"
+}

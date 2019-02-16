@@ -1,0 +1,84 @@
+{
+  "acno": "T07144", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Sol LeWitt", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132007", 
+      "displayOrder": 1, 
+      "fc": "Sol LeWitt", 
+      "gender": "Male", 
+      "id": 1504, 
+      "mda": "LeWitt, Sol", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Janet Wolfson de Botton 1996", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "914", 
+  "dimensions": "displayed: 920 x 6720 x 914 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "6720", 
+  "id": 21766, 
+  "inscription": null, 
+  "medium": "Mahogany", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sol LeWitt", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07144_8.jpg", 
+  "title": "Five Open Geometric Structures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-five-open-geometric-structures-t07144", 
+  "width": "920"
+}

@@ -1,0 +1,110 @@
+{
+  "acno": "D07884", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D07884", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D78/D07884_E.jpg", 
+          "height": 403, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1135840, 
+  "catalogueGroup": {
+    "accessionRanges": "D07853-D07957; D40811", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65760, 
+    "shortTitle": "Lowther Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1809, 
+    "text": "1809"
+  }, 
+  "dateText": "1809", 
+  "depth": "", 
+  "dimensions": "support: 83 x 114 mm", 
+  "finberg": "CXIII 20", 
+  "foreignTitle": null, 
+  "groupTitle": "Lowther Sketchbook", 
+  "height": "114", 
+  "id": 35273, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 43, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07884_8.jpg", 
+  "title": "Plans and Dimensions", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-plans-and-dimensions-d07884", 
+  "width": "83"
+}

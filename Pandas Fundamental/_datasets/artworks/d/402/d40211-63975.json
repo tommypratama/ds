@@ -1,0 +1,134 @@
+{
+  "acno": "D40211", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D40211", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D402/D40211_E.jpg", 
+          "height": 386, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140105, 
+  "catalogueGroup": {
+    "accessionRanges": "D00001-D00003; D00005; D00046-D00053; D00115; D00187; D00191; D00195; D00716; D40210-D40212; D40266", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127044, 
+    "shortTitle": "Oxford and Other Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1789, 
+    "startYear": 1789, 
+    "text": "c.1789"
+  }, 
+  "dateText": "c.1789", 
+  "depth": "", 
+  "dimensions": "support: 153 x 199 mm", 
+  "finberg": "III E c", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford and Other Subjects", 
+  "height": "199", 
+  "id": 63975, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40211_8.jpg", 
+  "title": "A Waggon Descending a Hill on a Country Road", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-waggon-descending-a-hill-on-a-country-road-d40211", 
+  "width": "153"
+}

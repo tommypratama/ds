@@ -1,0 +1,104 @@
+{
+  "acno": "D33604", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65961, 
+    "shortTitle": "Bellinzona, Sion, &c. Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1842, 
+    "startYear": 1842, 
+    "text": "c.1842"
+  }, 
+  "dateText": "c.1842", 
+  "depth": "", 
+  "dimensions": "support: 229 x 287 mm", 
+  "finberg": "CCCXXXVII 4", 
+  "foreignTitle": null, 
+  "groupTitle": "Bellinzona, Sion, &c. Sketchbook", 
+  "height": "287", 
+  "id": 60775, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33604_8.jpg", 
+  "title": "Bellinzona, from Ravecchia;  and Gulf of Locarno, on Lago Maggiore, from the North", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bellinzona-from-ravecchia-and-gulf-of-locarno-on-lago-maggiore-from-the-north-d33604", 
+  "width": "229"
+}

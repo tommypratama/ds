@@ -1,0 +1,132 @@
+{
+  "acno": "D12340", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139341, 
+  "catalogueGroup": {
+    "accessionRanges": "D12318-D12448; D40917-D40923", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65799, 
+    "shortTitle": "Durham, North Shore, Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1817, 
+    "startYear": 1817, 
+    "text": "1817"
+  }, 
+  "dateText": "1817", 
+  "depth": "", 
+  "dimensions": "support: 116 x 185 mm", 
+  "finberg": "CLVII 18", 
+  "foreignTitle": null, 
+  "groupTitle": "Durham, North Shore, Sketchbook", 
+  "height": "185", 
+  "id": 39708, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 37, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2868, 
+                "name": "Durham"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 26643, 
+                "name": "Witton Castle"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12340_8.jpg", 
+  "title": "Witton Castle, with Witton Tower, Witton-le-Wear, across the Wear Valley Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-witton-castle-with-witton-tower-witton-le-wear-across-the-wear-valley-beyond-d12340", 
+  "width": "116"
+}

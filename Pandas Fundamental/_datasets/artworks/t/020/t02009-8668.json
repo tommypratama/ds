@@ -1,0 +1,112 @@
+{
+  "acno": "T02009", 
+  "acquisitionYear": 1975, 
+  "all_artists": "George Robert Lewis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131871", 
+      "displayOrder": 1, 
+      "fc": "George Robert Lewis", 
+      "gender": "Male", 
+      "id": 349, 
+      "mda": "Lewis, George Robert", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1975", 
+  "dateRange": {
+    "endYear": 1823, 
+    "startYear": 1815, 
+    "text": "?c.1815-23"
+  }, 
+  "dateText": "?c.1815\u201323", 
+  "depth": "", 
+  "dimensions": "support: 267 x 495 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "495", 
+  "id": 8668, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5842, 
+                "name": "Paddington - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1822, 
+                "name": "building site"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02009_8.jpg", 
+  "title": "Clearing a Site in Paddington for Development", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-clearing-a-site-in-paddington-for-development-t02009", 
+  "width": "267"
+}

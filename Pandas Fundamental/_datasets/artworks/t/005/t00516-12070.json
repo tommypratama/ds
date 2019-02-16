@@ -1,0 +1,128 @@
+{
+  "acno": "T00516", 
+  "acquisitionYear": 1962, 
+  "all_artists": "John Piper", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131992", 
+      "displayOrder": 1, 
+      "fc": "John Piper", 
+      "gender": "Male", 
+      "id": 1774, 
+      "mda": "Piper, John", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1962", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "", 
+  "dimensions": "support: 1067 x 1524 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1524", 
+  "id": 12070, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5175, 
+                "name": "Rome, Forum"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3379, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Piper Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00516_8.jpg", 
+  "title": "The Forum", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/piper-the-forum-t00516", 
+  "width": "1067"
+}

@@ -1,0 +1,154 @@
+{
+  "acno": "P07137", 
+  "acquisitionYear": 1976, 
+  "all_artists": "El Lissitzky", 
+  "catalogueGroup": {
+    "accessionRanges": "P07137-P07147", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65387, 
+    "shortTitle": "Victory Over the Sun"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131941", 
+      "displayOrder": 1, 
+      "fc": "El Lissitzky", 
+      "gender": "Male", 
+      "id": 1519, 
+      "mda": "Lissitzky, El", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1976", 
+  "dateRange": {
+    "endYear": 1923, 
+    "startYear": 1923, 
+    "text": "1923"
+  }, 
+  "dateText": "1923", 
+  "depth": "", 
+  "dimensions": "image: 510 x 440 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Victory Over the Sun", 
+  "height": "440", 
+  "id": 8941, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2476, 
+                "name": "contemporary society"
+              }, 
+              {
+                "id": 959, 
+                "name": "machine age"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10068, 
+                "name": "opera"
+              }, 
+              {
+                "id": 3180, 
+                "name": "theatre"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15907, 
+                "name": "opera: Kruchenykh, Malevich, Matyushin, 'Victory Over the Sun'"
+              }
+            ], 
+            "id": 10058, 
+            "name": "film, music and ballet"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07137_8.jpg", 
+  "title": "[title page]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lissitzky-title-page-p07137", 
+  "width": "510"
+}

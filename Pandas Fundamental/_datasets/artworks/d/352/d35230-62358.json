@@ -1,0 +1,116 @@
+{
+  "acno": "D35230", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D35219-D35239; D40171; D40441; D41463", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65972, 
+    "shortTitle": "Heidelberg Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1844, 
+    "startYear": 1844, 
+    "text": "1844"
+  }, 
+  "dateText": "1844", 
+  "depth": "", 
+  "dimensions": "support: 228 x 328 mm", 
+  "finberg": "CCCLII 10", 
+  "foreignTitle": null, 
+  "groupTitle": "Heidelberg Sketchbook", 
+  "height": "328", 
+  "id": 62358, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour and pen on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10562, 
+                "name": "Bad Kreuznach"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35230_8.jpg", 
+  "title": "Kreuznach on the Nahe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-kreuznach-on-the-nahe-d35230", 
+  "width": "228"
+}

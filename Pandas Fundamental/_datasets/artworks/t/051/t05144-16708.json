@@ -1,0 +1,154 @@
+{
+  "acno": "T05144", 
+  "acquisitionYear": 1988, 
+  "all_artists": "after Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "T04947-T04960; T05134-T05145", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65630, 
+    "shortTitle": "Scott's Poetical Works"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "after", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1988", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "1834"
+  }, 
+  "dateText": "1834", 
+  "depth": "", 
+  "dimensions": "image: 88 x 137 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Scott's Poetical Works", 
+  "height": "137", 
+  "id": 16708, 
+  "inscription": null, 
+  "medium": "Line engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8258, 
+                "name": "Loch Katrine"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8255, 
+                "name": "Stirling"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8267, 
+                "name": "Scott, Walter, Sir, 'Lady of the Lake'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05144_8.jpg", 
+  "title": "Loch Katrine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-loch-katrine-t05144", 
+  "width": "88"
+}

@@ -1,0 +1,88 @@
+{
+  "acno": "P01292", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Richard Smith", 
+  "catalogueGroup": {
+    "accessionRanges": "P01291-P01295", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65526, 
+    "shortTitle": "Paper Clip Suite I"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Richard Smith", 
+      "gender": "Male", 
+      "id": 1959, 
+      "mda": "Smith, Richard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Waddington Galleries through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "support: 443 x 440 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Paper Clip Suite I", 
+  "height": "440", 
+  "id": 13546, 
+  "inscription": "date inscribed", 
+  "medium": "Etching and 2 metal paperclips on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16367, 
+                "name": "paper clip"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01292_8.jpg", 
+  "title": "Print 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-print-2-p01292", 
+  "width": "443"
+}

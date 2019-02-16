@@ -1,0 +1,86 @@
+{
+  "acno": "P11840", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Cecil Collins", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131989", 
+      "displayOrder": 1, 
+      "fc": "Cecil Collins", 
+      "gender": "Male", 
+      "id": 930, 
+      "mda": "Collins, Cecil", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by Elisabeth Collins, the artist's widow, through the Art Fund 2001", 
+  "dateRange": {
+    "endYear": 1939, 
+    "startYear": 1939, 
+    "text": "?1939"
+  }, 
+  "dateText": "?1939", 
+  "depth": "", 
+  "dimensions": "image: 97 x 75 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "75", 
+  "id": 66582, 
+  "inscription": null, 
+  "medium": "Etching on printed paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11840_8.jpg", 
+  "title": "Untitled [Head]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/collins-untitled-head-p11840", 
+  "width": "97"
+}

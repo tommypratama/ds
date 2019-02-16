@@ -1,0 +1,92 @@
+{
+  "acno": "T01094", 
+  "acquisitionYear": 1968, 
+  "all_artists": "John Chamberlain", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "1927\u20132011", 
+      "displayOrder": 1, 
+      "fc": "John Chamberlain", 
+      "gender": "Male", 
+      "id": 885, 
+      "mda": "Chamberlain, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Martha Jackson through the American Federation of Arts 1968", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "1054", 
+  "dimensions": "object: 870 x 1410 x 1054 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1410", 
+  "id": 2157, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4228, 
+                "name": "car part"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ARS, NY and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01094_8.jpg", 
+  "title": "Kora", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chamberlain-kora-t01094", 
+  "width": "870"
+}

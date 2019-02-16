@@ -1,0 +1,126 @@
+{
+  "acno": "T03027", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Richard Long", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Richard Long", 
+      "gender": "Male", 
+      "id": 1525, 
+      "mda": "Long, Richard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Anthony d'Offay 1980", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 8981, 
+  "inscription": null, 
+  "medium": "Slate", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 429, 
+      "name": "Land Art"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4645, 
+                "name": "slate"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Long", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03027_8.jpg", 
+  "title": "Slate Circle", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/long-slate-circle-t03027", 
+  "width": ""
+}

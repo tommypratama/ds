@@ -1,0 +1,116 @@
+{
+  "acno": "N04218", 
+  "acquisitionYear": 1926, 
+  "all_artists": "John Sell Cotman", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Sell Cotman", 
+      "gender": "Male", 
+      "id": 116, 
+      "mda": "Cotman, John Sell", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Wyndham Tryon 1926", 
+  "dateRange": {
+    "endYear": 1804, 
+    "startYear": 1804, 
+    "text": "c.1804"
+  }, 
+  "dateText": "c.1804", 
+  "depth": "", 
+  "dimensions": "support: 162 x 283 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "283", 
+  "id": 2821, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }, 
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04218_8.jpg", 
+  "title": "Mountain Lake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-mountain-lake-n04218", 
+  "width": "162"
+}

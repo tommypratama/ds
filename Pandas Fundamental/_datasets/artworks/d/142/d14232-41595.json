@@ -1,0 +1,124 @@
+{
+  "acno": "D14232", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D14232", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D142/D14232_E.jpg", 
+          "height": 352, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1148719, 
+  "catalogueGroup": {
+    "accessionRanges": "D14144-D14189; D14192-D14325; D40887-D40889", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65815, 
+    "shortTitle": "Turin, Como, Lugarno, Maggiore Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 111 x 186 mm", 
+  "finberg": "CLXXIV 45 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Turin, Como, Lugarno, Maggiore Sketchbook", 
+  "height": "186", 
+  "id": 41595, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 94, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6467, 
+                "name": "alley"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14232_8.jpg", 
+  "title": "A Narrow Passage; ?Boffalora sopra Ticino", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-narrow-passage-boffalora-sopra-ticino-d14232", 
+  "width": "111"
+}

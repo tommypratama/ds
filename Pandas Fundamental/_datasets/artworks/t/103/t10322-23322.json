@@ -1,0 +1,82 @@
+{
+  "acno": "T10322", 
+  "acquisitionYear": 1997, 
+  "all_artists": "attributed to James Arthur O'Connor", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1792, 
+      "date": "1792\u20131841", 
+      "displayOrder": 1, 
+      "fc": "James Arthur O'Connor", 
+      "gender": "Male", 
+      "id": 2556, 
+      "mda": "O'Connor, James Arthur", 
+      "role": "attributed to", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 115 x 163 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "163", 
+  "id": 23322, 
+  "inscription": null, 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10322_8.jpg", 
+  "title": "A Sailing Ship, Other Ships in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oconnor-a-sailing-ship-other-ships-in-the-distance-t10322", 
+  "width": "115"
+}

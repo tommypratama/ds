@@ -1,0 +1,76 @@
+{
+  "acno": "P77353", 
+  "acquisitionYear": 1990, 
+  "all_artists": "G\u00fcnther F\u00f6rg", 
+  "catalogueGroup": {
+    "accessionRanges": "P77349-P77360", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65655, 
+    "shortTitle": "Space"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1952, 
+      "date": "born 1952", 
+      "displayOrder": 1, 
+      "fc": "G\u00fcnther F\u00f6rg", 
+      "gender": "Male", 
+      "id": 2260, 
+      "mda": "F\u00f6rg, G\u00fcnther", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1990", 
+  "dateRange": {
+    "endYear": 1987, 
+    "startYear": 1987, 
+    "text": "1987"
+  }, 
+  "dateText": "1987", 
+  "depth": "", 
+  "dimensions": "image: 510 x 355 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Space", 
+  "height": "355", 
+  "id": 18976, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/forg-no-title-p77353", 
+  "width": "510"
+}

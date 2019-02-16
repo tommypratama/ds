@@ -1,0 +1,123 @@
+{
+  "acno": "D36598", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Thomas Girtin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 1, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1797, 
+    "text": "c.1797"
+  }, 
+  "dateText": "c.1797", 
+  "depth": "", 
+  "dimensions": "support: 207 x 145 mm", 
+  "finberg": "CCCLXXVII 27", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "145", 
+  "id": 63683, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9838, 
+                "name": "Mettingham"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2357, 
+                "name": "Suffolk"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36598_8.jpg", 
+  "title": "?The Ruined Gateway of Mettingham Castle, Suffolk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/girtin-the-ruined-gateway-of-mettingham-castle-suffolk-d36598", 
+  "width": "207"
+}

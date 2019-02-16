@@ -1,0 +1,106 @@
+{
+  "acno": "D35352", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151573, 
+  "catalogueGroup": {
+    "accessionRanges": "D35335-D35360", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65975, 
+    "shortTitle": "Hythe and Walmer Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1845, 
+    "text": "1845"
+  }, 
+  "dateText": "1845", 
+  "depth": "", 
+  "dimensions": "support: 172 x 70 mm", 
+  "finberg": "CCCLV 10", 
+  "foreignTitle": null, 
+  "groupTitle": "Hythe and Walmer Sketchbook", 
+  "height": "70", 
+  "id": 62479, 
+  "inscription": null, 
+  "medium": "Chalk and graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 21, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35352_8.jpg", 
+  "title": "The Sun Setting off the Shore", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-sun-setting-off-the-shore-d35352", 
+  "width": "172"
+}

@@ -1,0 +1,79 @@
+{
+  "acno": "D00859", 
+  "acquisitionYear": 1856, 
+  "all_artists": "pupil of Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "pupil of", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 274 x 209 mm", 
+  "finberg": "XXXII C", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "209", 
+  "id": 28271, 
+  "inscription": null, 
+  "medium": "Gouache, pen and ink, graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5445, 
+                "name": "waterwheel"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00859_8.jpg", 
+  "title": "A Watermill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-watermill-d00859", 
+  "width": "274"
+}

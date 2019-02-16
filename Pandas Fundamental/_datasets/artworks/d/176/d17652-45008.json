@@ -1,0 +1,206 @@
+{
+  "acno": "D17652", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D17652", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D176/D17652_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 331
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1132993, 
+  "catalogueGroup": {
+    "accessionRanges": "D17508-D17671; D40687-D40688", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CC", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65838, 
+    "shortTitle": "King's Visit to Edinburgh Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1822, 
+    "startYear": 1822, 
+    "text": "1822"
+  }, 
+  "dateText": "1822", 
+  "depth": "", 
+  "dimensions": "support: 187 x 114 mm", 
+  "finberg": "CC 82", 
+  "foreignTitle": null, 
+  "groupTitle": "King's Visit to Edinburgh Sketchbook", 
+  "height": "114", 
+  "id": 45008, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 165, 
+  "subjectCount": 14, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4737, 
+                "name": "Bamburgh, Bamburgh Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }, 
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8204, 
+                "name": "Farne Islands"
+              }, 
+              {
+                "id": 7960, 
+                "name": "Holy Island"
+              }, 
+              {
+                "id": 12854, 
+                "name": "St Abb's Head"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4736, 
+                "name": "Northumberland"
+              }, 
+              {
+                "id": 8123, 
+                "name": "Scottish Borders"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 2414, 
+                "name": "island"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17652_8.jpg", 
+  "title": "Bamburgh Castle, The Farne Islands, Holy Island and St Abbs Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bamburgh-castle-the-farne-islands-holy-island-and-st-abbs-head-d17652", 
+  "width": "187"
+}

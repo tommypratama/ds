@@ -1,0 +1,76 @@
+{
+  "acno": "T03674", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Mario Merz", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Mario Merz", 
+      "gender": "Male", 
+      "id": 1623, 
+      "mda": "Merz, Mario", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "c.1967"
+  }, 
+  "dateText": "c.1967", 
+  "depth": "1295", 
+  "dimensions": "object: 2210 x 1295 x 1295 mm", 
+  "foreignTitle": "Cono", 
+  "groupTitle": null, 
+  "height": "1295", 
+  "id": 9452, 
+  "inscription": null, 
+  "medium": "Willow", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 418, 
+      "name": "Arte Povera"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Fondazione Merz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03674_8.jpg", 
+  "title": "Cone", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/merz-cone-t03674", 
+  "width": "2210"
+}

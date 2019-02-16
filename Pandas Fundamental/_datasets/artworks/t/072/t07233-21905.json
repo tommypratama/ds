@@ -1,0 +1,104 @@
+{
+  "acno": "T07233", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Brian Fielding", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "1933\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Brian Fielding", 
+      "gender": "Male", 
+      "id": 2607, 
+      "mda": "Fielding, Brian", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1997", 
+  "dateRange": {
+    "endYear": 1986, 
+    "startYear": 1986, 
+    "text": "1986"
+  }, 
+  "dateText": "1986", 
+  "depth": "", 
+  "dimensions": "support: 1727 x 2032 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2032", 
+  "id": 21905, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }, 
+              {
+                "id": 2076, 
+                "name": "jug"
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3373, 
+                "name": "fruit, cherry"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }, 
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Brian Fielding", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07233_8.jpg", 
+  "title": "Cherry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fielding-cherry-t07233", 
+  "width": "1727"
+}

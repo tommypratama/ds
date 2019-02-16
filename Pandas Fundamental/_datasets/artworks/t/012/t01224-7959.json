@@ -1,0 +1,104 @@
+{
+  "acno": "T01224", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Phillip King", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "born 1934", 
+      "displayOrder": 1, 
+      "fc": "Phillip King", 
+      "gender": "Male", 
+      "id": 1411, 
+      "mda": "King, Phillip", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "2362", 
+  "dimensions": "object: 1118 x 3632 x 2362 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3632", 
+  "id": 7959, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6739, 
+                "name": "dynamism"
+              }, 
+              {
+                "id": 6744, 
+                "name": "movement"
+              }, 
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Phillip King", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01224_8.jpg", 
+  "title": "Green Streamer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/king-green-streamer-t01224", 
+  "width": "1118"
+}

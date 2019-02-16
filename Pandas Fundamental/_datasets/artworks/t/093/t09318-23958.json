@@ -1,0 +1,82 @@
+{
+  "acno": "T09318", 
+  "acquisitionYear": 1997, 
+  "all_artists": "attributed to John Varley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1778, 
+      "date": "1778\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Varley", 
+      "gender": "Male", 
+      "id": 569, 
+      "mda": "Varley, John", 
+      "role": "attributed to", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 208 x 328 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "328", 
+  "id": 23958, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09318_8.jpg", 
+  "title": "A House among Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/varley-a-house-among-trees-t09318", 
+  "width": "208"
+}

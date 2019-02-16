@@ -1,0 +1,128 @@
+{
+  "acno": "T03397", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Jacques Lipchitz", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Jacques Lipchitz", 
+      "gender": "Male", 
+      "id": 1518, 
+      "mda": "Lipchitz, Jacques", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Friends of the Tate Gallery, Mrs Jack Steinberg and the Rayne Foundation 1982", 
+  "dateRange": {
+    "endYear": 1916, 
+    "startYear": 1915, 
+    "text": "1915-6"
+  }, 
+  "dateText": "1915\u20136", 
+  "depth": "180", 
+  "dimensions": "object: 980 x 280 x 180 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "280", 
+  "id": 8882, 
+  "inscription": "date inscribed", 
+  "medium": "Limestone", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 299, 
+      "name": "Cubism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Jacques Lipchitz, courtesy, Marlborough Gallery, New York", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03397_8.jpg", 
+  "title": "Sculpture", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lipchitz-sculpture-t03397", 
+  "width": "980"
+}

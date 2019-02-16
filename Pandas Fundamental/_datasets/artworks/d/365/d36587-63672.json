@@ -1,0 +1,85 @@
+{
+  "acno": "D36587", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D36587", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D365/D36587_E.jpg", 
+          "height": 359, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Thomas Girtin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 1, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1797, 
+    "text": "c.1797"
+  }, 
+  "dateText": "c.1797", 
+  "depth": "", 
+  "dimensions": "support: 154 x 225 mm", 
+  "finberg": "CCCLXXVII 16 a", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "225", 
+  "id": 63672, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7863, 
+                "name": "cypress"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36587_8.jpg", 
+  "title": "Studies of Cypress Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/girtin-studies-of-cypress-trees-d36587", 
+  "width": "154"
+}

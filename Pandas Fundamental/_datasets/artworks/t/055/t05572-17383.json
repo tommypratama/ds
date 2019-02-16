@@ -1,0 +1,156 @@
+{
+  "acno": "T05572", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Francis Barlow", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1626, 
+      "date": "?1626\u20131704", 
+      "displayOrder": 1, 
+      "fc": "Francis Barlow", 
+      "gender": "Male", 
+      "id": 20, 
+      "mda": "Barlow, Francis", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Friends of the Tate Gallery 1989", 
+  "dateRange": {
+    "endYear": 1661, 
+    "startYear": 1661, 
+    "text": "1661"
+  }, 
+  "dateText": "1661", 
+  "depth": "", 
+  "dimensions": "support: 1055 x 1320 mm\r\nframe: 1229 x 1525 x 85 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1320", 
+  "id": 17383, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 411, 
+      "name": "Restoration"
+    }
+  ], 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1011, 
+                "name": "balustrade"
+              }, 
+              {
+                "id": 245, 
+                "name": "column"
+              }, 
+              {
+                "id": 535, 
+                "name": "urn"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1002, 
+                "name": "dog, spaniel"
+              }, 
+              {
+                "id": 1003, 
+                "name": "monkey"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1007, 
+                "name": "fly"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05572_8.jpg", 
+  "title": "Monkeys and Dogs Playing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-monkeys-and-dogs-playing-t05572", 
+  "width": "1055"
+}

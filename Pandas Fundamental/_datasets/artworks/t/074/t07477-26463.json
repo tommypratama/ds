@@ -1,0 +1,120 @@
+{
+  "acno": "T07477", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Sir Hubert Von Herkomer", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1849, 
+      "date": "1849\u20131914", 
+      "displayOrder": 1, 
+      "fc": "Sir Hubert Von Herkomer", 
+      "gender": "Male", 
+      "id": 571, 
+      "mda": "Von Herkomer, Sir Hubert", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery, courtesy of Dr William G. Pace III 1998", 
+  "dateRange": {
+    "endYear": 1899, 
+    "startYear": 1899, 
+    "text": "c.1899"
+  }, 
+  "dateText": "c.1899", 
+  "depth": "", 
+  "dimensions": "support: 1505 x 1170 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1170", 
+  "id": 26463, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15165, 
+                "name": "Hislop, Amy"
+              }, 
+              {
+                "id": 14769, 
+                "name": "Tate, Lady"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 699, 
+                "name": "cloak"
+              }, 
+              {
+                "id": 3235, 
+                "name": "dress"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07477_8.jpg", 
+  "title": "Portrait of Lady Tate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/von-herkomer-portrait-of-lady-tate-t07477", 
+  "width": "1505"
+}

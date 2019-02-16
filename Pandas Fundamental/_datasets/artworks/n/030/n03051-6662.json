@@ -1,0 +1,154 @@
+{
+  "acno": "N03051", 
+  "acquisitionYear": 1916, 
+  "all_artists": "James Holland", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1799, 
+      "date": "1799\u20131870", 
+      "displayOrder": 1, 
+      "fc": "James Holland", 
+      "gender": "Male", 
+      "id": 268, 
+      "mda": "Holland, James", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by H.L. Florence 1916", 
+  "dateRange": {
+    "endYear": 1862, 
+    "startYear": 1862, 
+    "text": "1862"
+  }, 
+  "dateText": "1862", 
+  "depth": "", 
+  "dimensions": "support: 203 x 387 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "387", 
+  "id": 6662, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1858, 
+                "name": "Greenwich, Royal Naval Hospital"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1857, 
+                "name": "hospital"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03051_8.jpg", 
+  "title": "Greenwich Hospital as it was in 1837", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/holland-greenwich-hospital-as-it-was-in-1837-n03051", 
+  "width": "203"
+}

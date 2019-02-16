@@ -1,0 +1,98 @@
+{
+  "acno": "D33653", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D33653-D33665; D40432-D40435", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65963, 
+    "shortTitle": "Mountain Fortress Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1843, 
+    "startYear": 1843, 
+    "text": "?1843"
+  }, 
+  "dateText": "?1843", 
+  "depth": "", 
+  "dimensions": "support: 228 x 327 mm", 
+  "finberg": "CCCXXXIX 1", 
+  "foreignTitle": null, 
+  "groupTitle": "Mountain Fortress Sketchbook", 
+  "height": "327", 
+  "id": 60824, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33653_8.jpg", 
+  "title": "A Castle in the Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-castle-in-the-mountains-d33653", 
+  "width": "228"
+}

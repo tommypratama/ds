@@ -1,0 +1,86 @@
+{
+  "acno": "T08514", 
+  "acquisitionYear": 1997, 
+  "all_artists": "William Taverner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1700, 
+      "date": "1700\u20131772", 
+      "displayOrder": 1, 
+      "fc": "William Taverner", 
+      "gender": "Male", 
+      "id": 2460, 
+      "mda": "Taverner, William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 249 x 381 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "381", 
+  "id": 23787, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08514_8.jpg", 
+  "title": "Town on a Hillside beyond a Valley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/taverner-town-on-a-hillside-beyond-a-valley-t08514", 
+  "width": "249"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "A00048", 
+  "acquisitionYear": 1922, 
+  "all_artists": "William Blake", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1757, 
+      "date": "1757\u20131827", 
+      "displayOrder": 1, 
+      "fc": "William Blake", 
+      "gender": "Male", 
+      "id": 39, 
+      "mda": "Blake, William", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs John Richmond 1922", 
+  "dateRange": {
+    "endYear": 1810, 
+    "startYear": 1805, 
+    "text": "?c.1805-10"
+  }, 
+  "dateText": "?c.1805\u201310", 
+  "depth": "", 
+  "dimensions": "support: 508 x 370 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "370", 
+  "id": 1082, 
+  "inscription": null, 
+  "medium": "Graphite on paper. Verso: graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5733, 
+                "name": "angel"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00048_8.jpg", 
+  "title": "Composition Sketch. Verso: Standing Figure Holding a Spear", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-composition-sketch-verso-standing-figure-holding-a-spear-a00048", 
+  "width": "508"
+}

@@ -1,0 +1,92 @@
+{
+  "acno": "T03290", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Christo (Christo Javacheff)", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Christo (Christo Javacheff)", 
+      "gender": "Male", 
+      "id": 905, 
+      "mda": "Christo", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1981", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1959, 
+    "text": "1959-60"
+  }, 
+  "dateText": "1959\u201360", 
+  "depth": "", 
+  "dimensions": "object: 120 x 105 mm", 
+  "foreignTitle": "Inventaires", 
+  "groupTitle": null, 
+  "height": "105", 
+  "id": 2217, 
+  "inscription": null, 
+  "medium": "Metal, canvas and string", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 434, 
+      "name": "Nouveau R\u00e9alisme"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3039, 
+                "name": "tin can"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Christo", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03290_8.jpg", 
+  "title": "Wrapped Cans. Part of Inventory", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/christo-wrapped-cans-part-of-inventory-t03290", 
+  "width": "120"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "T00629", 
+  "acquisitionYear": 1963, 
+  "all_artists": "Matt Rugg", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Matt Rugg", 
+      "gender": "Male", 
+      "id": 1881, 
+      "mda": "Rugg, Matt", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1963", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "165", 
+  "dimensions": "object: 495 x 495 x 165 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "495", 
+  "id": 13018, 
+  "inscription": "date inscribed", 
+  "medium": "Painted wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Painted Unit Relief", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rugg-painted-unit-relief-t00629", 
+  "width": "495"
+}

@@ -1,0 +1,92 @@
+{
+  "acno": "N02391", 
+  "acquisitionYear": 1908, 
+  "all_artists": "Aaron Edwin Penley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1807, 
+      "date": "1807\u20131870", 
+      "displayOrder": 1, 
+      "fc": "Aaron Edwin Penley", 
+      "gender": "Male", 
+      "id": 416, 
+      "mda": "Penley, Aaron Edwin", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Dr Edward J. Steegmann 1908", 
+  "dateRange": {
+    "endYear": 1842, 
+    "startYear": 1842, 
+    "text": "1842"
+  }, 
+  "dateText": "1842", 
+  "depth": "", 
+  "dimensions": "support: 254 x 327 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "327", 
+  "id": 11507, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2455, 
+                "name": "residential"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02391_8.jpg", 
+  "title": "Ruins at Torre Wood", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/penley-ruins-at-torre-wood-n02391", 
+  "width": "254"
+}

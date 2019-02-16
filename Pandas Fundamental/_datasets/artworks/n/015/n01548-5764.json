@@ -1,0 +1,156 @@
+{
+  "acno": "N01548", 
+  "acquisitionYear": 1894, 
+  "all_artists": "Keeley Halswelle", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1832, 
+      "date": "1832\u20131891", 
+      "displayOrder": 1, 
+      "fc": "Keeley Halswelle", 
+      "gender": "Male", 
+      "id": 233, 
+      "mda": "Halswelle, Keeley", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Sir Henry Tate 1894", 
+  "dateRange": {
+    "endYear": 1881, 
+    "startYear": 1881, 
+    "text": "1881"
+  }, 
+  "dateText": "1881", 
+  "depth": "", 
+  "dimensions": "support: 908 x 1359 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1359", 
+  "id": 5764, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1532, 
+                "name": "Berkshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9047, 
+                "name": "Pangbourne"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1204, 
+                "name": "River Thames"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6217, 
+                "name": "water-lily"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01548_8.jpg", 
+  "title": "Pangbourne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/halswelle-pangbourne-n01548", 
+  "width": "908"
+}

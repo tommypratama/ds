@@ -1,0 +1,118 @@
+{
+  "acno": "P02004", 
+  "acquisitionYear": 1967, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {
+    "accessionRanges": "P01927; P02004", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65268, 
+    "shortTitle": "Opus 4"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1967", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1950, 
+    "text": "1950"
+  }, 
+  "dateText": "1950", 
+  "depth": "", 
+  "dimensions": "image: 160 x 140 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Opus 4", 
+  "height": "140", 
+  "id": 4799, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1598, 
+                "name": "instrument, lyre"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02004_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02004", 
+  "width": "160"
+}

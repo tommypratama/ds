@@ -1,0 +1,122 @@
+{
+  "acno": "N02861", 
+  "acquisitionYear": 1912, 
+  "all_artists": "George Adolphus Storey", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1834, 
+      "date": "1834\u20131919", 
+      "displayOrder": 1, 
+      "fc": "George Adolphus Storey", 
+      "gender": "Male", 
+      "id": 530, 
+      "mda": "Storey, George Adolphus", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund 1912", 
+  "dateRange": {
+    "endYear": 1874, 
+    "startYear": 1874, 
+    "text": "1874"
+  }, 
+  "dateText": "1874", 
+  "depth": "", 
+  "dimensions": "support: 914 x 711 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "711", 
+  "id": 13910, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 366, 
+      "name": "St John's Wood Clique"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15859, 
+                "name": "Storey"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1454, 
+                "name": "woman, old"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7842, 
+                "name": "lace"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02861_8.jpg", 
+  "title": "My Mother", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/storey-my-mother-n02861", 
+  "width": "914"
+}

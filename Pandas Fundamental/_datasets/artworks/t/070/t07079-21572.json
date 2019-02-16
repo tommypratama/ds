@@ -1,0 +1,70 @@
+{
+  "acno": "T07079", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Bernard Frize", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "Bernard Frize", 
+      "gender": "Male", 
+      "id": 2388, 
+      "mda": "Frize, Bernard", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Patrons of New Art through the Tate Gallery Foundation 1996", 
+  "dateRange": {
+    "endYear": 1991, 
+    "startYear": 1991, 
+    "text": "1991"
+  }, 
+  "dateText": "1991", 
+  "depth": "", 
+  "dimensions": "support: 2545 x 3615 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3615", 
+  "id": 21572, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bernard Frize", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07079_8.jpg", 
+  "title": "Spitz", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frize-spitz-t07079", 
+  "width": "2545"
+}

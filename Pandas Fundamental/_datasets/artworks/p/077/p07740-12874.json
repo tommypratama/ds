@@ -1,0 +1,96 @@
+{
+  "acno": "P07740", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Susan Rothenberg", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Susan Rothenberg", 
+      "gender": "Female", 
+      "id": 1872, 
+      "mda": "Rothenberg, Susan", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "image: 330 x 286 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "286", 
+  "id": 12874, 
+  "inscription": "date inscribed", 
+  "medium": "Woodcut on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12760, 
+                "name": "bone"
+              }, 
+              {
+                "id": 4606, 
+                "name": "head"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Susan Rothenberg / DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07740_8.jpg", 
+  "title": "Head and Bones", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothenberg-head-and-bones-p07740", 
+  "width": "330"
+}

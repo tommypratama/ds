@@ -1,0 +1,131 @@
+{
+  "acno": "D28232", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D28167-D28290; D41087-D41089", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65914, 
+    "shortTitle": "Givet, M\u00e9zi\u00e8res, Verdun, Metz, Luxemburg and Tr\u00e8ves Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1839, 
+    "startYear": 1839, 
+    "text": "1839"
+  }, 
+  "dateText": "1839", 
+  "depth": "", 
+  "dimensions": "support: 168 x 101 mm", 
+  "finberg": "CCLXXXVIII 34 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Givet, M\u00e9zi\u00e8res, Verdun, Metz, Luxemburg and Tr\u00e8ves Sketchbook", 
+  "height": "101", 
+  "id": 55551, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 70, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13957, 
+                "name": "Metz - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7805, 
+                "name": "River Mosel"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28232_8.jpg", 
+  "title": "Metz Cathedral and Bridge over the Moselle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-metz-cathedral-and-bridge-over-the-moselle-d28232", 
+  "width": "168"
+}

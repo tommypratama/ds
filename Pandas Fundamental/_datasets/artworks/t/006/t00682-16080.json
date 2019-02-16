@@ -1,0 +1,106 @@
+{
+  "acno": "T00682", 
+  "acquisitionYear": 1964, 
+  "all_artists": "John Wells", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20132000", 
+      "displayOrder": 1, 
+      "fc": "John Wells", 
+      "gender": "Male", 
+      "id": 2130, 
+      "mda": "Wells, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1964", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1962, 
+    "text": "1962"
+  }, 
+  "dateText": "1962", 
+  "depth": "", 
+  "dimensions": "support: 762 x 152 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "152", 
+  "id": 16080, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Wells", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00682_8.jpg", 
+  "title": "Painting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wells-painting-t00682", 
+  "width": "762"
+}

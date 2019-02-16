@@ -1,0 +1,86 @@
+{
+  "acno": "T05569", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1989", 
+  "dateRange": {
+    "endYear": 1825, 
+    "startYear": 1825, 
+    "text": "c.1825"
+  }, 
+  "dateText": "c.1825", 
+  "depth": "", 
+  "dimensions": "image: 154 x 214 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "214", 
+  "id": 17400, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05569_8.jpg", 
+  "title": "Study of Sea and Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-sea-and-sky-t05569", 
+  "width": "154"
+}

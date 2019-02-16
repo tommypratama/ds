@@ -1,0 +1,94 @@
+{
+  "acno": "D06119", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06119", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D61/D06119_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130300, 
+  "catalogueGroup": {
+    "accessionRanges": "D06072-D06178; D40655-D40658", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65744, 
+    "shortTitle": "Windsor and Eton Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1806, 
+    "text": "c.1806-8"
+  }, 
+  "dateText": "c.1806\u20138", 
+  "depth": "", 
+  "dimensions": "support: 107 x 182 mm", 
+  "finberg": "XCVII 46 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Windsor and Eton Sketchbook", 
+  "height": "182", 
+  "id": 33510, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 94, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06119_8.jpg", 
+  "title": "Group of Cows", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-cows-d06119", 
+  "width": "107"
+}

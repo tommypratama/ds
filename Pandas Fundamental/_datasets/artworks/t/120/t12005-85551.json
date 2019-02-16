@@ -1,0 +1,145 @@
+{
+  "acno": "T12005", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Andr\u00e9 Breton, Nusch Eluard, Valentine Hugo, Paul Eluard", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 4, 
+  "contributors": [
+    {
+      "birthYear": 1896, 
+      "date": "1896\u20131966", 
+      "displayOrder": 1, 
+      "fc": "Andr\u00e9 Breton", 
+      "gender": "Male", 
+      "id": 807, 
+      "mda": "Breton, Andr\u00e9", 
+      "role": "artist", 
+      "startLetter": "B"
+    }, 
+    {
+      "birthYear": 1906, 
+      "date": "1906\u20131945", 
+      "displayOrder": 2, 
+      "fc": "Nusch Eluard", 
+      "gender": "Female", 
+      "id": 8145, 
+      "mda": "Eluard, Nusch", 
+      "role": "artist", 
+      "startLetter": "E"
+    }, 
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131968", 
+      "displayOrder": 3, 
+      "fc": "Valentine Hugo", 
+      "gender": "Female", 
+      "id": 8146, 
+      "mda": "Hugo, Valentine", 
+      "role": "artist", 
+      "startLetter": "H"
+    }, 
+    {
+      "birthYear": 1895, 
+      "date": "1895\u20131952", 
+      "displayOrder": 4, 
+      "fc": "Paul Eluard", 
+      "gender": "Male", 
+      "id": 8147, 
+      "mda": "Eluard, Paul", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Purchased 2005\r\n", 
+  "dateRange": {
+    "endYear": 1930, 
+    "startYear": 1930, 
+    "text": "c.1930"
+  }, 
+  "dateText": "c.1930", 
+  "depth": "", 
+  "dimensions": "support: 310 x 240 mm\r\nframe: 560 x 489 x 29 mm", 
+  "foreignTitle": "Cadavre exquis", 
+  "groupTitle": null, 
+  "height": "240", 
+  "id": 85551, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 320, 
+      "name": "Surrealism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9985, 
+                "name": "arrow"
+              }, 
+              {
+                "id": 821, 
+                "name": "music"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6919, 
+                "name": "fragmentation"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5020, 
+                "name": "telegraph pole"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Exquisite Corpse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/breton-eluard-hugo-exquisite-corpse-t12005", 
+  "width": "310"
+}

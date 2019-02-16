@@ -1,0 +1,90 @@
+{
+  "acno": "T01439", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Thomas Gainsborough", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1727, 
+      "date": "1727\u20131788", 
+      "displayOrder": 1, 
+      "fc": "Thomas Gainsborough", 
+      "gender": "Male", 
+      "id": 199, 
+      "mda": "Gainsborough, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1785, 
+    "startYear": 1785, 
+    "text": "c.1785, reprinted 1971"
+  }, 
+  "dateText": "c.1785, reprinted 1971", 
+  "depth": "", 
+  "dimensions": "image: 270 x 349 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "349", 
+  "id": 4952, 
+  "inscription": null, 
+  "medium": "Aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01439_8.jpg", 
+  "title": "Wooded Landscape with Three Cows at a Pool", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-three-cows-at-a-pool-t01439", 
+  "width": "270"
+}

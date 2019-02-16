@@ -1,0 +1,82 @@
+{
+  "acno": "T03622", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Paul Maitland", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1863, 
+      "date": "1863\u20131909", 
+      "displayOrder": 1, 
+      "fc": "Paul Maitland", 
+      "gender": "Male", 
+      "id": 1559, 
+      "mda": "Maitland, Paul", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented anonymously in memory of Sir Terence Rattigan 1983", 
+  "dateRange": {
+    "endYear": 1883, 
+    "startYear": 1883, 
+    "text": "c.1883"
+  }, 
+  "dateText": "c.1883", 
+  "depth": "", 
+  "dimensions": "support: 305 x 250 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "250", 
+  "id": 9186, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14949, 
+                "name": "hyacinth"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2606, 
+                "name": "jar"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03622_8.jpg", 
+  "title": "Hyacinth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/maitland-hyacinth-t03622", 
+  "width": "305"
+}

@@ -1,0 +1,122 @@
+{
+  "acno": "T03650", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Sir Gerald Kelly", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1879, 
+      "date": "1879\u20131972", 
+      "displayOrder": 1, 
+      "fc": "Sir Gerald Kelly", 
+      "gender": "Male", 
+      "id": 1394, 
+      "mda": "Kelly, Sir Gerald", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented anonymously in memory of Sir Terence Rattigan 1983", 
+  "dateRange": {
+    "endYear": 1904, 
+    "startYear": 1904, 
+    "text": "1904"
+  }, 
+  "dateText": "1904", 
+  "depth": "", 
+  "dimensions": "support: 180 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "120", 
+  "id": 7896, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17213, 
+                "name": "Paris, Boulevard Montparnasse"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5573, 
+                "name": "caf\u00e9"
+              }
+            ], 
+            "id": 23, 
+            "name": "places of entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }, 
+              {
+                "id": 210, 
+                "name": "streetlight"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 reserved", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03650_8.jpg", 
+  "title": "Boulevard Montparnasse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kelly-boulevard-montparnasse-t03650", 
+  "width": "180"
+}

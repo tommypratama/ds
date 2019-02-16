@@ -1,0 +1,304 @@
+{
+  "acno": "T00070", 
+  "acquisitionYear": 1955, 
+  "all_artists": "Sir Peter Lely", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1618, 
+      "date": "1618\u20131680", 
+      "displayOrder": 1, 
+      "fc": "Sir Peter Lely", 
+      "gender": "Male", 
+      "id": 343, 
+      "mda": "Lely, Sir Peter", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1955", 
+  "dateRange": {
+    "endYear": 1679, 
+    "startYear": 1679, 
+    "text": "c.1679"
+  }, 
+  "dateText": "c.1679", 
+  "depth": "", 
+  "dimensions": "support: 1234 x 1000 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1000", 
+  "id": 8592, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 4, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 398, 
+      "name": "Baroque"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 400, 
+      "name": "Court"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 406, 
+      "name": "Netherlands-trained, working in Britain"
+    }
+  ], 
+  "subjectCount": 19, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14365, 
+                "name": "Jones, Elizabeth, Lady"
+              }, 
+              {
+                "id": 14366, 
+                "name": "Kildare, Elizabeth, Countess of"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 794, 
+                "name": "figure"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4702, 
+                "name": "aristocrat"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2270, 
+                "name": "blossom"
+              }, 
+              {
+                "id": 3911, 
+                "name": "orange"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4154, 
+                "name": "brooch"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 841, 
+                "name": "curtain"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15964, 
+                "name": "plant pot"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2761, 
+                "name": "relief"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4989, 
+                "name": "terrace"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1750, 
+                "name": "picking flowers"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10325, 
+                "name": "putto"
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00070_8.jpg", 
+  "title": "Elizabeth, Countess of Kildare", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lely-elizabeth-countess-of-kildare-t00070", 
+  "width": "1234"
+}

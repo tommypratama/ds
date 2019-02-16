@@ -1,0 +1,138 @@
+{
+  "acno": "N05126", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Winifred Nicholson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1893, 
+      "date": "1893\u20131981", 
+      "displayOrder": 1, 
+      "fc": "Winifred Nicholson", 
+      "gender": "Female", 
+      "id": 1704, 
+      "mda": "Nicholson, Winifred", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1940", 
+  "dateRange": {
+    "endYear": 1923, 
+    "startYear": 1923, 
+    "text": "1923"
+  }, 
+  "dateText": "1923", 
+  "depth": "", 
+  "dimensions": "support: 286 x 508 mm\r\nframe: 345 x 584 x 55 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 10739, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4947, 
+                "name": "Lugano"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15964, 
+                "name": "plant pot"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05126_8.jpg", 
+  "title": "Window-Sill, Lugano", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-window-sill-lugano-n05126", 
+  "width": "286"
+}

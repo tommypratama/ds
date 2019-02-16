@@ -1,0 +1,84 @@
+{
+  "acno": "P77130", 
+  "acquisitionYear": 1985, 
+  "all_artists": "John Wells", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20132000", 
+      "displayOrder": 1, 
+      "fc": "John Wells", 
+      "gender": "Male", 
+      "id": 2130, 
+      "mda": "Wells, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1985", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1950, 
+    "text": "1950"
+  }, 
+  "dateText": "1950", 
+  "depth": "", 
+  "dimensions": "image: 140 x 115 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "115", 
+  "id": 16075, 
+  "inscription": "date inscribed", 
+  "medium": "Engraving on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Wells", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77130_8.jpg", 
+  "title": "Topsail", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wells-topsail-p77130", 
+  "width": "140"
+}

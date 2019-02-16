@@ -1,0 +1,116 @@
+{
+  "acno": "P11925", 
+  "acquisitionYear": 2003, 
+  "all_artists": "Ian Hamilton Finlay", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20132006", 
+      "displayOrder": 1, 
+      "fc": "Ian Hamilton Finlay", 
+      "gender": "Male", 
+      "id": 1093, 
+      "mda": "Hamilton Finlay, Ian", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by David Brown in memory of Mrs Liza Brown 2003", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "", 
+  "dimensions": "image: 575 x 406 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "406", 
+  "id": 78425, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }, 
+              {
+                "id": 8494, 
+                "name": "word"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Ian Hamilton Finlay", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11925_8.jpg", 
+  "title": "Ajar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-ajar-p11925", 
+  "width": "575"
+}

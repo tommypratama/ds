@@ -1,0 +1,362 @@
+{
+  "acno": "P20146", 
+  "acquisitionYear": 1994, 
+  "all_artists": "J\u00f6rg Immendorff", 
+  "catalogueGroup": {
+    "accessionRanges": "P20146; P77012", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65311, 
+    "shortTitle": "Caf\u00e9 Deutschland"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "1945 \u20132007", 
+      "displayOrder": 1, 
+      "fc": "J\u00f6rg Immendorff", 
+      "gender": "Male", 
+      "id": 1333, 
+      "mda": "Immendorff, J\u00f6rg", 
+      "role": "artist", 
+      "startLetter": "I"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1994", 
+  "dateRange": {
+    "endYear": 1993, 
+    "startYear": 1982, 
+    "text": "1982,1993"
+  }, 
+  "dateText": "1982,1993", 
+  "depth": "", 
+  "dimensions": "image: 1545 x 2085 mm", 
+  "foreignTitle": "Heuler", 
+  "groupTitle": "Caf\u00e9 Deutschland", 
+  "height": "2085", 
+  "id": 21047, 
+  "inscription": null, 
+  "medium": "Linocut on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 431, 
+      "name": "Neo-Expressionism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 432, 
+      "name": "Neue Wilden"
+    }
+  ], 
+  "subjectCount": 30, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6108, 
+                "name": "Berlin, Brandenburg Gate"
+              }, 
+              {
+                "id": 9644, 
+                "name": "D\u00fcsseldorf, 'Revolution' pub"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8077, 
+                "name": "Communism - hammer and sickle"
+              }, 
+              {
+                "id": 8081, 
+                "name": "Nazism - swastika"
+              }
+            ], 
+            "id": 8028, 
+            "name": "politics"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6117, 
+                "name": "Engels, Friedrich"
+              }, 
+              {
+                "id": 2457, 
+                "name": "Hitler, Adolf"
+              }, 
+              {
+                "id": 6111, 
+                "name": "Immendorff, J\u00f6rg"
+              }, 
+              {
+                "id": 3109, 
+                "name": "Mao Tse-tung, Chairman"
+              }, 
+              {
+                "id": 6116, 
+                "name": "Marx, Karl"
+              }, 
+              {
+                "id": 6113, 
+                "name": "Penck, A.R."
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20116, 
+                "name": "self-portraits"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1196, 
+                "name": "author"
+              }
+            ], 
+            "id": 126, 
+            "name": "literary"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3115, 
+                "name": "politician, political leader"
+              }
+            ], 
+            "id": 130, 
+            "name": "public service"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4503, 
+                "name": "caf\u00e9"
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3564, 
+                "name": "democracy"
+              }, 
+              {
+                "id": 3566, 
+                "name": "totalitarianism"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 930, 
+                "name": "eagle"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 458, 
+                "name": "ladder"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1078, 
+                "name": "mirror"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6122, 
+                "name": "politics: Chinese-German relations, 1980s"
+              }, 
+              {
+                "id": 6120, 
+                "name": "politics: Communism"
+              }, 
+              {
+                "id": 6121, 
+                "name": "politics: Germany, division, post-1945"
+              }, 
+              {
+                "id": 4637, 
+                "name": "politics: Nazi Germany, 1933-45"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Howler", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/immendorff-howler-p20146", 
+  "width": "1545"
+}

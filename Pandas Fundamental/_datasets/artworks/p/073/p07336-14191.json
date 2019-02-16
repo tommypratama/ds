@@ -1,0 +1,82 @@
+{
+  "acno": "P07336", 
+  "acquisitionYear": 1979, 
+  "all_artists": "William Tillyer", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "William Tillyer", 
+      "gender": "Male", 
+      "id": 2042, 
+      "mda": "Tillyer, William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1979", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 759 x 489 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "489", 
+  "id": 14191, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4285, 
+                "name": "stile"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Mill Wood", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tillyer-mill-wood-p07336", 
+  "width": "759"
+}

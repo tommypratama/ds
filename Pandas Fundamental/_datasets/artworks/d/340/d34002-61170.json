@@ -1,0 +1,96 @@
+{
+  "acno": "D34002", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D34002", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D340/D34002_E.jpg", 
+          "height": 344, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1135616, 
+  "catalogueGroup": {
+    "accessionRanges": "D12109; D34001-D34002; D34791-D34794; D34796-D34797; D34836; D34842-D34849; D34857-D34858; D40300; D40396", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 126526, 
+    "shortTitle": "Sheets Associated with the 1831 Tour of Scotland"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "1831"
+  }, 
+  "dateText": "1831", 
+  "depth": "", 
+  "dimensions": "support: 156 x 235 mm", 
+  "finberg": "CCCXLI 285", 
+  "foreignTitle": null, 
+  "groupTitle": "Sheets Associated with the 1831 Tour of Scotland", 
+  "height": "235", 
+  "id": 61170, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 675, 
+                "name": "cave"
+              }, 
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34002_8.jpg", 
+  "title": "Fingal\u2019s Cave, Staffa", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fingals-cave-staffa-d34002", 
+  "width": "156"
+}

@@ -1,0 +1,110 @@
+{
+  "acno": "N03987", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Edwin Austin Abbey", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1852, 
+      "date": "1852\u20131911", 
+      "displayOrder": 1, 
+      "fc": "Edwin Austin Abbey", 
+      "gender": "Male", 
+      "id": 0, 
+      "mda": "Abbey, Edwin Austin", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by a group of admirers through John Singer Sargent 1924", 
+  "dateRange": {
+    "endYear": 1887, 
+    "startYear": 1882, 
+    "text": "c.1882-7"
+  }, 
+  "dateText": "c.1882\u20137", 
+  "depth": "", 
+  "dimensions": "support: 251 x 295 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "295", 
+  "id": 311, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12638, 
+                "name": "Goldsmith, Oliver, 'She Stoops to Conquer'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1612, 
+                "name": "bowing"
+              }, 
+              {
+                "id": 1675, 
+                "name": "greeting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03987_8.jpg", 
+  "title": "Illustration to \u2018She Stoops to Conquer\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abbey-illustration-to-she-stoops-to-conquer-n03987", 
+  "width": "251"
+}

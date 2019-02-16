@@ -1,0 +1,86 @@
+{
+  "acno": "T00059", 
+  "acquisitionYear": 1955, 
+  "all_artists": "Henry Moore OM, CH", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Henry Moore OM, CH", 
+      "gender": "Male", 
+      "id": 1659, 
+      "mda": "Moore, Henry, OM, CH", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1955", 
+  "dateRange": {
+    "endYear": 1927, 
+    "startYear": 1927, 
+    "text": "1927"
+  }, 
+  "dateText": "1927", 
+  "depth": "", 
+  "dimensions": "support: 540 x 318 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "318", 
+  "id": 10223, 
+  "inscription": "date inscribed", 
+  "medium": "Ink, watercolour and chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Henry Moore Foundation; All rights reserved DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00059_8.jpg", 
+  "title": "Standing Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-standing-figure-t00059", 
+  "width": "540"
+}

@@ -1,0 +1,128 @@
+{
+  "acno": "P12108", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Michael Heizer", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1944, 
+      "date": "born 1944", 
+      "displayOrder": 1, 
+      "fc": "Michael Heizer", 
+      "gender": "Male", 
+      "id": 6341, 
+      "mda": "Heizer, Michael", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Tyler Graphics Ltd in honour of Pat Gilmour, Tate Print Department 1974-7, 2004", 
+  "dateRange": {
+    "endYear": 1983, 
+    "startYear": 1983, 
+    "text": "1983"
+  }, 
+  "dateText": "1983", 
+  "depth": "", 
+  "dimensions": "image: 791 x 1142 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1142", 
+  "id": 79323, 
+  "inscription": null, 
+  "medium": "Lithograph, screenprint and etching on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 422, 
+      "name": "Environmental Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 429, 
+      "name": "Land Art"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }, 
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance"
+              }, 
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Levitated Mass", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/heizer-levitated-mass-p12108", 
+  "width": "791"
+}

@@ -1,0 +1,126 @@
+{
+  "acno": "T03370", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Rufino Tamayo", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1899, 
+      "date": "1899\u20131991", 
+      "displayOrder": 1, 
+      "fc": "Rufino Tamayo", 
+      "gender": "Male", 
+      "id": 2021, 
+      "mda": "Tamayo, Rufino", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "", 
+  "dimensions": "support: 1247 x 1800 mm", 
+  "foreignTitle": "Hombre y muser", 
+  "groupTitle": null, 
+  "height": "1800", 
+  "id": 14117, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15753, 
+                "name": "desolation"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Man and Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tamayo-man-and-woman-t03370", 
+  "width": "1247"
+}

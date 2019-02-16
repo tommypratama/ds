@@ -1,0 +1,82 @@
+{
+  "acno": "T07580", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Laura Ford", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1961, 
+      "date": "born 1961", 
+      "displayOrder": 1, 
+      "fc": "Laura Ford", 
+      "gender": "Female", 
+      "id": 2733, 
+      "mda": "Ford, Laura", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by the Patrons of New Art through the Tate Gallery Foundation 1999", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1998, 
+    "text": "1998"
+  }, 
+  "dateText": "1998", 
+  "depth": "850", 
+  "dimensions": "unconfirmed: 1750 x 3000 x 850 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3000", 
+  "id": 26848, 
+  "inscription": null, 
+  "medium": "Metal, plaster, wool and leather", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 739, 
+                "name": "blanket"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12785, 
+                "name": "moose"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Laura Ford", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07580_8.jpg", 
+  "title": "Moose", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ford-moose-t07580", 
+  "width": "1750"
+}

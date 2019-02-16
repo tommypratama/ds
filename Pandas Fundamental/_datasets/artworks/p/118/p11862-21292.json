@@ -1,0 +1,108 @@
+{
+  "acno": "P11862", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Elizabeth Murray", 
+  "catalogueGroup": {
+    "accessionRanges": "P11860-P11872", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66000, 
+    "shortTitle": "Her Story"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Elizabeth Murray", 
+      "gender": "Female", 
+      "id": 1683, 
+      "mda": "Murray, Elizabeth", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery, courtesy of a private collector 2000", 
+  "dateRange": {
+    "endYear": 1990, 
+    "startYear": 1988, 
+    "text": "1988-90"
+  }, 
+  "dateText": "1988\u201390", 
+  "depth": "", 
+  "dimensions": "image: 148 x 109 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Her Story", 
+  "height": "109", 
+  "id": 21292, 
+  "inscription": "date inscribed", 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4990, 
+                "name": "lamp"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murray-no-title-p11862", 
+  "width": "148"
+}

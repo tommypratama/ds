@@ -1,0 +1,117 @@
+{
+  "acno": "D08089", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131811, 
+  "catalogueGroup": {
+    "accessionRanges": "D08084-D08101; D40351-D40381", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65762, 
+    "shortTitle": "Studies for Liber Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1807, 
+    "text": "c.1807-19"
+  }, 
+  "dateText": "c.1807\u201319", 
+  "depth": "", 
+  "dimensions": "support: 230 x 379 mm", 
+  "finberg": "CXV 6", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies for Liber Sketchbook", 
+  "height": "379", 
+  "id": 35478, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08089_8.jpg", 
+  "title": "A Sea Piece", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-sea-piece-d08089", 
+  "width": "230"
+}

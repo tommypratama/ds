@@ -1,0 +1,100 @@
+{
+  "acno": "D00052", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140110, 
+  "catalogueGroup": {
+    "accessionRanges": "D00001-D00003; D00005; D00046-D00053; D00115; D00187; D00191; D00195; D00716; D40210-D40212; D40266", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127044, 
+    "shortTitle": "Oxford and Other Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1791, 
+    "startYear": 1791, 
+    "text": "?1791"
+  }, 
+  "dateText": "?1791", 
+  "depth": "", 
+  "dimensions": "support: 207 x 214 mm", 
+  "finberg": "IV B", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford and Other Subjects", 
+  "height": "214", 
+  "id": 27468, 
+  "inscription": null, 
+  "medium": "Pen and ink and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 214, 
+                "name": "chimney"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00052_8.jpg", 
+  "title": "A Tudor House among Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-tudor-house-among-trees-d00052", 
+  "width": "207"
+}

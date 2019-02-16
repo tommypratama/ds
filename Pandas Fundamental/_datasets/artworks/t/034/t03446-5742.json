@@ -1,0 +1,148 @@
+{
+  "acno": "T03446", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Sir James Guthrie", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1859, 
+      "date": "1859\u20131930", 
+      "displayOrder": 1, 
+      "fc": "Sir James Guthrie", 
+      "gender": "Male", 
+      "id": 228, 
+      "mda": "Guthrie, Sir James", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1883, 
+    "startYear": 1882, 
+    "text": "1882-3"
+  }, 
+  "dateText": "1882\u20133", 
+  "depth": "", 
+  "dimensions": "support: 940 x 735 mm\r\nframe: 1141 x 938 x 78 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "735", 
+  "id": 5742, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 356, 
+      "name": "Glasgow School"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2871, 
+                "name": "Lincolnshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3708, 
+                "name": "Wash"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 271, 
+                "name": "walking"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03446_8.jpg", 
+  "title": "The Wash", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guthrie-the-wash-t03446", 
+  "width": "940"
+}

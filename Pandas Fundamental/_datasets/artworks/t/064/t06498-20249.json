@@ -1,0 +1,116 @@
+{
+  "acno": "T06498", 
+  "acquisitionYear": 1991, 
+  "all_artists": "Mary Fedden", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1915, 
+      "date": "1915 \u2013 2012", 
+      "displayOrder": 1, 
+      "fc": "Mary Fedden", 
+      "gender": "Female", 
+      "id": 1084, 
+      "mda": "Fedden, Mary", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1991", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "support: 762 x 917 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "917", 
+  "id": 20249, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }, 
+              {
+                "id": 1951, 
+                "name": "flask"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3371, 
+                "name": "ink stone"
+              }, 
+              {
+                "id": 2835, 
+                "name": "paintbrush"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3370, 
+                "name": "printmaking"
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 206, 
+                "name": "studio"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Mary Fedden", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06498_8.jpg", 
+  "title": "The Etching Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fedden-the-etching-table-t06498", 
+  "width": "762"
+}

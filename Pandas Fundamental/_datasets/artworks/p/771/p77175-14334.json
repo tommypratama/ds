@@ -1,0 +1,104 @@
+{
+  "acno": "P77175", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Jean Tinguely", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20131991", 
+      "displayOrder": 1, 
+      "fc": "Jean Tinguely", 
+      "gender": "Male", 
+      "id": 2046, 
+      "mda": "Tinguely, Jean", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1986", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 350 x 480 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "480", 
+  "id": 14334, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 17573, 
+      "name": "Auto-Destructive art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 434, 
+      "name": "Nouveau R\u00e9alisme"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13683, 
+                "name": "chaos"
+              }, 
+              {
+                "id": 1715, 
+                "name": "destruction"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Jean Tinguely", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77175_8.jpg", 
+  "title": "Chaos I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tinguely-chaos-i-p77175", 
+  "width": "350"
+}

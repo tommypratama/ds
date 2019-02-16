@@ -1,0 +1,284 @@
+{
+  "acno": "N05316", 
+  "acquisitionYear": 1941, 
+  "all_artists": "David Jones", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1895, 
+      "date": "1895\u20131974", 
+      "displayOrder": 1, 
+      "fc": "David Jones", 
+      "gender": "Male", 
+      "id": 1370, 
+      "mda": "Jones, David", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Purchased 1941", 
+  "dateRange": {
+    "endYear": 1941, 
+    "startYear": 1941, 
+    "text": "1941"
+  }, 
+  "dateText": "1941", 
+  "depth": "", 
+  "dimensions": "support: 629 x 495 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "495", 
+  "id": 7240, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, ink, crayon, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 21, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3821, 
+                "name": "Arthurian legend"
+              }
+            ], 
+            "id": 57, 
+            "name": "tales, legends and traditional"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17035, 
+                "name": "Sir Launcelot"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific"
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3830, 
+                "name": "World War II - non-specific"
+              }
+            ], 
+            "id": 37, 
+            "name": "military: World War II"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5850, 
+                "name": "chapel"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 865, 
+                "name": "standing stone"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5719, 
+                "name": "danger"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }, 
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2415, 
+                "name": "swan"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12873, 
+                "name": "dreaming"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 723, 
+                "name": "lying down"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1120, 
+                "name": "glove"
+              }, 
+              {
+                "id": 868, 
+                "name": "helmet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3232, 
+                "name": "knight"
+              }, 
+              {
+                "id": 1434, 
+                "name": "queen"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of David Jones", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05316_8.jpg", 
+  "title": "Illustration to the Arthurian Legend: The Four Queens Find Launcelot Sleeping", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-illustration-to-the-arthurian-legend-the-four-queens-find-launcelot-sleeping-n05316", 
+  "width": "629"
+}

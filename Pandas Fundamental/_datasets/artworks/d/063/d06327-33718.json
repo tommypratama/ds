@@ -1,0 +1,94 @@
+{
+  "acno": "D06327", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06327", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D63/D06327_E.jpg", 
+          "height": 363, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130511, 
+  "catalogueGroup": {
+    "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65745, 
+    "shortTitle": "Wey, Guildford Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 117 x 182 mm", 
+  "finberg": "XCVIII 121", 
+  "foreignTitle": null, 
+  "groupTitle": "Wey, Guildford Sketchbook", 
+  "height": "182", 
+  "id": 33718, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 243, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06327_8.jpg", 
+  "title": "Godalming from the North-West", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-godalming-from-the-north-west-d06327", 
+  "width": "117"
+}

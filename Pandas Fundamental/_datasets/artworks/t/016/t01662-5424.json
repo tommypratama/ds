@@ -1,0 +1,90 @@
+{
+  "acno": "T01662", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Joan Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131908", 
+      "displayOrder": 1, 
+      "fc": "Joan Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1187, 
+      "mda": "Gonz\u00e1lez, Joan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mme Roberta Gonzalez-Richard, the artist's niece 1972", 
+  "dateRange": {
+    "endYear": 1904, 
+    "startYear": 1903, 
+    "text": "c.1903-4"
+  }, 
+  "dateText": "c.1903\u20134", 
+  "depth": "", 
+  "dimensions": "support: 229 x 292 mm", 
+  "foreignTitle": "Les Nuages blancs", 
+  "groupTitle": null, 
+  "height": "292", 
+  "id": 5424, 
+  "inscription": null, 
+  "medium": "Pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01662_8.jpg", 
+  "title": "White Clouds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-white-clouds-t01662", 
+  "width": "229"
+}

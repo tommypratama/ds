@@ -1,0 +1,96 @@
+{
+  "acno": "N05680", 
+  "acquisitionYear": 1946, 
+  "all_artists": "Edward Bawden", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131989", 
+      "displayOrder": 1, 
+      "fc": "Edward Bawden", 
+      "gender": "Male", 
+      "id": 707, 
+      "mda": "Bawden, Edward", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the War Artists Advisory Committee 1946", 
+  "dateRange": {
+    "endYear": 1941, 
+    "startYear": 1941, 
+    "text": "1941"
+  }, 
+  "dateText": "1941", 
+  "depth": "", 
+  "dimensions": "support: 381 x 978 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "978", 
+  "id": 774, 
+  "inscription": null, 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 10525, 
+      "name": "British War Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05680_8.jpg", 
+  "title": "Gubba: Panorama of the Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bawden-gubba-panorama-of-the-town-n05680", 
+  "width": "381"
+}

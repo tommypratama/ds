@@ -1,0 +1,134 @@
+{
+  "acno": "A00702", 
+  "acquisitionYear": 1847, 
+  "all_artists": "Sir Edwin Henry Landseer", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1802, 
+      "date": "1802\u20131873", 
+      "displayOrder": 1, 
+      "fc": "Sir Edwin Henry Landseer", 
+      "gender": "Male", 
+      "id": 323, 
+      "mda": "Landseer, Sir Edwin Henry", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Robert Vernon 1847", 
+  "dateRange": {
+    "endYear": 1829, 
+    "startYear": 1829, 
+    "text": "1829, exhibited 1831"
+  }, 
+  "dateText": "1829, exhibited 1831", 
+  "depth": "", 
+  "dimensions": "support: 457 x 352 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "352", 
+  "id": 8341, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on mahogany", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1017, 
+                "name": "class"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1091, 
+                "name": "pipe"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00702_8.jpg", 
+  "title": "Low Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landseer-low-life-a00702", 
+  "width": "457"
+}

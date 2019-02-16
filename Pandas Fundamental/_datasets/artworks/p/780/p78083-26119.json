@@ -1,0 +1,128 @@
+{
+  "acno": "P78083", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Abigail Lane", 
+  "catalogueGroup": {
+    "accessionRanges": "P78078-P78088", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66069, 
+    "shortTitle": "Screen"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1967, 
+      "date": "born 1967", 
+      "displayOrder": 1, 
+      "fc": "Abigail Lane", 
+      "gender": "Female", 
+      "id": 2660, 
+      "mda": "Lane, Abigail", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1998", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "", 
+  "dimensions": "image: 569 x 882 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Screen", 
+  "height": "882", 
+  "id": 26119, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal / human"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6851, 
+                "name": "attacking"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4446, 
+                "name": "dinosaur"
+              }
+            ], 
+            "id": 68, 
+            "name": "animals: reptiles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Dinomouse Sequel Mutant X", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lane-dinomouse-sequel-mutant-x-p78083", 
+  "width": "569"
+}

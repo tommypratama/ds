@@ -1,0 +1,271 @@
+{
+  "acno": "T03360", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Walter Richard Sickert", 
+  "catTextResId": 1135622, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1860, 
+      "date": "1860\u20131942", 
+      "displayOrder": 1, 
+      "fc": "Walter Richard Sickert", 
+      "gender": "Male", 
+      "id": 1941, 
+      "mda": "Sickert, Walter Richard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1932, 
+    "startYear": 1932, 
+    "text": "1932"
+  }, 
+  "dateText": "1932", 
+  "depth": "", 
+  "dimensions": "support: 717 x 1832 mm\r\nframe: 865 x 1987 x 60 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1832", 
+  "id": 13423, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 18, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5646, 
+                "name": "Earhart, Amelia"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1675, 
+                "name": "greeting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15708, 
+                "name": "Hanworth, Hanworth Air Park"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4571, 
+                "name": "aircraft, civil"
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7153, 
+                "name": "exploration"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4617, 
+                "name": "airport"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat"
+              }, 
+              {
+                "id": 2302, 
+                "name": "umbrella"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 23438, 
+                "name": "newspaper, 'Daily Sketch'"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5613, 
+                "name": "exploration: Amelia Earhart, transatlantic flight, 1932"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6782, 
+                "name": "heroism"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1400, 
+                "name": "rain"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03360_8.jpg", 
+  "title": "Miss Earhart\u2019s Arrival", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-miss-earharts-arrival-t03360", 
+  "width": "717"
+}

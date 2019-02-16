@@ -1,0 +1,108 @@
+{
+  "acno": "T00034", 
+  "acquisitionYear": 1955, 
+  "all_artists": "Julian Trevelyan", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Julian Trevelyan", 
+      "gender": "Male", 
+      "id": 2065, 
+      "mda": "Trevelyan, Julian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1955", 
+  "dateRange": {
+    "endYear": 1955, 
+    "startYear": 1955, 
+    "text": "1955"
+  }, 
+  "dateText": "1955", 
+  "depth": "", 
+  "dimensions": "support: 762 x 1016 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1016", 
+  "id": 14485, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2191, 
+                "name": "ox"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Julian Trevelyan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00034_8.jpg", 
+  "title": "Oxen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-oxen-t00034", 
+  "width": "762"
+}

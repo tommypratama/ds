@@ -1,0 +1,102 @@
+{
+  "acno": "T13682", 
+  "acquisitionYear": 2013, 
+  "all_artists": "Amikam Toren", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Amikam Toren", 
+      "gender": "Male", 
+      "id": 16792, 
+      "mda": "Toren, Amikam", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 2012", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "Overall display dimensions variable", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 123583, 
+  "inscription": null, 
+  "medium": "Glass, glue, wooden shelf and ink on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2898, 
+                "name": "map"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Amikan Toren", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13682_8.jpg", 
+  "title": "Simple Fractions", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/toren-simple-fractions-t13682", 
+  "width": ""
+}

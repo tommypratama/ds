@@ -1,0 +1,102 @@
+{
+  "acno": "T00800", 
+  "acquisitionYear": 1965, 
+  "all_artists": "Bernard Cohen", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Bernard Cohen", 
+      "gender": "Male", 
+      "id": 924, 
+      "mda": "Cohen, Bernard", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1965", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "", 
+  "dimensions": "support: 2438 x 2438 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2438", 
+  "id": 2375, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint and tempera on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3818, 
+                "name": "Camus, Albert, 'The Myth of Sisyphus'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5345, 
+                "name": "sadness"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bernard Cohen", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00800_8.jpg", 
+  "title": "In That Moment", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cohen-in-that-moment-t00800", 
+  "width": "2438"
+}

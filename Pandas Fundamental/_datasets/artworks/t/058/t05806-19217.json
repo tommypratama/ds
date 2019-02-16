@@ -1,0 +1,110 @@
+{
+  "acno": "T05806", 
+  "acquisitionYear": 1937, 
+  "all_artists": "Augustus John OM", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1878, 
+      "date": "1878\u20131961", 
+      "displayOrder": 1, 
+      "fc": "Augustus John OM", 
+      "gender": "Male", 
+      "id": 1362, 
+      "mda": "John, Augustus, OM", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Bequeathed by Mrs Rhoda Symons 1937", 
+  "dateRange": {
+    "endYear": 1909, 
+    "startYear": 1909, 
+    "text": "1909"
+  }, 
+  "dateText": "1909", 
+  "depth": "", 
+  "dimensions": "support: 350 x 251 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "251", 
+  "id": 19217, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12925, 
+                "name": "Symons, Arthur William"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1374, 
+                "name": "critic"
+              }, 
+              {
+                "id": 5079, 
+                "name": "playwright"
+              }, 
+              {
+                "id": 1181, 
+                "name": "poet"
+              }
+            ], 
+            "id": 126, 
+            "name": "literary"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Arthur Symons", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/john-arthur-symons-t05806", 
+  "width": "350"
+}

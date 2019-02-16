@@ -1,0 +1,104 @@
+{
+  "acno": "T05556", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Ralph Rumney", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20132002", 
+      "displayOrder": 1, 
+      "fc": "Ralph Rumney", 
+      "gender": "Male", 
+      "id": 2244, 
+      "mda": "Rumney, Ralph", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1989", 
+  "dateRange": {
+    "endYear": 1957, 
+    "startYear": 1957, 
+    "text": "1957"
+  }, 
+  "dateText": "1957", 
+  "depth": "", 
+  "dimensions": "support: 1524 x 1985 mm\r\nframe: 1582 x 2044 x 51 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1985", 
+  "id": 17344, 
+  "inscription": null, 
+  "medium": "Oil paint, household paint and metal leaf on hardboard", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 16648, 
+      "name": "Situationist International"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 443, 
+      "name": "Tachism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1712, 
+                "name": "Buddhism"
+              }
+            ], 
+            "id": 137, 
+            "name": "world religions"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Ralph Rumney", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05556_8.jpg", 
+  "title": "The Change", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rumney-the-change-t05556", 
+  "width": "1524"
+}

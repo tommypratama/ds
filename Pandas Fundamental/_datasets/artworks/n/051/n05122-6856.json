@@ -1,0 +1,112 @@
+{
+  "acno": "N05122", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Albert Houthuesen", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131979", 
+      "displayOrder": 1, 
+      "fc": "Albert Houthuesen", 
+      "gender": "Male", 
+      "id": 1315, 
+      "mda": "Houthuesen, Albert", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Lady Matthews 1940", 
+  "dateRange": {
+    "endYear": 1940, 
+    "startYear": 1939, 
+    "text": "1939"
+  }, 
+  "dateText": "1939", 
+  "depth": "", 
+  "dimensions": "support: 914 x 1219 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1219", 
+  "id": 6856, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 634, 
+                "name": "Crucifixion"
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3479, 
+                "name": "cloth"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2957, 
+                "name": "crown of thorns"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 258, 
+                "name": "pliers"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Crown of Thorns", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/houthuesen-crown-of-thorns-n05122", 
+  "width": "914"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "T13030", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Marisa Merz", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Marisa Merz", 
+      "gender": "Female", 
+      "id": 12525, 
+      "mda": "Merz, Marisa", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2009", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "20", 
+  "dimensions": "object: 240 x 330 x 20 mm", 
+  "foreignTitle": "Senza titolo", 
+  "groupTitle": null, 
+  "height": "330", 
+  "id": 103265, 
+  "inscription": null, 
+  "medium": "Steel and nylon", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 418, 
+      "name": "Arte Povera"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Marisa Merz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13030_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/merz-untitled-t13030", 
+  "width": "240"
+}

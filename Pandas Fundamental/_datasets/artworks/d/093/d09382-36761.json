@@ -1,0 +1,134 @@
+{
+  "acno": "D09382", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09382", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D93/D09382_E.jpg", 
+          "height": 382, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149617, 
+  "catalogueGroup": {
+    "accessionRanges": "D09218-D09481; D40579-D40581; D40583; D41231", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65773, 
+    "shortTitle": "Plymouth, Hamoaze Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1813, 
+    "startYear": 1813, 
+    "text": "1813"
+  }, 
+  "dateText": "1813", 
+  "depth": "", 
+  "dimensions": "support: 95 x 157 mm", 
+  "finberg": "CXXXI 139 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Plymouth, Hamoaze Sketchbook", 
+  "height": "157", 
+  "id": 36761, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 458, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09382_8.jpg", 
+  "title": "Plymouth: The Citadel, Barbican and Mount Batten", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-plymouth-the-citadel-barbican-and-mount-batten-d09382", 
+  "width": "95"
+}

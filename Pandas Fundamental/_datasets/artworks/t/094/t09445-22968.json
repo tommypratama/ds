@@ -1,0 +1,102 @@
+{
+  "acno": "T09445", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Sir Francis Seymour Haden", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1818, 
+      "date": "1818\u20131910", 
+      "displayOrder": 1, 
+      "fc": "Sir Francis Seymour Haden", 
+      "gender": "Male", 
+      "id": 230, 
+      "mda": "Haden, Sir Francis Seymour", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1844, 
+    "startYear": 1844, 
+    "text": "1844"
+  }, 
+  "dateText": "1844", 
+  "depth": "", 
+  "dimensions": "support: 225 x 287 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "287", 
+  "id": 22968, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9743, 
+                "name": "Naples, Porta del Carmine"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09445_8.jpg", 
+  "title": "Porta del Carmine, Naples", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/haden-porta-del-carmine-naples-t09445", 
+  "width": "225"
+}

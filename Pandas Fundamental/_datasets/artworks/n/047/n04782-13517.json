@@ -1,0 +1,66 @@
+{
+  "acno": "N04782", 
+  "acquisitionYear": 1935, 
+  "all_artists": "Sir Matthew Smith", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1879, 
+      "date": "1879\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Sir Matthew Smith", 
+      "gender": "Male", 
+      "id": 1958, 
+      "mda": "Smith, Sir Matthew", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1935", 
+  "dateRange": {
+    "endYear": 1920, 
+    "startYear": 1920, 
+    "text": "c.1920"
+  }, 
+  "dateText": "c.1920", 
+  "depth": "", 
+  "dimensions": "support: 610 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 13517, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5309, 
+                "name": "cyclamen"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "By permission of the estate of the artist", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04782_8.jpg", 
+  "title": "Cyclamen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-cyclamen-n04782", 
+  "width": "610"
+}

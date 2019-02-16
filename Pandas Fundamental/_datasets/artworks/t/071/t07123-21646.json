@@ -1,0 +1,84 @@
+{
+  "acno": "T07123", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Dame Barbara Hepworth", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Dame Barbara Hepworth", 
+      "gender": "Female", 
+      "id": 1274, 
+      "mda": "Hepworth, Dame Barbara", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1996", 
+  "dateRange": {
+    "endYear": 1933, 
+    "startYear": 1933, 
+    "text": "1933"
+  }, 
+  "dateText": "1933", 
+  "depth": "176", 
+  "dimensions": "object: 260 x 296 x 176 mm, 7 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "296", 
+  "id": 21646, 
+  "inscription": null, 
+  "medium": "Alabaster on limestone base", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 303, 
+      "name": "Direct Carving"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 321, 
+      "name": "Unit One"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07123_8.jpg", 
+  "title": "Two Forms", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-two-forms-t07123", 
+  "width": "260"
+}

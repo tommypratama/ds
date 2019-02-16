@@ -1,0 +1,120 @@
+{
+  "acno": "D16756", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D16756", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D167/D16756_E.jpg", 
+          "height": 394, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1142656, 
+  "catalogueGroup": {
+    "accessionRanges": "D16641-D16761; D40986-D40987; D40993-D40994", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXCII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65833, 
+    "shortTitle": "Return from Italy Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1820, 
+    "startYear": 1820, 
+    "text": "1820"
+  }, 
+  "dateText": "1820", 
+  "depth": "", 
+  "dimensions": "support: 128 x 98 mm", 
+  "finberg": "CXCII 64", 
+  "foreignTitle": null, 
+  "groupTitle": "Return from Italy Sketchbook", 
+  "height": "98", 
+  "id": 44112, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 131, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 243, 
+                "name": "boat, gondola"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16756_8.jpg", 
+  "title": "Study of Part of a Bridge; and Boats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-part-of-a-bridge-and-boats-d16756", 
+  "width": "128"
+}

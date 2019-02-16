@@ -1,0 +1,117 @@
+{
+  "acno": "D09016", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09016", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D90/D09016_E.jpg", 
+          "height": 325, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134727, 
+  "catalogueGroup": {
+    "accessionRanges": "D08965-D09016; D41530", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65770, 
+    "shortTitle": "Sandycombe and Yorkshire Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1809, 
+    "text": "?1809"
+  }, 
+  "dateText": "?1809", 
+  "depth": "", 
+  "dimensions": "support: 125 x 201 mm", 
+  "finberg": "CXXVII 37", 
+  "foreignTitle": null, 
+  "groupTitle": "Sandycombe and Yorkshire Sketchbook", 
+  "height": "201", 
+  "id": 36395, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }, 
+              {
+                "id": 1260, 
+                "name": "Lake District"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09016_8.jpg", 
+  "title": "A Mountain Valley, Probably in the Lake District", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-mountain-valley-probably-in-the-lake-district-d09016", 
+  "width": "125"
+}

@@ -1,0 +1,116 @@
+{
+  "acno": "T06666", 
+  "acquisitionYear": 1992, 
+  "all_artists": "Martin Bradley", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Martin Bradley", 
+      "gender": "Male", 
+      "id": 798, 
+      "mda": "Bradley, Martin", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by Josephine Charles 1992", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "", 
+  "dimensions": "support: 507 x 760 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "760", 
+  "id": 20585, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1688, 
+      "name": "British Surrealism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal / human"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1707, 
+                "name": "star"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Martin Bradley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06666_8.jpg", 
+  "title": "Personnage Jaune", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bradley-personnage-jaune-t06666", 
+  "width": "507"
+}

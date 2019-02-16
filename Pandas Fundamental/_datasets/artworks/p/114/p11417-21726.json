@@ -1,0 +1,80 @@
+{
+  "acno": "P11417", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Philip Guston", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131980", 
+      "displayOrder": 1, 
+      "fc": "Philip Guston", 
+      "gender": "Male", 
+      "id": 1231, 
+      "mda": "Guston, Philip", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery, courtesy of a private collector 1996", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "image: 510 x 765 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "765", 
+  "id": 21726, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1200, 
+                "name": "easel"
+              }, 
+              {
+                "id": 204, 
+                "name": "painting"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2073, 
+                "name": "nail"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Estate of Philip Guston", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11417_8.jpg", 
+  "title": "Easel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guston-easel-p11417", 
+  "width": "510"
+}

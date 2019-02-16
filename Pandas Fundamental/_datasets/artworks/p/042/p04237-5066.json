@@ -1,0 +1,104 @@
+{
+  "acno": "P04237", 
+  "acquisitionYear": 1975, 
+  "all_artists": "David Gentleman", 
+  "catalogueGroup": {
+    "accessionRanges": "P04233-P04238", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65322, 
+    "shortTitle": "Fortifications"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "David Gentleman", 
+      "gender": "Male", 
+      "id": 1148, 
+      "mda": "Gentleman, David", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 687 x 685 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Fortifications", 
+  "height": "685", 
+  "id": 5066, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Gentleman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04237_8.jpg", 
+  "title": "Francesco di Georgio I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gentleman-francesco-di-georgio-i-p04237", 
+  "width": "687"
+}

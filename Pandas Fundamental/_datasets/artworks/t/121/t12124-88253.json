@@ -1,0 +1,86 @@
+{
+  "acno": "T12124", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Janet Leach", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1918, 
+      "date": "1918\u20131997", 
+      "displayOrder": 1, 
+      "fc": "Janet Leach", 
+      "gender": "Female", 
+      "id": 8805, 
+      "mda": "Leach, Janet", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2005", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1960, 
+    "text": "1960-9"
+  }, 
+  "dateText": "1960\u20139", 
+  "depth": "260", 
+  "dimensions": "object: 70 x 260 x 260 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "260", 
+  "id": 88253, 
+  "inscription": null, 
+  "medium": "Reduced stoneware", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Janet Leach, courtesy Crafts Study Centre, University for the Creative Arts, Farnham", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12124_8.jpg", 
+  "title": "Bowl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leach-bowl-t12124", 
+  "width": "70"
+}

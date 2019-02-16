@@ -1,0 +1,94 @@
+{
+  "acno": "N05558", 
+  "acquisitionYear": 1943, 
+  "all_artists": "Eliot Hodgkin", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1905, 
+      "date": "1905\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Eliot Hodgkin", 
+      "gender": "Male", 
+      "id": 1294, 
+      "mda": "Hodgkin, Eliot", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1943", 
+  "dateRange": {
+    "endYear": 1941, 
+    "startYear": 1941, 
+    "text": "1941"
+  }, 
+  "dateText": "1941", 
+  "depth": "", 
+  "dimensions": "support: 413 x 368 mm\r\nframe: 560 x 516 x 99 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "368", 
+  "id": 6543, 
+  "inscription": null, 
+  "medium": "Tempera on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }, 
+              {
+                "id": 448, 
+                "name": "leaf"
+              }, 
+              {
+                "id": 2369, 
+                "name": "plant"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05558_8.jpg", 
+  "title": "Undergrowth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkin-undergrowth-n05558", 
+  "width": "413"
+}

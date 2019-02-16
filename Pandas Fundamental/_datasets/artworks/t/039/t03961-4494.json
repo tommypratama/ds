@@ -1,0 +1,110 @@
+{
+  "acno": "T03961", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Lucio Fontana", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1899, 
+      "date": "1899\u20131968", 
+      "displayOrder": 1, 
+      "fc": "Lucio Fontana", 
+      "gender": "Male", 
+      "id": 1102, 
+      "mda": "Fontana, Lucio", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Friends of the Tate Gallery 1985", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1949, 
+    "text": "1949-50"
+  }, 
+  "dateText": "1949\u201350", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 550 x 846 mm\r\nframe: 754 x 1047 x 56 mm", 
+  "foreignTitle": "Concetto Spazial", 
+  "groupTitle": null, 
+  "height": "846", 
+  "id": 4494, 
+  "inscription": "date inscribed", 
+  "medium": "Canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 4246, 
+      "name": "Spazialismo"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9592, 
+                "name": "cosmos"
+              }, 
+              {
+                "id": 6274, 
+                "name": "infinity"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Fondazione Lucio Fontana, Milan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03961_8.jpg", 
+  "title": "Spatial Concept", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fontana-spatial-concept-t03961", 
+  "width": "550"
+}

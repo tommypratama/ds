@@ -1,0 +1,108 @@
+{
+  "acno": "T08684", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Varley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1778, 
+      "date": "1778\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Varley", 
+      "gender": "Male", 
+      "id": 569, 
+      "mda": "Varley, John", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1807, 
+    "text": "1807"
+  }, 
+  "dateText": "1807", 
+  "depth": "", 
+  "dimensions": "support: 126 x 161 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "161", 
+  "id": 23910, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08684_8.jpg", 
+  "title": "A Country Woman, Seated", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/varley-a-country-woman-seated-t08684", 
+  "width": "126"
+}

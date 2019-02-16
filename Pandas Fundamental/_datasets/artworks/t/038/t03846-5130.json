@@ -1,0 +1,294 @@
+{
+  "acno": "T03846", 
+  "acquisitionYear": 1984, 
+  "all_artists": "Mark Gertler", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131939", 
+      "displayOrder": 1, 
+      "fc": "Mark Gertler", 
+      "gender": "Male", 
+      "id": 1156, 
+      "mda": "Gertler, Mark", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1984", 
+  "dateRange": {
+    "endYear": 1916, 
+    "startYear": 1916, 
+    "text": "1916"
+  }, 
+  "dateText": "1916", 
+  "depth": "", 
+  "dimensions": "support: 1892 x 1422 mm\r\nframe: 2100 x 1620 x 75 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1422", 
+  "id": 5130, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 295, 
+      "name": "Bloomsbury Group"
+    }
+  ], 
+  "subjectCount": 21, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1971, 
+                "name": "Hampstead Heath - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific"
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 847, 
+                "name": "caricature"
+              }, 
+              {
+                "id": 959, 
+                "name": "machine age"
+              }, 
+              {
+                "id": 938, 
+                "name": "militarism"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 20413, 
+                "name": "carousel"
+              }
+            ], 
+            "id": 285, 
+            "name": "sports and games"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2303, 
+                "name": "hat, bonnet"
+              }, 
+              {
+                "id": 201, 
+                "name": "hat, cap"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 793, 
+                "name": "grimacing"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5598, 
+                "name": "fair"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9741, 
+                "name": "fairground"
+              }
+            ], 
+            "id": 23, 
+            "name": "places of entertainment"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3023, 
+                "name": "sailor"
+              }, 
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03846_8.jpg", 
+  "title": "Merry-Go-Round", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gertler-merry-go-round-t03846", 
+  "width": "1892"
+}

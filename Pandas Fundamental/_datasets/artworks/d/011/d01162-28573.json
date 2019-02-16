@@ -1,0 +1,105 @@
+{
+  "acno": "D01162", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65691, 
+    "shortTitle": "Wilson Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1796, 
+    "text": "1796-7"
+  }, 
+  "dateText": "1796\u20137", 
+  "depth": "", 
+  "dimensions": "support: 113 x 93 mm", 
+  "finberg": "XXXVII 45", 
+  "foreignTitle": null, 
+  "groupTitle": "Wilson Sketchbook", 
+  "height": "93", 
+  "id": 28573, 
+  "inscription": null, 
+  "medium": "Gouache, graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 47, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01162_8.jpg", 
+  "title": "A Broad Landscape with Towers on a Distant Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-broad-landscape-with-towers-on-a-distant-hill-d01162", 
+  "width": "113"
+}

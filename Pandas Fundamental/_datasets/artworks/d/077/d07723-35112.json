@@ -1,0 +1,92 @@
+{
+  "acno": "D07723", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131210, 
+  "catalogueGroup": {
+    "accessionRanges": "D07593-D07754; D40662", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65758, 
+    "shortTitle": "Hastings Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1809, 
+    "text": "circa 1809-11"
+  }, 
+  "dateText": "circa 1809\u201311", 
+  "depth": "", 
+  "dimensions": "support: 88 x 110 mm", 
+  "finberg": "CXI 83 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Hastings Sketchbook", 
+  "height": "110", 
+  "id": 35112, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 168, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07723_8.jpg", 
+  "title": "A Tree, and a Fragment of Verse (Inscription by Turner)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-tree-and-a-fragment-of-verse-inscription-by-turner-d07723", 
+  "width": "88"
+}

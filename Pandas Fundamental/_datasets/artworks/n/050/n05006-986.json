@@ -1,0 +1,102 @@
+{
+  "acno": "N05006", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Henry Bishop", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131939", 
+      "displayOrder": 1, 
+      "fc": "Henry Bishop", 
+      "gender": "Male", 
+      "id": 755, 
+      "mda": "Bishop, Henry", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Cecil French in memory of the artist 1940", 
+  "dateRange": {
+    "endYear": 1908, 
+    "startYear": 1907, 
+    "text": "c.1907-8"
+  }, 
+  "dateText": "c.1907\u20138", 
+  "depth": "", 
+  "dimensions": "support: 305 x 356 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "356", 
+  "id": 986, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6667, 
+                "name": "Morocco"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12651, 
+                "name": "T\u00e9touan"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05006_8.jpg", 
+  "title": "Sirocco, Tetuan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bishop-sirocco-tetuan-n05006", 
+  "width": "305"
+}

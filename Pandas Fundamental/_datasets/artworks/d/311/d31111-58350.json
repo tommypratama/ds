@@ -1,0 +1,107 @@
+{
+  "acno": "D31111", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D31020-D31137; D41023-D41024", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65935, 
+    "shortTitle": "Copenhagen to Dresden Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1835, 
+    "startYear": 1835, 
+    "text": "1835"
+  }, 
+  "dateText": "1835", 
+  "depth": "", 
+  "dimensions": "support: 162 x 89 mm", 
+  "finberg": "CCCVII 46 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Copenhagen to Dresden Sketchbook", 
+  "height": "89", 
+  "id": 58350, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 94, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2043, 
+                "name": "lighthouse"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31111_8.jpg", 
+  "title": "Three Sketches of a Distant Shoreline with Buildings, Boats, Lightships, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-sketches-of-a-distant-shoreline-with-buildings-boats-lightships-etc-d31111", 
+  "width": "162"
+}

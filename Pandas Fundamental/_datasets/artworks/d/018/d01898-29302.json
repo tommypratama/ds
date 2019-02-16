@@ -1,0 +1,225 @@
+{
+  "acno": "D01898", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D01898", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D18/D01898_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 428
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D00395; D00681; D00880; D00882; D00883; D00885-D00889; D00902; D00903; D01898; D01899", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 190846, 
+    "shortTitle": "Drawings Related to the 'Studies near Brighton' and 'Wilson' Sketchbooks, and Other Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1796, 
+    "startYear": 1796, 
+    "text": "c.1796"
+  }, 
+  "dateText": "c.1796", 
+  "depth": "", 
+  "dimensions": "support: 760 x 637 mm", 
+  "finberg": "XLIV V", 
+  "foreignTitle": null, 
+  "groupTitle": "Drawings Related to the 'Studies near Brighton' and 'Wilson' Sketchbooks, and Other Subjects", 
+  "height": "637", 
+  "id": 29302, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5214, 
+                "name": "Baroque"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2732, 
+                "name": "St Paul's Cathedral"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4812, 
+                "name": "Yeoman of the Guard"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2943, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6364, 
+                "name": "congregation"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5743, 
+                "name": "procession"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10991, 
+                "name": "royalty: George III's recovery, thanksgiving, 23 Apr 1789"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01898_8.jpg", 
+  "title": "The Interior of St Paul\u2019s Cathedral, London, with the Service of Thanksgiving for the Recovery of George III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-interior-of-st-pauls-cathedral-london-with-the-service-of-thanksgiving-for-the-d01898", 
+  "width": "760"
+}

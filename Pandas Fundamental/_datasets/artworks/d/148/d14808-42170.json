@@ -1,0 +1,160 @@
+{
+  "acno": "D14808", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D14808", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D148/D14808_E.jpg", 
+          "height": 325, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1138971, 
+  "catalogueGroup": {
+    "accessionRanges": "D14653-D14832; D40928-D40931", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65818, 
+    "shortTitle": "Ancona to Rome Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 110 x 186 mm", 
+  "finberg": "CLXXVII 79 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Ancona to Rome Sketchbook", 
+  "height": "186", 
+  "id": 42170, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 160, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 26990, 
+                "name": "Civita Castellana, Santa Maria del Carmine"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square"
+              }, 
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14808_8.jpg", 
+  "title": "Civita Castellana with the Church of Santa Maria del Carmine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-civita-castellana-with-the-church-of-santa-maria-del-carmine-d14808", 
+  "width": "110"
+}

@@ -1,0 +1,166 @@
+{
+  "acno": "T06651", 
+  "acquisitionYear": 1992, 
+  "all_artists": "after Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "T06647-T06652", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65480, 
+    "shortTitle": "Byron's Life and Works"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "after", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1992", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1832, 
+    "text": "published by 1832-4"
+  }, 
+  "dateText": "published by 1832\u20134", 
+  "depth": "", 
+  "dimensions": "image: 68 x 94 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Byron's Life and Works", 
+  "height": "94", 
+  "id": 20540, 
+  "inscription": null, 
+  "medium": "Line engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13784, 
+                "name": "Rome, Tomb of Caius Sextus"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 997, 
+                "name": "city wall"
+              }, 
+              {
+                "id": 2774, 
+                "name": "graveyard"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4490, 
+                "name": "pyramid"
+              }, 
+              {
+                "id": 11496, 
+                "name": "tomb"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06651_8.jpg", 
+  "title": "The Walls of Rome (Tomb of Caius Sestus), engraved by E. Finden", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-walls-of-rome-tomb-of-caius-sestus-engraved-by-e-finden-t06651", 
+  "width": "68"
+}

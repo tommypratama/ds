@@ -1,0 +1,160 @@
+{
+  "acno": "T05844", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Brian Yale", 
+  "catalogueGroup": {
+    "accessionRanges": "P01759-P01773; T05842-T05844", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65564, 
+    "shortTitle": "Eurominiprotopack"
+  }, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "1936\u20132009", 
+      "displayOrder": 1, 
+      "fc": "Brian Yale", 
+      "gender": "Male", 
+      "id": 2177, 
+      "mda": "Yale, Brian", 
+      "role": "artist", 
+      "startLetter": "Y"
+    }
+  ], 
+  "creditLine": "Presented by John Berry 1976, accessioned 1991", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "support: 600 x 498 mm\r\nframe: 618 x 520 x 20 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Eurominiprotopack", 
+  "height": "498", 
+  "id": 19388, 
+  "inscription": "date inscribed", 
+  "medium": "Printed papers and graphite on map on board", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1205, 
+                "name": "London - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3464, 
+                "name": "aircraft, military"
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9331, 
+                "name": "map"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/yale-no-title-t05844", 
+  "width": "600"
+}

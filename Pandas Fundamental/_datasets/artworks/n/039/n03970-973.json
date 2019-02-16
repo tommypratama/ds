@@ -1,0 +1,114 @@
+{
+  "acno": "N03970", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Isaac Nicholson, after Thomas Bewick, after Thomas Bewick", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 3, 
+  "contributors": [
+    {
+      "birthYear": 1789, 
+      "date": "1789\u20131848", 
+      "displayOrder": 1, 
+      "fc": "Isaac Nicholson", 
+      "gender": "Male", 
+      "id": 17882, 
+      "mda": "Nicholson, Isaac", 
+      "role": "artist", 
+      "startLetter": "N"
+    }, 
+    {
+      "birthYear": 1753, 
+      "date": "1753\u20131828", 
+      "displayOrder": 2, 
+      "fc": "Thomas Bewick", 
+      "gender": "Male", 
+      "id": 35, 
+      "mda": "Bewick, Thomas", 
+      "role": "after", 
+      "startLetter": "B"
+    }, 
+    {
+      "birthYear": 1753, 
+      "date": "1753\u20131828", 
+      "displayOrder": 2, 
+      "fc": "Thomas Bewick", 
+      "gender": "Male", 
+      "id": 35, 
+      "mda": "Bewick, Thomas", 
+      "role": "after", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1924", 
+  "dateRange": {
+    "endYear": 1822, 
+    "startYear": 1822, 
+    "text": "1822"
+  }, 
+  "dateText": "1822", 
+  "depth": "", 
+  "dimensions": "image: 102 x 114 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "114", 
+  "id": 973, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15778, 
+                "name": "Beilby, Ralph, 'A General History of Quadrupeds'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1659, 
+                "name": "zebra"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03970_8.jpg", 
+  "title": "Zebra, Illustration to \u2018General History of Quadrupeds\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-bewick-zebra-illustration-to-general-history-of-quadrupeds-n03970", 
+  "width": "102"
+}

@@ -1,0 +1,124 @@
+{
+  "acno": "D10592", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D10592", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D105/D10592_E.jpg", 
+          "height": 404, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131645, 
+  "catalogueGroup": {
+    "accessionRanges": "D10587-D10646; D40849-D40850; D40854", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65783, 
+    "shortTitle": "Hints River Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1815, 
+    "text": "c.1815-18"
+  }, 
+  "dateText": "c.1815\u201318", 
+  "depth": "", 
+  "dimensions": "support: 88 x 114 mm", 
+  "finberg": "CXLI 4", 
+  "foreignTitle": null, 
+  "groupTitle": "Hints River Sketchbook", 
+  "height": "114", 
+  "id": 37967, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 9, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10592_8.jpg", 
+  "title": "A Calm Marine; Barges on a River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-calm-marine-barges-on-a-river-d10592", 
+  "width": "88"
+}

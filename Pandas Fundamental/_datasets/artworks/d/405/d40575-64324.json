@@ -1,0 +1,93 @@
+{
+  "acno": "D40575", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D40575", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D405/D40575_E.jpg", 
+          "height": 386, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D01247-D01326; D01328-D01333; D01335-D01355; D40575-D40576", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65692, 
+    "shortTitle": "Hereford Court Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1798, 
+    "startYear": 1798, 
+    "text": "1798"
+  }, 
+  "dateText": "1798", 
+  "depth": "", 
+  "dimensions": "support: 332 x 225 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Hereford Court Sketchbook", 
+  "height": "225", 
+  "id": 64324, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 100, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40575_8.jpg", 
+  "title": "Outlines of Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-outlines-of-mountains-d40575", 
+  "width": "332"
+}

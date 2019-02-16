@@ -1,0 +1,271 @@
+{
+  "acno": "A00111", 
+  "acquisitionYear": 1924, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "A00111_303546", 
+      "sizes": [
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "A/A00/A00111_303546_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 96
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "A/A00/A00111_303546_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 192
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "A/A00/A00111_303546_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 548
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "A/A00/A00111_303546_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1152
+        }
+      ]
+    }
+  ], 
+  "all_artists": "William Blake", 
+  "catalogueGroup": {
+    "accessionRanges": "A00111-A00127", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65673, 
+    "shortTitle": "Illustrations to Thornton's 'Pastorals of Virgil'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1757, 
+      "date": "1757\u20131827", 
+      "displayOrder": 1, 
+      "fc": "William Blake", 
+      "gender": "Male", 
+      "id": 39, 
+      "mda": "Blake, William", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Herbert Linnell 1924", 
+  "dateRange": {
+    "endYear": 1821, 
+    "startYear": 1821, 
+    "text": "c.1821, printed 1830"
+  }, 
+  "dateText": "c.1821, printed 1830", 
+  "depth": "", 
+  "dimensions": "image: 62 x 84 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Illustrations to Thornton's 'Pastorals of Virgil'", 
+  "height": "84", 
+  "id": 1118, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 17, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10640, 
+                "name": "Philips, Ambrose, 'Imitation of Virgil's First Eclogue'"
+              }, 
+              {
+                "id": 10638, 
+                "name": "Thornton, Robert John, 'The Pastorals of Virgil ...'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4094, 
+                "name": "Virgil, 'Eclogues'"
+              }
+            ], 
+            "id": 56, 
+            "name": "classical"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5663, 
+                "name": "crook"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7719, 
+                "name": "instrument, panpipes"
+              }, 
+              {
+                "id": 2680, 
+                "name": "instrument, pipe"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 940, 
+                "name": "happiness"
+              }, 
+              {
+                "id": 5345, 
+                "name": "sadness"
+              }, 
+              {
+                "id": 6764, 
+                "name": "stupidity"
+              }, 
+              {
+                "id": 6727, 
+                "name": "wisdom"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 708, 
+                "name": "shepherd / shepherdess"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00111_8.jpg", 
+  "title": "Frontispiece: Thenot and Colinet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-frontispiece-thenot-and-colinet-a00111", 
+  "width": "62"
+}

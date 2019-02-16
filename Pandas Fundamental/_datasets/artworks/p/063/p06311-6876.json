@@ -1,0 +1,100 @@
+{
+  "acno": "P06311", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Albert Houthuesen", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131979", 
+      "displayOrder": 1, 
+      "fc": "Albert Houthuesen", 
+      "gender": "Male", 
+      "id": 1315, 
+      "mda": "Houthuesen, Albert", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 664 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 6876, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Reflections", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/houthuesen-reflections-p06311", 
+  "width": "664"
+}

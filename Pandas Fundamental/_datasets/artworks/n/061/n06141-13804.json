@@ -1,0 +1,138 @@
+{
+  "acno": "N06141", 
+  "acquisitionYear": 1953, 
+  "all_artists": "Philip Wilson Steer", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1860, 
+      "date": "1860\u20131942", 
+      "displayOrder": 1, 
+      "fc": "Philip Wilson Steer", 
+      "gender": "Male", 
+      "id": 1990, 
+      "mda": "Steer, Philip Wilson", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Owen Fleming 1953", 
+  "dateRange": {
+    "endYear": 1907, 
+    "startYear": 1907, 
+    "text": "1907"
+  }, 
+  "dateText": "1907", 
+  "depth": "", 
+  "dimensions": "support: 502 x 610 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "610", 
+  "id": 13804, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 6196, 
+      "name": "British Impressionism"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6620, 
+                "name": "Montreuil"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06141_8.jpg", 
+  "title": "The Church at Montreuil", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/steer-the-church-at-montreuil-n06141", 
+  "width": "502"
+}

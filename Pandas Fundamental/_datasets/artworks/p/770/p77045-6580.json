@@ -1,0 +1,106 @@
+{
+  "acno": "P77045", 
+  "acquisitionYear": 1984, 
+  "all_artists": "Howard Hodgkin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Howard Hodgkin", 
+      "gender": "Male", 
+      "id": 1295, 
+      "mda": "Hodgkin, Howard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1984", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "image: 517 x 613 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "613", 
+  "id": 6580, 
+  "inscription": "date inscribed", 
+  "medium": "Gouache and lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Howard Hodgkin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77045_8.jpg", 
+  "title": "A Storm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkin-a-storm-p77045", 
+  "width": "517"
+}

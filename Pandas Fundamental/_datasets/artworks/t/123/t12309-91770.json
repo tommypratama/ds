@@ -1,0 +1,116 @@
+{
+  "acno": "T12309", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Judit Reigl", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "born 1923", 
+      "displayOrder": 1, 
+      "fc": "Judit Reigl", 
+      "gender": "Female", 
+      "id": 10123, 
+      "mda": "Reigl, Judit", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Winifred Miller and Cecilia Kerr 2006", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1958, 
+    "text": "1958-62"
+  }, 
+  "dateText": "1958\u201362", 
+  "depth": "30", 
+  "dimensions": "support: 1529 x 2000 x 30 mm", 
+  "foreignTitle": "Guano", 
+  "groupTitle": null, 
+  "height": "2000", 
+  "id": 91770, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12982, 
+                "name": "archaeology"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance"
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3647, 
+                "name": "history"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Judit Reigl", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12309_8.jpg", 
+  "title": "Guano", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/reigl-guano-t12309", 
+  "width": "1529"
+}

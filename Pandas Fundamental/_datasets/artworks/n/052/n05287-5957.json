@@ -1,0 +1,138 @@
+{
+  "acno": "N05287", 
+  "acquisitionYear": 1941, 
+  "all_artists": "Thomas Hennell", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131945", 
+      "displayOrder": 1, 
+      "fc": "Thomas Hennell", 
+      "gender": "Male", 
+      "id": 1271, 
+      "mda": "Hennell, Thomas", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented anonymously 1941", 
+  "dateRange": {
+    "endYear": 1941, 
+    "startYear": 1937, 
+    "text": "c.1937-41"
+  }, 
+  "dateText": "c.1937\u201341", 
+  "depth": "", 
+  "dimensions": "support: 318 x 483 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "483", 
+  "id": 5957, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 810, 
+                "name": "Kent"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17012, 
+                "name": "Ridley"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13003, 
+                "name": "waste tip"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05287_8.jpg", 
+  "title": "Landscape: Flint Heap, Road-Making", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hennell-landscape-flint-heap-road-making-n05287", 
+  "width": "318"
+}

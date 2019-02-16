@@ -1,0 +1,108 @@
+{
+  "acno": "T00112", 
+  "acquisitionYear": 1956, 
+  "all_artists": "Philip Sutton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "born 1928", 
+      "displayOrder": 1, 
+      "fc": "Philip Sutton", 
+      "gender": "Male", 
+      "id": 2015, 
+      "mda": "Sutton, Philip", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1956", 
+  "dateRange": {
+    "endYear": 1955, 
+    "startYear": 1955, 
+    "text": "1955"
+  }, 
+  "dateText": "1955", 
+  "depth": "", 
+  "dimensions": "support: 1010 x 1270 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1270", 
+  "id": 14074, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Philip Sutton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00112_8.jpg", 
+  "title": "Autumn Flowers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sutton-autumn-flowers-t00112", 
+  "width": "1010"
+}

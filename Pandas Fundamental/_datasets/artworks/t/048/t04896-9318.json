@@ -1,0 +1,390 @@
+{
+  "acno": "T04896", 
+  "acquisitionYear": 1987, 
+  "all_artists": "John Martin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1789, 
+      "date": "1789\u20131854", 
+      "displayOrder": 1, 
+      "fc": "John Martin", 
+      "gender": "Male", 
+      "id": 371, 
+      "mda": "Martin, John", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1987", 
+  "dateRange": {
+    "endYear": 1835, 
+    "startYear": 1835, 
+    "text": "published 1835"
+  }, 
+  "dateText": "published 1835", 
+  "depth": "", 
+  "dimensions": "image: 190 x 290 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "290", 
+  "id": 9318, 
+  "inscription": null, 
+  "medium": "Mezzotint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 34, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1259, 
+                "name": "Babylon"
+              }
+            ], 
+            "id": 109, 
+            "name": "historical: imagined views"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5879, 
+                "name": "Iraq"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11646, 
+                "name": "Belshazzar"
+              }, 
+              {
+                "id": 11647, 
+                "name": "Daniel, chapter 5"
+              }
+            ], 
+            "id": 135, 
+            "name": "Bible: Old Testament"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5740, 
+                "name": "miracle"
+              }, 
+              {
+                "id": 5744, 
+                "name": "prophecy"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 7556, 
+                "name": "colonnade"
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1152, 
+                "name": "courtyard"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5211, 
+                "name": "candelabra"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5854, 
+                "name": "censer"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3005, 
+                "name": "collapse"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5424, 
+                "name": "fleeing"
+              }, 
+              {
+                "id": 2653, 
+                "name": "recoiling"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3074, 
+                "name": "courtier"
+              }, 
+              {
+                "id": 870, 
+                "name": "king"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1269, 
+                "name": "eating"
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2798, 
+                "name": "writing"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2815, 
+                "name": "fear"
+              }, 
+              {
+                "id": 1416, 
+                "name": "shock"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1399, 
+                "name": "lightning"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3964, 
+                "name": "rays"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1408, 
+                "name": "snake"
+              }
+            ], 
+            "id": 68, 
+            "name": "animals: reptiles"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04896_8.jpg", 
+  "title": "Plate from \u2018Illustrations to the Bible\u2019: Belshazzar\u2019s Feast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-plate-from-illustrations-to-the-bible-belshazzars-feast-t04896", 
+  "width": "190"
+}

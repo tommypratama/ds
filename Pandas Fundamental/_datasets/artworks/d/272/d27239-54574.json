@@ -1,0 +1,135 @@
+{
+  "acno": "D27239", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D27239", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D272/D27239_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 316
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D27226-D27280; D41084-D41085", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65903, 
+    "shortTitle": "Mouth of the Thames Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1832, 
+    "startYear": 1832, 
+    "text": "c.1832"
+  }, 
+  "dateText": "c.1832", 
+  "depth": "", 
+  "dimensions": "support: 113 x 189 mm", 
+  "finberg": "CCLXXVIII 7 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Mouth of the Thames Sketchbook", 
+  "height": "189", 
+  "id": 54574, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 16, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3570, 
+                "name": "Westminster, Westminster Abbey"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4207, 
+                "name": "dedication"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5931, 
+                "name": "monument"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27239_8.jpg", 
+  "title": "Dryden\u2019s Monument, with Inscription", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-drydens-monument-with-inscription-d27239", 
+  "width": "113"
+}

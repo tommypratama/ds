@@ -1,0 +1,108 @@
+{
+  "acno": "T00499", 
+  "acquisitionYear": 1962, 
+  "all_artists": "Derek Hill", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1916, 
+      "date": "1916\u20132000", 
+      "displayOrder": 1, 
+      "fc": "Derek Hill", 
+      "gender": "Male", 
+      "id": 1285, 
+      "mda": "Hill, Derek", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1962", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "", 
+  "dimensions": "support: 635 x 743 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "743", 
+  "id": 6426, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3160, 
+                "name": "Lancashire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13637, 
+                "name": "quarry"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Derek Hill", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00499_8.jpg", 
+  "title": "Lancashire Slate Quarry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hill-lancashire-slate-quarry-t00499", 
+  "width": "635"
+}

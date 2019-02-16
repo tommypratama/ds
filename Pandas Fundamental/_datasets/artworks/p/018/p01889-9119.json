@@ -1,0 +1,108 @@
+{
+  "acno": "P01889", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Michael McKinnon", 
+  "catalogueGroup": {
+    "accessionRanges": "P01887-P01890", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65217, 
+    "shortTitle": "Fibonacci Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Michael McKinnon", 
+      "gender": "Male", 
+      "id": 1609, 
+      "mda": "McKinnon, Michael", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Editions Alecto 1979", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 635 x 825 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Fibonacci Portfolio", 
+  "height": "825", 
+  "id": 9119, 
+  "inscription": "date inscribed", 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9334, 
+                "name": "biology"
+              }, 
+              {
+                "id": 13237, 
+                "name": "mathematics, Fibonacci"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5984, 
+                "name": "plant cell"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Michael McKinnon", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01889_8.jpg", 
+  "title": "Phyllotaxis", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mckinnon-phyllotaxis-p01889", 
+  "width": "635"
+}

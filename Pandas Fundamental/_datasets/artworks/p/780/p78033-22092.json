@@ -1,0 +1,118 @@
+{
+  "acno": "P78033", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Chris Ofili", 
+  "catalogueGroup": {
+    "accessionRanges": "P78033-P78042", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66056, 
+    "shortTitle": "North Wales"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1968, 
+      "date": "born 1968", 
+      "displayOrder": 1, 
+      "fc": "Chris Ofili", 
+      "gender": "Male", 
+      "id": 2543, 
+      "mda": "Ofili, Chris", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Purchased 1997", 
+  "dateRange": {
+    "endYear": 1996, 
+    "startYear": 1996, 
+    "text": "1996"
+  }, 
+  "dateText": "1996", 
+  "depth": "", 
+  "dimensions": "image: 250 x 200 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "North Wales", 
+  "height": "200", 
+  "id": 22092, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4756, 
+                "name": "Caernarfonshire and Merionethshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4966, 
+                "name": "Portmeirion"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Chris Ofili, courtesy Victoria Miro Gallery, London", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78033_8.jpg", 
+  "title": "Portmerion 10.9.96", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ofili-portmerion-10996-p78033", 
+  "width": "250"
+}

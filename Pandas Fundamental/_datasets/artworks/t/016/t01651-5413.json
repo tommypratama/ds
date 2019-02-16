@@ -1,0 +1,102 @@
+{
+  "acno": "T01651", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Joan Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131908", 
+      "displayOrder": 1, 
+      "fc": "Joan Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1187, 
+      "mda": "Gonz\u00e1lez, Joan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mme Roberta Gonzalez-Richard, the artist's niece 1972", 
+  "dateRange": {
+    "endYear": 1907, 
+    "startYear": 1906, 
+    "text": "c.1906-7"
+  }, 
+  "dateText": "c.1906\u20137", 
+  "depth": "", 
+  "dimensions": "support: 298 x 473 mm", 
+  "foreignTitle": "La Tour", 
+  "groupTitle": null, 
+  "height": "473", 
+  "id": 5413, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01651_8.jpg", 
+  "title": "A Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-a-tower-t01651", 
+  "width": "298"
+}

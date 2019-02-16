@@ -1,0 +1,112 @@
+{
+  "acno": "P06620", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Albany Wiseman", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Albany Wiseman", 
+      "gender": "Male", 
+      "id": 2157, 
+      "mda": "Wiseman, Albany", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 422 x 591 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "591", 
+  "id": 16382, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16212, 
+                "name": "Fitzrovia, Fitzroy Square"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5209, 
+                "name": "Georgian"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Fitzroy Square", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wiseman-fitzroy-square-p06620", 
+  "width": "422"
+}

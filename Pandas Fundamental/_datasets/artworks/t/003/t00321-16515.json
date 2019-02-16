@@ -1,0 +1,70 @@
+{
+  "acno": "T00321", 
+  "acquisitionYear": 1959, 
+  "all_artists": "Leon Zack", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1892, 
+      "date": "1892\u20131980", 
+      "displayOrder": 1, 
+      "fc": "Leon Zack", 
+      "gender": "Male", 
+      "id": 2183, 
+      "mda": "Zack, Leon", 
+      "role": "artist", 
+      "startLetter": "Z"
+    }
+  ], 
+  "creditLine": "Purchased 1959", 
+  "dateRange": {
+    "endYear": 1952, 
+    "startYear": 1952, 
+    "text": "1952"
+  }, 
+  "dateText": "1952", 
+  "depth": "", 
+  "dimensions": "support: 975 x 1305 mm", 
+  "foreignTitle": "Peinture", 
+  "groupTitle": null, 
+  "height": "1305", 
+  "id": 16515, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00321_8.jpg", 
+  "title": "Painting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/zack-painting-t00321", 
+  "width": "975"
+}

@@ -1,0 +1,110 @@
+{
+  "acno": "D35225", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D35219-D35239; D40171; D40441; D41463", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65972, 
+    "shortTitle": "Heidelberg Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1844, 
+    "startYear": 1844, 
+    "text": "1844"
+  }, 
+  "dateText": "1844", 
+  "depth": "", 
+  "dimensions": "support: 229 x 327 mm", 
+  "finberg": "CCCLII 6", 
+  "foreignTitle": null, 
+  "groupTitle": "Heidelberg Sketchbook", 
+  "height": "327", 
+  "id": 62353, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10021, 
+                "name": "Ehrenburg"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9575, 
+                "name": "River Alsenz"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35225_8.jpg", 
+  "title": "Ehrenburg from the Valley of the Alsenz", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ehrenburg-from-the-valley-of-the-alsenz-d35225", 
+  "width": "229"
+}

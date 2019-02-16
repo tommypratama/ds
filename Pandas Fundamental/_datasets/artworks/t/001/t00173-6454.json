@@ -1,0 +1,126 @@
+{
+  "acno": "T00173", 
+  "acquisitionYear": 1958, 
+  "all_artists": "Roger Hilton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1911, 
+      "date": "1911\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Roger Hilton", 
+      "gender": "Male", 
+      "id": 1289, 
+      "mda": "Hilton, Roger", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1958", 
+  "dateRange": {
+    "endYear": 1957, 
+    "startYear": 1957, 
+    "text": "1957"
+  }, 
+  "dateText": "1957", 
+  "depth": "", 
+  "dimensions": "support: 660 x 660 mm\r\nframe: 699 x 699 x 43 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "660", 
+  "id": 6454, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 443, 
+      "name": "Tachism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Roger Hilton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00173_8.jpg", 
+  "title": "January 1957", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hilton-january-1957-t00173", 
+  "width": "660"
+}

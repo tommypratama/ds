@@ -1,0 +1,118 @@
+{
+  "acno": "N04882", 
+  "acquisitionYear": 1937, 
+  "all_artists": "Alexander Jamieson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1873, 
+      "date": "1873\u20131937", 
+      "displayOrder": 1, 
+      "fc": "Alexander Jamieson", 
+      "gender": "Male", 
+      "id": 1353, 
+      "mda": "Jamieson, Alexander", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by Mrs E.L. Shute 1937", 
+  "dateRange": {
+    "endYear": 1902, 
+    "startYear": 1901, 
+    "text": "1901-2"
+  }, 
+  "dateText": "1901\u20132", 
+  "depth": "", 
+  "dimensions": "support: 610 x 813 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "813", 
+  "id": 7087, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3310, 
+                "name": "Paris, Tuileries"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 649, 
+                "name": "sculpture, classical"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04882_8.jpg", 
+  "title": "The Tuileries Gardens and the Rue de Rivoli", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jamieson-the-tuileries-gardens-and-the-rue-de-rivoli-n04882", 
+  "width": "610"
+}

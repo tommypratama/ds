@@ -1,0 +1,75 @@
+{
+  "acno": "D27909", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D27901-D27914; D27916-D27939; D41090", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65911, 
+    "shortTitle": "Oxford Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "c.1834"
+  }, 
+  "dateText": "c.1834", 
+  "depth": "", 
+  "dimensions": "support: 145 x 235 mm", 
+  "finberg": "CCLXXXV 6", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford Sketchbook", 
+  "height": "235", 
+  "id": 55228, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 13, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1254, 
+                "name": "carriage"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27909_8.jpg", 
+  "title": "Group of Coaches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-coaches-d27909", 
+  "width": "145"
+}

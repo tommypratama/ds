@@ -1,0 +1,100 @@
+{
+  "acno": "T03900", 
+  "acquisitionYear": 1984, 
+  "all_artists": "John Constable", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1984", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1805, 
+    "text": "c.1805-9"
+  }, 
+  "dateText": "c.1805\u20139", 
+  "depth": "", 
+  "dimensions": "support: 488 x 348 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "348", 
+  "id": 2630, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2563, 
+                "name": "Bicknell, Maria Elizabeth"
+              }, 
+              {
+                "id": 5658, 
+                "name": "Constable, Maria Elizabeth"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03900_8.jpg", 
+  "title": "Maria Bicknell", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-maria-bicknell-t03900", 
+  "width": "488"
+}

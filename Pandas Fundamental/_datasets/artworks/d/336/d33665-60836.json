@@ -1,0 +1,94 @@
+{
+  "acno": "D33665", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D33653-D33665; D40432-D40435", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65963, 
+    "shortTitle": "Mountain Fortress Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1841, 
+    "startYear": 1841, 
+    "text": "c.1841"
+  }, 
+  "dateText": "c.1841", 
+  "depth": "", 
+  "dimensions": "support: 227 x 323 mm", 
+  "finberg": "CCCXXXIX 12", 
+  "foreignTitle": null, 
+  "groupTitle": "Mountain Fortress Sketchbook", 
+  "height": "323", 
+  "id": 60836, 
+  "inscription": null, 
+  "medium": "Gouache, graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33665_8.jpg", 
+  "title": "River with Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-with-mountains-d33665", 
+  "width": "227"
+}

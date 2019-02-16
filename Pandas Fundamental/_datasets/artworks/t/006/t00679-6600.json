@@ -1,0 +1,112 @@
+{
+  "acno": "T00679", 
+  "acquisitionYear": 1964, 
+  "all_artists": "Rudolf Hoflehner", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1916, 
+      "date": "1916\u20131995", 
+      "displayOrder": 1, 
+      "fc": "Rudolf Hoflehner", 
+      "gender": "Male", 
+      "id": 1297, 
+      "mda": "Hoflehner, Rudolf", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1964", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "749", 
+  "dimensions": "object: 2007 x 508 x 749 mm", 
+  "foreignTitle": "Figur aus Eisen", 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 6600, 
+  "inscription": null, 
+  "medium": "Iron", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4087, 
+                "name": "Apollo"
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1076, 
+                "name": "leg"
+              }, 
+              {
+                "id": 1629, 
+                "name": "sexual organs"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Figure in Iron", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hoflehner-figure-in-iron-t00679", 
+  "width": "2007"
+}

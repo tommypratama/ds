@@ -1,0 +1,138 @@
+{
+  "acno": "D05497", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D05497", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D54/D05497_E.jpg", 
+          "height": 319, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1129808, 
+  "catalogueGroup": {
+    "accessionRanges": "D05491-D05617; D40568-D40574; D41505", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XC", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65737, 
+    "shortTitle": "Studies for Pictures: Isleworth Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 150 x 258 mm", 
+  "finberg": "XC 6", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies for Pictures: Isleworth Sketchbook", 
+  "height": "258", 
+  "id": 32889, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "pageNumber": 13, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7650, 
+                "name": "rotunda"
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05497_8.jpg", 
+  "title": "Study for \u2018Isis\u2019: a Classical Rotunda by the River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-for-isis-a-classical-rotunda-by-the-river-d05497", 
+  "width": "150"
+}

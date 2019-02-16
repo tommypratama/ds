@@ -1,0 +1,155 @@
+{
+  "acno": "D09014", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09014", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D90/D09014_E.jpg", 
+          "height": 322, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134725, 
+  "catalogueGroup": {
+    "accessionRanges": "D08965-D09016; D41530", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65770, 
+    "shortTitle": "Sandycombe and Yorkshire Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1809, 
+    "text": "c.1809-11"
+  }, 
+  "dateText": "c.1809\u201311", 
+  "depth": "", 
+  "dimensions": "support: 125 x 201 mm", 
+  "finberg": "CXXVII 35", 
+  "foreignTitle": null, 
+  "groupTitle": "Sandycombe and Yorkshire Sketchbook", 
+  "height": "201", 
+  "id": 36393, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9055, 
+                "name": "Twickenham, Sandycombe Lodge"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan / elevation"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3123, 
+                "name": "roof"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09014_8.jpg", 
+  "title": "A Design for a Wing of Sandycombe Lodge, Twickenham", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-design-for-a-wing-of-sandycombe-lodge-twickenham-d09014", 
+  "width": "125"
+}

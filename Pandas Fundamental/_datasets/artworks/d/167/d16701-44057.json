@@ -1,0 +1,98 @@
+{
+  "acno": "D16701", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D16701", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D167/D16701_E.jpg", 
+          "height": 394, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1142601, 
+  "catalogueGroup": {
+    "accessionRanges": "D16641-D16761; D40986-D40987; D40993-D40994", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXCII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65833, 
+    "shortTitle": "Return from Italy Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1820, 
+    "startYear": 1820, 
+    "text": "1820"
+  }, 
+  "dateText": "1820", 
+  "depth": "", 
+  "dimensions": "support: 128 x 98 mm", 
+  "finberg": "CXCII 31", 
+  "foreignTitle": null, 
+  "groupTitle": "Return from Italy Sketchbook", 
+  "height": "98", 
+  "id": 44057, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 65, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16701_8.jpg", 
+  "title": "?Mountains near Les \u00c9chelles, Savoy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-near-les-echelles-savoy-d16701", 
+  "width": "128"
+}

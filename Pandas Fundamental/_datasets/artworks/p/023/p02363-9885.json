@@ -1,0 +1,76 @@
+{
+  "acno": "P02363", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Henry Moore OM, CH", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Henry Moore OM, CH", 
+      "gender": "Male", 
+      "id": 1659, 
+      "mda": "Moore, Henry, OM, CH", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1976", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 149 x 114 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "114", 
+  "id": 9885, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 671, 
+                "name": "elephant"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1851, 
+                "name": "skull"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Henry Moore Foundation; All rights reserved DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02363_8.jpg", 
+  "title": "Elephant Skull: Arch Form", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-elephant-skull-arch-form-p02363", 
+  "width": "149"
+}

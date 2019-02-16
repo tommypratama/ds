@@ -1,0 +1,78 @@
+{
+  "acno": "T08085", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Francis Barlow", 
+  "catalogueGroup": {
+    "accessionRanges": "T08083-T08094; T11535-T11614", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66026, 
+    "shortTitle": "Patrick Allan Fraser Album"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1626, 
+      "date": "?1626\u20131704", 
+      "displayOrder": 1, 
+      "fc": "Francis Barlow", 
+      "gender": "Male", 
+      "id": 20, 
+      "mda": "Barlow, Francis", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 195 x 250 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Patrick Allan Fraser Album", 
+  "height": "250", 
+  "id": 22273, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2962, 
+                "name": "deer"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08085_8.jpg", 
+  "title": "Stags", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-stags-t08085", 
+  "width": "195"
+}

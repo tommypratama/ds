@@ -1,0 +1,86 @@
+{
+  "acno": "T00426", 
+  "acquisitionYear": 1961, 
+  "all_artists": "Edo Murtic", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921 \u2013 2005", 
+      "displayOrder": 1, 
+      "fc": "Edo Murtic", 
+      "gender": "Male", 
+      "id": 1684, 
+      "mda": "Murtic, Edo", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the Yugoslav Committee of Cultural Relations 1961", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "support: 1143 x 1462 mm", 
+  "foreignTitle": "Crveno smede", 
+  "groupTitle": null, 
+  "height": "1462", 
+  "id": 10506, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Red and Brown", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murtic-red-and-brown-t00426", 
+  "width": "1143"
+}

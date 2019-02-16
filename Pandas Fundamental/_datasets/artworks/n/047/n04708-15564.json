@@ -1,0 +1,110 @@
+{
+  "acno": "N04708", 
+  "acquisitionYear": 1933, 
+  "all_artists": "Winifred Turner", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131983", 
+      "displayOrder": 1, 
+      "fc": "Winifred Turner", 
+      "gender": "Female", 
+      "id": 2077, 
+      "mda": "Turner, Winifred", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1933", 
+  "dateRange": {
+    "endYear": 1933, 
+    "startYear": 1933, 
+    "text": "exhibited 1933"
+  }, 
+  "dateText": "exhibited 1933", 
+  "depth": "435", 
+  "dimensions": "object: 832 x 775 x 435 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "775", 
+  "id": 15564, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1219, 
+                "name": "legs crossed"
+              }, 
+              {
+                "id": 2594, 
+                "name": "looking down"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Thought", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-thought-n04708", 
+  "width": "832"
+}

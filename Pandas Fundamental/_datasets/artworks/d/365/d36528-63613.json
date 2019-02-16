@@ -1,0 +1,165 @@
+{
+  "acno": "D36528", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner, Thomas Girtin", 
+  "catTextResId": 1141263, 
+  "catalogueGroup": {
+    "accessionRanges": "D00673-D00674; D00904; D01910; D36355; D36501; D36522-D36561; D36563-D36570; D36616-D36624; D36628; D36648; D36667; D40488", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127524, 
+    "shortTitle": "Collaborations with Thomas Girtin for Dr Monro, and Other Copies"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }, 
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 2, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1795, 
+    "text": "c.1795-7"
+  }, 
+  "dateText": "c.1795\u20137", 
+  "depth": "", 
+  "dimensions": "support: 400 x 433 mm", 
+  "finberg": "CCCLXXV 7", 
+  "foreignTitle": null, 
+  "groupTitle": "Collaborations with Thomas Girtin for Dr Monro, and Other Copies", 
+  "height": "433", 
+  "id": 63613, 
+  "inscription": null, 
+  "medium": "Gouache and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7314, 
+                "name": "Rome, St Peter's Basilica"
+              }, 
+              {
+                "id": 5934, 
+                "name": "Rome, St Peter's Square"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 239, 
+                "name": "Renaissance"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7556, 
+                "name": "colonnade"
+              }, 
+              {
+                "id": 245, 
+                "name": "column"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36528_8.jpg", 
+  "title": "Rome: The Colonnade of St Peter\u2019s", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-girtin-rome-the-colonnade-of-st-peters-d36528", 
+  "width": "400"
+}

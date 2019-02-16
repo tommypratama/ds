@@ -1,0 +1,102 @@
+{
+  "acno": "P07106", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Bridget Riley", 
+  "catalogueGroup": {
+    "accessionRanges": "P07104-P07110", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65502, 
+    "shortTitle": "Fragments"
+  }, 
+  "classification": null, 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Bridget Riley", 
+      "gender": "Female", 
+      "id": 1845, 
+      "mda": "Riley, Bridget", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "", 
+  "dimensions": "image: 615 x 797 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Fragments", 
+  "height": "797", 
+  "id": 12591, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on Perspex", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 435, 
+      "name": "Optical Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6741, 
+                "name": "visual illusion"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bridget Riley 2014. All rights reserved, courtesy Karsten Schubert, London", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07106_8.jpg", 
+  "title": "Fragment 3/11", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-fragment-311-p07106", 
+  "width": "615"
+}

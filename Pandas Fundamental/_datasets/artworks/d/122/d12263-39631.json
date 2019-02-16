@@ -1,0 +1,162 @@
+{
+  "acno": "D12263", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139455, 
+  "catalogueGroup": {
+    "accessionRanges": "D12262-D12317; D40723-D40726; D40764; D41517", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65798, 
+    "shortTitle": "Raby Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1817, 
+    "startYear": 1817, 
+    "text": "1817"
+  }, 
+  "dateText": "1817", 
+  "depth": "", 
+  "dimensions": "support: 232 x 328 mm", 
+  "finberg": "CLVI 2", 
+  "foreignTitle": null, 
+  "groupTitle": "Raby Sketchbook", 
+  "height": "328", 
+  "id": 39631, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 5, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2868, 
+                "name": "Durham"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 26644, 
+                "name": "Linburn Beck"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 26643, 
+                "name": "Witton Castle"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12263_8.jpg", 
+  "title": "North Lodge, Witton Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-north-lodge-witton-castle-d12263", 
+  "width": "232"
+}

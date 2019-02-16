@@ -1,0 +1,94 @@
+{
+  "acno": "D22392", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22392", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D223/D22392_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 340
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150190, 
+  "catalogueGroup": {
+    "accessionRanges": "D22323-D22462; D41056-D41057", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXL", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65871, 
+    "shortTitle": "Birmingham and Coventry Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1830, 
+    "startYear": 1830, 
+    "text": "1830"
+  }, 
+  "dateText": "1830", 
+  "depth": "", 
+  "dimensions": "support: 110 x 68 mm", 
+  "finberg": "CCXL 37 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Birmingham and Coventry Sketchbook", 
+  "height": "68", 
+  "id": 49730, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 76, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22392_8.jpg", 
+  "title": "?Midlands Church Interiors", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-midlands-church-interiors-d22392", 
+  "width": "110"
+}

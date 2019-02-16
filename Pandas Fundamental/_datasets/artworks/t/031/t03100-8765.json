@@ -1,0 +1,88 @@
+{
+  "acno": "T03100", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Sol LeWitt", 
+  "catalogueGroup": {}, 
+  "classification": "installation", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132007", 
+      "displayOrder": 1, 
+      "fc": "Sol LeWitt", 
+      "gender": "Male", 
+      "id": 1504, 
+      "mda": "LeWitt, Sol", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1980, 
+    "text": "1980-1"
+  }, 
+  "dateText": "1980\u20131", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 8765, 
+  "inscription": null, 
+  "medium": "Chalk and vinyl emulsion paint on wall", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sol LeWitt", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03100_8.jpg", 
+  "title": "Six Geometric Figures (+ Two) (Wall Drawings)", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-six-geometric-figures-two-wall-drawings-t03100", 
+  "width": ""
+}

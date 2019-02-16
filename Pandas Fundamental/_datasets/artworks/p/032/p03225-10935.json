@@ -1,0 +1,98 @@
+{
+  "acno": "P03225", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Toni Onley", 
+  "catalogueGroup": {
+    "accessionRanges": "P03217-P03229", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65604, 
+    "shortTitle": "Centennial Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "born 1928", 
+      "displayOrder": 1, 
+      "fc": "Toni Onley", 
+      "gender": "Male", 
+      "id": 1718, 
+      "mda": "Onley, Toni", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Presented by Simon Fraser University, British Columbia 1977", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 289 x 387 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Centennial Suite", 
+  "height": "387", 
+  "id": 10935, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/onley-landscape-p03225", 
+  "width": "289"
+}

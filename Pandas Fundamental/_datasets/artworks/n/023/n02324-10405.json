@@ -1,0 +1,102 @@
+{
+  "acno": "N02324", 
+  "acquisitionYear": 1908, 
+  "all_artists": "William James M\u00fcller", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1812, 
+      "date": "1812\u20131845", 
+      "displayOrder": 1, 
+      "fc": "William James M\u00fcller", 
+      "gender": "Male", 
+      "id": 391, 
+      "mda": "M\u00fcller, William James", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Lady Weston as part of the Sir Joseph Weston Gift 1908", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "1834"
+  }, 
+  "dateText": "1834", 
+  "depth": "", 
+  "dimensions": "support: 426 x 286 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "286", 
+  "id": 10405, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8850, 
+                "name": "Avon Gorge"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7234, 
+                "name": "Bristol"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02324_8.jpg", 
+  "title": "The Avon, 5", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/muller-the-avon-5-n02324", 
+  "width": "426"
+}

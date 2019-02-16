@@ -1,0 +1,110 @@
+{
+  "acno": "N02224", 
+  "acquisitionYear": 1878, 
+  "all_artists": "Thomas Gainsborough", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1727, 
+      "date": "1727\u20131788", 
+      "displayOrder": 1, 
+      "fc": "Thomas Gainsborough", 
+      "gender": "Male", 
+      "id": 199, 
+      "mda": "Gainsborough, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by T. Birch Wolfe 1878", 
+  "dateRange": {
+    "endYear": 1788, 
+    "startYear": 1785, 
+    "text": "c.1785-8"
+  }, 
+  "dateText": "c.1785\u20138", 
+  "depth": "", 
+  "dimensions": "support: 264 x 368 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "368", 
+  "id": 4907, 
+  "inscription": null, 
+  "medium": "Chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02224_8.jpg", 
+  "title": "Mountain Landscape with Pool", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-mountain-landscape-with-pool-n02224", 
+  "width": "264"
+}

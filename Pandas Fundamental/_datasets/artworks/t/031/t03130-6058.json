@@ -1,0 +1,102 @@
+{
+  "acno": "T03130", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Dame Barbara Hepworth", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Dame Barbara Hepworth", 
+      "gender": "Female", 
+      "id": 1274, 
+      "mda": "Hepworth, Dame Barbara", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the executors of the artist's estate 1980", 
+  "dateRange": {
+    "endYear": 1933, 
+    "startYear": 1932, 
+    "text": "1932-3"
+  }, 
+  "dateText": "1932\u20133", 
+  "depth": "216", 
+  "dimensions": "object: 356 x 267 x 216 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "267", 
+  "id": 6058, 
+  "inscription": null, 
+  "medium": "Lignum vitae", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 303, 
+      "name": "Direct Carving"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03130_8.jpg", 
+  "title": "Seated Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-seated-figure-t03130", 
+  "width": "356"
+}

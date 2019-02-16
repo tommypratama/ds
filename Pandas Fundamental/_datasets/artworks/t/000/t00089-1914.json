@@ -1,0 +1,102 @@
+{
+  "acno": "T00089", 
+  "acquisitionYear": 1956, 
+  "all_artists": "Manolis Calliyannis", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "1923\u20132010", 
+      "displayOrder": 1, 
+      "fc": "Manolis Calliyannis", 
+      "gender": "Male", 
+      "id": 849, 
+      "mda": "Calliyannis, Manolis", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1956", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1955, 
+    "text": "1955-6"
+  }, 
+  "dateText": "1955\u20136", 
+  "depth": "", 
+  "dimensions": "support: 597 x 806 mm", 
+  "foreignTitle": "La Montagne en face II", 
+  "groupTitle": null, 
+  "height": "806", 
+  "id": 1914, 
+  "inscription": null, 
+  "medium": "Tempera and oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12092, 
+                "name": "Greece, Lesbos"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 estate of Manolis Calliyannis", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00089_8.jpg", 
+  "title": "The Mountain Opposite II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/calliyannis-the-mountain-opposite-ii-t00089", 
+  "width": "597"
+}

@@ -1,0 +1,104 @@
+{
+  "acno": "N04310", 
+  "acquisitionYear": 1927, 
+  "all_artists": "David Cox", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1783, 
+      "date": "1783\u20131859", 
+      "displayOrder": 1, 
+      "fc": "David Cox", 
+      "gender": "Male", 
+      "id": 117, 
+      "mda": "Cox, David", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 178 x 152 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "152", 
+  "id": 2874, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12727, 
+                "name": "Dulwich - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04310_8.jpg", 
+  "title": "Houses at Dulwich", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cox-houses-at-dulwich-n04310", 
+  "width": "178"
+}

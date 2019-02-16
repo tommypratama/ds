@@ -1,0 +1,228 @@
+{
+  "acno": "P01045", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Charles Ricketts", 
+  "catalogueGroup": {
+    "accessionRanges": "P01045-P01048", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65504, 
+    "shortTitle": "Illustrations to 'Daphnis and Chl\u00f6e'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131931", 
+      "displayOrder": 1, 
+      "fc": "Charles Ricketts", 
+      "gender": "Male", 
+      "id": 1843, 
+      "mda": "Ricketts, Charles", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Sir C. Holmes 1924", 
+  "dateRange": {
+    "endYear": 1893, 
+    "startYear": 1893, 
+    "text": "c.1893"
+  }, 
+  "dateText": "c.1893", 
+  "depth": "", 
+  "dimensions": "image: 165 x 125 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Illustrations to 'Daphnis and Chl\u00f6e'", 
+  "height": "125", 
+  "id": 12574, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 4, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16670, 
+      "name": "Art Nouveau"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16650, 
+      "name": "Decadence"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16651, 
+      "name": "Fin de Si\u00e8cle"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16649, 
+      "name": "Symbolism"
+    }
+  ], 
+  "subjectCount": 15, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11125, 
+                "name": "Longus, 'Daphnis and Chloe'"
+              }
+            ], 
+            "id": 56, 
+            "name": "classical"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10236, 
+                "name": "Thornley, George, 'Daphnis and Chloe'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11937, 
+                "name": "dolphin"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1503, 
+                "name": "flying"
+              }, 
+              {
+                "id": 2594, 
+                "name": "looking down"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1491, 
+                "name": "pointing"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01045_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ricketts-no-title-p01045", 
+  "width": "165"
+}

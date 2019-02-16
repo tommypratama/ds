@@ -1,0 +1,114 @@
+{
+  "acno": "D22221", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22221", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D222/D22221_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 335
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150515, 
+  "catalogueGroup": {
+    "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65870, 
+    "shortTitle": "Worcester and Shrewsbury Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "?1831"
+  }, 
+  "dateText": "?1831", 
+  "depth": "", 
+  "dimensions": "support: 191 x 114 mm", 
+  "finberg": "CCXXXIX 38 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Worcester and Shrewsbury Sketchbook", 
+  "height": "114", 
+  "id": 49559, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 78, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22221_8.jpg", 
+  "title": "?Odin Mine, near Castleton", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-odin-mine-near-castleton-d22221", 
+  "width": "191"
+}

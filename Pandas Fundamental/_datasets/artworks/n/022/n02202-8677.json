@@ -1,0 +1,132 @@
+{
+  "acno": "N02202", 
+  "acquisitionYear": 1907, 
+  "all_artists": "John Frederick Lewis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1805, 
+      "date": "1805\u20131876", 
+      "displayOrder": 1, 
+      "fc": "John Frederick Lewis", 
+      "gender": "Male", 
+      "id": 350, 
+      "mda": "Lewis, John Frederick", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by H. Finch 1907", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1832, 
+    "text": "c.1832-4"
+  }, 
+  "dateText": "c.1832\u20134", 
+  "depth": "", 
+  "dimensions": "support: 210 x 279 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "279", 
+  "id": 8677, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 5866, 
+      "name": "Orientalist"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10498, 
+                "name": "Alhambra"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1063, 
+                "name": "Spain"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7807, 
+                "name": "Moorish"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 584, 
+                "name": "balcony"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02202_8.jpg", 
+  "title": "Mirador in Sanchez\u2019 Cottage, Alhambra", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-mirador-in-sanchez-cottage-alhambra-n02202", 
+  "width": "210"
+}

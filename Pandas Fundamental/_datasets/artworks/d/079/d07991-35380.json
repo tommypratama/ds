@@ -1,0 +1,98 @@
+{
+  "acno": "D07991", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D07991", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D79/D07991_E.jpg", 
+          "height": 417, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134767, 
+  "catalogueGroup": {
+    "accessionRanges": "D07958-D08083; D40812; D41525-D41529", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65761, 
+    "shortTitle": "Windmill and Lock Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1808, 
+    "text": "c.1808-11"
+  }, 
+  "dateText": "c.1808\u201311", 
+  "depth": "", 
+  "dimensions": "support: 87 x 117 mm", 
+  "finberg": "CXIV 21", 
+  "foreignTitle": null, 
+  "groupTitle": "Windmill and Lock Sketchbook", 
+  "height": "117", 
+  "id": 35380, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 43, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }, 
+              {
+                "id": 22695, 
+                "name": "perspective"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07991_8.jpg", 
+  "title": "A Diagram Indicating Perspective, Light or Reflections", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-diagram-indicating-perspective-light-or-reflections-d07991", 
+  "width": "87"
+}

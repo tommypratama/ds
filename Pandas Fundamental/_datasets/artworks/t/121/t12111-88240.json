@@ -1,0 +1,76 @@
+{
+  "acno": "T12111", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Katherine Pleydell-Bouverie", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1895, 
+      "date": "1895\u20131985", 
+      "displayOrder": 1, 
+      "fc": "Katherine Pleydell-Bouverie", 
+      "gender": "Female", 
+      "id": 8802, 
+      "mda": "Pleydell-Bouverie, Katherine", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2005", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "c.1975"
+  }, 
+  "dateText": "c.1975", 
+  "depth": "180", 
+  "dimensions": "object: 80 x 180 x 180 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "180", 
+  "id": 88240, 
+  "inscription": null, 
+  "medium": "Oxidised stoneware", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Open Bowl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pleydell-bouverie-open-bowl-t12111", 
+  "width": "80"
+}

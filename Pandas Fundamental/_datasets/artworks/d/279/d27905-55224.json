@@ -1,0 +1,111 @@
+{
+  "acno": "D27905", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D27901-D27914; D27916-D27939; D41090", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65911, 
+    "shortTitle": "Oxford Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "c.1834"
+  }, 
+  "dateText": "c.1834", 
+  "depth": "", 
+  "dimensions": "support: 145 x 235 mm", 
+  "finberg": "CCLXXXV 3 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford Sketchbook", 
+  "height": "235", 
+  "id": 55224, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 8, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8916, 
+                "name": "Oxford, University College"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 654, 
+                "name": "Oxfordshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1718, 
+                "name": "college"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27905_8.jpg", 
+  "title": "University College", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-university-college-d27905", 
+  "width": "145"
+}

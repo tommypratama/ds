@@ -1,0 +1,88 @@
+{
+  "acno": "T00517", 
+  "acquisitionYear": 1962, 
+  "all_artists": "Auguste Herbin", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131960", 
+      "displayOrder": 1, 
+      "fc": "Auguste Herbin", 
+      "gender": "Male", 
+      "id": 1275, 
+      "mda": "Herbin, Auguste", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1962", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "support: 479 x 381 mm", 
+  "foreignTitle": "Nu", 
+  "groupTitle": null, 
+  "height": "381", 
+  "id": 6090, 
+  "inscription": "date inscribed", 
+  "medium": "Gouache on board", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 16667, 
+      "name": "Abstraction-Cr\u00e9ation"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00517_8.jpg", 
+  "title": "Nude", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/herbin-nude-t00517", 
+  "width": "479"
+}

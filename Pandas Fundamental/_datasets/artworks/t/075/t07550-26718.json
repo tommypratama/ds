@@ -1,0 +1,82 @@
+{
+  "acno": "T07550", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Peter Startup", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131976", 
+      "displayOrder": 1, 
+      "fc": "Peter Startup", 
+      "gender": "Male", 
+      "id": 1986, 
+      "mda": "Startup, Peter", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1999", 
+  "dateRange": {
+    "endYear": 1959, 
+    "startYear": 1959, 
+    "text": "1959"
+  }, 
+  "dateText": "1959", 
+  "depth": "280", 
+  "dimensions": "object: 1710 x 565 x 280 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "565", 
+  "id": 26718, 
+  "inscription": null, 
+  "medium": "Wood", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5251, 
+                "name": "totem pole"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Peter Startup", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07550_8.jpg", 
+  "title": "Totemic Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/startup-totemic-figure-t07550", 
+  "width": "1710"
+}

@@ -1,0 +1,70 @@
+{
+  "acno": "P01799", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Carol Summers", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "born 1925", 
+      "displayOrder": 1, 
+      "fc": "Carol Summers", 
+      "gender": "Male", 
+      "id": 2011, 
+      "mda": "Summers, Carol", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Museum of Modern Art, New York 1976", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "", 
+  "dimensions": "image: 540 x 743 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "743", 
+  "id": 14010, 
+  "inscription": "date inscribed", 
+  "medium": "Woodcut on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Stromboli Dark", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/summers-stromboli-dark-p01799", 
+  "width": "540"
+}

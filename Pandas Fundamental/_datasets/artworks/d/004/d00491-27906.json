@@ -1,0 +1,94 @@
+{
+  "acno": "D00491", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140812, 
+  "catalogueGroup": {
+    "accessionRanges": "D00462-D00552; D40755-D40758", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65686, 
+    "shortTitle": "Smaller South Wales Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1795, 
+    "startYear": 1795, 
+    "text": "c.1795"
+  }, 
+  "dateText": "c.1795", 
+  "depth": "", 
+  "dimensions": "support: 130 x 205 mm", 
+  "finberg": "XXV 30", 
+  "foreignTitle": null, 
+  "groupTitle": "Smaller South Wales Sketchbook", 
+  "height": "205", 
+  "id": 27906, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 61, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00491_8.jpg", 
+  "title": "A Broad Landscape with Low Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-broad-landscape-with-low-hills-d00491", 
+  "width": "130"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "T06779", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Leonard McComb", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Leonard McComb", 
+      "gender": "Male", 
+      "id": 1604, 
+      "mda": "McComb, Leonard", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1994", 
+  "dateRange": {
+    "endYear": 1993, 
+    "startYear": 1993, 
+    "text": "1993"
+  }, 
+  "dateText": "1993", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 229 x 279 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "279", 
+  "id": 20895, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1115, 
+                "name": "duck"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Leonard McComb", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06779_8.jpg", 
+  "title": "Duck", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mccomb-duck-t06779", 
+  "width": "229"
+}

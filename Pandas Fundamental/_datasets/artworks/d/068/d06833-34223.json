@@ -1,0 +1,108 @@
+{
+  "acno": "D06833", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06833", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D68/D06833_E.jpg", 
+          "height": 405, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134479, 
+  "catalogueGroup": {
+    "accessionRanges": "D06830-D06857; D40065; D40720-D40721", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65750, 
+    "shortTitle": "Tabley No.1 Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1808, 
+    "text": "c.1808"
+  }, 
+  "dateText": "c.1808", 
+  "depth": "", 
+  "dimensions": "support: 226 x 295 mm", 
+  "finberg": "CIII 4", 
+  "foreignTitle": null, 
+  "groupTitle": "Tabley No.1 Sketchbook", 
+  "height": "295", 
+  "id": 34223, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 29, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06833_8.jpg", 
+  "title": "Stormy Clouds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-stormy-clouds-d06833", 
+  "width": "226"
+}

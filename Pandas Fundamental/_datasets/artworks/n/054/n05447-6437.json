@@ -1,0 +1,126 @@
+{
+  "acno": "N05447", 
+  "acquisitionYear": 1944, 
+  "all_artists": "Tristram Hillier", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1905, 
+      "date": "1905\u20131983", 
+      "displayOrder": 1, 
+      "fc": "Tristram Hillier", 
+      "gender": "Male", 
+      "id": 1288, 
+      "mda": "Hillier, Tristram", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1944", 
+  "dateRange": {
+    "endYear": 1937, 
+    "startYear": 1937, 
+    "text": "1937"
+  }, 
+  "dateText": "1937", 
+  "depth": "", 
+  "dimensions": "support: 597 x 806 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "806", 
+  "id": 6437, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3946, 
+                "name": "Vence"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5221, 
+                "name": "mast"
+              }, 
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 5014, 
+                "name": "signage"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05447_8.jpg", 
+  "title": "La Route des Alpes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hillier-la-route-des-alpes-n05447", 
+  "width": "597"
+}

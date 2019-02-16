@@ -1,0 +1,128 @@
+{
+  "acno": "D04807", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1133512, 
+  "catalogueGroup": {
+    "accessionRanges": "D04797-D04814; D04816-D04874; D40661", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65727, 
+    "shortTitle": "Swiss Figures Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 198 x 163 mm", 
+  "finberg": "LXXVIII 10", 
+  "foreignTitle": null, 
+  "groupTitle": "Swiss Figures Sketchbook", 
+  "height": "163", 
+  "id": 32200, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 21, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1756, 
+                "name": "Swiss"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }, 
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9170, 
+                "name": "boatman"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04807_8.jpg", 
+  "title": "A Boatman, or Raftsman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-boatman-or-raftsman-d04807", 
+  "width": "198"
+}

@@ -1,0 +1,210 @@
+{
+  "acno": "T01258", 
+  "acquisitionYear": 1970, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T01258_144870", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T01/T01258_144870_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 86
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T01/T01258_144870_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 173
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T01/T01258_144870_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 347
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T01/T01258_144870_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1043
+        }
+      ]
+    }, 
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T01258_83745", 
+      "sizes": [
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "T/T01/T01258_83745_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 86
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "T/T01/T01258_83745_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 172
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "T/T01/T01258_83745_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 345
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "T/T01/T01258_83745_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1037
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Lionel Bicknell Constable", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1828, 
+      "date": "1828\u20131887", 
+      "displayOrder": 1, 
+      "fc": "Lionel Bicknell Constable", 
+      "gender": "Male", 
+      "id": 109, 
+      "mda": "Constable, Lionel Bicknell", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1850, 
+    "startYear": 1850, 
+    "text": "c.1850"
+  }, 
+  "dateText": "c.1850", 
+  "depth": "", 
+  "dimensions": "support: 117 x 175 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "175", 
+  "id": 2767, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2670, 
+                "name": "Stoke-by-Nayland"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2357, 
+                "name": "Suffolk"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01258_8.jpg", 
+  "title": "Near Stoke-by-Nayland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-near-stoke-by-nayland-t01258", 
+  "width": "117"
+}

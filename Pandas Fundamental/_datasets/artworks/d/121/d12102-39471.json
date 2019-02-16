@@ -1,0 +1,92 @@
+{
+  "acno": "D12102", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D12102", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D121/D12102_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 444
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1145504, 
+  "catalogueGroup": {
+    "accessionRanges": "D12099-D12108; D12110-D12122; D40047; D40073-D40074; D40299", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 190844, 
+    "shortTitle": "Farnley and Related Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1823, 
+    "startYear": 1815, 
+    "text": "c.1815-23"
+  }, 
+  "dateText": "c.1815\u201323", 
+  "depth": "", 
+  "dimensions": "support: 223 x 372 mm", 
+  "finberg": "CLIV D", 
+  "foreignTitle": null, 
+  "groupTitle": "Farnley and Related Subjects", 
+  "height": "372", 
+  "id": 39471, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12102_8.jpg", 
+  "title": "Design for the Farnley Hall series of Historical Vignettes and Fairfaxiana; \u2018Civil War\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-design-for-the-farnley-hall-series-of-historical-vignettes-and-fairfaxiana-civil-d12102", 
+  "width": "223"
+}

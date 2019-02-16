@@ -1,0 +1,80 @@
+{
+  "acno": "P77435", 
+  "acquisitionYear": 1990, 
+  "all_artists": "Ellsworth Kelly", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "born 1923", 
+      "displayOrder": 1, 
+      "fc": "Ellsworth Kelly", 
+      "gender": "Male", 
+      "id": 1391, 
+      "mda": "Kelly, Ellsworth", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 1990", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1976, 
+    "text": "1976-7"
+  }, 
+  "dateText": "1976\u20137", 
+  "depth": "", 
+  "dimensions": "image: 1030 x 1030 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1030", 
+  "id": 19105, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint and lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ellsworth Kelly", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77435_8.jpg", 
+  "title": "Nine Squares", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kelly-nine-squares-p77435", 
+  "width": "1030"
+}

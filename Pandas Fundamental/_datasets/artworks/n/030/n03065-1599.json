@@ -1,0 +1,402 @@
+{
+  "acno": "N03065", 
+  "acquisitionYear": 1916, 
+  "all_artists": "Ford Madox Brown", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1821, 
+      "date": "1821\u20131893", 
+      "displayOrder": 1, 
+      "fc": "Ford Madox Brown", 
+      "gender": "Male", 
+      "id": 65, 
+      "mda": "Brown, Ford Madox", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Art Fund and subscribers 1916", 
+  "dateRange": {
+    "endYear": 1854, 
+    "startYear": 1849, 
+    "text": "1849-54"
+  }, 
+  "dateText": "1849\u201354", 
+  "depth": "", 
+  "dimensions": "support: 711 x 991 mm\r\nframe: 995 x 1270 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "991", 
+  "id": 1599, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 36, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11941, 
+                "name": "'Bayeaux Tapestry'"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }, 
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2158, 
+                "name": "crown"
+              }, 
+              {
+                "id": 2544, 
+                "name": "orb"
+              }, 
+              {
+                "id": 2159, 
+                "name": "sceptre"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 868, 
+                "name": "helmet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2312, 
+                "name": "instrument, harp"
+              }, 
+              {
+                "id": 752, 
+                "name": "instrument, lute"
+              }, 
+              {
+                "id": 754, 
+                "name": "instrument, stringed"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 858, 
+                "name": "'King Lear'"
+              }
+            ], 
+            "id": 59, 
+            "name": "Shakespeare"
+          }, 
+          {
+            "children": [
+              {
+                "id": 860, 
+                "name": "Cordelia"
+              }, 
+              {
+                "id": 859, 
+                "name": "King Lear"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2358, 
+                "name": "Brown, Emma"
+              }, 
+              {
+                "id": 1170, 
+                "name": "Rossetti, Dante Gabriel"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }, 
+              {
+                "id": 565, 
+                "name": "reclining"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }, 
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1491, 
+                "name": "pointing"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1513, 
+                "name": "Dover - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 810, 
+                "name": "Kent"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2828, 
+                "name": "doctor"
+              }
+            ], 
+            "id": 127, 
+            "name": "medical"
+          }, 
+          {
+            "children": [
+              {
+                "id": 820, 
+                "name": "jester"
+              }, 
+              {
+                "id": 1617, 
+                "name": "musician"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 870, 
+                "name": "king"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }, 
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10065, 
+                "name": "music"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 874, 
+                "name": "tent"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03065_8.jpg", 
+  "title": "Lear and Cordelia", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brown-lear-and-cordelia-n03065", 
+  "width": "711"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "P11564", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Bridget Riley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Bridget Riley", 
+      "gender": "Female", 
+      "id": 1845, 
+      "mda": "Riley, Bridget", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Karsten Schubert 1999", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "", 
+  "dimensions": "image: 870 x 764 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "764", 
+  "id": 26479, 
+  "inscription": null, 
+  "medium": "Silkscreen print on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 435, 
+      "name": "Optical Art"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bridget Riley 2014. All rights reserved, courtesy Karsten Schubert, London", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11564_8.jpg", 
+  "title": "Silvered 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-silvered-2-p11564", 
+  "width": "870"
+}

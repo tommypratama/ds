@@ -1,0 +1,106 @@
+{
+  "acno": "T08144", 
+  "acquisitionYear": 1996, 
+  "all_artists": "John Robert Cozens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1752, 
+      "date": "1752\u20131797", 
+      "displayOrder": 1, 
+      "fc": "John Robert Cozens", 
+      "gender": "Male", 
+      "id": 119, 
+      "mda": "Cozens, John Robert", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1785, 
+    "startYear": 1785, 
+    "text": "?c.1785"
+  }, 
+  "dateText": "?c.1785", 
+  "depth": "", 
+  "dimensions": "support: 350 x 390 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "390", 
+  "id": 22639, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08144_8.jpg", 
+  "title": "The Cloud", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-the-cloud-t08144", 
+  "width": "350"
+}

@@ -1,0 +1,96 @@
+{
+  "acno": "T00567", 
+  "acquisitionYear": 1963, 
+  "all_artists": "Anthony Hill", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Anthony Hill", 
+      "gender": "Male", 
+      "id": 1284, 
+      "mda": "Hill, Anthony", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1963", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1960, 
+    "text": "1960-2"
+  }, 
+  "dateText": "1960\u20132", 
+  "depth": "48", 
+  "dimensions": "object: 1105 x 914 x 48 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "914", 
+  "id": 6419, 
+  "inscription": null, 
+  "medium": "Aluminium and plastic on hardboard", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 621, 
+                "name": "mathematics"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Anthony Hill", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00567_8.jpg", 
+  "title": "Relief Construction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hill-relief-construction-t00567", 
+  "width": "1105"
+}

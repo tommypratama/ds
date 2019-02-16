@@ -1,0 +1,76 @@
+{
+  "acno": "P03224", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Michael Morris", 
+  "catalogueGroup": {
+    "accessionRanges": "P03217-P03229", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65604, 
+    "shortTitle": "Centennial Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1942, 
+      "date": "born 1942", 
+      "displayOrder": 1, 
+      "fc": "Michael Morris", 
+      "gender": "Male", 
+      "id": 1668, 
+      "mda": "Morris, Michael", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Simon Fraser University, British Columbia 1977", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "", 
+  "dimensions": "image: 324 x 479 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Centennial Suite", 
+  "height": "479", 
+  "id": 10314, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Screen Test", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/morris-screen-test-p03224", 
+  "width": "324"
+}

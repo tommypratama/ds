@@ -1,0 +1,106 @@
+{
+  "acno": "P01597", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Norman Stevens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "1937\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Norman Stevens", 
+      "gender": "Male", 
+      "id": 1998, 
+      "mda": "Stevens, Norman", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Editions Alecto through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 254 x 365 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "365", 
+  "id": 13874, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6005, 
+                "name": "avenue"
+              }, 
+              {
+                "id": 650, 
+                "name": "path"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Covered Walk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stevens-covered-walk-p01597", 
+  "width": "254"
+}

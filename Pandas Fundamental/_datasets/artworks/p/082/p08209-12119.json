@@ -1,0 +1,93 @@
+{
+  "acno": "P08209", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Lucien Pissarro, Esther Pissarro", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1863, 
+      "date": "1863\u20131944", 
+      "displayOrder": 1, 
+      "fc": "Lucien Pissarro", 
+      "gender": "Male", 
+      "id": 1777, 
+      "mda": "Pissarro, Lucien", 
+      "role": "artist", 
+      "startLetter": "P"
+    }, 
+    {
+      "birthYear": 1870, 
+      "date": "1870\u20131951", 
+      "displayOrder": 2, 
+      "fc": "Esther Pissarro", 
+      "gender": "Female", 
+      "id": 11753, 
+      "mda": "Pissarro, Esther", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1982", 
+  "dateRange": {
+    "endYear": 1892, 
+    "startYear": 1892, 
+    "text": "c.1892"
+  }, 
+  "dateText": "c.1892", 
+  "depth": "", 
+  "dimensions": "image: 57 x 38 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "38", 
+  "id": 12119, 
+  "inscription": null, 
+  "medium": "Wood engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4116, 
+                "name": "name"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Lucien Pissarro", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08209_8.jpg", 
+  "title": "Ex Libris Isa Taylor", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pissarro-ex-libris-isa-taylor-p08209", 
+  "width": "57"
+}

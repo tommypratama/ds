@@ -1,0 +1,86 @@
+{
+  "acno": "P05134", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Peter Sedgley", 
+  "catalogueGroup": {
+    "accessionRanges": "P05129-P05137", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65520, 
+    "shortTitle": "Looking Glass Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Peter Sedgley", 
+      "gender": "Male", 
+      "id": 1919, 
+      "mda": "Sedgley, Peter", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "", 
+  "dimensions": "image: 495 x 494 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Looking Glass Suite", 
+  "height": "494", 
+  "id": 13281, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 435, 
+      "name": "Optical Art"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Peter Sedgley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05134_8.jpg", 
+  "title": "Looking Glass No. 6", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sedgley-looking-glass-no-6-p05134", 
+  "width": "495"
+}

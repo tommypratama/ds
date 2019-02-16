@@ -1,0 +1,84 @@
+{
+  "acno": "T01539", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Gordon Onslow-Ford", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Gordon Onslow-Ford", 
+      "gender": "Male", 
+      "id": 1720, 
+      "mda": "Onslow-Ford, Gordon", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Purchased 1972", 
+  "dateRange": {
+    "endYear": 1939, 
+    "startYear": 1939, 
+    "text": "1939"
+  }, 
+  "dateText": "1939", 
+  "depth": "", 
+  "dimensions": "support: 921 x 727 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "727", 
+  "id": 10938, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 320, 
+      "name": "Surrealism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Lucid Art Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01539_8.jpg", 
+  "title": "Determination of Gender", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/onslow-ford-determination-of-gender-t01539", 
+  "width": "921"
+}

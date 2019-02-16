@@ -1,0 +1,98 @@
+{
+  "acno": "P78396", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Jochen Klein", 
+  "catalogueGroup": {
+    "accessionRanges": "P78388-P78407", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66101, 
+    "shortTitle": "Cubitt Print Box"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1967, 
+      "date": "1967\u20131997", 
+      "displayOrder": 1, 
+      "fc": "Jochen Klein", 
+      "gender": "Male", 
+      "id": 2764, 
+      "mda": "Klein, Jochen", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 2000", 
+  "dateRange": {
+    "endYear": 1996, 
+    "startYear": 1996, 
+    "text": "1996"
+  }, 
+  "dateText": "1996", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 210 x 260 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Cubitt Print Box", 
+  "height": "260", 
+  "id": 27226, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/klein-untitled-p78396", 
+  "width": "210"
+}

@@ -1,0 +1,128 @@
+{
+  "acno": "P06232", 
+  "acquisitionYear": 1975, 
+  "all_artists": "David Gentleman", 
+  "catalogueGroup": {
+    "accessionRanges": "P06225-P06232", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65324, 
+    "shortTitle": "The Charleston Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "David Gentleman", 
+      "gender": "Male", 
+      "id": 1148, 
+      "mda": "Gentleman, David", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1971, 
+    "text": "1971-2"
+  }, 
+  "dateText": "1971\u20132", 
+  "depth": "", 
+  "dimensions": "image: 384 x 505 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Charleston Suite", 
+  "height": "505", 
+  "id": 5085, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13309, 
+                "name": "Charleston, Wedge Plantation"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4277, 
+                "name": "estate"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Gentleman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06232_8.jpg", 
+  "title": "The Wedge Plantation House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gentleman-the-wedge-plantation-house-p06232", 
+  "width": "384"
+}

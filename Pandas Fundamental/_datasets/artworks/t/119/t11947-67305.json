@@ -1,0 +1,108 @@
+{
+  "acno": "T11947", 
+  "acquisitionYear": 2005, 
+  "all_artists": "John Wells", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20132000", 
+      "displayOrder": 1, 
+      "fc": "John Wells", 
+      "gender": "Male", 
+      "id": 2130, 
+      "mda": "Wells, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Bequeathed by the artist 2000, accessioned 2005", 
+  "dateRange": {
+    "endYear": 1941, 
+    "startYear": 1941, 
+    "text": "1941"
+  }, 
+  "dateText": "1941", 
+  "depth": "215", 
+  "dimensions": "object: 520 x 215 x 215 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "215", 
+  "id": 67305, 
+  "inscription": null, 
+  "medium": "Wood, plastic, steel, cotton thread and fishing line", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7205, 
+                "name": "structure"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Wells", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11947_8.jpg", 
+  "title": "Marine Construction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wells-marine-construction-t11947", 
+  "width": "520"
+}

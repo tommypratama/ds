@@ -1,0 +1,82 @@
+{
+  "acno": "N04814", 
+  "acquisitionYear": 1935, 
+  "all_artists": "Ursula Tyrwhitt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1878, 
+      "date": "1878\u20131966", 
+      "displayOrder": 1, 
+      "fc": "Ursula Tyrwhitt", 
+      "gender": "Female", 
+      "id": 2080, 
+      "mda": "Tyrwhitt, Ursula", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Mary McEvoy 1935", 
+  "dateRange": {
+    "endYear": 1912, 
+    "startYear": 1912, 
+    "text": "1912"
+  }, 
+  "dateText": "1912", 
+  "depth": "", 
+  "dimensions": "support: 406 x 384 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "384", 
+  "id": 15578, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3007, 
+                "name": "bouquet"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Flowers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tyrwhitt-flowers-n04814", 
+  "width": "406"
+}

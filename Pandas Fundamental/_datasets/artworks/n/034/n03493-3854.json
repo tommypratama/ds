@@ -1,0 +1,108 @@
+{
+  "acno": "N03493", 
+  "acquisitionYear": 1879, 
+  "all_artists": "Peter De Wint", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1784, 
+      "date": "1784\u20131849", 
+      "displayOrder": 1, 
+      "fc": "Peter De Wint", 
+      "gender": "Male", 
+      "id": 148, 
+      "mda": "De Wint, Peter", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Bequeathed by John Henderson 1879", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 137 x 505 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "505", 
+  "id": 3854, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1262, 
+                "name": "Cumbria"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9912, 
+                "name": "River Eden"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03493_8.jpg", 
+  "title": "On the Eden, Cumberland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/de-wint-on-the-eden-cumberland-n03493", 
+  "width": "137"
+}

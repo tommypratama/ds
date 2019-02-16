@@ -1,0 +1,191 @@
+{
+  "acno": "P08014", 
+  "acquisitionYear": 1977, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 John Stezaker", 
+      "creativeCommons": null, 
+      "filenameBase": "P08014_122106", 
+      "sizes": [
+        {
+          "caption": "Polyptych", 
+          "cleared": true, 
+          "file": "P/P08/P08014_122106_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 101
+        }, 
+        {
+          "caption": "Polyptych", 
+          "cleared": true, 
+          "file": "P/P08/P08014_122106_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 202
+        }, 
+        {
+          "caption": "Polyptych", 
+          "cleared": true, 
+          "file": "P/P08/P08014_122106_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 404
+        }, 
+        {
+          "caption": "Polyptych", 
+          "cleared": true, 
+          "file": "P/P08/P08014_122106_10.jpg", 
+          "height": 1534, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1209
+        }
+      ]
+    }
+  ], 
+  "all_artists": "John Stezaker", 
+  "catalogueGroup": {
+    "accessionRanges": "P08006-P08015", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65674, 
+    "shortTitle": "Jam Press Phase One"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "John Stezaker", 
+      "gender": "Male", 
+      "id": 2000, 
+      "mda": "Stezaker, John", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1977", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1973, 
+    "text": "1973-4"
+  }, 
+  "dateText": "1973\u20134", 
+  "depth": "", 
+  "dimensions": "image: 559 x 441 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Jam Press Phase One", 
+  "height": "441", 
+  "id": 13890, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 22783, 
+                "name": "fork"
+              }, 
+              {
+                "id": 22782, 
+                "name": "knife"
+              }, 
+              {
+                "id": 22784, 
+                "name": "spoon"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Stezaker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08014_8.jpg", 
+  "title": "1. 10 and 1. 11", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stezaker-1-10-and-1-11-p08014", 
+  "width": "559"
+}

@@ -1,0 +1,93 @@
+{
+  "acno": "D21366", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D21366", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D213/D21366_E.jpg", 
+          "height": 341, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D21271-D21411; D41043-D41044", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65863, 
+    "shortTitle": "Coast of Genoa Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1828, 
+    "text": "1828"
+  }, 
+  "dateText": "1828", 
+  "depth": "", 
+  "dimensions": "support: 159 x 98 mm", 
+  "finberg": "CCXXXII 54", 
+  "foreignTitle": null, 
+  "groupTitle": "Coast of Genoa Sketchbook", 
+  "height": "98", 
+  "id": 48709, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 109, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21366_8.jpg", 
+  "title": "Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-d21366", 
+  "width": "159"
+}

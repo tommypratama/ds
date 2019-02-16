@@ -1,0 +1,119 @@
+{
+  "acno": "D09003", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09003", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D90/D09003_E.jpg", 
+          "height": 323, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134714, 
+  "catalogueGroup": {
+    "accessionRanges": "D08965-D09016; D41530", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65770, 
+    "shortTitle": "Sandycombe and Yorkshire Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1810, 
+    "startYear": 1809, 
+    "text": "c.1809-10"
+  }, 
+  "dateText": "c.1809\u201310", 
+  "depth": "", 
+  "dimensions": "support: 126 x 202 mm", 
+  "finberg": "CXXVII 26 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Sandycombe and Yorkshire Sketchbook", 
+  "height": "202", 
+  "id": 36382, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09003_8.jpg", 
+  "title": "A Village or Small Town on a River or Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-village-or-small-town-on-a-river-or-coast-d09003", 
+  "width": "126"
+}

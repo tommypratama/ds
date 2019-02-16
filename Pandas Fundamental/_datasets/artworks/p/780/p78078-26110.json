@@ -1,0 +1,98 @@
+{
+  "acno": "P78078", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Darren Almond", 
+  "catalogueGroup": {
+    "accessionRanges": "P78078-P78088", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66069, 
+    "shortTitle": "Screen"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1971, 
+      "date": "born 1971", 
+      "displayOrder": 1, 
+      "fc": "Darren Almond", 
+      "gender": "Male", 
+      "id": 2657, 
+      "mda": "Almond, Darren", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased 1998", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "", 
+  "dimensions": "image: 731 x 889 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Screen", 
+  "height": "889", 
+  "id": 26110, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 499, 
+                "name": "name of artist"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Darren Almond, courtesy Jay Jopling/White Cube (London) and Matthew Marks Gallery, New York", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78078_8.jpg", 
+  "title": "Multiple Working", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/almond-multiple-working-p78078", 
+  "width": "731"
+}

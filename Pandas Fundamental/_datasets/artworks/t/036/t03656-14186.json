@@ -1,0 +1,144 @@
+{
+  "acno": "T03656", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Geoffrey Tibble", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1909, 
+      "date": "1909\u20131952", 
+      "displayOrder": 1, 
+      "fc": "Geoffrey Tibble", 
+      "gender": "Male", 
+      "id": 2041, 
+      "mda": "Tibble, Geoffrey", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented anonymously in memory of Sir Terence Rattigan 1983", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1948, 
+    "text": "1948"
+  }, 
+  "dateText": "1948", 
+  "depth": "", 
+  "dimensions": "support: 370 x 445 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "445", 
+  "id": 14186, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 764, 
+                "name": "dining room"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Mug", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tibble-the-mug-t03656", 
+  "width": "370"
+}

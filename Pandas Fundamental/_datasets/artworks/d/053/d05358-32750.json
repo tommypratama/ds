@@ -1,0 +1,126 @@
+{
+  "acno": "D05358", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1133588, 
+  "catalogueGroup": {
+    "accessionRanges": "D05351-D05375; D40273; D40342-D40343", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65733, 
+    "shortTitle": "Harvest Home Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1810, 
+    "startYear": 1807, 
+    "text": "c.1807-10"
+  }, 
+  "dateText": "c.1807\u201310", 
+  "depth": "", 
+  "dimensions": "support: 258 x 370 mm", 
+  "finberg": "LXXXVI 6", 
+  "foreignTitle": null, 
+  "groupTitle": "Harvest Home Sketchbook", 
+  "height": "370", 
+  "id": 32750, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 13, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 688, 
+                "name": "farm labourer"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15354, 
+                "name": "steward"
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05358_8.jpg", 
+  "title": "An Agent Seated at a Table, Surrounded by Tenants and Women and Children", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-an-agent-seated-at-a-table-surrounded-by-tenants-and-women-and-children-d05358", 
+  "width": "258"
+}

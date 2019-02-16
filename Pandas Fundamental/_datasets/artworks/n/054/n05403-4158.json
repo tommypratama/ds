@@ -1,0 +1,70 @@
+{
+  "acno": "N05403", 
+  "acquisitionYear": 1943, 
+  "all_artists": "Frederick Etchells", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1886, 
+      "date": "1886\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Frederick Etchells", 
+      "gender": "Male", 
+      "id": 1069, 
+      "mda": "Etchells, Frederick", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Presented by Duncan Grant 1943", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "c.1913"
+  }, 
+  "dateText": "c.1913", 
+  "depth": "", 
+  "dimensions": "support: 749 x 629 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "629", 
+  "id": 4158, 
+  "inscription": null, 
+  "medium": "Gouache on board", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3051, 
+                "name": "bag"
+              }, 
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Frederick Etchells", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05403_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/etchells-still-life-n05403", 
+  "width": "749"
+}

@@ -1,0 +1,138 @@
+{
+  "acno": "T00162", 
+  "acquisitionYear": 1957, 
+  "all_artists": "John Minton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1917, 
+      "date": "1917\u20131957", 
+      "displayOrder": 1, 
+      "fc": "John Minton", 
+      "gender": "Male", 
+      "id": 1644, 
+      "mda": "Minton, John", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1957", 
+  "dateRange": {
+    "endYear": 1946, 
+    "startYear": 1946, 
+    "text": "1946"
+  }, 
+  "dateText": "1946", 
+  "depth": "", 
+  "dimensions": "support: 457 x 610 mm\r\nframe: 591 x 747 x 65 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "610", 
+  "id": 9571, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 312, 
+      "name": "Neo-Romanticism"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1205, 
+                "name": "London - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3379, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Minton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00162_8.jpg", 
+  "title": "Street and Railway Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/minton-street-and-railway-bridge-t00162", 
+  "width": "457"
+}

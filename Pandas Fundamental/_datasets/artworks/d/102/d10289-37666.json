@@ -1,0 +1,134 @@
+{
+  "acno": "D10289", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D10289", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D102/D10289_E.jpg", 
+          "height": 399, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131335, 
+  "catalogueGroup": {
+    "accessionRanges": "D10206-D10319; D40863-D40866; D41535", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65779, 
+    "shortTitle": "Vale of Heathfield Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1813, 
+    "startYear": 1813, 
+    "text": "?1813"
+  }, 
+  "dateText": "?1813", 
+  "depth": "", 
+  "dimensions": "support: 181 x 228 mm", 
+  "finberg": "CXXXVII 55 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Vale of Heathfield Sketchbook", 
+  "height": "228", 
+  "id": 37666, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 118, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1558, 
+                "name": "Devon"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 25575, 
+                "name": "River Tavy"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1236, 
+                "name": "estuary"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10289_8.jpg", 
+  "title": "?The Mouth of the River Tavy from above Blaxton", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-mouth-of-the-river-tavy-from-above-blaxton-d10289", 
+  "width": "181"
+}

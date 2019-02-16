@@ -1,0 +1,86 @@
+{
+  "acno": "T03730", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Henri Gaudier-Brzeska", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131915", 
+      "displayOrder": 1, 
+      "fc": "Henri Gaudier-Brzeska", 
+      "gender": "Male", 
+      "id": 1143, 
+      "mda": "Gaudier-Brzeska, Henri", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1912, 
+    "startYear": 1912, 
+    "text": "c.1912"
+  }, 
+  "dateText": "c.1912", 
+  "depth": "170", 
+  "dimensions": "object: 182 x 144 x 170 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "144", 
+  "id": 5035, 
+  "inscription": null, 
+  "medium": "Painted plaster", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2342, 
+                "name": "mental illness"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03730_8.jpg", 
+  "title": "The Idiot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-the-idiot-t03730", 
+  "width": "182"
+}

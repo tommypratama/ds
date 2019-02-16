@@ -1,0 +1,300 @@
+{
+  "acno": "T02033", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Patrick Caulfield", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "1936\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Patrick Caulfield", 
+      "gender": "Male", 
+      "id": 873, 
+      "mda": "Caulfield, Patrick", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1976", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "support: 2489 x 2134 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2134", 
+  "id": 2086, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }
+  ], 
+  "subjectCount": 21, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 7923, 
+                "name": "Lake Geneva"
+              }, 
+              {
+                "id": 5977, 
+                "name": "Mont Blanc"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9037, 
+                "name": "Ch\u00e2teau de Chillon"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 767, 
+                "name": "candle"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4300, 
+                "name": "fish tank"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2220, 
+                "name": "fondue pot"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 624, 
+                "name": "mural"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7458, 
+                "name": "yoke"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1270, 
+                "name": "restaurant"
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2223, 
+                "name": "waiter / waitress"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Patrick Caulfield", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02033_8.jpg", 
+  "title": "After Lunch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-after-lunch-t02033", 
+  "width": "2489"
+}

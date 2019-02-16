@@ -1,0 +1,130 @@
+{
+  "acno": "P11152", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Ivor Abrahams", 
+  "catalogueGroup": {
+    "accessionRanges": "P11135-P11154", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65664, 
+    "shortTitle": "E.A. Poe: Tales and Poems"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Ivor Abrahams", 
+      "gender": "Male", 
+      "id": 622, 
+      "mda": "Abrahams, Ivor", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Evelyne Abrahams, the artist's wife 1986", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 210 x 160 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "E.A. Poe: Tales and Poems", 
+  "height": "160", 
+  "id": 380, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13178, 
+                "name": "Poe, Edgar Allan, 'Morella'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4320, 
+                "name": "haunting"
+              }
+            ], 
+            "id": 138, 
+            "name": "magic and occultism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ivor Abrahams", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11152_8.jpg", 
+  "title": "Morella", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-morella-p11152", 
+  "width": "210"
+}

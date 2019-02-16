@@ -1,0 +1,129 @@
+{
+  "acno": "D12244", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D12244", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D122/D12244_E.jpg", 
+          "height": 418, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134656, 
+  "catalogueGroup": {
+    "accessionRanges": "D12240-D12260", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65797, 
+    "shortTitle": "Kirkstall Lock Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1809, 
+    "text": "1809"
+  }, 
+  "dateText": "1809", 
+  "depth": "", 
+  "dimensions": "support: 186 x 231 mm", 
+  "finberg": "CLV 4 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Kirkstall Lock Sketchbook", 
+  "height": "231", 
+  "id": 39613, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7385, 
+                "name": "Kirkstall - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5007, 
+                "name": "Leeds"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12244_8.jpg", 
+  "title": "A House by a River or Canal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-house-by-a-river-or-canal-d12244", 
+  "width": "186"
+}

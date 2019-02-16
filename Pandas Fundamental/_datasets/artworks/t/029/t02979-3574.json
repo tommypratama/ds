@@ -1,0 +1,168 @@
+{
+  "acno": "T02979", 
+  "acquisitionYear": 1979, 
+  "all_artists": "William Daniell", 
+  "catalogueGroup": {
+    "accessionRanges": "T02415-T03024; T03239-T03240", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65233, 
+    "shortTitle": "A Voyage Round Great Britain"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131837", 
+      "displayOrder": 1, 
+      "fc": "William Daniell", 
+      "gender": "Male", 
+      "id": 138, 
+      "mda": "Daniell, William", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by Tate Gallery Publications 1979", 
+  "dateRange": {
+    "endYear": 1823, 
+    "startYear": 1823, 
+    "text": "published 1823, reprinted 1978-9"
+  }, 
+  "dateText": "published 1823, reprinted 1978\u20139", 
+  "depth": "", 
+  "dimensions": "image: 162 x 241 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Voyage Round Great Britain", 
+  "height": "241", 
+  "id": 3574, 
+  "inscription": null, 
+  "medium": "Aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7636, 
+                "name": "Corfe Castle, Corfe Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1600, 
+                "name": "Dorset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02979_8.jpg", 
+  "title": "Corfe Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-corfe-castle-t02979", 
+  "width": "162"
+}

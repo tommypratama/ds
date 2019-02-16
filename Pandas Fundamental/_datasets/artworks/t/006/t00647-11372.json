@@ -1,0 +1,106 @@
+{
+  "acno": "T00647", 
+  "acquisitionYear": 1964, 
+  "all_artists": "David Partridge", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1919, 
+      "date": "1919\u20132006", 
+      "displayOrder": 1, 
+      "fc": "David Partridge", 
+      "gender": "Male", 
+      "id": 1743, 
+      "mda": "Partridge, David", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1964", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "86", 
+  "dimensions": "object: 2057 x 508 x 86 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 11372, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on metal and board", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2763, 
+                "name": "back"
+              }, 
+              {
+                "id": 1628, 
+                "name": "skeleton"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Vertebrate Configuration", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/partridge-vertebrate-configuration-t00647", 
+  "width": "2057"
+}

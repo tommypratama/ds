@@ -1,0 +1,92 @@
+{
+  "acno": "P06803", 
+  "acquisitionYear": 1978, 
+  "all_artists": "John Piper", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131992", 
+      "displayOrder": 1, 
+      "fc": "John Piper", 
+      "gender": "Male", 
+      "id": 1774, 
+      "mda": "Piper, John", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1978", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1977, 
+    "text": "1977-8"
+  }, 
+  "dateText": "1977\u20138", 
+  "depth": "", 
+  "dimensions": "image: 406 x 546 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "546", 
+  "id": 12063, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2774, 
+                "name": "graveyard"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Piper Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06803_8.jpg", 
+  "title": "High Cross", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/piper-high-cross-p06803", 
+  "width": "406"
+}

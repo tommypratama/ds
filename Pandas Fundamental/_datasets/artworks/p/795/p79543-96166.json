@@ -1,0 +1,314 @@
+{
+  "acno": "P79543", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Le\u00f3n Ferrari", 
+  "catalogueGroup": {
+    "accessionRanges": "P79517-P79562", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 96188, 
+    "shortTitle": "Never Again"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1920, 
+      "date": "1920\u20132013", 
+      "displayOrder": 1, 
+      "fc": "Le\u00f3n Ferrari", 
+      "gender": "Male", 
+      "id": 10613, 
+      "mda": "Ferrari, Le\u00f3n", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by Alicia and Le\u00f3n Ferrari 2008", 
+  "dateRange": {
+    "endYear": 2007, 
+    "startYear": 1995, 
+    "text": "1995-6, 2007"
+  }, 
+  "dateText": "1995\u20136, 2007", 
+  "depth": "", 
+  "dimensions": "support: 420 x 297 mm", 
+  "foreignTitle": "Grabado de Jan Luy Ken de la Serie 'Persecuciones religiosas', siglo XVII + fotograf\u00eda del m\u00e9dico policial Jorge Berg\u00e9s + 'Nunca M\u00e1s', p\u00e1g. 139", 
+  "groupTitle": "Never Again", 
+  "height": "297", 
+  "id": 96166, 
+  "inscription": null, 
+  "medium": "Digital print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 21, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18341, 
+                "name": "Berg\u00e9s, Jorge, Dr"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18339, 
+                "name": "Luyken, Jan, 'Religious Persecutions'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18340, 
+                "name": "Luyken, Jan, print"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }, 
+          {
+            "children": [
+              {
+                "id": 18274, 
+                "name": "instrument of torture - non specific"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4727, 
+                "name": "Roman Catholicism"
+              }
+            ], 
+            "id": 133, 
+            "name": "Judaeo-Christian imagery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5739, 
+                "name": "martyr"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 18023, 
+                "name": "beam"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4831, 
+                "name": "card game"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2828, 
+                "name": "doctor"
+              }
+            ], 
+            "id": 127, 
+            "name": "medical"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18270, 
+                "name": "human rights"
+              }, 
+              {
+                "id": 1787, 
+                "name": "torture"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8420, 
+                "name": "prisoner"
+              }, 
+              {
+                "id": 10217, 
+                "name": "torture"
+              }
+            ], 
+            "id": 147, 
+            "name": "crime and punishment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3566, 
+                "name": "totalitarianism"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18256, 
+                "name": "politics: Argentina, 'The Dirty War', 1976-1983"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2204, 
+                "name": "prison"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Leon Ferrari", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79543_8.jpg", 
+  "title": "Engraving by Jan Luy Ken from the Series \u2018Religious Persecutions\u2019, 17th Century + Photograph of the Police Doctor Jorge Berg\u00e9s + \u2018Never Again\u2019, p. 139", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ferrari-engraving-by-jan-luy-ken-from-the-series-religious-persecutions-17th-century-p79543", 
+  "width": "420"
+}

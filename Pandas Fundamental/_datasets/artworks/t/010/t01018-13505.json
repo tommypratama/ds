@@ -1,0 +1,150 @@
+{
+  "acno": "T01018", 
+  "acquisitionYear": 1967, 
+  "all_artists": "John `Warwick' Smith", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1749, 
+      "date": "1749\u20131831", 
+      "displayOrder": 1, 
+      "fc": "John `Warwick' Smith", 
+      "gender": "Male", 
+      "id": 508, 
+      "mda": "Smith, John `Warwick'", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund (Herbert Powell Bequest) 1967", 
+  "dateRange": {
+    "endYear": 1806, 
+    "startYear": 1806, 
+    "text": "1806"
+  }, 
+  "dateText": "1806", 
+  "depth": "", 
+  "dimensions": "support: 244 x 349 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "349", 
+  "id": 13505, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7314, 
+                "name": "Rome, St Peter's Basilica"
+              }, 
+              {
+                "id": 7315, 
+                "name": "Rome, Villa Mellini"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01018_8.jpg", 
+  "title": "St Peter\u2019s from the Villa Milleni near Rome", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-st-peters-from-the-villa-milleni-near-rome-t01018", 
+  "width": "244"
+}

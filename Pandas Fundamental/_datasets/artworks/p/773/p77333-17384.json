@@ -1,0 +1,112 @@
+{
+  "acno": "P77333", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Paula Rego", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Paula Rego", 
+      "gender": "Female", 
+      "id": 1823, 
+      "mda": "Rego, Paula", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1989", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "", 
+  "dimensions": "image: 710 x 1053 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1053", 
+  "id": 17384, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal / human"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat"
+              }, 
+              {
+                "id": 1003, 
+                "name": "monkey"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Paula Rego", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77333_8.jpg", 
+  "title": "Lessons", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rego-lessons-p77333", 
+  "width": "710"
+}

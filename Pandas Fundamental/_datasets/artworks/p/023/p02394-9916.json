@@ -1,0 +1,82 @@
+{
+  "acno": "P02394", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Henry Moore OM, CH", 
+  "catalogueGroup": {
+    "accessionRanges": "P02394-P02399", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65411, 
+    "shortTitle": "Seated Figures"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Henry Moore OM, CH", 
+      "gender": "Male", 
+      "id": 1659, 
+      "mda": "Moore, Henry, OM, CH", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1976", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 220 x 160 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Seated Figures", 
+  "height": "160", 
+  "id": 9916, 
+  "inscription": "date inscribed", 
+  "medium": null, 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Henry Moore Foundation; All rights reserved DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02394_8.jpg", 
+  "title": "Seated Figure I Line Drawing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-seated-figure-i-line-drawing-p02394", 
+  "width": "220"
+}

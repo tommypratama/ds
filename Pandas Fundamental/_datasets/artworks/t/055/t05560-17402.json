@@ -1,0 +1,108 @@
+{
+  "acno": "T05560", 
+  "acquisitionYear": 1989, 
+  "all_artists": "William Tucker", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "William Tucker", 
+      "gender": "Male", 
+      "id": 2073, 
+      "mda": "Tucker, William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the artist through the Contemporary Art Society 1989", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1972, 
+    "text": "1972-5"
+  }, 
+  "dateText": "1972\u20135", 
+  "depth": "3270", 
+  "dimensions": "object: 2130 x 3840 x 3270 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3840", 
+  "id": 17402, 
+  "inscription": null, 
+  "medium": "Board and steel", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5848, 
+                "name": "tunnel"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 William Tucker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05560_8.jpg", 
+  "title": "Tunnel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tucker-tunnel-t05560", 
+  "width": "2130"
+}

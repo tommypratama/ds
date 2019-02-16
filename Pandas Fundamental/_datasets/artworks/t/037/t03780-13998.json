@@ -1,0 +1,66 @@
+{
+  "acno": "T03780", 
+  "acquisitionYear": 1983, 
+  "all_artists": "George Stubbs", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1724, 
+      "date": "1724\u20131806", 
+      "displayOrder": 1, 
+      "fc": "George Stubbs", 
+      "gender": "Male", 
+      "id": 538, 
+      "mda": "Stubbs, George", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Transferred from the British Museum 1983", 
+  "dateRange": {
+    "endYear": 1788, 
+    "startYear": 1788, 
+    "text": "published 1788"
+  }, 
+  "dateText": "published 1788", 
+  "depth": "", 
+  "dimensions": "image: 92 x 115 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "115", 
+  "id": 13998, 
+  "inscription": null, 
+  "medium": "Engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 610, 
+                "name": "dog, foxhound"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03780_8.jpg", 
+  "title": "A Foxhound", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stubbs-a-foxhound-t03780", 
+  "width": "92"
+}

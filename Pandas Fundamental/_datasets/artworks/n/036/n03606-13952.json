@@ -1,0 +1,128 @@
+{
+  "acno": "N03606", 
+  "acquisitionYear": 1922, 
+  "all_artists": "William Strang", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1859, 
+      "date": "1859\u20131921", 
+      "displayOrder": 1, 
+      "fc": "William Strang", 
+      "gender": "Male", 
+      "id": 534, 
+      "mda": "Strang, William", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Strang 1922", 
+  "dateRange": {
+    "endYear": 1912, 
+    "startYear": 1912, 
+    "text": "1912"
+  }, 
+  "dateText": "1912", 
+  "depth": "", 
+  "dimensions": "support: 610 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 13952, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 196, 
+                "name": "Strang, William"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2465, 
+                "name": "moustache"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20116, 
+                "name": "self-portraits"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03606_8.jpg", 
+  "title": "Self-Portrait", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/strang-self-portrait-n03606", 
+  "width": "610"
+}

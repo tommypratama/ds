@@ -1,0 +1,142 @@
+{
+  "acno": "P78085", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Sam Taylor-Johnson OBE", 
+  "catalogueGroup": {
+    "accessionRanges": "P78078-P78088", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66069, 
+    "shortTitle": "Screen"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1967, 
+      "date": "born 1967", 
+      "displayOrder": 1, 
+      "fc": "Sam Taylor-Johnson OBE", 
+      "gender": "Female", 
+      "id": 2595, 
+      "mda": "Taylor-Johnson, OBE Sam", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1998", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "", 
+  "dimensions": "image: 750 x 883 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Screen", 
+  "height": "883", 
+  "id": 26122, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 647, 
+                "name": "isolation"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2594, 
+                "name": "looking down"
+              }, 
+              {
+                "id": 723, 
+                "name": "lying down"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Red Snow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/taylor-johnson-red-snow-p78085", 
+  "width": "750"
+}

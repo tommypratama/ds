@@ -1,0 +1,180 @@
+{
+  "acno": "N05718", 
+  "acquisitionYear": 1946, 
+  "all_artists": "John Piper", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131992", 
+      "displayOrder": 1, 
+      "fc": "John Piper", 
+      "gender": "Male", 
+      "id": 1774, 
+      "mda": "Piper, John", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by the War Artists Advisory Committee 1946", 
+  "dateRange": {
+    "endYear": 1940, 
+    "startYear": 1940, 
+    "text": "1940"
+  }, 
+  "dateText": "1940", 
+  "depth": "", 
+  "dimensions": "support: 762 x 635 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "635", 
+  "id": 11927, 
+  "inscription": null, 
+  "medium": "Oil paint and graphite on canvas on wood", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 10525, 
+      "name": "British War Art"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 312, 
+      "name": "Neo-Romanticism"
+    }
+  ], 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7234, 
+                "name": "Bristol"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5200, 
+                "name": "Bristol, St Mary Le Port"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3459, 
+                "name": "air raid"
+              }
+            ], 
+            "id": 37, 
+            "name": "military: World War II"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1164, 
+                "name": "bomb damage"
+              }, 
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1715, 
+                "name": "destruction"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05718_8.jpg", 
+  "title": "St Mary le Port, Bristol", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/piper-st-mary-le-port-bristol-n05718", 
+  "width": "762"
+}

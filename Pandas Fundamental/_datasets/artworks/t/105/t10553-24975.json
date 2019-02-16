@@ -1,0 +1,87 @@
+{
+  "acno": "T10553", 
+  "acquisitionYear": 1997, 
+  "all_artists": "British (?) School", 
+  "catalogueGroup": {
+    "accessionRanges": "T10548-T10554", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66040, 
+    "shortTitle": "Large Sketchbook Inscribed 'Eleanor'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "date": null, 
+      "displayOrder": 1, 
+      "fc": "British (?) School", 
+      "gender": null, 
+      "id": 2638, 
+      "mda": "British (?) School", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 188 x 333 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Large Sketchbook Inscribed 'Eleanor'", 
+  "height": "333", 
+  "id": 24975, 
+  "inscription": null, 
+  "medium": "Chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10553_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10553", 
+  "width": "188"
+}

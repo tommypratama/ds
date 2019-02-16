@@ -1,0 +1,126 @@
+{
+  "acno": "A01439", 
+  "acquisitionYear": 1888, 
+  "all_artists": "George Jones", 
+  "catalogueGroup": {
+    "accessionRanges": "A00219-A00701; A01189-A01741", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65241, 
+    "shortTitle": "Sketches of Figures, Costumes, etc."
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131869", 
+      "displayOrder": 1, 
+      "fc": "George Jones", 
+      "gender": "Male", 
+      "id": 300, 
+      "mda": "Jones, George", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1888", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
+  "id": 69569, 
+  "inscription": null, 
+  "medium": "Ink, watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4153, 
+                "name": "sack"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01439_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01439", 
+  "width": ""
+}

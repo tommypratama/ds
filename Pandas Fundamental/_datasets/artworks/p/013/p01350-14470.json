@@ -1,0 +1,122 @@
+{
+  "acno": "P01350", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Julian Trevelyan", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Julian Trevelyan", 
+      "gender": "Male", 
+      "id": 2065, 
+      "mda": "Trevelyan, Julian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Waddington Galleries through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 352 x 483 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "483", 
+  "id": 14470, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13742, 
+                "name": "Wallington"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2885, 
+                "name": "clocktower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4277, 
+                "name": "estate"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Julian Trevelyan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01350_8.jpg", 
+  "title": "Wallington, Clock Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-wallington-clock-tower-p01350", 
+  "width": "352"
+}

@@ -1,0 +1,138 @@
+{
+  "acno": "D16321", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D16321", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D163/D16321_E.jpg", 
+          "height": 337, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139833, 
+  "catalogueGroup": {
+    "accessionRanges": "D16157-D16326; D17158; D40952-D40954; D41410", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65829, 
+    "shortTitle": "St Peter's Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 114 x 189 mm", 
+  "finberg": "CLXXXVIII 89", 
+  "foreignTitle": null, 
+  "groupTitle": "St Peter's Sketchbook", 
+  "height": "189", 
+  "id": 43677, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 181, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3300, 
+                "name": "Rome, Colosseum"
+              }, 
+              {
+                "id": 13697, 
+                "name": "Rome, SS. Quattro Coronati"
+              }, 
+              {
+                "id": 8299, 
+                "name": "Rome, Temple of Minerva Medica"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16321_8.jpg", 
+  "title": "Two Views from near Piazza di San Giovanni in Laterano, Rome; with Santi Quattro Coronati and the Colosseum; and a Distant View of the Temple of Minerva Medica", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-views-from-near-piazza-di-san-giovanni-in-laterano-rome-with-santi-quattro-d16321", 
+  "width": "114"
+}

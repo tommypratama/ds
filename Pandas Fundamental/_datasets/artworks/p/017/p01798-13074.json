@@ -1,0 +1,70 @@
+{
+  "acno": "P01798", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Ludwig Sander", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1906, 
+      "date": "1906\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Ludwig Sander", 
+      "gender": "Male", 
+      "id": 1894, 
+      "mda": "Sander, Ludwig", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Museum of Modern Art, New York 1976", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "", 
+  "dimensions": "image: 410 x 464 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "464", 
+  "id": 13074, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Three Blues", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sander-three-blues-p01798", 
+  "width": "410"
+}

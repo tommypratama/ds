@@ -1,0 +1,86 @@
+{
+  "acno": "T01693", 
+  "acquisitionYear": 1972, 
+  "all_artists": "William Baziotes", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20131963", 
+      "displayOrder": 1, 
+      "fc": "William Baziotes", 
+      "gender": "Male", 
+      "id": 714, 
+      "mda": "Baziotes, William", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mr and Mrs Leonard S. Field 1972", 
+  "dateRange": {
+    "endYear": 1957, 
+    "startYear": 1957, 
+    "text": "1957"
+  }, 
+  "dateText": "1957", 
+  "depth": "", 
+  "dimensions": "support: 1219 x 1524 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1524", 
+  "id": 817, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 416, 
+      "name": "Abstract Expressionism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Mammoth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/baziotes-mammoth-t01693", 
+  "width": "1219"
+}

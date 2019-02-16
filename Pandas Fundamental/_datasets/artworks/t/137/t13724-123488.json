@@ -1,0 +1,130 @@
+{
+  "acno": "T13724", 
+  "acquisitionYear": 2013, 
+  "all_artists": "Seung-Taek Lee", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Seung-Taek Lee", 
+      "gender": "Male", 
+      "id": 16778, 
+      "mda": "Lee, Seung-Taek", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Asia-Pacific Acquisitions Committee 2013", 
+  "dateRange": {
+    "endYear": 1958, 
+    "startYear": 1958, 
+    "text": "1958"
+  }, 
+  "dateText": "1958", 
+  "depth": "100", 
+  "dimensions": "displayed: 740 x 1730 x 100 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1730", 
+  "id": 123488, 
+  "inscription": null, 
+  "medium": "40 stones, 2 wooden bars and cord", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7125, 
+                "name": "craftsman"
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12833, 
+                "name": "cultural identity"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1244, 
+                "name": "stick"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18164, 
+                "name": "suspension"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Godret Stone", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lee-godret-stone-t13724", 
+  "width": "740"
+}

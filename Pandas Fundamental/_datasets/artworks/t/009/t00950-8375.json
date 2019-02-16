@@ -1,0 +1,92 @@
+{
+  "acno": "T00950", 
+  "acquisitionYear": 1967, 
+  "all_artists": "Peter Lanyon", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1918, 
+      "date": "1918\u20131964", 
+      "displayOrder": 1, 
+      "fc": "Peter Lanyon", 
+      "gender": "Male", 
+      "id": 1467, 
+      "mda": "Lanyon, Peter", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1967", 
+  "dateRange": {
+    "endYear": 1951, 
+    "startYear": 1950, 
+    "text": "1950-1"
+  }, 
+  "dateText": "1950\u20131", 
+  "depth": "419", 
+  "dimensions": "object: 629 x 359 x 419 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "359", 
+  "id": 8375, 
+  "inscription": null, 
+  "medium": "Steel on wooden base", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Peter Lanyon", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00950_8.jpg", 
+  "title": "Porthleven Boats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lanyon-porthleven-boats-t00950", 
+  "width": "629"
+}

@@ -1,0 +1,98 @@
+{
+  "acno": "P11431", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Sam Taylor-Johnson OBE", 
+  "catalogueGroup": {
+    "accessionRanges": "P11422-P11436", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66018, 
+    "shortTitle": "Other Men's Flowers"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1967, 
+      "date": "born 1967", 
+      "displayOrder": 1, 
+      "fc": "Sam Taylor-Johnson OBE", 
+      "gender": "Female", 
+      "id": 2595, 
+      "mda": "Taylor-Johnson, OBE Sam", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Charles Booth-Clibborn in memory of Joshua Compston 1997", 
+  "dateRange": {
+    "endYear": 1994, 
+    "startYear": 1994, 
+    "text": "1994"
+  }, 
+  "dateText": "1994", 
+  "depth": "", 
+  "dimensions": "image: 470 x 612 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Other Men's Flowers", 
+  "height": "612", 
+  "id": 21856, 
+  "inscription": null, 
+  "medium": "Letterpress on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6555, 
+                "name": "body parts"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/taylor-johnson-no-title-p11431", 
+  "width": "470"
+}

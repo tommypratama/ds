@@ -1,0 +1,116 @@
+{
+  "acno": "T00910", 
+  "acquisitionYear": 1967, 
+  "all_artists": "David Bomberg", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131957", 
+      "displayOrder": 1, 
+      "fc": "David Bomberg", 
+      "gender": "Male", 
+      "id": 777, 
+      "mda": "Bomberg, David", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Rosemary Peto 1967", 
+  "dateRange": {
+    "endYear": 1947, 
+    "startYear": 1947, 
+    "text": "1947"
+  }, 
+  "dateText": "1947", 
+  "depth": "", 
+  "dimensions": "support: 870 x 1073 mm\r\nframe: 1041 x 1242 x 90 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1073", 
+  "id": 1239, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1736, 
+                "name": "Tregoff"
+              }, 
+              {
+                "id": 1735, 
+                "name": "Tregor"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1737, 
+                "name": "Trendrine"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00910_8.jpg", 
+  "title": "Tregor and Tregoff, Cornwall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bomberg-tregor-and-tregoff-cornwall-t00910", 
+  "width": "870"
+}

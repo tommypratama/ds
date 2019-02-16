@@ -1,0 +1,102 @@
+{
+  "acno": "T12086", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Bernard Leach", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131979", 
+      "displayOrder": 1, 
+      "fc": "Bernard Leach", 
+      "gender": "Male", 
+      "id": 1478, 
+      "mda": "Leach, Bernard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2005", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "c.1965"
+  }, 
+  "dateText": "c.1965", 
+  "depth": "310", 
+  "dimensions": "object: 45 x 310 x 310 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "310", 
+  "id": 88214, 
+  "inscription": null, 
+  "medium": "Reduced stoneware", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Bernard Leach", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12086_8.jpg", 
+  "title": "Standard Ware Cake Plate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leach-standard-ware-cake-plate-t12086", 
+  "width": "45"
+}

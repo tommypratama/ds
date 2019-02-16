@@ -1,0 +1,114 @@
+{
+  "acno": "T05707", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Fausto Pirandello", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1899, 
+      "date": "1899\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Fausto Pirandello", 
+      "gender": "Male", 
+      "id": 2254, 
+      "mda": "Pirandello, Fausto", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Pierluigi Pirandello, the artist's son 1989", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1948, 
+    "text": "c.1948"
+  }, 
+  "dateText": "c.1948", 
+  "depth": "33", 
+  "dimensions": "support: 650 x 880 x 33 mm\r\nframe: 868 x 950 x 80 mm", 
+  "foreignTitle": "Il risveglio", 
+  "groupTitle": null, 
+  "height": "880", 
+  "id": 18929, 
+  "inscription": null, 
+  "medium": "Oil paint on plywood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 16138, 
+      "name": "Scuola Romana"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 723, 
+                "name": "lying down"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping"
+              }, 
+              {
+                "id": 14856, 
+                "name": "yawning"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05707_8.jpg", 
+  "title": "Awakening", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pirandello-awakening-t05707", 
+  "width": "650"
+}

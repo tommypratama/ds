@@ -1,0 +1,80 @@
+{
+  "acno": "T05026", 
+  "acquisitionYear": 1987, 
+  "all_artists": "Mary Martin", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20131969", 
+      "displayOrder": 1, 
+      "fc": "Mary Martin", 
+      "gender": "Female", 
+      "id": 1586, 
+      "mda": "Martin, Mary", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the Friends of the Tate Gallery 1987", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1957, 
+    "text": "1957-c.66"
+  }, 
+  "dateText": "1957\u2013c.66", 
+  "depth": "148", 
+  "dimensions": "object: 764 x 1140 x 148 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1140", 
+  "id": 9351, 
+  "inscription": "date inscribed", 
+  "medium": "Wood, hardboard and plastic", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Mary Martin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05026_8.jpg", 
+  "title": "Black Relief", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-black-relief-t05026", 
+  "width": "764"
+}

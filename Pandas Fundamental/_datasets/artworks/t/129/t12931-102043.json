@@ -1,0 +1,70 @@
+{
+  "acno": "T12931", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Peter Peri", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1971, 
+      "date": "born 1971", 
+      "displayOrder": 1, 
+      "fc": "Peter Peri", 
+      "gender": "Male", 
+      "id": 10544, 
+      "mda": "Peri, Peter", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 2009", 
+  "dateRange": {
+    "endYear": 2008, 
+    "startYear": 2008, 
+    "text": "2008"
+  }, 
+  "dateText": "2008", 
+  "depth": "50", 
+  "dimensions": "support: 1902 x 1700 x 50 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1700", 
+  "id": 102043, 
+  "inscription": null, 
+  "medium": "Spray paint and marker pen on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Peter Peri", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12931_8.jpg", 
+  "title": "Woodcutter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/peri-woodcutter-t12931", 
+  "width": "1902"
+}

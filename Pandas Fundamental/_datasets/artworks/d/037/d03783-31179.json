@@ -1,0 +1,127 @@
+{
+  "acno": "D03783", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D03783", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D37/D03783_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03778-D03801; D40809-D40810", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65714, 
+    "shortTitle": "On the Cliffs Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1801, 
+    "startYear": 1799, 
+    "text": "c.1799-1801"
+  }, 
+  "dateText": "c.1799\u20131801", 
+  "depth": "", 
+  "dimensions": "support: 175 x 110 mm", 
+  "finberg": "LXIV 6", 
+  "foreignTitle": null, 
+  "groupTitle": "On the Cliffs Sketchbook", 
+  "height": "110", 
+  "id": 31179, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 13, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03783_8.jpg", 
+  "title": "View along the Coast with Buildings in Mid-Distance and Cliffs on the Horizon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-along-the-coast-with-buildings-in-mid-distance-and-cliffs-on-the-horizon-d03783", 
+  "width": "175"
+}

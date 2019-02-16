@@ -1,0 +1,80 @@
+{
+  "acno": "P04316", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Howard Hodgkin", 
+  "catalogueGroup": {
+    "accessionRanges": "P04016; P04038; P04053; P04076; P04115; P04125; P04166; P04248; P04256; P04315-P04316; P04334; P04378-P04380; P04419; P04635; P04752; P04938; P05138; P05155; P05248", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65328, 
+    "shortTitle": "The Institute of Contemporary Arts Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Howard Hodgkin", 
+      "gender": "Male", 
+      "id": 1295, 
+      "mda": "Hodgkin, Howard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1964, 
+    "text": "1964"
+  }, 
+  "dateText": "1964", 
+  "depth": "", 
+  "dimensions": "image: 508 x 768 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Institute of Contemporary Arts Portfolio", 
+  "height": "768", 
+  "id": 6554, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Howard Hodgkin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04316_8.jpg", 
+  "title": "Enter Laughing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkin-enter-laughing-p04316", 
+  "width": "508"
+}

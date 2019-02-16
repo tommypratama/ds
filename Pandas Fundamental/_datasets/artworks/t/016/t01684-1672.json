@@ -1,0 +1,92 @@
+{
+  "acno": "T01684", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Stephen Buckley", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1944, 
+      "date": "born 1944", 
+      "displayOrder": 1, 
+      "fc": "Stephen Buckley", 
+      "gender": "Male", 
+      "id": 828, 
+      "mda": "Buckley, Stephen", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1972", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "51", 
+  "dimensions": "support: 813 x 914 x 51 mm\r\npacked (in T/F): 987 x 1085 x 160 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "914", 
+  "id": 1672, 
+  "inscription": "date inscribed", 
+  "medium": "Acrylic paint and oil enamel paint on canvas and wood", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2872, 
+                "name": "Nice - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Stephen Buckley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01684_8.jpg", 
+  "title": "Nice", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/buckley-nice-t01684", 
+  "width": "813"
+}

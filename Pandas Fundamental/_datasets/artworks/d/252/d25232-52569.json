@@ -1,0 +1,112 @@
+{
+  "acno": "D25232", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151481, 
+  "catalogueGroup": {
+    "accessionRanges": "D17204; D25123; D25129; D25131; D25132; D25136; D25141; D25143; D25150; D25156; D25158; D25159; D25161; D25163; D25165; D25166; D25171; D25172; D25174; D25177; D25181; D25183; D25187; D25195; D25198; D25203; D25205; D25207; D25214; D25215; D25221;...", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163280, 
+    "shortTitle": "Studies for Published 'England and Wales' Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1835, 
+    "startYear": 1834, 
+    "text": "c.1834-5"
+  }, 
+  "dateText": "c.1834\u20135", 
+  "depth": "", 
+  "dimensions": "support: 306 x 487 mm", 
+  "finberg": "CCLXIII 110", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies for Published 'England and Wales' Subjects", 
+  "height": "487", 
+  "id": 52569, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25232_8.jpg", 
+  "title": "Harlech Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-harlech-castle-d25232", 
+  "width": "306"
+}

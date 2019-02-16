@@ -1,0 +1,115 @@
+{
+  "acno": "D35424", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D35402-D35417; D35419-D35421; D35423-D35425; D35427; D35429-D35431; D35433; D35435", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65978, 
+    "shortTitle": "Boulogne Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1845, 
+    "text": "c.1845"
+  }, 
+  "dateText": "c.1845", 
+  "depth": "", 
+  "dimensions": "support: 230 x 326 mm", 
+  "finberg": "CCCLVIII 18 v", 
+  "foreignTitle": null, 
+  "groupTitle": "Boulogne Sketchbook", 
+  "height": "326", 
+  "id": 62549, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 36, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35424_8.jpg", 
+  "title": "Boulogne from the North, with a Windmill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-boulogne-from-the-north-with-a-windmill-d35424", 
+  "width": "230"
+}

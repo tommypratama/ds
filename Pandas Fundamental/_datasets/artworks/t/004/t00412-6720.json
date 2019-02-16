@@ -1,0 +1,106 @@
+{
+  "acno": "T00412", 
+  "acquisitionYear": 1961, 
+  "all_artists": "John Hoskin", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131990", 
+      "displayOrder": 1, 
+      "fc": "John Hoskin", 
+      "gender": "Male", 
+      "id": 1311, 
+      "mda": "Hoskin, John", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1961", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "178", 
+  "dimensions": "object: 533 x 724 x 178 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "724", 
+  "id": 6720, 
+  "inscription": null, 
+  "medium": "Steel", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Standing Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hoskin-standing-figure-t00412", 
+  "width": "533"
+}

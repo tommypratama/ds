@@ -1,0 +1,164 @@
+{
+  "acno": "P06022", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Edward Bawden", 
+  "catalogueGroup": {
+    "accessionRanges": "P06019-P06024", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65207, 
+    "shortTitle": "Six London Markets"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131989", 
+      "displayOrder": 1, 
+      "fc": "Edward Bawden", 
+      "gender": "Male", 
+      "id": 707, 
+      "mda": "Bawden, Edward", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "", 
+  "dimensions": "image: 460 x 612 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Six London Markets", 
+  "height": "612", 
+  "id": 785, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1168, 
+                "name": "Covent Garden, Market"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade"
+              }, 
+              {
+                "id": 3568, 
+                "name": "ceiling"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1166, 
+                "name": "market"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Covent Garden Fruit Market", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bawden-covent-garden-fruit-market-p06022", 
+  "width": "460"
+}

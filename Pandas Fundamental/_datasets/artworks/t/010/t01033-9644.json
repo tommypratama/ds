@@ -1,0 +1,70 @@
+{
+  "acno": "T01033", 
+  "acquisitionYear": 1968, 
+  "all_artists": "Jeremy Moon", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Jeremy Moon", 
+      "gender": "Male", 
+      "id": 1656, 
+      "mda": "Moon, Jeremy", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1968", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "32", 
+  "dimensions": "support: 2168 x 2512 x 32 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2512", 
+  "id": 9644, 
+  "inscription": "date inscribed", 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Jeremy Moon", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01033_8.jpg", 
+  "title": "Blue Rose", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moon-blue-rose-t01033", 
+  "width": "2168"
+}

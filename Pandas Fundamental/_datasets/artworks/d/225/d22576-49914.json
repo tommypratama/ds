@@ -1,0 +1,94 @@
+{
+  "acno": "D22576", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22576", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D225/D22576_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 352
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150000, 
+  "catalogueGroup": {
+    "accessionRanges": "D22557-D22576; D41058-D41059", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65873, 
+    "shortTitle": "Colnaghi's Account Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1830, 
+    "startYear": 1829, 
+    "text": "c.1829-30"
+  }, 
+  "dateText": "c.1829\u201330", 
+  "depth": "", 
+  "dimensions": "support: 129 x 75 mm", 
+  "finberg": "CCXLII 16 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Colnaghi's Account Sketchbook", 
+  "height": "75", 
+  "id": 49914, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 36, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22576_8.jpg", 
+  "title": "Studies of Sailing Boats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-sailing-boats-d22576", 
+  "width": "129"
+}

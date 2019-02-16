@@ -1,0 +1,129 @@
+{
+  "acno": "D34684", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1826, 
+    "startYear": 1826, 
+    "text": "1826"
+  }, 
+  "dateText": "1826", 
+  "depth": "", 
+  "dimensions": "support: 130 x 174 mm", 
+  "finberg": "CCCXLIV 246", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "174", 
+  "id": 61847, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8792, 
+                "name": "Tours, Pont de Tours"
+              }, 
+              {
+                "id": 8793, 
+                "name": "Tours, Tour de Guise"
+              }, 
+              {
+                "id": 8789, 
+                "name": "Tours, Tours Cathedral"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower"
+              }, 
+              {
+                "id": 535, 
+                "name": "urn"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34684_8.jpg", 
+  "title": "Tours from the Northern End of the Pont de Tours, with the Cathedral and Tour de Guise beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-tours-from-the-northern-end-of-the-pont-de-tours-with-the-cathedral-and-tour-de-d34684", 
+  "width": "130"
+}

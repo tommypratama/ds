@@ -1,0 +1,96 @@
+{
+  "acno": "N02270", 
+  "acquisitionYear": 1908, 
+  "all_artists": "Alfred Stevens", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1817, 
+      "date": "1817\u20131875", 
+      "displayOrder": 1, 
+      "fc": "Alfred Stevens", 
+      "gender": "Male", 
+      "id": 525, 
+      "mda": "Stevens, Alfred", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Sir Herbert Cook Bt in memory of Sir James Knowles KCVO 1908", 
+  "dateRange": {
+    "endYear": 1863, 
+    "startYear": 1863, 
+    "text": "c.1863"
+  }, 
+  "dateText": "c.1863", 
+  "depth": "432", 
+  "dimensions": "object: 603 x 292 x 432 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "292", 
+  "id": 13856, 
+  "inscription": null, 
+  "medium": "Cast material", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8031, 
+                "name": "falsehood - fighting figure"
+              }, 
+              {
+                "id": 8030, 
+                "name": "truth - fighting figure"
+              }
+            ], 
+            "id": 1030, 
+            "name": "abstract concepts"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 545, 
+                "name": "fighting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Truth and Falsehood: Study for the Wellington Monument, St Paul\u2019s", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stevens-truth-and-falsehood-study-for-the-wellington-monument-st-pauls-n02270", 
+  "width": "603"
+}

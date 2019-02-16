@@ -1,0 +1,110 @@
+{
+  "acno": "T05871", 
+  "acquisitionYear": 1991, 
+  "all_artists": "William Scott", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131989", 
+      "displayOrder": 1, 
+      "fc": "William Scott", 
+      "gender": "Male", 
+      "id": 1916, 
+      "mda": "Scott, William", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Robert and James Scott, the artist's sons 1991", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1978, 
+    "text": "1978"
+  }, 
+  "dateText": "1978", 
+  "depth": "", 
+  "dimensions": "support: 1676 x 1726 mm\r\nframe: 1718 x 1771 x 55 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1726", 
+  "id": 19436, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6721, 
+                "name": "frying pan"
+              }, 
+              {
+                "id": 6720, 
+                "name": "saucepan"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of William Scott", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05871_8.jpg", 
+  "title": "Permutations Ochre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-permutations-ochre-t05871", 
+  "width": "1676"
+}

@@ -1,0 +1,128 @@
+{
+  "acno": "P06800", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Garrick Palmer", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Garrick Palmer", 
+      "gender": "Male", 
+      "id": 1735, 
+      "mda": "Palmer, Garrick", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1978", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "image: 349 x 521 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "521", 
+  "id": 11037, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9199, 
+                "name": "River Kennet"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8747, 
+                "name": "lock"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Garrick Palmer", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06800_8.jpg", 
+  "title": "Kennet Lock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/palmer-kennet-lock-p06800", 
+  "width": "349"
+}

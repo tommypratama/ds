@@ -1,0 +1,86 @@
+{
+  "acno": "P77049", 
+  "acquisitionYear": 1984, 
+  "all_artists": "Howard Hodgkin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Howard Hodgkin", 
+      "gender": "Male", 
+      "id": 1295, 
+      "mda": "Hodgkin, Howard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1984", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "", 
+  "dimensions": "image: 262 x 312 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "312", 
+  "id": 6584, 
+  "inscription": "date inscribed", 
+  "medium": "Gouache and lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16382, 
+                "name": "hangover"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Howard Hodgkin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77049_8.jpg", 
+  "title": "Red Eye", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkin-red-eye-p77049", 
+  "width": "262"
+}

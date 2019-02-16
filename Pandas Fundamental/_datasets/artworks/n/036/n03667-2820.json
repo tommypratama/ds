@@ -1,0 +1,132 @@
+{
+  "acno": "N03667", 
+  "acquisitionYear": 1922, 
+  "all_artists": "John Sell Cotman", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Sell Cotman", 
+      "gender": "Male", 
+      "id": 116, 
+      "mda": "Cotman, John Sell", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1922", 
+  "dateRange": {
+    "endYear": 1804, 
+    "startYear": 1804, 
+    "text": "c.1804"
+  }, 
+  "dateText": "c.1804", 
+  "depth": "", 
+  "dimensions": "support: 216 x 159 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "159", 
+  "id": 2820, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 362, 
+      "name": "Norwich School"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2870, 
+                "name": "Crowland, Crowland Abbey"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2871, 
+                "name": "Lincolnshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03667_8.jpg", 
+  "title": "Crowland Abbey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-crowland-abbey-n03667", 
+  "width": "216"
+}

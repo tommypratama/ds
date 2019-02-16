@@ -1,0 +1,112 @@
+{
+  "acno": "P05006", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Edward Piper", 
+  "catalogueGroup": {
+    "accessionRanges": "P05006-P05011", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65483, 
+    "shortTitle": "Nudes"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "1938\u20131990", 
+      "displayOrder": 1, 
+      "fc": "Edward Piper", 
+      "gender": "Male", 
+      "id": 1773, 
+      "mda": "Piper, Edward", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 710 x 551 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Nudes", 
+  "height": "551", 
+  "id": 11917, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/piper-1-p05006", 
+  "width": "710"
+}

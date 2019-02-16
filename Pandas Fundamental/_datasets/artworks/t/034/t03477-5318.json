@@ -1,0 +1,120 @@
+{
+  "acno": "T03477", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Eric Gill", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Eric Gill", 
+      "gender": "Male", 
+      "id": 1168, 
+      "mda": "Gill, Eric", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1911, 
+    "startYear": 1911, 
+    "text": "1910-1"
+  }, 
+  "dateText": "1910\u20131", 
+  "depth": "228", 
+  "dimensions": "object: 1372 x 457 x 228 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "457", 
+  "id": 5318, 
+  "inscription": null, 
+  "medium": "Hoptonwood stone", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 303, 
+      "name": "Direct Carving"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 544, 
+                "name": "embracing"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }, 
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3050, 
+                "name": "sex"
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03477_8.jpg", 
+  "title": "Ecstasy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gill-ecstasy-t03477", 
+  "width": "1372"
+}

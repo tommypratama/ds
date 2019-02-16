@@ -1,0 +1,110 @@
+{
+  "acno": "D00268", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00268", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D02/D00268_E.jpg", 
+          "height": 355, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140660, 
+  "catalogueGroup": {
+    "accessionRanges": "D00260-D00326; D40753-D40754", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65684, 
+    "shortTitle": "Marford Mill Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1794, 
+    "startYear": 1794, 
+    "text": "c.1794"
+  }, 
+  "dateText": "c.1794", 
+  "depth": "", 
+  "dimensions": "support: 99 x 152 mm", 
+  "finberg": "XX 7", 
+  "foreignTitle": null, 
+  "groupTitle": "Marford Mill Sketchbook", 
+  "height": "152", 
+  "id": 27684, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 15, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00268_8.jpg", 
+  "title": "A Horse and Cart seen from the Front", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-horse-and-cart-seen-from-the-front-d00268", 
+  "width": "99"
+}

@@ -1,0 +1,197 @@
+{
+  "acno": "T03997", 
+  "acquisitionYear": 1985, 
+  "all_artists": "John Constable, David Lucas", 
+  "catalogueGroup": {
+    "accessionRanges": "T03983-T04063; T06474; T06502-T06504; T06751-T06754", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65231, 
+    "shortTitle": "Various Subjects of Landscape, Characteristic of English Scenery ('English Landscape')"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }, 
+    {
+      "birthYear": 1802, 
+      "date": "1802\u20131881", 
+      "displayOrder": 2, 
+      "fc": "David Lucas", 
+      "gender": "Male", 
+      "id": 2708, 
+      "mda": "Lucas, David", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1985", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 144 x 222 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Various Subjects of Landscape, Characteristic of English Scenery ('English Landscape')", 
+  "height": "222", 
+  "id": 2658, 
+  "inscription": null, 
+  "medium": "Mezzotint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1265, 
+                "name": "River Stour"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2357, 
+                "name": "Suffolk"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03997_8.jpg", 
+  "title": "River Stour, Suffolk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-lucas-river-stour-suffolk-t03997", 
+  "width": "144"
+}

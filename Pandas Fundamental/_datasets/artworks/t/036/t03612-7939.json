@@ -1,0 +1,92 @@
+{
+  "acno": "T03612", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Ken Kiff", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "1935\u20132001", 
+      "displayOrder": 1, 
+      "fc": "Ken Kiff", 
+      "gender": "Male", 
+      "id": 1407, 
+      "mda": "Kiff, Ken", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1965, 
+    "text": "1965-71"
+  }, 
+  "dateText": "1965\u201371", 
+  "depth": "", 
+  "dimensions": "support: 610 x 610 mm\r\nframe: 670 x 670 x 58 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "610", 
+  "id": 7939, 
+  "inscription": null, 
+  "medium": "Tempera on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 744, 
+                "name": "picture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4278, 
+                "name": "scissors"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Person Cutting an Image", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kiff-person-cutting-an-image-t03612", 
+  "width": "610"
+}

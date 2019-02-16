@@ -1,0 +1,96 @@
+{
+  "acno": "T03070", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Stephen Buckley", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1944, 
+      "date": "born 1944", 
+      "displayOrder": 1, 
+      "fc": "Stephen Buckley", 
+      "gender": "Male", 
+      "id": 828, 
+      "mda": "Buckley, Stephen", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "object: 2007 x 1981 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1981", 
+  "id": 1675, 
+  "inscription": null, 
+  "medium": "Oil paint on wood, canvas and hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Stephen Buckley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03070_8.jpg", 
+  "title": "Java", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/buckley-java-t03070", 
+  "width": "2007"
+}

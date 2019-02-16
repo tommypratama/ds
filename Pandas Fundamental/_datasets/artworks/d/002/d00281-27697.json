@@ -1,0 +1,104 @@
+{
+  "acno": "D00281", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00281", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D02/D00281_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 341
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140674, 
+  "catalogueGroup": {
+    "accessionRanges": "D00260-D00326; D40753-D40754", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65684, 
+    "shortTitle": "Marford Mill Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1794, 
+    "startYear": 1794, 
+    "text": "1794"
+  }, 
+  "dateText": "1794", 
+  "depth": "", 
+  "dimensions": "support: 152 x 99 mm", 
+  "finberg": "XX 17 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Marford Mill Sketchbook", 
+  "height": "99", 
+  "id": 27697, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 36, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00281_8.jpg", 
+  "title": "A Seated Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-seated-figure-d00281", 
+  "width": "152"
+}

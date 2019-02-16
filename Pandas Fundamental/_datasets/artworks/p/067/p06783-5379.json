@@ -1,0 +1,99 @@
+{
+  "acno": "P06783", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Ronald Glendenning", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "date": null, 
+      "displayOrder": 1, 
+      "fc": "Ronald Glendenning", 
+      "gender": "Male", 
+      "id": 1180, 
+      "mda": "Glendenning, Ronald", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1978", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1978, 
+    "text": "1978"
+  }, 
+  "dateText": "1978", 
+  "depth": "", 
+  "dimensions": "image: 435 x 533 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "533", 
+  "id": 5379, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1561, 
+                "name": "farm"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/glendenning-landscape-p06783", 
+  "width": "435"
+}

@@ -1,0 +1,136 @@
+{
+  "acno": "T00010", 
+  "acquisitionYear": 1955, 
+  "all_artists": "Nicolas Ghika", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1906, 
+      "date": "1906\u20131994", 
+      "displayOrder": 1, 
+      "fc": "Nicolas Ghika", 
+      "gender": "Male", 
+      "id": 1158, 
+      "mda": "Ghika, Nicolas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by a number of the artist's friends through the Contemporary Art Society 1955", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "1953"
+  }, 
+  "dateText": "1953", 
+  "depth": "", 
+  "dimensions": "support: 413 x 330 mm", 
+  "foreignTitle": "Petite Composition en gris", 
+  "groupTitle": null, 
+  "height": "330", 
+  "id": 5139, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4681, 
+                "name": "Paris, Boulevard St Jacques"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1162, 
+                "name": "flat"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4680, 
+                "name": "ironwork"
+              }, 
+              {
+                "id": 3123, 
+                "name": "roof"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Small Composition in Grey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ghika-small-composition-in-grey-t00010", 
+  "width": "413"
+}

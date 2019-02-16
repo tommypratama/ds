@@ -1,0 +1,80 @@
+{
+  "acno": "P07202", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Ben Nicholson OM", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1894, 
+      "date": "1894\u20131982", 
+      "displayOrder": 1, 
+      "fc": "Ben Nicholson OM", 
+      "gender": "Male", 
+      "id": 1702, 
+      "mda": "Nicholson, Ben, OM", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Purchased 1976", 
+  "dateRange": {
+    "endYear": 1934, 
+    "startYear": 1934, 
+    "text": "1934"
+  }, 
+  "dateText": "1934", 
+  "depth": "", 
+  "dimensions": "image: 159 x 203 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "203", 
+  "id": 10674, 
+  "inscription": null, 
+  "medium": "Woodcut on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 321, 
+      "name": "Unit One"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Angela Verren Taunt 2014. All rights reserved, DACS", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07202_8.jpg", 
+  "title": "abstract", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-abstract-p07202", 
+  "width": "159"
+}

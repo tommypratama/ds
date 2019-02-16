@@ -1,0 +1,92 @@
+{
+  "acno": "T01697", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Larry Bell", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "Larry Bell", 
+      "gender": "Male", 
+      "id": 727, 
+      "mda": "Bell, Larry", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1972", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "362", 
+  "dimensions": "object: 362 x 362 x 362 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "362", 
+  "id": 889, 
+  "inscription": null, 
+  "medium": "Metal and glass", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1078, 
+                "name": "mirror"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Larry Bell", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01697_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bell-untitled-t01697", 
+  "width": "362"
+}

@@ -1,0 +1,109 @@
+{
+  "acno": "D01988", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D01988", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D19/D01988_E.jpg", 
+          "height": 378, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D01912-D01991; D41266-D41274", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65698, 
+    "shortTitle": "Lancashire and North Wales Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1799, 
+    "startYear": 1799, 
+    "text": "1799"
+  }, 
+  "dateText": "1799", 
+  "depth": "", 
+  "dimensions": "support: 330 x 228 mm", 
+  "finberg": "XLV 48", 
+  "foreignTitle": null, 
+  "groupTitle": "Lancashire and North Wales Sketchbook", 
+  "height": "228", 
+  "id": 29392, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 101, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01988_8.jpg", 
+  "title": "A Leafless Tree near a Cottage in a Wood", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-leafless-tree-near-a-cottage-in-a-wood-d01988", 
+  "width": "330"
+}

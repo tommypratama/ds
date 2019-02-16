@@ -1,0 +1,76 @@
+{
+  "acno": "T04892", 
+  "acquisitionYear": 1987, 
+  "all_artists": "Bryan Kneale", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Bryan Kneale", 
+      "gender": "Male", 
+      "id": 1422, 
+      "mda": "Kneale, Bryan", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Sir Richard (later Lord) Attenborough 1987", 
+  "dateRange": {
+    "endYear": 1985, 
+    "startYear": 1985, 
+    "text": "1985"
+  }, 
+  "dateText": "1985", 
+  "depth": "", 
+  "dimensions": "support: 1831 x 913 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "913", 
+  "id": 8149, 
+  "inscription": null, 
+  "medium": "Chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4389, 
+                "name": "skeleton"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bryan Kneale", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04892_8.jpg", 
+  "title": "Horse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kneale-horse-t04892", 
+  "width": "1831"
+}

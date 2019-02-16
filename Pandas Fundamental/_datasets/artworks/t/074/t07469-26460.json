@@ -1,0 +1,138 @@
+{
+  "acno": "T07469", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Simon Du Bois", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1632, 
+      "date": "1632\u20131708", 
+      "displayOrder": 1, 
+      "fc": "Simon Du Bois", 
+      "gender": "Male", 
+      "id": 2679, 
+      "mda": "Du Bois, Simon", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the Patrons of British Art through the Tate Gallery Foundation 1998", 
+  "dateRange": {
+    "endYear": 1683, 
+    "startYear": 1683, 
+    "text": "1683"
+  }, 
+  "dateText": "1683", 
+  "depth": "19", 
+  "dimensions": "support: 769 x 642 x 19 mm\r\nframe: 947 x 822 x 65 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "642", 
+  "id": 26460, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12762, 
+                "name": "Parsons, Arthur"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4059, 
+                "name": "hair"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2828, 
+                "name": "doctor"
+              }
+            ], 
+            "id": 127, 
+            "name": "medical"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7842, 
+                "name": "lace"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07469_8.jpg", 
+  "title": "Portrait of a Gentleman, probably Arthur Parsons MD", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/du-bois-portrait-of-a-gentleman-probably-arthur-parsons-md-t07469", 
+  "width": "769"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "T05874", 
+  "acquisitionYear": 1991, 
+  "all_artists": "Peter Startup", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131976", 
+      "displayOrder": 1, 
+      "fc": "Peter Startup", 
+      "gender": "Male", 
+      "id": 1986, 
+      "mda": "Startup, Peter", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Gytha Trust 1991", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "530", 
+  "dimensions": "object: 2250 x 1140 x 530 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1140", 
+  "id": 19450, 
+  "inscription": null, 
+  "medium": "Wood and lead", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6919, 
+                "name": "fragmentation"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Peter Startup", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05874_8.jpg", 
+  "title": "Separation", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/startup-separation-t05874", 
+  "width": "2250"
+}

@@ -1,0 +1,116 @@
+{
+  "acno": "N04090", 
+  "acquisitionYear": 1925, 
+  "all_artists": "John S. Currie", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1884, 
+      "date": "c.1884\u20131914", 
+      "displayOrder": 1, 
+      "fc": "John S. Currie", 
+      "gender": "Male", 
+      "id": 968, 
+      "mda": "Currie, John S.", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Mr and Mrs Julian Lousada through the Art Fund 1925", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "1913"
+  }, 
+  "dateText": "1913", 
+  "depth": "", 
+  "dimensions": "support: 454 x 349 mm\r\nframe: 684 x 585 x 52 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "349", 
+  "id": 2971, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12475, 
+                "name": "Mary"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1380, 
+                "name": "earring"
+              }, 
+              {
+                "id": 2217, 
+                "name": "necklace"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04090_8.jpg", 
+  "title": "Head of a Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/currie-head-of-a-woman-n04090", 
+  "width": "454"
+}

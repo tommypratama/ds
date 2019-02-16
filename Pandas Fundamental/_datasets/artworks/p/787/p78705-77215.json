@@ -1,0 +1,92 @@
+{
+  "acno": "P78705", 
+  "acquisitionYear": 2003, 
+  "all_artists": "Richard Hamilton", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Richard Hamilton", 
+      "gender": "Male", 
+      "id": 1244, 
+      "mda": "Hamilton, Richard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 2003", 
+  "dateRange": {
+    "endYear": 2002, 
+    "startYear": 2002, 
+    "text": "2002"
+  }, 
+  "dateText": "2002", 
+  "depth": "", 
+  "dimensions": "support: 890 x 670 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "670", 
+  "id": 77215, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Hamilton 2014. All rights reserved, DACS", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78705_8.jpg", 
+  "title": "TiT", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-tit-p78705", 
+  "width": "890"
+}

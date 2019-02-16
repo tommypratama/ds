@@ -1,0 +1,94 @@
+{
+  "acno": "T00685", 
+  "acquisitionYear": 1964, 
+  "all_artists": "Frederick Sandys", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1829, 
+      "date": "1829\u20131904", 
+      "displayOrder": 1, 
+      "fc": "Frederick Sandys", 
+      "gender": "Male", 
+      "id": 473, 
+      "mda": "Sandys, Frederick", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1964", 
+  "dateRange": {
+    "endYear": 1855, 
+    "startYear": 1855, 
+    "text": "?c.1855"
+  }, 
+  "dateText": "?c.1855", 
+  "depth": "", 
+  "dimensions": "support: 311 x 521 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "521", 
+  "id": 13101, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 755, 
+                "name": "grass"
+              }, 
+              {
+                "id": 2369, 
+                "name": "plant"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2334, 
+                "name": "root"
+              }, 
+              {
+                "id": 2331, 
+                "name": "trunk"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00685_8.jpg", 
+  "title": "Study of Trees and Undergrowth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sandys-study-of-trees-and-undergrowth-t00685", 
+  "width": "311"
+}

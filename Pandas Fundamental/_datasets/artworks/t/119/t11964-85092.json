@@ -1,0 +1,102 @@
+{
+  "acno": "T11964", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Thomas Kerrich", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1748, 
+      "date": "1748\u20131828", 
+      "displayOrder": 1, 
+      "fc": "Thomas Kerrich", 
+      "gender": "Male", 
+      "id": 7945, 
+      "mda": "Kerrich, Thomas", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Angus Neill in memory of Leslie Parris 2005", 
+  "dateRange": {
+    "endYear": 1795, 
+    "startYear": 1795, 
+    "text": "c.1795"
+  }, 
+  "dateText": "c.1795", 
+  "depth": "", 
+  "dimensions": "support: 226 x 286 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "286", 
+  "id": 85092, 
+  "inscription": null, 
+  "medium": "Chalk and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17242, 
+                "name": "sand dune"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11964_8.jpg", 
+  "title": "Cloudy Sky over Sand Dunes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kerrich-cloudy-sky-over-sand-dunes-t11964", 
+  "width": "226"
+}

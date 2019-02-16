@@ -1,0 +1,102 @@
+{
+  "acno": "T01261", 
+  "acquisitionYear": 1970, 
+  "all_artists": "E.L.T. Mesens", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131971", 
+      "displayOrder": 1, 
+      "fc": "E.L.T. Mesens", 
+      "gender": "Male", 
+      "id": 1624, 
+      "mda": "Mesens, E.L.T.", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "support: 251 x 327 mm\r\nframe: 482 x 664 x 32 mm", 
+  "foreignTitle": "Mouvement immobile II", 
+  "groupTitle": null, 
+  "height": "327", 
+  "id": 9455, 
+  "inscription": "date inscribed", 
+  "medium": "Acrylic paint and paper on board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1688, 
+      "name": "British Surrealism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2438, 
+                "name": "pun"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01261_8.jpg", 
+  "title": "Mouvement Immobile II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mesens-mouvement-immobile-ii-t01261", 
+  "width": "251"
+}

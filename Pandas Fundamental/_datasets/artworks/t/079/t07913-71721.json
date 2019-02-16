@@ -1,0 +1,82 @@
+{
+  "acno": "T07913", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Michael Finn", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20132002", 
+      "displayOrder": 1, 
+      "fc": "Michael Finn", 
+      "gender": "Male", 
+      "id": 4817, 
+      "mda": "Finn, Michael", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by the artist's family 2002", 
+  "dateRange": {
+    "endYear": 1989, 
+    "startYear": 1989, 
+    "text": "c.1989"
+  }, 
+  "dateText": "c.1989", 
+  "depth": "20", 
+  "dimensions": "support: 1830 x 2440 x 20 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2440", 
+  "id": 71721, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3672, 
+                "name": "spirituality"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Michael Finn", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07913_8.jpg", 
+  "title": "Red Painting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/finn-red-painting-t07913", 
+  "width": "1830"
+}

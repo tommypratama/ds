@@ -1,0 +1,138 @@
+{
+  "acno": "N04612", 
+  "acquisitionYear": 1931, 
+  "all_artists": "Edouard Vuillard", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Edouard Vuillard", 
+      "gender": "Male", 
+      "id": 2112, 
+      "mda": "Vuillard, Edouard", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased 1931", 
+  "dateRange": {
+    "endYear": 1900, 
+    "startYear": 1900, 
+    "text": "1900"
+  }, 
+  "dateText": "1900", 
+  "depth": "", 
+  "dimensions": "support: 508 x 416 mm", 
+  "foreignTitle": "Paysage - Maison \u00e0 gauche", 
+  "groupTitle": null, 
+  "height": "416", 
+  "id": 15770, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 12691, 
+      "name": "Intimism"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6090, 
+                "name": "L'\u00c9tang-La-Ville, La Coulette"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04612_8.jpg", 
+  "title": "Landscape - House on the Left", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vuillard-landscape-house-on-the-left-n04612", 
+  "width": "508"
+}

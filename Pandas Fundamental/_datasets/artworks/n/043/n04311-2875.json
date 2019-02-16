@@ -1,0 +1,112 @@
+{
+  "acno": "N04311", 
+  "acquisitionYear": 1927, 
+  "all_artists": "David Cox", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1783, 
+      "date": "1783\u20131859", 
+      "displayOrder": 1, 
+      "fc": "David Cox", 
+      "gender": "Male", 
+      "id": 117, 
+      "mda": "Cox, David", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 330 x 530 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "530", 
+  "id": 2875, 
+  "inscription": null, 
+  "medium": "Crayon and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14379, 
+                "name": "salmon trap"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04311_8.jpg", 
+  "title": "Landscape with Salmon Traps", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cox-landscape-with-salmon-traps-n04311", 
+  "width": "330"
+}

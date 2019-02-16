@@ -1,0 +1,113 @@
+{
+  "acno": "D04608", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149842, 
+  "catalogueGroup": {
+    "accessionRanges": "D04590-D04643; D04645-D04648; D41390-D41391", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65724, 
+    "shortTitle": "St Gothard and Mont Blanc Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 320 x 475 mm", 
+  "finberg": "LXXV 16", 
+  "foreignTitle": null, 
+  "groupTitle": "St Gothard and Mont Blanc Sketchbook", 
+  "height": "475", 
+  "id": 32001, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 5977, 
+                "name": "Mont Blanc"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04608_8.jpg", 
+  "title": "Near Bonneville, Looking towards Mont Blanc", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-near-bonneville-looking-towards-mont-blanc-d04608", 
+  "width": "320"
+}

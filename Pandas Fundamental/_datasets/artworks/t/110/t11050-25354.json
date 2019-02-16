@@ -1,0 +1,88 @@
+{
+  "acno": "T11050", 
+  "acquisitionYear": 1997, 
+  "all_artists": "after Thomas Gainsborough", 
+  "catalogueGroup": {
+    "accessionRanges": "T11015-T11074", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66044, 
+    "shortTitle": "English Scenery"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1727, 
+      "date": "1727\u20131788", 
+      "displayOrder": 1, 
+      "fc": "Thomas Gainsborough", 
+      "gender": "Male", 
+      "id": 199, 
+      "mda": "Gainsborough, Thomas", 
+      "role": "after", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "image: 188 x 259 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "English Scenery", 
+  "height": "259", 
+  "id": 25354, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11050_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-title-not-known-t11050", 
+  "width": "188"
+}

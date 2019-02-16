@@ -1,0 +1,93 @@
+{
+  "acno": "D40639", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D40639", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D406/D40639_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 399
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03277-D03379; D40639", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65708, 
+    "shortTitle": "Tummel Bridge Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1801, 
+    "startYear": 1801, 
+    "text": "1801"
+  }, 
+  "dateText": "1801", 
+  "depth": "", 
+  "dimensions": "support: 150 x 109 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Tummel Bridge Sketchbook", 
+  "height": "109", 
+  "id": 64388, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 2, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40639_8.jpg", 
+  "title": "A Tree", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-tree-d40639", 
+  "width": "150"
+}

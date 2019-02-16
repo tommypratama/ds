@@ -1,0 +1,76 @@
+{
+  "acno": "T12110", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Katherine Pleydell-Bouverie", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1895, 
+      "date": "1895\u20131985", 
+      "displayOrder": 1, 
+      "fc": "Katherine Pleydell-Bouverie", 
+      "gender": "Female", 
+      "id": 8802, 
+      "mda": "Pleydell-Bouverie, Katherine", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2005", 
+  "dateRange": {
+    "endYear": 1927, 
+    "startYear": 1927, 
+    "text": "1927"
+  }, 
+  "dateText": "1927", 
+  "depth": "80", 
+  "dimensions": "object: 150 x 80 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "80", 
+  "id": 88239, 
+  "inscription": null, 
+  "medium": "Reduced stoneware", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Small Bottle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pleydell-bouverie-small-bottle-t12110", 
+  "width": "150"
+}

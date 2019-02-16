@@ -1,0 +1,76 @@
+{
+  "acno": "T11858", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Ren\u00e9 Dani\u00ebls", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1950, 
+      "date": "born 1950", 
+      "displayOrder": 1, 
+      "fc": "Ren\u00e9 Dani\u00ebls", 
+      "gender": "Male", 
+      "id": 7349, 
+      "mda": "Dani\u00ebls, Ren\u00e9", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by Ophiuchus SA 2004", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "45", 
+  "dimensions": "support: 1603 x 1901 x 45 mm", 
+  "foreignTitle": "Hollandse Nieuwe", 
+  "groupTitle": null, 
+  "height": "1901", 
+  "id": 82938, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9  DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11858_8.jpg", 
+  "title": "New Dutch Herring", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniels-new-dutch-herring-t11858", 
+  "width": "1603"
+}

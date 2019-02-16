@@ -1,0 +1,104 @@
+{
+  "acno": "T12215", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Josef Albers", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1888, 
+      "date": "1888\u20131976", 
+      "displayOrder": 1, 
+      "fc": "Josef Albers", 
+      "gender": "Male", 
+      "id": 636, 
+      "mda": "Albers, Josef", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by The Josef and Anni Albers Foundation 2006", 
+  "dateRange": {
+    "endYear": 1951, 
+    "startYear": 1951, 
+    "text": "1951"
+  }, 
+  "dateText": "1951", 
+  "depth": "", 
+  "dimensions": "support: 534 x 532 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "532", 
+  "id": 87504, 
+  "inscription": null, 
+  "medium": "Oil paint on wood", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 294, 
+      "name": "Bauhaus"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Joseph and Annie Albers Foundation/VG Bild-Kunst, Bonn and DACS, London, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12215_8.jpg", 
+  "title": "Homage to the Square: Study for Nocturne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/albers-homage-to-the-square-study-for-nocturne-t12215", 
+  "width": "534"
+}

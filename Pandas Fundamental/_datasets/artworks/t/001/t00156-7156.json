@@ -1,0 +1,76 @@
+{
+  "acno": "T00156", 
+  "acquisitionYear": 1957, 
+  "all_artists": "Gwen John", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1876, 
+      "date": "1876\u20131939", 
+      "displayOrder": 1, 
+      "fc": "Gwen John", 
+      "gender": "Female", 
+      "id": 1363, 
+      "mda": "John, Gwen", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by Miss Mary Constance Lloyd 1957", 
+  "dateRange": {
+    "endYear": 1908, 
+    "startYear": 1904, 
+    "text": "c.1904-8"
+  }, 
+  "dateText": "c.1904\u20138", 
+  "depth": "", 
+  "dimensions": "support: 123 x 160 mm\r\nframe: 325 x 353 x 22 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "160", 
+  "id": 7156, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3521, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00156_8.jpg", 
+  "title": "Cat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/john-cat-t00156", 
+  "width": "123"
+}

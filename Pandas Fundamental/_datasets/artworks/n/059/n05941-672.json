@@ -1,0 +1,290 @@
+{
+  "acno": "N05941", 
+  "acquisitionYear": 1950, 
+  "all_artists": "Francis Bacon", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1909, 
+      "date": "1909\u20131992", 
+      "displayOrder": 1, 
+      "fc": "Francis Bacon", 
+      "gender": "Male", 
+      "id": 682, 
+      "mda": "Bacon, Francis", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1950", 
+  "dateRange": {
+    "endYear": 1945, 
+    "startYear": 1945, 
+    "text": "1945"
+  }, 
+  "dateText": "1945", 
+  "depth": "", 
+  "dimensions": "support: 1448 x 1283 mm\r\nframe: 1628 x 1464 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1283", 
+  "id": 672, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1666, 
+      "name": "School of London"
+    }
+  ], 
+  "subjectCount": 20, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 730, 
+                "name": "Hyde Park - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 748, 
+                "name": "Hall, Eric"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 757, 
+                "name": "mouth"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 758, 
+                "name": "anxiety"
+              }, 
+              {
+                "id": 759, 
+                "name": "pessimism"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3981, 
+                "name": "menace"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 751, 
+                "name": "microphone"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 755, 
+                "name": "grass"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2045, 
+                "name": "railing"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05941_8.jpg", 
+  "title": "Figure in a Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bacon-figure-in-a-landscape-n05941", 
+  "width": "1448"
+}

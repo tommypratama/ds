@@ -1,0 +1,118 @@
+{
+  "acno": "D33624", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D33624", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D336/D33624_E.jpg", 
+          "height": 408, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65961, 
+    "shortTitle": "Bellinzona, Sion, &c. Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1843, 
+    "startYear": 1842, 
+    "text": "c.1842-3"
+  }, 
+  "dateText": "c.1842\u20133", 
+  "depth": "", 
+  "dimensions": "support: 220 x 270 mm", 
+  "finberg": "CCCXXXVII 22", 
+  "foreignTitle": null, 
+  "groupTitle": "Bellinzona, Sion, &c. Sketchbook", 
+  "height": "270", 
+  "id": 60795, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33624_8.jpg", 
+  "title": "Sketches at Pallanza:  the Isolino San Giovanni and Isola Madre; the Harbour from the West, with the Clock-tower of San Leonardo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-at-pallanza-the-isolino-san-giovanni-and-isola-madre-the-harbour-from-the-d33624", 
+  "width": "220"
+}

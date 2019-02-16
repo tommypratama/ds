@@ -1,0 +1,127 @@
+{
+  "acno": "T00594", 
+  "acquisitionYear": 1963, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T00594_303196", 
+      "sizes": [
+        {
+          "caption": "Additional  view 1", 
+          "cleared": false, 
+          "file": "T/T00/T00594_303196_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 97
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": false, 
+          "file": "T/T00/T00594_303196_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 194
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": false, 
+          "file": "T/T00/T00594_303196_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 552
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": false, 
+          "file": "T/T00/T00594_303196_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1161
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Willi Soukop", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20131995", 
+      "displayOrder": 1, 
+      "fc": "Willi Soukop", 
+      "gender": "Male", 
+      "id": 1967, 
+      "mda": "Soukop, Willi", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1963", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1961, 
+    "text": "1961-2"
+  }, 
+  "dateText": "1961\u20132", 
+  "depth": "310", 
+  "dimensions": "object: 450 x 280 x 310 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "280", 
+  "id": 13651, 
+  "inscription": null, 
+  "medium": "Polyphant stone on slate base", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1623, 
+                "name": "owl"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Owl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/soukop-owl-t00594", 
+  "width": "450"
+}

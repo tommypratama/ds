@@ -1,0 +1,78 @@
+{
+  "acno": "A00217", 
+  "acquisitionYear": 1927, 
+  "all_artists": "William Henry Hunt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1790, 
+      "date": "1790\u20131864", 
+      "displayOrder": 1, 
+      "fc": "William Henry Hunt", 
+      "gender": "Male", 
+      "id": 286, 
+      "mda": "Hunt, William Henry", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 79 x 127 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "127", 
+  "id": 6973, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 505, 
+                "name": "barn"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00217_8.jpg", 
+  "title": "Landscape Sketch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hunt-landscape-sketch-a00217", 
+  "width": "79"
+}

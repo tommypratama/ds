@@ -1,0 +1,109 @@
+{
+  "acno": "D13317", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D13317", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D133/D13317_E.jpg", 
+          "height": 361, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D13245-D13321; D40907-D40909", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65806, 
+    "shortTitle": "Guards Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1817, 
+    "text": "c.1817-18"
+  }, 
+  "dateText": "c.1817\u201318", 
+  "depth": "", 
+  "dimensions": "support: 69 x 103 mm", 
+  "finberg": "CLXIV 59 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Guards Sketchbook", 
+  "height": "103", 
+  "id": 40685, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 120, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13317_8.jpg", 
+  "title": "Ground Plan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ground-plan-d13317", 
+  "width": "69"
+}

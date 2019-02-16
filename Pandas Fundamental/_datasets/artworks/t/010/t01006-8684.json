@@ -1,0 +1,76 @@
+{
+  "acno": "T01006", 
+  "acquisitionYear": 1967, 
+  "all_artists": "John Frederick Lewis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1805, 
+      "date": "1805\u20131876", 
+      "displayOrder": 1, 
+      "fc": "John Frederick Lewis", 
+      "gender": "Male", 
+      "id": 350, 
+      "mda": "Lewis, John Frederick", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund (Herbert Powell Bequest) 1967", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1824, 
+    "text": "1824"
+  }, 
+  "dateText": "1824", 
+  "depth": "", 
+  "dimensions": "support: 343 x 260 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "260", 
+  "id": 8684, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4606, 
+                "name": "head"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3119, 
+                "name": "lion"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01006_8.jpg", 
+  "title": "Head of a Lion", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-head-of-a-lion-t01006", 
+  "width": "343"
+}

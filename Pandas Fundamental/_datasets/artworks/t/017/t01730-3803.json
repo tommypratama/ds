@@ -1,0 +1,80 @@
+{
+  "acno": "T01730", 
+  "acquisitionYear": 1973, 
+  "all_artists": "Robyn Denny", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20132014", 
+      "displayOrder": 1, 
+      "fc": "Robyn Denny", 
+      "gender": "Male", 
+      "id": 997, 
+      "mda": "Denny, Robyn", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1973", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "25", 
+  "dimensions": "support: 2134 x 3658 x 25 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3658", 
+  "id": 3803, 
+  "inscription": null, 
+  "medium": "Household paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 442, 
+      "name": "Situation"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Robyn Denny", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01730_8.jpg", 
+  "title": "Baby is Three", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/denny-baby-is-three-t01730", 
+  "width": "2134"
+}

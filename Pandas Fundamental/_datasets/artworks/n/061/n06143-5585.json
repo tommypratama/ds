@@ -1,0 +1,110 @@
+{
+  "acno": "N06143", 
+  "acquisitionYear": 1953, 
+  "all_artists": "Duncan Grant", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1885, 
+      "date": "1885\u20131978", 
+      "displayOrder": 1, 
+      "fc": "Duncan Grant", 
+      "gender": "Male", 
+      "id": 1203, 
+      "mda": "Grant, Duncan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Bequeathed by Sir Edward Marsh through the Contemporary Art Society 1953", 
+  "dateRange": {
+    "endYear": 1921, 
+    "startYear": 1921, 
+    "text": "c.1921"
+  }, 
+  "dateText": "c.1921", 
+  "depth": "", 
+  "dimensions": "support: 508 x 686 mm\r\nframe: 623 x 802 x 75 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "686", 
+  "id": 5585, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 295, 
+      "name": "Bloomsbury Group"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1183, 
+                "name": "bread"
+              }, 
+              {
+                "id": 4570, 
+                "name": "vegetable, carrot"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2778, 
+                "name": "paper"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06143_8.jpg", 
+  "title": "Still Life with Carrots", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/grant-still-life-with-carrots-n06143", 
+  "width": "508"
+}

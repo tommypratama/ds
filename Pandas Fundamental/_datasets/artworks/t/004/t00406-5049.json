@@ -1,0 +1,116 @@
+{
+  "acno": "T00406", 
+  "acquisitionYear": 1961, 
+  "all_artists": "William Gear", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1915, 
+      "date": "1915\u20131997", 
+      "displayOrder": 1, 
+      "fc": "William Gear", 
+      "gender": "Male", 
+      "id": 1146, 
+      "mda": "Gear, William", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1961", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "support: 1219 x 813 mm\r\nframe: 1259 x 855 x 56 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "813", 
+  "id": 5049, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of William Gear", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00406_8.jpg", 
+  "title": "Feature in Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gear-feature-in-landscape-t00406", 
+  "width": "1219"
+}

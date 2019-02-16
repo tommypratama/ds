@@ -1,0 +1,260 @@
+{
+  "acno": "A00911", 
+  "acquisitionYear": 1925, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65249, 
+    "shortTitle": "Etchings and Engravings for the 'Liber Studiorum'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by A. Acland Allen through the Art Fund 1925", 
+  "dateRange": {
+    "endYear": 1812, 
+    "startYear": 1812, 
+    "text": "1812"
+  }, 
+  "dateText": "1812", 
+  "depth": "", 
+  "dimensions": "image: 187 x 263 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "263", 
+  "id": 14611, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 24, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8418, 
+                "name": "Europa"
+              }, 
+              {
+                "id": 1973, 
+                "name": "Zeus / Jupiter"
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2051, 
+                "name": "capital"
+              }, 
+              {
+                "id": 5689, 
+                "name": "cartouche"
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework"
+              }, 
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1130, 
+                "name": "bull"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 819, 
+                "name": "dock"
+              }, 
+              {
+                "id": 448, 
+                "name": "leaf"
+              }, 
+              {
+                "id": 2369, 
+                "name": "plant"
+              }, 
+              {
+                "id": 6217, 
+                "name": "water-lily"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish"
+              }, 
+              {
+                "id": 8419, 
+                "name": "skate"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2919, 
+                "name": "peacock"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10937, 
+                "name": "book, Turner, J.M.W., 'Liber Studiorum'"
+              }, 
+              {
+                "id": 929, 
+                "name": "document - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 204, 
+                "name": "painting"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00911_8.jpg", 
+  "title": "Frontispiece", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-frontispiece-a00911", 
+  "width": "187"
+}

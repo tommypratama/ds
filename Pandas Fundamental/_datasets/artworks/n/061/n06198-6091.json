@@ -1,0 +1,144 @@
+{
+  "acno": "N06198", 
+  "acquisitionYear": 1953, 
+  "all_artists": "Josef Herman", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1911, 
+      "date": "1911\u20132000", 
+      "displayOrder": 1, 
+      "fc": "Josef Herman", 
+      "gender": "Male", 
+      "id": 1276, 
+      "mda": "Herman, Josef", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1953", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "1953"
+  }, 
+  "dateText": "1953", 
+  "depth": "", 
+  "dimensions": "support: 343 x 521 mm\r\nframe: 475 x 645 x 55 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "521", 
+  "id": 6091, 
+  "inscription": null, 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5069, 
+                "name": "Powys"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5068, 
+                "name": "Ystradgynlais"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7180, 
+                "name": "mine"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5059, 
+                "name": "miner"
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06198_8.jpg", 
+  "title": "Three Miners", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/herman-three-miners-n06198", 
+  "width": "343"
+}

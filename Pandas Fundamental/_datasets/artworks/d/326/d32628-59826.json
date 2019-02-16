@@ -1,0 +1,129 @@
+{
+  "acno": "D32628", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D32628", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D326/D32628_E.jpg", 
+          "height": 354, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D32541-D32593; D32595-D32663; D41140", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65946, 
+    "shortTitle": "Rotterdam and Rhine sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "?1833"
+  }, 
+  "dateText": "?1833", 
+  "depth": "", 
+  "dimensions": "support: 170 x 105 mm", 
+  "finberg": "CCCXXII 46", 
+  "foreignTitle": null, 
+  "groupTitle": "Rotterdam and Rhine sketchbook", 
+  "height": "105", 
+  "id": 59826, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 91, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2751, 
+                "name": "Netherlands"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7435, 
+                "name": "Rotterdam - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32628_8.jpg", 
+  "title": "The Oude Hoft-Poort, Rotterdam", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-oude-hoft-poort-rotterdam-d32628", 
+  "width": "170"
+}

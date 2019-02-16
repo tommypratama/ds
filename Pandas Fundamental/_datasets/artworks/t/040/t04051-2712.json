@@ -1,0 +1,161 @@
+{
+  "acno": "T04051", 
+  "acquisitionYear": 1985, 
+  "all_artists": "John Constable, David Lucas", 
+  "catalogueGroup": {
+    "accessionRanges": "T03983-T04063; T06474; T06502-T06504; T06751-T06754", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65231, 
+    "shortTitle": "Various Subjects of Landscape, Characteristic of English Scenery ('English Landscape')"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }, 
+    {
+      "birthYear": 1802, 
+      "date": "1802\u20131881", 
+      "displayOrder": 2, 
+      "fc": "David Lucas", 
+      "gender": "Male", 
+      "id": 2708, 
+      "mda": "Lucas, David", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1985", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 144 x 182 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Various Subjects of Landscape, Characteristic of English Scenery ('English Landscape')", 
+  "height": "182", 
+  "id": 2712, 
+  "inscription": null, 
+  "medium": "Mezzotint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1600, 
+                "name": "Dorset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9609, 
+                "name": "Weymouth - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 1400, 
+                "name": "rain"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04051_8.jpg", 
+  "title": "Weymouth Bay, Dorsetshire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-lucas-weymouth-bay-dorsetshire-t04051", 
+  "width": "144"
+}

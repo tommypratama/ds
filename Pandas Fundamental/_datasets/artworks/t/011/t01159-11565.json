@@ -1,0 +1,108 @@
+{
+  "acno": "T01159", 
+  "acquisitionYear": 1969, 
+  "all_artists": "Peter Phillips", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "Peter Phillips", 
+      "gender": "Male", 
+      "id": 1763, 
+      "mda": "Phillips, Esq Peter", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1969", 
+  "dateRange": {
+    "endYear": 1968, 
+    "startYear": 1968, 
+    "text": "1968"
+  }, 
+  "dateText": "1968", 
+  "depth": "", 
+  "dimensions": "support: 1991 x 3397 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3397", 
+  "id": 11565, 
+  "inscription": null, 
+  "medium": "Acrylic paint and tempera on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6921, 
+                "name": "enclosure"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6421, 
+                "name": "hawk"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Peter Phillips", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01159_8.jpg", 
+  "title": "Random Illusion No. 4", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-random-illusion-no-4-t01159", 
+  "width": "1991"
+}

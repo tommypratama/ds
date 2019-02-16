@@ -1,0 +1,122 @@
+{
+  "acno": "T01074", 
+  "acquisitionYear": 1968, 
+  "all_artists": "Paul C\u00e9zanne", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1839, 
+      "date": "1839\u20131906", 
+      "displayOrder": 1, 
+      "fc": "Paul C\u00e9zanne", 
+      "gender": "Male", 
+      "id": 879, 
+      "mda": "C\u00e9zanne, Paul", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by the Hon. Mrs A.E. Pleydell-Bouverie through the Friends of the Tate Gallery 1968", 
+  "dateRange": {
+    "endYear": 1875, 
+    "startYear": 1874, 
+    "text": "c.1874-5"
+  }, 
+  "dateText": "c.1874\u20135", 
+  "depth": "", 
+  "dimensions": "support: 381 x 460 mm\r\nframe: 583 x 670 x 100 mm", 
+  "foreignTitle": "L'All\u00e9e au Jas de Bouffan", 
+  "groupTitle": null, 
+  "height": "460", 
+  "id": 2119, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 4229, 
+      "name": "Post-Impressionism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4233, 
+                "name": "Aix-en-Provence, Jas de Bouffan"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4277, 
+                "name": "estate"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01074_8.jpg", 
+  "title": "The Avenue at the Jas de Bouffan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cezanne-the-avenue-at-the-jas-de-bouffan-t01074", 
+  "width": "381"
+}

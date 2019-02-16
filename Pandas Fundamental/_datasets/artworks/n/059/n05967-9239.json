@@ -1,0 +1,82 @@
+{
+  "acno": "N05967", 
+  "acquisitionYear": 1950, 
+  "all_artists": "Giacomo Manzu", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131991", 
+      "displayOrder": 1, 
+      "fc": "Giacomo Manzu", 
+      "gender": "Male", 
+      "id": 1572, 
+      "mda": "Manzu, Giacomo", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1950", 
+  "dateRange": {
+    "endYear": 1937, 
+    "startYear": 1937, 
+    "text": "1937"
+  }, 
+  "dateText": "1937", 
+  "depth": "", 
+  "dimensions": "support: 451 x 340 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "340", 
+  "id": 9239, 
+  "inscription": null, 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1436, 
+                "name": "cardinal"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Cardinal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/manzu-cardinal-n05967", 
+  "width": "451"
+}

@@ -1,0 +1,116 @@
+{
+  "acno": "N03389", 
+  "acquisitionYear": 1919, 
+  "all_artists": "William Shakespeare Burton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1824, 
+      "date": "1824\u20131916", 
+      "displayOrder": 1, 
+      "fc": "William Shakespeare Burton", 
+      "gender": "Male", 
+      "id": 70, 
+      "mda": "Burton, William Shakespeare", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Capt. H.L.P. Hulbert 1919", 
+  "dateRange": {
+    "endYear": 1871, 
+    "startYear": 1871, 
+    "text": "1871"
+  }, 
+  "dateText": "1871", 
+  "depth": "", 
+  "dimensions": "support: 419 x 305 mm\r\nframe: 556 x 446 x 55 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "305", 
+  "id": 1851, 
+  "inscription": "date inscribed", 
+  "medium": "Gouache on board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3655, 
+                "name": "bramble"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 875, 
+                "name": "supporting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 986, 
+                "name": "wounded"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03389_8.jpg", 
+  "title": "Detail of Two Figures from \u2018The Wounded Cavalier\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burton-detail-of-two-figures-from-the-wounded-cavalier-n03389", 
+  "width": "419"
+}

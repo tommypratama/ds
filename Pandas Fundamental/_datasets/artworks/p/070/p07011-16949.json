@@ -1,0 +1,102 @@
+{
+  "acno": "P07011", 
+  "acquisitionYear": 1970, 
+  "all_artists": "David Bomberg", 
+  "catalogueGroup": {
+    "accessionRanges": "P07008-P07013", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65606, 
+    "shortTitle": "Russian Ballet"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131957", 
+      "displayOrder": 1, 
+      "fc": "David Bomberg", 
+      "gender": "Male", 
+      "id": 777, 
+      "mda": "Bomberg, David", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1919, 
+    "startYear": 1914, 
+    "text": "c.1914-9"
+  }, 
+  "dateText": "c.1914\u20139", 
+  "depth": "", 
+  "dimensions": "image: 76 x 159 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Russian Ballet", 
+  "height": "159", 
+  "id": 16949, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 322, 
+      "name": "Vorticism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6681, 
+                "name": "ballet"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07011_8.jpg", 
+  "title": "iv", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bomberg-iv-p07011", 
+  "width": "76"
+}

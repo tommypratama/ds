@@ -1,0 +1,140 @@
+{
+  "acno": "D10779", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D10779", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D107/D10779_E.jpg", 
+          "height": 337, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149170, 
+  "catalogueGroup": {
+    "accessionRanges": "D10775-D10867; D40869-D40871; D41532", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65785, 
+    "shortTitle": "Liber Notes (1) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1816, 
+    "startYear": 1815, 
+    "text": "c.1815-16"
+  }, 
+  "dateText": "c.1815\u201316", 
+  "depth": "", 
+  "dimensions": "support: 102 x 160 mm", 
+  "finberg": "CXLIII 4", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Notes (1) Sketchbook", 
+  "height": "160", 
+  "id": 38154, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 9, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10779_8.jpg", 
+  "title": "A Cloudy Sky above a Wooded Landscape, Perhaps in the Thames Valley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-cloudy-sky-above-a-wooded-landscape-perhaps-in-the-thames-valley-d10779", 
+  "width": "102"
+}

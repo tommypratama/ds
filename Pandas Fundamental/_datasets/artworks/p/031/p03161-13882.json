@@ -1,0 +1,108 @@
+{
+  "acno": "P03161", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Norman Stevens", 
+  "catalogueGroup": {
+    "accessionRanges": "P03149-P03161; P03180-P03185", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65656, 
+    "shortTitle": "For John Constable"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "1937\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Norman Stevens", 
+      "gender": "Male", 
+      "id": 1998, 
+      "mda": "Stevens, Norman", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Bernard Jacobson Gallery 1976", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "support: 102 x 152 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "For John Constable", 
+  "height": "152", 
+  "id": 13882, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour and intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8289, 
+                "name": "Stonehenge"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2659, 
+                "name": "Wiltshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 865, 
+                "name": "standing stone"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stevens-no-title-p03161", 
+  "width": "102"
+}

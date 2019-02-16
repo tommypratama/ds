@@ -1,0 +1,100 @@
+{
+  "acno": "T07586", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Sir William Coldstream", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Sir William Coldstream", 
+      "gender": "Male", 
+      "id": 927, 
+      "mda": "Coldstream, Sir William", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Joshua L. Mack 2000", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1945, 
+    "text": "1945-8"
+  }, 
+  "dateText": "1945\u20138", 
+  "depth": "", 
+  "dimensions": "image: 128 x 168 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "168", 
+  "id": 26871, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 304, 
+      "name": "Euston Road School"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Nude, Camberwell", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/coldstream-nude-camberwell-t07586", 
+  "width": "128"
+}

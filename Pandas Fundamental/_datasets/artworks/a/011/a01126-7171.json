@@ -1,0 +1,154 @@
+{
+  "acno": "A01126", 
+  "acquisitionYear": 1925, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65249, 
+    "shortTitle": "Etchings and Engravings for the 'Liber Studiorum'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by A. Acland Allen through the Art Fund 1925", 
+  "dateRange": {
+    "endYear": 1816, 
+    "startYear": 1816, 
+    "text": "1816"
+  }, 
+  "dateText": "1816", 
+  "depth": "", 
+  "dimensions": "image: 189 x 268 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "268", 
+  "id": 7171, 
+  "inscription": null, 
+  "medium": "Etching and mezzotint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 349, 
+      "name": "Sublime"
+    }
+  ], 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 9888, 
+                "name": "Glacier des Bois"
+              }, 
+              {
+                "id": 8380, 
+                "name": "River Arveyron"
+              }, 
+              {
+                "id": 9878, 
+                "name": "Val de Chamonix"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6876, 
+                "name": "pine"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01126_8.jpg", 
+  "title": "The Source of the Arveron", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-source-of-the-arveron-a01126", 
+  "width": "189"
+}

@@ -1,0 +1,108 @@
+{
+  "acno": "P77285", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Lothar Baumgarten", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1944, 
+      "date": "born 1944", 
+      "displayOrder": 1, 
+      "fc": "Lothar Baumgarten", 
+      "gender": "Male", 
+      "id": 706, 
+      "mda": "Baumgarten, Lothar", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1989", 
+  "dateRange": {
+    "endYear": 1985, 
+    "startYear": 1985, 
+    "text": "1985"
+  }, 
+  "dateText": "1985", 
+  "depth": "", 
+  "dimensions": "image: 610 x 898 mm", 
+  "foreignTitle": "Aquator", 
+  "groupTitle": null, 
+  "height": "898", 
+  "id": 12700, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 422, 
+      "name": "Environmental Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3123, 
+                "name": "roof"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8494, 
+                "name": "word"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77285_8.jpg", 
+  "title": "Equator", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/baumgarten-equator-p77285", 
+  "width": "610"
+}

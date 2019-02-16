@@ -1,0 +1,108 @@
+{
+  "acno": "P03203", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Tom Phillips", 
+  "catalogueGroup": {
+    "accessionRanges": "P03202-P03207", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65473, 
+    "shortTitle": "A Walk to the Studio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tom Phillips", 
+      "gender": "Male", 
+      "id": 1764, 
+      "mda": "Phillips, Esq Tom", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Waddington Galleries 1977", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1976, 
+    "text": "1976-7"
+  }, 
+  "dateText": "1976\u20137", 
+  "depth": "", 
+  "dimensions": "image: 811 x 600 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Walk to the Studio", 
+  "height": "600", 
+  "id": 11647, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10210, 
+                "name": "linoleum"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tom Phillips", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03203_8.jpg", 
+  "title": "Linoleum", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-linoleum-p03203", 
+  "width": "811"
+}

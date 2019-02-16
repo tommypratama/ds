@@ -1,0 +1,76 @@
+{
+  "acno": "D35349", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151570, 
+  "catalogueGroup": {
+    "accessionRanges": "D35335-D35360", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65975, 
+    "shortTitle": "Hythe and Walmer Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1845, 
+    "text": "1845"
+  }, 
+  "dateText": "1845", 
+  "depth": "", 
+  "dimensions": "support: 70 x 166 mm", 
+  "finberg": "CCCLV 8 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Hythe and Walmer Sketchbook", 
+  "height": "166", 
+  "id": 62476, 
+  "inscription": null, 
+  "medium": "Chalk and graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 18, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35349_8.jpg", 
+  "title": "Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hills-d35349", 
+  "width": "70"
+}

@@ -1,0 +1,144 @@
+{
+  "acno": "P77019", 
+  "acquisitionYear": 1984, 
+  "all_artists": "A.R. Penck (Ralf Winkler)", 
+  "catalogueGroup": {
+    "accessionRanges": "P77019-P77022", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65645, 
+    "shortTitle": "Expedition to the Holy Land"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "A.R. Penck (Ralf Winkler)", 
+      "gender": "Male", 
+      "id": 1753, 
+      "mda": "Penck, A.R.", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1984", 
+  "dateRange": {
+    "endYear": 1983, 
+    "startYear": 1983, 
+    "text": "1984"
+  }, 
+  "dateText": "1984", 
+  "depth": "", 
+  "dimensions": "image: 648 x 934 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Expedition to the Holy Land", 
+  "height": "934", 
+  "id": 11499, 
+  "inscription": null, 
+  "medium": "Engraving and aquatint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 431, 
+      "name": "Neo-Expressionism"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15651, 
+                "name": "Gessel, Joshua"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 712, 
+                "name": "talking"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Communication", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/penck-communication-p77019", 
+  "width": "648"
+}

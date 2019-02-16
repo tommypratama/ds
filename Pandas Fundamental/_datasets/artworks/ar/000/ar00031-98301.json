@@ -1,0 +1,137 @@
+{
+  "acno": "AR00031", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Georg Baselitz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Georg Baselitz", 
+      "gender": "Male", 
+      "id": 699, 
+      "mda": "Baselitz, Georg", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1989, 
+    "startYear": 1989, 
+    "text": "1989"
+  }, 
+  "dateText": "1989", 
+  "depth": "58", 
+  "dimensions": "support: 2504 x 2510 x 58 mm", 
+  "foreignTitle": "Volkstanz Marode", 
+  "groupTitle": null, 
+  "height": "2510", 
+  "id": 98301, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 431, 
+      "name": "Neo-Expressionism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 432, 
+      "name": "Neue Wilden"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18193, 
+                "name": "German folklore"
+              }
+            ], 
+            "id": 57, 
+            "name": "tales, legends and traditional"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Georg Baselitz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00031_8.jpg", 
+  "title": "Folkdance Melancholia", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/baselitz-folkdance-melancholia-ar00031", 
+  "width": "2504"
+}

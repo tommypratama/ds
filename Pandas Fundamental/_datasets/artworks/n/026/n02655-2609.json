@@ -1,0 +1,90 @@
+{
+  "acno": "N02655", 
+  "acquisitionYear": 1910, 
+  "all_artists": "John Constable", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by George Salting 1910", 
+  "dateRange": {
+    "endYear": 1816, 
+    "startYear": 1816, 
+    "text": "1816"
+  }, 
+  "dateText": "1816", 
+  "depth": "", 
+  "dimensions": "support: 305 x 251 mm\r\nframe: 480 x 410 x 95 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "251", 
+  "id": 2609, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2563, 
+                "name": "Bicknell, Maria Elizabeth"
+              }, 
+              {
+                "id": 5658, 
+                "name": "Constable, Maria Elizabeth"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02655_8.jpg", 
+  "title": "Maria Bicknell, Mrs John Constable", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-maria-bicknell-mrs-john-constable-n02655", 
+  "width": "305"
+}

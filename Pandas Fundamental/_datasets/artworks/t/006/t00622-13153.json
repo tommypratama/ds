@@ -1,0 +1,80 @@
+{
+  "acno": "T00622", 
+  "acquisitionYear": 1963, 
+  "all_artists": "Helen Saunders", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1885, 
+      "date": "1885\u20131963", 
+      "displayOrder": 1, 
+      "fc": "Helen Saunders", 
+      "gender": "Female", 
+      "id": 1899, 
+      "mda": "Saunders, Helen", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Miss Ethel M. Saunders in memory of her sister 1963", 
+  "dateRange": {
+    "endYear": 1915, 
+    "startYear": 1915, 
+    "text": "c.1915"
+  }, 
+  "dateText": "c.1915", 
+  "depth": "", 
+  "dimensions": "support: 289 x 184 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "184", 
+  "id": 13153, 
+  "inscription": null, 
+  "medium": "Ink, watercolour and graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 322, 
+      "name": "Vorticism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Helen Saunders", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00622_8.jpg", 
+  "title": "Monochrome Abstract Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/saunders-monochrome-abstract-composition-t00622", 
+  "width": "289"
+}

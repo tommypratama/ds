@@ -1,0 +1,134 @@
+{
+  "acno": "T00245", 
+  "acquisitionYear": 1959, 
+  "all_artists": "Maria Helena Vieira da Silva", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131992", 
+      "displayOrder": 1, 
+      "fc": "Maria Helena Vieira da Silva", 
+      "gender": "Female", 
+      "id": 2104, 
+      "mda": "Vieira da Silva, Maria Helena", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased 1959", 
+  "dateRange": {
+    "endYear": 1951, 
+    "startYear": 1951, 
+    "text": "1951"
+  }, 
+  "dateText": "1951", 
+  "depth": "", 
+  "dimensions": "support: 327 x 457 mm\r\nframe: 488 x 618 x 81 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "457", 
+  "id": 15745, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1271, 
+                "name": "Paris - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6852, 
+                "name": "memory"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00245_8.jpg", 
+  "title": "Paris", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vieira-da-silva-paris-t00245", 
+  "width": "327"
+}

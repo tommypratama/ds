@@ -1,0 +1,117 @@
+{
+  "acno": "D03803", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03802-D03831", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65715, 
+    "shortTitle": "Composition Studies Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1801, 
+    "startYear": 1801, 
+    "text": "c.1801"
+  }, 
+  "dateText": "c.1801", 
+  "depth": "", 
+  "dimensions": "support: 118 x 184 mm", 
+  "finberg": "LXV 2", 
+  "foreignTitle": null, 
+  "groupTitle": "Composition Studies Sketchbook", 
+  "height": "184", 
+  "id": 31199, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 5, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2472, 
+                "name": "number"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03803_8.jpg", 
+  "title": "Castle in Middle Distance, with Trees and Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-in-middle-distance-with-trees-and-sky-d03803", 
+  "width": "118"
+}

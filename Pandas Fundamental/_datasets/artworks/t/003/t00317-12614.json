@@ -1,0 +1,122 @@
+{
+  "acno": "T00317", 
+  "acquisitionYear": 1959, 
+  "all_artists": "Diego Rivera", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1886, 
+      "date": "1886\u20131957", 
+      "displayOrder": 1, 
+      "fc": "Diego Rivera", 
+      "gender": "Male", 
+      "id": 1849, 
+      "mda": "Rivera, Diego", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1959", 
+  "dateRange": {
+    "endYear": 1916, 
+    "startYear": 1916, 
+    "text": "1916"
+  }, 
+  "dateText": "1916", 
+  "depth": "", 
+  "dimensions": "support: 600 x 400 mm\r\nframe: 755 x 555 x 73 mm", 
+  "foreignTitle": "Nature morte", 
+  "groupTitle": null, 
+  "height": "400", 
+  "id": 12614, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 299, 
+      "name": "Cubism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1951, 
+                "name": "flask"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10924, 
+                "name": "product packaging"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4500, 
+                "name": "soda syphon"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rivera-still-life-t00317", 
+  "width": "600"
+}

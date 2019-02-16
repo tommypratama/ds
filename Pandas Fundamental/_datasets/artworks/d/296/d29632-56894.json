@@ -1,0 +1,135 @@
+{
+  "acno": "D29632", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D29595-D29771; D41099; D41200-D41201", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65924, 
+    "shortTitle": "Brussels up to Mannheim - Rhine Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "1833"
+  }, 
+  "dateText": "1833", 
+  "depth": "", 
+  "dimensions": "support: 113 x 185 mm", 
+  "finberg": "CCXCVI 18 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Brussels up to Mannheim - Rhine Sketchbook", 
+  "height": "185", 
+  "id": 56894, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 40, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9577, 
+                "name": "Drachenfels"
+              }, 
+              {
+                "id": 4386, 
+                "name": "River Rhine"
+              }, 
+              {
+                "id": 14106, 
+                "name": "Siebengebirge"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13225, 
+                "name": "Nonnenwerth"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29632_8.jpg", 
+  "title": "(1) Nonnenwerth, Rolandswerth and the Drachenfels, Looking down the Rhine; (2) The Seven Hills; (3) View down the Rhine to Neuwied; (4) Neuwied and Weissenthurm, Looking up the Rhine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-nonnenwerth-rolandswerth-and-the-drachenfels-looking-down-the-rhine-2-the-seven-d29632", 
+  "width": "113"
+}

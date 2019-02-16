@@ -1,0 +1,82 @@
+{
+  "acno": "P13096", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Edward Weston", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1886, 
+      "date": "1886\u20131958", 
+      "displayOrder": 1, 
+      "fc": "Edward Weston", 
+      "gender": "Male", 
+      "id": 2720, 
+      "mda": "Weston, Edward", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax from the Estate of Barbara Lloyd and allocated to Tate 2009", 
+  "dateRange": {
+    "endYear": 1927, 
+    "startYear": 1927, 
+    "text": "1927, printed later"
+  }, 
+  "dateText": "1927, printed later", 
+  "depth": "", 
+  "dimensions": "image: 238 x 180 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "180", 
+  "id": 101318, 
+  "inscription": null, 
+  "medium": "Photograph, gelatin silver print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6004, 
+                "name": "shell"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Shells", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/weston-shells-p13096", 
+  "width": "238"
+}

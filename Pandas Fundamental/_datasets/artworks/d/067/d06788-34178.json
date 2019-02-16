@@ -1,0 +1,94 @@
+{
+  "acno": "D06788", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06788", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D67/D06788_E.jpg", 
+          "height": 374, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130881, 
+  "catalogueGroup": {
+    "accessionRanges": "D06721-D06829; D40666-D40668", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65749, 
+    "shortTitle": "Greenwich Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1808, 
+    "text": "c.1808"
+  }, 
+  "dateText": "c.1808", 
+  "depth": "", 
+  "dimensions": "support: 76 x 115 mm", 
+  "finberg": "CII 35", 
+  "foreignTitle": null, 
+  "groupTitle": "Greenwich Sketchbook", 
+  "height": "115", 
+  "id": 34178, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 71, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06788_8.jpg", 
+  "title": "Two Studies of a Wooden Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-studies-of-a-wooden-bridge-d06788", 
+  "width": "76"
+}

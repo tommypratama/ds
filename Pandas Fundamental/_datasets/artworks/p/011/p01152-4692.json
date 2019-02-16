@@ -1,0 +1,80 @@
+{
+  "acno": "P01152", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Sir Terry Frost", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1915, 
+      "date": "1915\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Sir Terry Frost", 
+      "gender": "Male", 
+      "id": 1126, 
+      "mda": "Frost, Sir Terry", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by Waddington Galleries through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 638 x 905 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "905", 
+  "id": 4692, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sir Terry Frost", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01152_8.jpg", 
+  "title": "Red, Blue, Green", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-red-blue-green-p01152", 
+  "width": "638"
+}

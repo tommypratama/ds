@@ -1,0 +1,388 @@
+{
+  "acno": "N01509", 
+  "acquisitionYear": 1894, 
+  "all_artists": "Sir John Everett Millais, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1829, 
+      "date": "1829\u20131896", 
+      "displayOrder": 1, 
+      "fc": "Sir John Everett Millais, Bt", 
+      "gender": "Male", 
+      "id": 379, 
+      "mda": "Millais, Sir John Everett, Bt", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Sir Henry Tate 1894", 
+  "dateRange": {
+    "endYear": 1874, 
+    "startYear": 1874, 
+    "text": "1874"
+  }, 
+  "dateText": "1874", 
+  "depth": "", 
+  "dimensions": "support: 1765 x 2222 mm\r\nframe: 2155 x 2620 x 145 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2222", 
+  "id": 9509, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "subjectCount": 31, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6308, 
+                "name": "Trelawney, Edward"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 656, 
+                "name": "holding hands"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1196, 
+                "name": "author"
+              }
+            ], 
+            "id": 126, 
+            "name": "literary"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3617, 
+                "name": "sailor"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket"
+              }, 
+              {
+                "id": 2076, 
+                "name": "jug"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5015, 
+                "name": "flag, Union Flag"
+              }, 
+              {
+                "id": 6309, 
+                "name": "flag, White Ensign"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2898, 
+                "name": "map"
+              }, 
+              {
+                "id": 3992, 
+                "name": "navigation chart"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }, 
+          {
+            "children": [
+              {
+                "id": 204, 
+                "name": "painting"
+              }, 
+              {
+                "id": 6306, 
+                "name": "print"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6906, 
+                "name": "daughter"
+              }, 
+              {
+                "id": 6908, 
+                "name": "father"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3678, 
+                "name": "patriotism"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6305, 
+                "name": "exploration: North-West Passage"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 761, 
+                "name": "living room"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1566, 
+                "name": "reading"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01509_8.jpg", 
+  "title": "The North-West Passage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/millais-the-north-west-passage-n01509", 
+  "width": "1765"
+}

@@ -1,0 +1,86 @@
+{
+  "acno": "P77550", 
+  "acquisitionYear": 1992, 
+  "all_artists": "Cy Twombly", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Cy Twombly", 
+      "gender": "Male", 
+      "id": 2079, 
+      "mda": "Twombly, Cy", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1992", 
+  "dateRange": {
+    "endYear": 1952, 
+    "startYear": 1952, 
+    "text": "1952"
+  }, 
+  "dateText": "1952", 
+  "depth": "", 
+  "dimensions": "image: 332 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 20476, 
+  "inscription": null, 
+  "medium": "Woodcut on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16377, 
+                "name": "Duncan, Robert, 'The Song of the Borderguard'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Cy Twombly Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77550_8.jpg", 
+  "title": "The Song of the Border-Guard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/twombly-the-song-of-the-border-guard-p77550", 
+  "width": "332"
+}

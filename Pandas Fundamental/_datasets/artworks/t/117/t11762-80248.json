@@ -1,0 +1,118 @@
+{
+  "acno": "T11762", 
+  "acquisitionYear": 2003, 
+  "all_artists": "John Ernest", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20131994", 
+      "displayOrder": 1, 
+      "fc": "John Ernest", 
+      "gender": "Male", 
+      "id": 1064, 
+      "mda": "Ernest, John", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Presented by Paul and Susan Ernest 2003", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1971, 
+    "text": "1971-2"
+  }, 
+  "dateText": "1971\u20132", 
+  "depth": "", 
+  "dimensions": "object: 2440 x 2140 x 585 mm (confirmed)", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 80248, 
+  "inscription": null, 
+  "medium": "Wood, metal, plywood and alkyd paint", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18243, 
+                "name": "mathematics, Moebius"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18244, 
+                "name": "moebius strip"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Moebius Strip", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/ernest-moebius-strip-t11762", 
+  "width": ""
+}

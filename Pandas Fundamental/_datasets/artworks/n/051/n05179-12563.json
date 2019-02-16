@@ -1,0 +1,92 @@
+{
+  "acno": "N05179", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Sir William Blake Richmond", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1842, 
+      "date": "1842\u20131921", 
+      "displayOrder": 1, 
+      "fc": "Sir William Blake Richmond", 
+      "gender": "Male", 
+      "id": 448, 
+      "mda": "Richmond, Sir William Blake", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Bequeathed by Miss Maud Beddington 1940", 
+  "dateRange": {
+    "endYear": 1888, 
+    "startYear": 1888, 
+    "text": "1888"
+  }, 
+  "dateText": "1888", 
+  "depth": "", 
+  "dimensions": "support: 292 x 400 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "400", 
+  "id": 12563, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1161, 
+                "name": "Libya"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3924, 
+                "name": "desert"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05179_8.jpg", 
+  "title": "The Libyan Desert, Sunset", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richmond-the-libyan-desert-sunset-n05179", 
+  "width": "292"
+}

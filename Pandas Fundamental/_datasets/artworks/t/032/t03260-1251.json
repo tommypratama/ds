@@ -1,0 +1,86 @@
+{
+  "acno": "T03260", 
+  "acquisitionYear": 1981, 
+  "all_artists": "David Bomberg", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131957", 
+      "displayOrder": 1, 
+      "fc": "David Bomberg", 
+      "gender": "Male", 
+      "id": 777, 
+      "mda": "Bomberg, David", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented in memory of the artist by Mr and Mrs J. Newmark through the Contemporary Art Society 1981", 
+  "dateRange": {
+    "endYear": 1910, 
+    "startYear": 1910, 
+    "text": "c.1910"
+  }, 
+  "dateText": "c.1910", 
+  "depth": "", 
+  "dimensions": "support: 610 x 476 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "476", 
+  "id": 1251, 
+  "inscription": null, 
+  "medium": "Chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16392, 
+                "name": "Bomberg, Raie"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03260_8.jpg", 
+  "title": "Raie, the Artist\u2019s Sister", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bomberg-raie-the-artists-sister-t03260", 
+  "width": "610"
+}

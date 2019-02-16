@@ -1,0 +1,96 @@
+{
+  "acno": "T02022", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Sir Terry Frost", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1915, 
+      "date": "1915\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Sir Terry Frost", 
+      "gender": "Male", 
+      "id": 1126, 
+      "mda": "Frost, Sir Terry", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1976", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "", 
+  "dimensions": "support: 1981 x 2591 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2591", 
+  "id": 4717, 
+  "inscription": null, 
+  "medium": "Acrylic paint and canvas on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8034, 
+                "name": "sequence"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sir Terry Frost", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02022_8.jpg", 
+  "title": "Through Blacks", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-through-blacks-t02022", 
+  "width": "1981"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "T03752", 
+  "acquisitionYear": 1983, 
+  "all_artists": "John Hoskin", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131990", 
+      "displayOrder": 1, 
+      "fc": "John Hoskin", 
+      "gender": "Male", 
+      "id": 1311, 
+      "mda": "Hoskin, John", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1957, 
+    "startYear": 1957, 
+    "text": "1957"
+  }, 
+  "dateText": "1957", 
+  "depth": "314", 
+  "dimensions": "object: 172 x 172 x 314 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "172", 
+  "id": 6721, 
+  "inscription": null, 
+  "medium": "Iron", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13030, 
+                "name": "beetle"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Black Beetle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hoskin-black-beetle-t03752", 
+  "width": "172"
+}

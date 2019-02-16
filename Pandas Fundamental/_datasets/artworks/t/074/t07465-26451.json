@@ -1,0 +1,82 @@
+{
+  "acno": "T07465", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Julian Trevelyan", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Julian Trevelyan", 
+      "gender": "Male", 
+      "id": 2065, 
+      "mda": "Trevelyan, Julian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1998", 
+  "dateRange": {
+    "endYear": 1937, 
+    "startYear": 1937, 
+    "text": "1937"
+  }, 
+  "dateText": "1937", 
+  "depth": "68", 
+  "dimensions": "displayed: 400 x 465 x 68 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "465", 
+  "id": 26451, 
+  "inscription": null, 
+  "medium": "Metal, clay, wood and Perspex", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11002, 
+                "name": "frame"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Julian Trevelyan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07465_8.jpg", 
+  "title": "Bomblet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-bomblet-t07465", 
+  "width": "400"
+}

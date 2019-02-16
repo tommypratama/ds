@@ -1,0 +1,122 @@
+{
+  "acno": "T00511", 
+  "acquisitionYear": 1962, 
+  "all_artists": "Ellsworth Kelly", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "born 1923", 
+      "displayOrder": 1, 
+      "fc": "Ellsworth Kelly", 
+      "gender": "Male", 
+      "id": 1391, 
+      "mda": "Kelly, Ellsworth", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by E.J. Power through the Friends of the Tate Gallery 1962", 
+  "dateRange": {
+    "endYear": 1958, 
+    "startYear": 1958, 
+    "text": "1958"
+  }, 
+  "dateText": "1958", 
+  "depth": "28", 
+  "dimensions": "support: 1982 x 1767 x 28 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1767", 
+  "id": 7889, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6172, 
+                "name": "New York, Broadway"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ellsworth Kelly", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00511_8.jpg", 
+  "title": "Broadway", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kelly-broadway-t00511", 
+  "width": "1982"
+}

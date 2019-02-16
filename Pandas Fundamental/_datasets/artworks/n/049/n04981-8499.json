@@ -1,0 +1,86 @@
+{
+  "acno": "N04981", 
+  "acquisitionYear": 1939, 
+  "all_artists": "Jean Le Capelain", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1814, 
+      "date": "1814\u20131848", 
+      "displayOrder": 1, 
+      "fc": "Jean Le Capelain", 
+      "gender": "Male", 
+      "id": 338, 
+      "mda": "Le Capelain, Jean", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by D.C. Fincham 1939", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 171 x 267 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "267", 
+  "id": 8499, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04981_8.jpg", 
+  "title": "Fishing Boats, High Tide", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/le-capelain-fishing-boats-high-tide-n04981", 
+  "width": "171"
+}

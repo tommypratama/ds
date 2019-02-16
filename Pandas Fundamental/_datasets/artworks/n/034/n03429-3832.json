@@ -1,0 +1,280 @@
+{
+  "acno": "N03429", 
+  "acquisitionYear": 1919, 
+  "all_artists": "Walter Howell Deverell", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1827, 
+      "date": "1827\u20131854", 
+      "displayOrder": 1, 
+      "fc": "Walter Howell Deverell", 
+      "gender": "Male", 
+      "id": 147, 
+      "mda": "Deverell, Walter Howell", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1919", 
+  "dateRange": {
+    "endYear": 1850, 
+    "startYear": 1850, 
+    "text": "c.1850"
+  }, 
+  "dateText": "c.1850", 
+  "depth": "", 
+  "dimensions": "support: 216 x 292 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "292", 
+  "id": 3832, 
+  "inscription": null, 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 19, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3089, 
+                "name": "'Twelfth Night'"
+              }
+            ], 
+            "id": 59, 
+            "name": "Shakespeare"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4702, 
+                "name": "aristocrat"
+              }, 
+              {
+                "id": 3074, 
+                "name": "courtier"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }, 
+          {
+            "children": [
+              {
+                "id": 820, 
+                "name": "jester"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation"
+              }, 
+              {
+                "id": 3008, 
+                "name": "love"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5595, 
+                "name": "disguise"
+              }
+            ], 
+            "id": 153, 
+            "name": "dress: fantasy/fancy"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain"
+              }, 
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4989, 
+                "name": "terrace"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7042, 
+                "name": "period: Middle Ages"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1566, 
+                "name": "reading"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10069, 
+                "name": "singing"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03429_8.jpg", 
+  "title": "Study for \u2018Twelfth Night\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/deverell-study-for-twelfth-night-n03429", 
+  "width": "216"
+}

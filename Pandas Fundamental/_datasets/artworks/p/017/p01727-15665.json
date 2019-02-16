@@ -1,0 +1,146 @@
+{
+  "acno": "P01727", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Edward Buk Ulreich", 
+  "catalogueGroup": {
+    "accessionRanges": "P01698-P01727", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65675, 
+    "shortTitle": "School Prints"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1889, 
+      "date": "1889 \u2013 1966", 
+      "displayOrder": 1, 
+      "fc": "Edward Buk Ulreich", 
+      "gender": "Male", 
+      "id": 2086, 
+      "mda": "Ulreich, Edward Buk", 
+      "role": "artist", 
+      "startLetter": "U"
+    }
+  ], 
+  "creditLine": "Presented by Patrick Seale Prints 1975", 
+  "dateRange": {
+    "endYear": 1947, 
+    "startYear": 1947, 
+    "text": "1947"
+  }, 
+  "dateText": "1947", 
+  "depth": "", 
+  "dimensions": "image: 498 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "School Prints", 
+  "height": "762", 
+  "id": 15665, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1910, 
+                "name": "USA, Arizona"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8554, 
+                "name": "cowboy"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3924, 
+                "name": "desert"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Arizona Cowboys", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ulreich-arizona-cowboys-p01727", 
+  "width": "498"
+}

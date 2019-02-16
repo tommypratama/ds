@@ -1,0 +1,86 @@
+{
+  "acno": "T12134", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Frank Bowling", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Frank Bowling", 
+      "gender": "Male", 
+      "id": 792, 
+      "mda": "Bowling, Frank", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 2006", 
+  "dateRange": {
+    "endYear": 1989, 
+    "startYear": 1989, 
+    "text": "1989"
+  }, 
+  "dateText": "1989", 
+  "depth": "", 
+  "dimensions": "support: 1780 x 1360 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1360", 
+  "id": 88034, 
+  "inscription": null, 
+  "medium": "Acrylic paint and resin on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Frank Bowling", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12134_8.jpg", 
+  "title": "Sacha Jason Guyana Dreams", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bowling-sacha-jason-guyana-dreams-t12134", 
+  "width": "1780"
+}

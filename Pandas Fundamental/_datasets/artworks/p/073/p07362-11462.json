@@ -1,0 +1,86 @@
+{
+  "acno": "P07362", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Victor Pasmore", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Victor Pasmore", 
+      "gender": "Male", 
+      "id": 1744, 
+      "mda": "Pasmore, Victor", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 502 x 698 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "698", 
+  "id": 11462, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption"
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07362_8.jpg", 
+  "title": "The Image in Search of Itself", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pasmore-the-image-in-search-of-itself-p07362", 
+  "width": "502"
+}

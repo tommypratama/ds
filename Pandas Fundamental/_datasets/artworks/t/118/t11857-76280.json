@@ -1,0 +1,116 @@
+{
+  "acno": "T11857", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Andr\u00e9 Masson", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1896, 
+      "date": "1896\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Andr\u00e9 Masson", 
+      "gender": "Male", 
+      "id": 1590, 
+      "mda": "Masson, Andr\u00e9", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Bequeathed by Joanna Drew 2003, accessioned 2004", 
+  "dateRange": {
+    "endYear": 1934, 
+    "startYear": 1934, 
+    "text": "1934"
+  }, 
+  "dateText": "1934", 
+  "depth": "", 
+  "dimensions": "support: 468 x 633 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "633", 
+  "id": 76280, 
+  "inscription": null, 
+  "medium": "Graphite and chalk on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 320, 
+      "name": "Surrealism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4777, 
+                "name": "Montserrat"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4538, 
+                "name": "Spain, Catalu\u00f1a"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11857_8.jpg", 
+  "title": "Montserrat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/masson-montserrat-t11857", 
+  "width": "468"
+}

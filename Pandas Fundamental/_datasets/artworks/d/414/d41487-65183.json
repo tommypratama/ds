@@ -1,0 +1,102 @@
+{
+  "acno": "D41487", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D41487", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D414/D41487_E.jpg", 
+          "height": 416, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1133322, 
+  "catalogueGroup": {
+    "accessionRanges": "D27518-D27519; D27523; D27525-D27526; D27530-D27531; D27539; D27604-D27605; D27609; D27612; D27618-D27624; D27660-D27678; D27680-D27684; D27710; D41487", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 115618, 
+    "shortTitle": "Watercolours Related to Samuel Rogers's Italy"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1827, 
+    "startYear": 1826, 
+    "text": "c.1826-7"
+  }, 
+  "dateText": "c.1826\u20137", 
+  "depth": "", 
+  "dimensions": null, 
+  "finberg": "CCLXXX 164 v", 
+  "foreignTitle": null, 
+  "groupTitle": "Watercolours Related to Samuel Rogers's Italy", 
+  "height": "", 
+  "id": 65183, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41487_8.jpg", 
+  "title": "Study of a Seated Female Figure", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-seated-female-figure-d41487", 
+  "width": ""
+}

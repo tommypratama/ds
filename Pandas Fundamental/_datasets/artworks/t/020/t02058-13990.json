@@ -1,0 +1,104 @@
+{
+  "acno": "T02058", 
+  "acquisitionYear": 1976, 
+  "all_artists": "George Stubbs", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1724, 
+      "date": "1724\u20131806", 
+      "displayOrder": 1, 
+      "fc": "George Stubbs", 
+      "gender": "Male", 
+      "id": 538, 
+      "mda": "Stubbs, George", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1976", 
+  "dateRange": {
+    "endYear": 1763, 
+    "startYear": 1763, 
+    "text": "?exhibited 1763"
+  }, 
+  "dateText": "?exhibited 1763", 
+  "depth": "", 
+  "dimensions": "support: 692 x 1035 mm\r\nframe: 897 x 1243 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1035", 
+  "id": 13990, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6851, 
+                "name": "attacking"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }, 
+              {
+                "id": 3119, 
+                "name": "lion"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02058_8.jpg", 
+  "title": "Horse Devoured by a Lion", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stubbs-horse-devoured-by-a-lion-t02058", 
+  "width": "692"
+}

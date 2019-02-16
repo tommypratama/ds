@@ -1,0 +1,382 @@
+{
+  "acno": "N05767", 
+  "acquisitionYear": 1947, 
+  "all_artists": "Richard Dadd", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1817, 
+      "date": "1817\u20131886", 
+      "displayOrder": 1, 
+      "fc": "Richard Dadd", 
+      "gender": "Male", 
+      "id": 130, 
+      "mda": "Dadd, Richard", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1947", 
+  "dateRange": {
+    "endYear": 1850, 
+    "startYear": 1849, 
+    "text": "1849-50"
+  }, 
+  "dateText": "1849\u201350", 
+  "depth": "", 
+  "dimensions": "support: 1010 x 1264 mm\r\nframe: 1255 x 1515 x 100 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1264", 
+  "id": 2977, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 35, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 252, 
+                "name": "Christ"
+              }, 
+              {
+                "id": 4243, 
+                "name": "Flight into Egypt"
+              }, 
+              {
+                "id": 10914, 
+                "name": "Holy Family"
+              }, 
+              {
+                "id": 15913, 
+                "name": "Matthew, chapter 2"
+              }, 
+              {
+                "id": 254, 
+                "name": "Virgin Mary"
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12289, 
+                "name": "St Joseph"
+              }
+            ], 
+            "id": 136, 
+            "name": "Saints"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1147, 
+                "name": "Egypt"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4143, 
+                "name": "Middle East"
+              }
+            ], 
+            "id": 152, 
+            "name": "dress: nations/regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4144, 
+                "name": "Middle Eastern"
+              }, 
+              {
+                "id": 1325, 
+                "name": "black"
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity"
+          }, 
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }, 
+              {
+                "id": 249, 
+                "name": "boy"
+              }, 
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 273, 
+                "name": "comforting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 854, 
+                "name": "armour"
+              }, 
+              {
+                "id": 868, 
+                "name": "helmet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2521, 
+                "name": "instrument, trumpet"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2606, 
+                "name": "jar"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 878, 
+                "name": "spear"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 549, 
+                "name": "drinking"
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3924, 
+                "name": "desert"
+              }, 
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1133, 
+                "name": "goat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1831, 
+                "name": "palm"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 874, 
+                "name": "tent"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05767_8.jpg", 
+  "title": "The Flight out of Egypt", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dadd-the-flight-out-of-egypt-n05767", 
+  "width": "1010"
+}

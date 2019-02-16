@@ -1,0 +1,94 @@
+{
+  "acno": "D09771", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09771", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D97/D09771_E.jpg", 
+          "height": 349, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1146197, 
+  "catalogueGroup": {
+    "accessionRanges": "D09668-D09788; D40819-D40820", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65775, 
+    "shortTitle": "Devon Rivers, No.2 Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1814, 
+    "startYear": 1814, 
+    "text": "?1814"
+  }, 
+  "dateText": "?1814", 
+  "depth": "", 
+  "dimensions": "support: 110 x 178 mm", 
+  "finberg": "CXXXIII 75", 
+  "foreignTitle": null, 
+  "groupTitle": "Devon Rivers, No.2 Sketchbook", 
+  "height": "178", 
+  "id": 37150, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 151, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4990, 
+                "name": "lamp"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09771_8.jpg", 
+  "title": "The Oak Room at Farnley Hall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-oak-room-at-farnley-hall-d09771", 
+  "width": "110"
+}

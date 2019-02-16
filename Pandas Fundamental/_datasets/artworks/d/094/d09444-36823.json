@@ -1,0 +1,98 @@
+{
+  "acno": "D09444", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09444", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D94/D09444_E.jpg", 
+          "height": 364, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149679, 
+  "catalogueGroup": {
+    "accessionRanges": "D09218-D09481; D40579-D40581; D40583; D41231", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65773, 
+    "shortTitle": "Plymouth, Hamoaze Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1813, 
+    "startYear": 1813, 
+    "text": "1813"
+  }, 
+  "dateText": "1813", 
+  "depth": "", 
+  "dimensions": "support: 95 x 157 mm", 
+  "finberg": "CXXXI 170 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Plymouth, Hamoaze Sketchbook", 
+  "height": "157", 
+  "id": 36823, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 520, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09444_8.jpg", 
+  "title": "A Rock Arch on Burgh Island", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-rock-arch-on-burgh-island-d09444", 
+  "width": "95"
+}

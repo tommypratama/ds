@@ -1,0 +1,168 @@
+{
+  "acno": "T07585", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Sir William Coldstream", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Sir William Coldstream", 
+      "gender": "Male", 
+      "id": 927, 
+      "mda": "Coldstream, Sir William", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Joshua L. Mack 2000", 
+  "dateRange": {
+    "endYear": 1940, 
+    "startYear": 1940, 
+    "text": "1940"
+  }, 
+  "dateText": "1940", 
+  "depth": "", 
+  "dimensions": "image: 263 x 191 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "191", 
+  "id": 26870, 
+  "inscription": null, 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 304, 
+      "name": "Euston Road School"
+    }
+  ], 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12704, 
+                "name": "Dover, Fort Burgoyne"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 810, 
+                "name": "Kent"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3830, 
+                "name": "World War II - non-specific"
+              }
+            ], 
+            "id": 37, 
+            "name": "military: World War II"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Fort Burgoyn, Dover", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/coldstream-fort-burgoyn-dover-t07585", 
+  "width": "263"
+}

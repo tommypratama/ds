@@ -1,0 +1,124 @@
+{
+  "acno": "P05332", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Gerd Winner", 
+  "catalogueGroup": {
+    "accessionRanges": "P05327-P05332", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65585, 
+    "shortTitle": "Berlin Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Gerd Winner", 
+      "gender": "Male", 
+      "id": 2154, 
+      "mda": "Winner, Gerd", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1970, 
+    "text": "1970-1"
+  }, 
+  "dateText": "1970\u20131", 
+  "depth": "", 
+  "dimensions": "image: 867 x 707 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Berlin Suite", 
+  "height": "707", 
+  "id": 16309, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10404, 
+                "name": "Berlin - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4870, 
+                "name": "underground station"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Gerd Winner", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05332_8.jpg", 
+  "title": "Underground Station Hallesches Tor", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-underground-station-hallesches-tor-p05332", 
+  "width": "867"
+}

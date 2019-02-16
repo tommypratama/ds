@@ -1,0 +1,88 @@
+{
+  "acno": "T11028", 
+  "acquisitionYear": 1997, 
+  "all_artists": "after Thomas Gainsborough", 
+  "catalogueGroup": {
+    "accessionRanges": "T11015-T11074", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66044, 
+    "shortTitle": "English Scenery"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1727, 
+      "date": "1727\u20131788", 
+      "displayOrder": 1, 
+      "fc": "Thomas Gainsborough", 
+      "gender": "Male", 
+      "id": 199, 
+      "mda": "Gainsborough, Thomas", 
+      "role": "after", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "image: 187 x 257 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "English Scenery", 
+  "height": "257", 
+  "id": 25332, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11028_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-title-not-known-t11028", 
+  "width": "187"
+}

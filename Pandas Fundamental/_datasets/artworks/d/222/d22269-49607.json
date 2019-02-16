@@ -1,0 +1,118 @@
+{
+  "acno": "D22269", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22269", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D222/D22269_E.jpg", 
+          "height": 343, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150563, 
+  "catalogueGroup": {
+    "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65870, 
+    "shortTitle": "Worcester and Shrewsbury Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "?1831"
+  }, 
+  "dateText": "?1831", 
+  "depth": "", 
+  "dimensions": "support: 114 x 191 mm", 
+  "finberg": "CCXXXIX 64", 
+  "foreignTitle": null, 
+  "groupTitle": "Worcester and Shrewsbury Sketchbook", 
+  "height": "191", 
+  "id": 49607, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 129, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column"
+              }, 
+              {
+                "id": 7063, 
+                "name": "portico"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22269_8.jpg", 
+  "title": "Chester Castle and St Bridget\u2019s Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-chester-castle-and-st-bridgets-church-d22269", 
+  "width": "114"
+}

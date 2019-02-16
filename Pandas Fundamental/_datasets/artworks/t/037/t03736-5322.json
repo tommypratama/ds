@@ -1,0 +1,122 @@
+{
+  "acno": "T03736", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Eric Gill", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Eric Gill", 
+      "gender": "Male", 
+      "id": 1168, 
+      "mda": "Gill, Eric", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "c.1913"
+  }, 
+  "dateText": "c.1913", 
+  "depth": "38", 
+  "dimensions": "object: 455 x 175 x 38 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "175", 
+  "id": 5322, 
+  "inscription": null, 
+  "medium": "Stone", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 303, 
+      "name": "Direct Carving"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 252, 
+                "name": "Christ"
+              }, 
+              {
+                "id": 634, 
+                "name": "Crucifixion"
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03736_8.jpg", 
+  "title": "Crucifix", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gill-crucifix-t03736", 
+  "width": "455"
+}

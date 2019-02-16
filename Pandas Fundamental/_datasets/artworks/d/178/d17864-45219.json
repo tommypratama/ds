@@ -1,0 +1,101 @@
+{
+  "acno": "D17864", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D17834-D17912; D40961-D40965", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65842, 
+    "shortTitle": "Old London Bridge Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1823, 
+    "text": "c.1823-4"
+  }, 
+  "dateText": "c.1823\u20134", 
+  "depth": "", 
+  "dimensions": "support: 103 x 167 mm", 
+  "finberg": "CCV 16", 
+  "foreignTitle": null, 
+  "groupTitle": "Old London Bridge Sketchbook", 
+  "height": "167", 
+  "id": 45219, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 33, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17864_8.jpg", 
+  "title": "Road, with Trees at Side, Leading to River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-road-with-trees-at-side-leading-to-river-d17864", 
+  "width": "103"
+}

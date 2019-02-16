@@ -1,0 +1,124 @@
+{
+  "acno": "T06931", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Sir Eduardo Paolozzi", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Sir Eduardo Paolozzi", 
+      "gender": "Male", 
+      "id": 1738, 
+      "mda": "Paolozzi, Sir Eduardo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1995", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1950, 
+    "text": "1950"
+  }, 
+  "dateText": "1950", 
+  "depth": "280", 
+  "dimensions": "object: 280 x 240 x 280 mm, 0.5 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "240", 
+  "id": 21233, 
+  "inscription": null, 
+  "medium": "Tin", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 425, 
+      "name": "Independent Group"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 959, 
+                "name": "machine age"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5605, 
+                "name": "scientific model"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Eduardo Paolozzi Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06931_8.jpg", 
+  "title": "Tin Head - Mr Cruikshank", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-tin-head-mr-cruikshank-t06931", 
+  "width": "280"
+}

@@ -1,0 +1,96 @@
+{
+  "acno": "T03256", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Hans Hofmann", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1880, 
+      "date": "1880\u20131966", 
+      "displayOrder": 1, 
+      "fc": "Hans Hofmann", 
+      "gender": "Male", 
+      "id": 1298, 
+      "mda": "Hofmann, Hans", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1981", 
+  "dateRange": {
+    "endYear": 1959, 
+    "startYear": 1959, 
+    "text": "1959"
+  }, 
+  "dateText": "1959", 
+  "depth": "", 
+  "dimensions": "support: 2140 x 1327 mm\r\n", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1327", 
+  "id": 6602, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 416, 
+      "name": "Abstract Expressionism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Hans Hofmann", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03256_8.jpg", 
+  "title": "Pompeii", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hofmann-pompeii-t03256", 
+  "width": "2140"
+}

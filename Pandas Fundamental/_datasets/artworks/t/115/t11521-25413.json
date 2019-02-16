@@ -1,0 +1,150 @@
+{
+  "acno": "T11521", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Sell Cotman", 
+  "catalogueGroup": {
+    "accessionRanges": "T11487-T11534", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66050, 
+    "shortTitle": "Liber Studiorum: A Series of Sketches and Studies"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Sell Cotman", 
+      "gender": "Male", 
+      "id": 116, 
+      "mda": "Cotman, John Sell", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 181 x 119 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum: A Series of Sketches and Studies", 
+  "height": "119", 
+  "id": 25413, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1250, 
+                "name": "Shropshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7824, 
+                "name": "Wenlock Priory"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4774, 
+                "name": "priory"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11521_8.jpg", 
+  "title": "Wenlock Priory, Salop", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-wenlock-priory-salop-t11521", 
+  "width": "181"
+}

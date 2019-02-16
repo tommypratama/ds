@@ -1,0 +1,82 @@
+{
+  "acno": "T12567", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Edward Krasinski", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20132004", 
+      "displayOrder": 1, 
+      "fc": "Edward Krasinski", 
+      "gender": "Male", 
+      "id": 10009, 
+      "mda": "Krasinski, Edward", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Tate Patrons 2007", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1969, 
+    "text": "1969, reconstructed 1978"
+  }, 
+  "dateText": "1969, reconstructed 1978", 
+  "depth": "", 
+  "dimensions": "115 x 490 x 300 mm", 
+  "foreignTitle": "Bez tytulu", 
+  "groupTitle": null, 
+  "height": "300", 
+  "id": 91780, 
+  "inscription": null, 
+  "medium": "Wood, string and cardboard", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15901, 
+                "name": "fragility"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11240, 
+                "name": "string"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Edward Krasinksi, courtesy Foksal Gallery Foundation, Warsaw", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12567_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/krasinski-untitled-t12567", 
+  "width": "490"
+}

@@ -1,0 +1,103 @@
+{
+  "acno": "D08268", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1806, 
+    "text": "c.1806-7"
+  }, 
+  "dateText": "c.1806\u20137", 
+  "depth": "", 
+  "dimensions": "support: 289 x 228 mm", 
+  "finberg": "CXXI L", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "228", 
+  "id": 35657, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1115, 
+                "name": "duck"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08268_8.jpg", 
+  "title": "Brook and Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-brook-and-trees-d08268", 
+  "width": "289"
+}

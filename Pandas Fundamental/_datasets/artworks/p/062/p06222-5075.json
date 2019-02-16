@@ -1,0 +1,118 @@
+{
+  "acno": "P06222", 
+  "acquisitionYear": 1975, 
+  "all_artists": "David Gentleman", 
+  "catalogueGroup": {
+    "accessionRanges": "P06215-P06224", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65323, 
+    "shortTitle": "Ten Topographical Lithographs"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "David Gentleman", 
+      "gender": "Male", 
+      "id": 1148, 
+      "mda": "Gentleman, David", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 654 x 518 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Ten Topographical Lithographs", 
+  "height": "518", 
+  "id": 5075, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9189, 
+                "name": "Orford, Orford Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2357, 
+                "name": "Suffolk"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Gentleman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06222_8.jpg", 
+  "title": "Orford Castle, Suffolk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gentleman-orford-castle-suffolk-p06222", 
+  "width": "654"
+}

@@ -1,0 +1,94 @@
+{
+  "acno": "D40074", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1145526, 
+  "catalogueGroup": {
+    "accessionRanges": "D12099-D12108; D12110-D12122; D40047; D40073-D40074; D40299", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 190844, 
+    "shortTitle": "Farnley and Related Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1822, 
+    "text": "c.1822-4"
+  }, 
+  "dateText": "c.1822\u20134", 
+  "depth": "", 
+  "dimensions": "support: 230 x 372 mm", 
+  "finberg": "CLIV X c", 
+  "foreignTitle": null, 
+  "groupTitle": "Farnley and Related Subjects", 
+  "height": "372", 
+  "id": 63842, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40074_8.jpg", 
+  "title": "Two Figures Standing on Caley Crags at Otley Chevin above Wharfedale", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-figures-standing-on-caley-crags-at-otley-chevin-above-wharfedale-d40074", 
+  "width": "230"
+}

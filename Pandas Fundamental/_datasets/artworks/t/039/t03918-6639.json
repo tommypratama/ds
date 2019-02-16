@@ -1,0 +1,431 @@
+{
+  "acno": "T03918", 
+  "acquisitionYear": 1984, 
+  "all_artists": "William Hogarth, Charles Mosley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1697, 
+      "date": "1697\u20131764", 
+      "displayOrder": 1, 
+      "fc": "William Hogarth", 
+      "gender": "Male", 
+      "id": 265, 
+      "mda": "Hogarth, William", 
+      "role": "artist", 
+      "startLetter": "H"
+    }, 
+    {
+      "birthYear": 1744, 
+      "date": "1744\u2013c.1770", 
+      "displayOrder": 2, 
+      "fc": "Charles Mosley", 
+      "gender": "Male", 
+      "id": 2715, 
+      "mda": "Mosley, Charles", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Mrs M.L. Hemphill 1984", 
+  "dateRange": {
+    "endYear": 1749, 
+    "startYear": 1749, 
+    "text": "1749"
+  }, 
+  "dateText": "1749", 
+  "depth": "", 
+  "dimensions": "image: 432 x 569 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "569", 
+  "id": 6639, 
+  "inscription": null, 
+  "medium": "Etching and engraving on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 343, 
+      "name": "Modern Moral Subject"
+    }
+  ], 
+  "subjectCount": 36, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5660, 
+                "name": "Calais - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2315, 
+                "name": "English"
+              }, 
+              {
+                "id": 1721, 
+                "name": "French"
+              }, 
+              {
+                "id": 2131, 
+                "name": "Scottish"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2130, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 152, 
+            "name": "dress: nations/regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5990, 
+                "name": "arrest"
+              }
+            ], 
+            "id": 147, 
+            "name": "crime and punishment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3678, 
+                "name": "patriotism"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1306, 
+                "name": "poverty"
+              }
+            ], 
+            "id": 156, 
+            "name": "health and welfare"
+          }, 
+          {
+            "children": [
+              {
+                "id": 843, 
+                "name": "satire"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4023, 
+                "name": "Hogarth, William"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying"
+              }, 
+              {
+                "id": 1106, 
+                "name": "looking / watching"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5992, 
+                "name": "emaciation"
+              }, 
+              {
+                "id": 1122, 
+                "name": "obesity"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }, 
+              {
+                "id": 271, 
+                "name": "walking"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 5993, 
+                "name": "drawbridge"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 997, 
+                "name": "city wall"
+              }, 
+              {
+                "id": 8513, 
+                "name": "gate"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12608, 
+                "name": "chef"
+              }, 
+              {
+                "id": 2567, 
+                "name": "trader"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2113, 
+                "name": "friar / monk"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5989, 
+                "name": "bayonet"
+              }, 
+              {
+                "id": 5988, 
+                "name": "gun, rifle"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19668, 
+                "name": "cauldron"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5193, 
+                "name": "meat"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5674, 
+                "name": "crow"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1269, 
+                "name": "eating"
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2123, 
+                "name": "politics: Jacobites, c.1688-1745"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03918_8.jpg", 
+  "title": "O the Roast Beef of Old England (\u2018The Gate of Calais\u2019)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hogarth-mosley-o-the-roast-beef-of-old-england-the-gate-of-calais-t03918", 
+  "width": "432"
+}

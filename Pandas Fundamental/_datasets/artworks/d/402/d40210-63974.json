@@ -1,0 +1,74 @@
+{
+  "acno": "D40210", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140104, 
+  "catalogueGroup": {
+    "accessionRanges": "D00001-D00003; D00005; D00046-D00053; D00115; D00187; D00191; D00195; D00716; D40210-D40212; D40266", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127044, 
+    "shortTitle": "Oxford and Other Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1789, 
+    "startYear": 1789, 
+    "text": "c.1789"
+  }, 
+  "dateText": "c.1789", 
+  "depth": "", 
+  "dimensions": "support: 199 x 157 mm", 
+  "finberg": "III E b", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford and Other Subjects", 
+  "height": "157", 
+  "id": 63974, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3745, 
+                "name": "winged horse"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40210_8.jpg", 
+  "title": "A Winged Horse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-winged-horse-d40210", 
+  "width": "199"
+}

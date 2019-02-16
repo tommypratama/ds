@@ -1,0 +1,66 @@
+{
+  "acno": "N06023", 
+  "acquisitionYear": 1953, 
+  "all_artists": "Pablo Picasso", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1881, 
+      "date": "1881\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Pablo Picasso", 
+      "gender": "Male", 
+      "id": 1767, 
+      "mda": "Picasso, Pablo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1953", 
+  "dateRange": {
+    "endYear": 1932, 
+    "startYear": 1932, 
+    "text": "1932, cast 1952"
+  }, 
+  "dateText": "1932, cast 1952", 
+  "depth": "395", 
+  "dimensions": "object: 655 x 582 x 395 mm", 
+  "foreignTitle": "Coq", 
+  "groupTitle": null, 
+  "height": "582", 
+  "id": 11860, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4856, 
+                "name": "cockerel"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Succession Picasso/DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06023_8.jpg", 
+  "title": "Cock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/picasso-cock-n06023", 
+  "width": "655"
+}

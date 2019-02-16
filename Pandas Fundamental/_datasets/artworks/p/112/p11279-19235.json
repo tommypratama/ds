@@ -1,0 +1,82 @@
+{
+  "acno": "P11279", 
+  "acquisitionYear": 1990, 
+  "all_artists": "Germaine Richier", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1902, 
+      "date": "1902\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Germaine Richier", 
+      "gender": "Female", 
+      "id": 1839, 
+      "mda": "Richier, Germaine", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Mme Fran\u00e7oise Guiter 1990", 
+  "dateRange": {
+    "endYear": 1949, 
+    "startYear": 1948, 
+    "text": "1948-9, published 1961"
+  }, 
+  "dateText": "1948\u20139, published 1961", 
+  "depth": "", 
+  "dimensions": "image: 366 x 288 mm", 
+  "foreignTitle": "Insectes", 
+  "groupTitle": null, 
+  "height": "288", 
+  "id": 19235, 
+  "inscription": null, 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7201, 
+                "name": "insect"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11279_8.jpg", 
+  "title": "Insects", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richier-insects-p11279", 
+  "width": "366"
+}

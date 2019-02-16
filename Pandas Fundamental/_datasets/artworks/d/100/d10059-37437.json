@@ -1,0 +1,83 @@
+{
+  "acno": "D10059", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D09987-D10204; D40829-D40833", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65778, 
+    "shortTitle": "Review at Portsmouth Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1814, 
+    "startYear": 1814, 
+    "text": "1814"
+  }, 
+  "dateText": "1814", 
+  "depth": "", 
+  "dimensions": "support: 119 x 82 mm", 
+  "finberg": "CXXXVI 63 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Review at Portsmouth Sketchbook", 
+  "height": "82", 
+  "id": 37437, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 128, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11481, 
+                "name": "hull"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }, 
+              {
+                "id": 1163, 
+                "name": "ship, warship"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10059_8.jpg", 
+  "title": "Bow and Stern of Tigre [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bow-and-stern-of-tigre-turner-d10059", 
+  "width": "119"
+}

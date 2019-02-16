@@ -1,0 +1,136 @@
+{
+  "acno": "D25294", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151546, 
+  "catalogueGroup": {
+    "accessionRanges": "D25124; D25133; D25142; D25144; D25145; D25151; D25153; D25162; D25176; D25184; D25189; D25194; D25204; D25211; D25222; D25224; D25226; D25251; D25282; D25283; D25284; D25294; D25308; D25310; D25473; D25474; D36222; D40191; D40192", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163281, 
+    "shortTitle": "Identified or Likely Subjects, Possibly for 'England and Wales'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1825, 
+    "startYear": 1825, 
+    "text": "c.1825"
+  }, 
+  "dateText": "c.1825", 
+  "depth": "", 
+  "dimensions": "support: 310 x 492 mm", 
+  "finberg": "CCLXIII 172", 
+  "foreignTitle": null, 
+  "groupTitle": "Identified or Likely Subjects, Possibly for 'England and Wales'", 
+  "height": "492", 
+  "id": 52631, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10617, 
+                "name": "Custom House"
+              }, 
+              {
+                "id": 7764, 
+                "name": "London Bridge"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25294_8.jpg", 
+  "title": "?The Custom House, London, from the River Thames", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-custom-house-london-from-the-river-thames-d25294", 
+  "width": "310"
+}

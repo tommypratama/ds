@@ -1,0 +1,66 @@
+{
+  "acno": "N04209", 
+  "acquisitionYear": 1926, 
+  "all_artists": "William Graveney", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1904, 
+      "date": "1904\u20131984", 
+      "displayOrder": 1, 
+      "fc": "William Graveney", 
+      "gender": "Male", 
+      "id": 1205, 
+      "mda": "Graveney, William", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Sir Philip Sassoon 1926", 
+  "dateRange": {
+    "endYear": 1926, 
+    "startYear": 1926, 
+    "text": "exhibited 1926"
+  }, 
+  "dateText": "exhibited 1926", 
+  "depth": "152", 
+  "dimensions": "object: 235 x 254 x 152 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "254", 
+  "id": 5599, 
+  "inscription": null, 
+  "medium": "Wood", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4929, 
+                "name": "cormorant"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Cormorants", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/graveney-cormorants-n04209", 
+  "width": "235"
+}

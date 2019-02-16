@@ -1,0 +1,102 @@
+{
+  "acno": "D05414", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D05414", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D54/D05414_E.jpg", 
+          "height": 336, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139194, 
+  "catalogueGroup": {
+    "accessionRanges": "D05376-D05427; D40694-D40696", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65734, 
+    "shortTitle": "Shipwreck (1) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "c.1805"
+  }, 
+  "dateText": "c.1805", 
+  "depth": "", 
+  "dimensions": "support: 118 x 185 mm", 
+  "finberg": "LXXXVII 39", 
+  "foreignTitle": null, 
+  "groupTitle": "Shipwreck (1) Sketchbook", 
+  "height": "185", 
+  "id": 32806, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 51, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11481, 
+                "name": "hull"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }, 
+              {
+                "id": 1163, 
+                "name": "ship, warship"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05414_8.jpg", 
+  "title": "Sterns of Men-of-War", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sterns-of-men-of-war-d05414", 
+  "width": "118"
+}

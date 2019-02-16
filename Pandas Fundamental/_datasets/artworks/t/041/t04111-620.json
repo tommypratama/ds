@@ -1,0 +1,112 @@
+{
+  "acno": "T04111", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Arnold Auerbach", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131978", 
+      "displayOrder": 1, 
+      "fc": "Arnold Auerbach", 
+      "gender": "Male", 
+      "id": 675, 
+      "mda": "Auerbach, Arnold", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Galerie Huber und Reichard and Mrs Jean M. Auerbach, the artist's widow 1985", 
+  "dateRange": {
+    "endYear": 1928, 
+    "startYear": 1928, 
+    "text": "1928"
+  }, 
+  "dateText": "1928", 
+  "depth": "230", 
+  "dimensions": "object: 420 x 181 x 230 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "181", 
+  "id": 620, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 322, 
+      "name": "Vorticism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 959, 
+                "name": "machine age"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 reserved", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04111_8.jpg", 
+  "title": "Mechanised Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/auerbach-mechanised-head-t04111", 
+  "width": "420"
+}

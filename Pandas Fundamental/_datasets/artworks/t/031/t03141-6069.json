@@ -1,0 +1,138 @@
+{
+  "acno": "T03141", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Dame Barbara Hepworth", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Dame Barbara Hepworth", 
+      "gender": "Female", 
+      "id": 1274, 
+      "mda": "Hepworth, Dame Barbara", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the executors of the artist's estate 1980", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "360", 
+  "dimensions": "object: 740 x 676 x 360 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "676", 
+  "id": 6069, 
+  "inscription": null, 
+  "medium": "Wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3868, 
+                "name": "Epidauros"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1145, 
+                "name": "Greece"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3303, 
+                "name": "amphitheatre"
+              }
+            ], 
+            "id": 23, 
+            "name": "places of entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11829, 
+                "name": "place of entertainment"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03141_8.jpg", 
+  "title": "Pierced Form (Epidauros)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-pierced-form-epidauros-t03141", 
+  "width": "740"
+}

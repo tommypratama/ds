@@ -1,0 +1,128 @@
+{
+  "acno": "N03041", 
+  "acquisitionYear": 1915, 
+  "all_artists": "Sir Charles John Holmes", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131936", 
+      "displayOrder": 1, 
+      "fc": "Sir Charles John Holmes", 
+      "gender": "Male", 
+      "id": 1304, 
+      "mda": "Holmes, Sir Charles John", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Michael Sadler through the Art Fund 1915", 
+  "dateRange": {
+    "endYear": 1914, 
+    "startYear": 1914, 
+    "text": "1914"
+  }, 
+  "dateText": "1914", 
+  "depth": "", 
+  "dimensions": "support: 686 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "762", 
+  "id": 6672, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5664, 
+                "name": "Purley"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 471, 
+                "name": "Surrey"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5662, 
+                "name": "kiln"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1792, 
+                "name": "smoke"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03041_8.jpg", 
+  "title": "The Burning Kiln", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/holmes-the-burning-kiln-n03041", 
+  "width": "686"
+}

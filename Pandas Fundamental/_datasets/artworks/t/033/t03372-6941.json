@@ -1,0 +1,154 @@
+{
+  "acno": "T03372", 
+  "acquisitionYear": 1982, 
+  "all_artists": "John Hubbard", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "John Hubbard", 
+      "gender": "Male", 
+      "id": 1319, 
+      "mda": "Hubbard, John", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1980, 
+    "text": "1980-1"
+  }, 
+  "dateText": "1980\u20131", 
+  "depth": "", 
+  "dimensions": "support: 2032 x 1930 mm\r\n", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1930", 
+  "id": 6941, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4633, 
+                "name": "Dartmoor"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1558, 
+                "name": "Devon"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13639, 
+                "name": "Haytor Quarry"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13637, 
+                "name": "quarry"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Hubbard", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03372_8.jpg", 
+  "title": "Haytor Quarry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hubbard-haytor-quarry-t03372", 
+  "width": "2032"
+}

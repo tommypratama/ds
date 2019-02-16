@@ -1,0 +1,110 @@
+{
+  "acno": "N06250", 
+  "acquisitionYear": 1954, 
+  "all_artists": "Karl Schmidt-Rottluff", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1884, 
+      "date": "1884\u20131976", 
+      "displayOrder": 1, 
+      "fc": "Karl Schmidt-Rottluff", 
+      "gender": "Male", 
+      "id": 1904, 
+      "mda": "Schmidt-Rottluff, Karl", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the executors of Dr Rosa Shapire 1954", 
+  "dateRange": {
+    "endYear": 1917, 
+    "startYear": 1917, 
+    "text": "1917"
+  }, 
+  "dateText": "1917", 
+  "depth": "165", 
+  "dimensions": "object: 343 x 133 x 165 mm", 
+  "foreignTitle": "M\u00e4nnlicher Kopf", 
+  "groupTitle": null, 
+  "height": "133", 
+  "id": 13180, 
+  "inscription": null, 
+  "medium": "Wood", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 296, 
+      "name": "Br\u00fccke"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 305, 
+      "name": "Expressionism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06250_8.jpg", 
+  "title": "Male Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/schmidt-rottluff-male-head-n06250", 
+  "width": "343"
+}

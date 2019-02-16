@@ -1,0 +1,100 @@
+{
+  "acno": "P77289", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Tony Cragg", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "Tony Cragg", 
+      "gender": "Male", 
+      "id": 953, 
+      "mda": "Cragg, Tony", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1989", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1988, 
+    "text": "1988"
+  }, 
+  "dateText": "1988", 
+  "depth": "", 
+  "dimensions": "image: 300 x 347 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "347", 
+  "id": 17318, 
+  "inscription": "date inscribed", 
+  "medium": "Aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }, 
+              {
+                "id": 264, 
+                "name": "bowl"
+              }, 
+              {
+                "id": 1951, 
+                "name": "flask"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2911, 
+                "name": "laboratory equipment"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1308, 
+                "name": "ecology"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77289_8.jpg", 
+  "title": "Laboratory Still Life No. 1, State 1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cragg-laboratory-still-life-no-1-state-1-p77289", 
+  "width": "300"
+}

@@ -1,0 +1,130 @@
+{
+  "acno": "D27531", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1133331, 
+  "catalogueGroup": {
+    "accessionRanges": "D27518-D27519; D27523; D27525-D27526; D27530-D27531; D27539; D27604-D27605; D27609; D27612; D27618-D27624; D27660-D27678; D27680-D27684; D27710; D41487", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 115618, 
+    "shortTitle": "Watercolours Related to Samuel Rogers's Italy"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1827, 
+    "startYear": 1826, 
+    "text": "c.1826-7"
+  }, 
+  "dateText": "c.1826\u20137", 
+  "depth": "", 
+  "dimensions": "support: 277 x 345 mm", 
+  "finberg": "CCLXXX 14", 
+  "foreignTitle": null, 
+  "groupTitle": "Watercolours Related to Samuel Rogers's Italy", 
+  "height": "345", 
+  "id": 54858, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9070, 
+                "name": "Bologna, Torre Asinelli"
+              }, 
+              {
+                "id": 9071, 
+                "name": "Bologna, Torre Garisenda"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8115, 
+                "name": "Rogers, Samuel, 'Italy'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27531_8.jpg", 
+  "title": "Vignette Study of Leaning Towers of Bologna (Torre Asinelli and Torre Garisenda), ?for Rogers\u2019s \u2018Italy\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vignette-study-of-leaning-towers-of-bologna-torre-asinelli-and-torre-garisenda-for-d27531", 
+  "width": "277"
+}

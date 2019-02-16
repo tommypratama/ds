@@ -1,0 +1,70 @@
+{
+  "acno": "T01389", 
+  "acquisitionYear": 1970, 
+  "all_artists": "William Turnbull", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132012", 
+      "displayOrder": 1, 
+      "fc": "William Turnbull", 
+      "gender": "Male", 
+      "id": 2075, 
+      "mda": "Turnbull, William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1970", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "540", 
+  "dimensions": "object: 559 x 1845 x 540 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1845", 
+  "id": 14584, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 William Turnbull. All Rights Reserved, DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01389_8.jpg", 
+  "title": "Butt", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turnbull-butt-t01389", 
+  "width": "559"
+}

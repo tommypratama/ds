@@ -1,0 +1,86 @@
+{
+  "acno": "T03607", 
+  "acquisitionYear": 1983, 
+  "all_artists": "John Constable", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1810, 
+    "startYear": 1810, 
+    "text": "1810"
+  }, 
+  "dateText": "1810", 
+  "depth": "", 
+  "dimensions": "support: 316 x 175 mm\r\nframe: 360 x 210 x 40 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "175", 
+  "id": 2628, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 699, 
+                "name": "cloak"
+              }, 
+              {
+                "id": 2303, 
+                "name": "hat, bonnet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03607_8.jpg", 
+  "title": "Study of a Girl in a Cloak and Bonnet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-study-of-a-girl-in-a-cloak-and-bonnet-t03607", 
+  "width": "316"
+}

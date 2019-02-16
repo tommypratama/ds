@@ -1,0 +1,120 @@
+{
+  "acno": "T10433", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Downman", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1750, 
+      "date": "1750\u20131824", 
+      "displayOrder": 1, 
+      "fc": "John Downman", 
+      "gender": "Male", 
+      "id": 159, 
+      "mda": "Downman, John", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1773, 
+    "startYear": 1773, 
+    "text": "1773"
+  }, 
+  "dateText": "1773", 
+  "depth": "", 
+  "dimensions": "support: 261 x 362 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "362", 
+  "id": 22828, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2872, 
+                "name": "Nice - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2607, 
+                "name": "cave"
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10433_8.jpg", 
+  "title": "View near Nice: A Cave on the Shore", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/downman-view-near-nice-a-cave-on-the-shore-t10433", 
+  "width": "261"
+}

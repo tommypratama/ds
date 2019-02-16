@@ -1,0 +1,132 @@
+{
+  "acno": "D15326", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1132621, 
+  "catalogueGroup": {
+    "accessionRanges": "D15296-D15466; D40616-D40618", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65823, 
+    "shortTitle": "Albano, Nemi, Rome Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 189 x 113 mm", 
+  "finberg": "CLXXXII 17 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Albano, Nemi, Rome Sketchbook", 
+  "height": "113", 
+  "id": 42682, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 36, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 28220, 
+                "name": "Albano, Tomb of Pompey"
+              }, 
+              {
+                "id": 28227, 
+                "name": "Castel Gandolfo, Palazzo Pontificio"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11496, 
+                "name": "tomb"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15326_8.jpg", 
+  "title": "The Walls of the Pope\u2019s Palace, Castel Gandolfo; and Three Views of the So-Called Tomb of Pompey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-walls-of-the-popes-palace-castel-gandolfo-and-three-views-of-the-so-called-tomb-d15326", 
+  "width": "189"
+}

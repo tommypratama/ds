@@ -1,0 +1,129 @@
+{
+  "acno": "D12705", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D12705", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D127/D12705_E.jpg", 
+          "height": 355, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D12702-D12883; D40663-D40665", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65802, 
+    "shortTitle": "Waterloo and Rhine Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1817, 
+    "startYear": 1817, 
+    "text": "1817"
+  }, 
+  "dateText": "1817", 
+  "depth": "", 
+  "dimensions": "support: 150 x 94 mm", 
+  "finberg": "CLX 2 v", 
+  "foreignTitle": null, 
+  "groupTitle": "Waterloo and Rhine Sketchbook", 
+  "height": "94", 
+  "id": 40073, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 6, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3381, 
+                "name": "Belgium"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12236, 
+                "name": "Bruges, Belfry"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2987, 
+                "name": "bell tower"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12705_8.jpg", 
+  "title": "The Halles and Belfry, Bruges, from the Grand\u2019 Place", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-halles-and-belfry-bruges-from-the-grand-place-d12705", 
+  "width": "150"
+}

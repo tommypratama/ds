@@ -1,0 +1,102 @@
+{
+  "acno": "D26137", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1136065, 
+  "catalogueGroup": {
+    "accessionRanges": "D26096-D26258", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65893, 
+    "shortTitle": "Edinburgh Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "1834"
+  }, 
+  "dateText": "1834", 
+  "depth": "", 
+  "dimensions": "support: 111 x 181 mm", 
+  "finberg": "CCLXVIII 22 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Edinburgh Sketchbook", 
+  "height": "181", 
+  "id": 53474, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 46, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26137_8.jpg", 
+  "title": "View on the Road to St Mary\u2019s Loch, ?Glenlude Farm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-on-the-road-to-st-marys-loch-glenlude-farm-d26137", 
+  "width": "111"
+}

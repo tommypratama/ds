@@ -1,0 +1,92 @@
+{
+  "acno": "T07541", 
+  "acquisitionYear": 1999, 
+  "all_artists": "David Nash", 
+  "catalogueGroup": {
+    "accessionRanges": "T07539-T07544", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66086, 
+    "shortTitle": "Pyramid, Sphere, Cube"
+  }, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "David Nash", 
+      "gender": "Male", 
+      "id": 1688, 
+      "mda": "Nash, David", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1999", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1997, 
+    "text": "1997-8"
+  }, 
+  "dateText": "1997\u20138", 
+  "depth": "3500", 
+  "dimensions": "displayed: 3200 x 4500 x 3500 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Pyramid, Sphere, Cube", 
+  "height": "4500", 
+  "id": 26708, 
+  "inscription": null, 
+  "medium": "Oak", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Nash", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07541_8.jpg", 
+  "title": "Cube", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nash-cube-t07541", 
+  "width": "3200"
+}

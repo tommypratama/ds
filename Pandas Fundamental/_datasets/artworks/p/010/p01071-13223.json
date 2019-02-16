@@ -1,0 +1,108 @@
+{
+  "acno": "P01071", 
+  "acquisitionYear": 1975, 
+  "all_artists": "William Scott", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131989", 
+      "displayOrder": 1, 
+      "fc": "William Scott", 
+      "gender": "Male", 
+      "id": 1916, 
+      "mda": "Scott, William", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Robert Simon 1975", 
+  "dateRange": {
+    "endYear": 1949, 
+    "startYear": 1948, 
+    "text": "1948-9"
+  }, 
+  "dateText": "1948\u20139", 
+  "depth": "", 
+  "dimensions": "image: 333 x 413 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "413", 
+  "id": 13223, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-the-harbour-p01071", 
+  "width": "333"
+}

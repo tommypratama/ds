@@ -1,0 +1,106 @@
+{
+  "acno": "T09926", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Joshua Cristall", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1767, 
+      "date": "1767 or 8\u20131847", 
+      "displayOrder": 1, 
+      "fc": "Joshua Cristall", 
+      "gender": "Male", 
+      "id": 123, 
+      "mda": "Cristall, Joshua", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 357 x 229 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "229", 
+  "id": 22656, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8436, 
+                "name": "Borrowdale"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1262, 
+                "name": "Cumbria"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }, 
+              {
+                "id": 1260, 
+                "name": "Lake District"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6876, 
+                "name": "pine"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09926_8.jpg", 
+  "title": "Pine Trees, Borrowdale", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cristall-pine-trees-borrowdale-t09926", 
+  "width": "357"
+}

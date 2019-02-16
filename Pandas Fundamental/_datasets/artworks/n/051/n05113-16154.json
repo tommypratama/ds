@@ -1,0 +1,147 @@
+{
+  "acno": "N05113", 
+  "acquisitionYear": 1940, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 reserved", 
+      "creativeCommons": null, 
+      "filenameBase": "N05113_125457", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N05/N05113_125457_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 83
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N05/N05113_125457_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 166
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N05/N05113_125457_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 332
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N05/N05113_125457_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 998
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Edwin Whitney-Smith", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1880, 
+      "date": "1880\u20131952", 
+      "displayOrder": 1, 
+      "fc": "Edwin Whitney-Smith", 
+      "gender": "Male", 
+      "id": 2143, 
+      "mda": "Whitney-Smith, Edwin", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1940", 
+  "dateRange": {
+    "endYear": 1910, 
+    "startYear": 1900, 
+    "text": "?c.1900-10"
+  }, 
+  "dateText": "?c.1900\u201310", 
+  "depth": "165", 
+  "dimensions": "object: 267 x 190 x 165 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "190", 
+  "id": 16154, 
+  "inscription": null, 
+  "medium": "Bronze on wooden base", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4436, 
+                "name": "Irish"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 reserved", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05113_8.jpg", 
+  "title": "The Irishman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/whitney-smith-the-irishman-n05113", 
+  "width": "267"
+}

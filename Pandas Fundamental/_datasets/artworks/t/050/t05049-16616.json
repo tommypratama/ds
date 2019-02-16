@@ -1,0 +1,156 @@
+{
+  "acno": "T05049", 
+  "acquisitionYear": 1988, 
+  "all_artists": "Sir Frank Short", 
+  "catalogueGroup": {
+    "accessionRanges": "T04873; T05042-T05074", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65602, 
+    "shortTitle": "Prints after J.M.W. Turner"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1857, 
+      "date": "1857\u20131945", 
+      "displayOrder": 1, 
+      "fc": "Sir Frank Short", 
+      "gender": "Male", 
+      "id": 492, 
+      "mda": "Short, Sir Frank", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1988", 
+  "dateRange": {
+    "endYear": 1885, 
+    "startYear": 1885, 
+    "text": "1885"
+  }, 
+  "dateText": "1885", 
+  "depth": "", 
+  "dimensions": "image: 187 x 256 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Prints after J.M.W. Turner", 
+  "height": "256", 
+  "id": 16616, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 7910, 
+                "name": "Grande Chartreuse"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Mill near the Grand Chartreuse - Dauphiny", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/short-mill-near-the-grand-chartreuse-dauphiny-t05049", 
+  "width": "187"
+}

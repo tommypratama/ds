@@ -1,0 +1,92 @@
+{
+  "acno": "T07322", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Balthasar Denner", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1685, 
+      "date": "1685\u20131749", 
+      "displayOrder": 1, 
+      "fc": "Balthasar Denner", 
+      "gender": "Male", 
+      "id": 2647, 
+      "mda": "Denner, Balthasar", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Art Fund 1997", 
+  "dateRange": {
+    "endYear": 1723, 
+    "startYear": 1723, 
+    "text": "1723"
+  }, 
+  "dateText": "1723", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 766 x 630 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "630", 
+  "id": 25951, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07322_8.jpg", 
+  "title": "A Girl in a Straw Hat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/denner-a-girl-in-a-straw-hat-t07322", 
+  "width": "766"
+}

@@ -1,0 +1,114 @@
+{
+  "acno": "D06095", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06095", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D60/D06095_E.jpg", 
+          "height": 346, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130276, 
+  "catalogueGroup": {
+    "accessionRanges": "D06072-D06178; D40655-D40658", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65744, 
+    "shortTitle": "Windsor and Eton Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1806, 
+    "text": "c.1806-8"
+  }, 
+  "dateText": "c.1806\u20138", 
+  "depth": "", 
+  "dimensions": "support: 107 x 182 mm", 
+  "finberg": "XCVII 24", 
+  "foreignTitle": null, 
+  "groupTitle": "Windsor and Eton Sketchbook", 
+  "height": "182", 
+  "id": 33486, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 49, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06095_8.jpg", 
+  "title": "Sailing Barges", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sailing-barges-d06095", 
+  "width": "107"
+}

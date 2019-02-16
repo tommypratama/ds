@@ -1,0 +1,70 @@
+{
+  "acno": "T07037", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Antoni Malinowski", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1955, 
+      "date": "born 1955", 
+      "displayOrder": 1, 
+      "fc": "Antoni Malinowski", 
+      "gender": "Male", 
+      "id": 2377, 
+      "mda": "Malinowski, Antoni", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1995", 
+  "dateRange": {
+    "endYear": 1991, 
+    "startYear": 1991, 
+    "text": "1991"
+  }, 
+  "dateText": "1991", 
+  "depth": "", 
+  "dimensions": "support: 1828 x 916 mm\r\nsupport: 1828 x 916 mm\r\nsupport: 1828 x 916 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "916", 
+  "id": 21510, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Antoni Malinowski", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07037_8.jpg", 
+  "title": "Trigonal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/malinowski-trigonal-t07037", 
+  "width": "1828"
+}

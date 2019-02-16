@@ -1,0 +1,92 @@
+{
+  "acno": "P01871", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Norman Stevens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "1937\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Norman Stevens", 
+      "gender": "Male", 
+      "id": 1998, 
+      "mda": "Stevens, Norman", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Christie's Contemporary Art 1979", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1977, 
+    "text": "1977-8"
+  }, 
+  "dateText": "1977\u20138", 
+  "depth": "", 
+  "dimensions": "image: 435 x 546 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "546", 
+  "id": 13881, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13546, 
+                "name": "Hardy, Thomas, 'The Darkling Thrush'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Darkling Thrush", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stevens-darkling-thrush-p01871", 
+  "width": "435"
+}

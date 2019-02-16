@@ -1,0 +1,132 @@
+{
+  "acno": "T01049", 
+  "acquisitionYear": 1968, 
+  "all_artists": "Allan Ramsay", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1713, 
+      "date": "1713\u20131784", 
+      "displayOrder": 1, 
+      "fc": "Allan Ramsay", 
+      "gender": "Male", 
+      "id": 438, 
+      "mda": "Ramsay, Allan", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by the Friends of the Tate Gallery 1968", 
+  "dateRange": {
+    "endYear": 1754, 
+    "startYear": 1754, 
+    "text": "1754"
+  }, 
+  "dateText": "1754", 
+  "depth": "", 
+  "dimensions": "support: 762 x 635 mm\r\nframe: 876 x 750 x 60 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "635", 
+  "id": 12305, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14532, 
+                "name": "Auchinleck, Alexander Boswell, Lord"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4702, 
+                "name": "aristocrat"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4962, 
+                "name": "judge"
+              }
+            ], 
+            "id": 125, 
+            "name": "crime and punishment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2848, 
+                "name": "robe"
+              }, 
+              {
+                "id": 5040, 
+                "name": "wig"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01049_8.jpg", 
+  "title": "Alexander Boswell, Lord Auchinleck", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ramsay-alexander-boswell-lord-auchinleck-t01049", 
+  "width": "762"
+}

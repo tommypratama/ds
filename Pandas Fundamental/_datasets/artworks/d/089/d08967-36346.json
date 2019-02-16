@@ -1,0 +1,137 @@
+{
+  "acno": "D08967", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134678, 
+  "catalogueGroup": {
+    "accessionRanges": "D08965-D09016; D41530", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65770, 
+    "shortTitle": "Sandycombe and Yorkshire Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1812, 
+    "startYear": 1809, 
+    "text": "c.1809-12"
+  }, 
+  "dateText": "c.1809\u201312", 
+  "depth": "", 
+  "dimensions": "support: 126 x 201 mm", 
+  "finberg": "CXXVII 3", 
+  "foreignTitle": null, 
+  "groupTitle": "Sandycombe and Yorkshire Sketchbook", 
+  "height": "201", 
+  "id": 36346, 
+  "inscription": null, 
+  "medium": "Pen and ink and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9055, 
+                "name": "Twickenham, Sandycombe Lodge"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan / elevation"
+              }, 
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08967_8.jpg", 
+  "title": "A Ground Plan Design for Sandycombe Lodge, Twickenham", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ground-plan-design-for-sandycombe-lodge-twickenham-d08967", 
+  "width": "126"
+}

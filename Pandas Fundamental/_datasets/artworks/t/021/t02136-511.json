@@ -1,0 +1,100 @@
+{
+  "acno": "T02136", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Carl Andre", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Carl Andre", 
+      "gender": "Male", 
+      "id": 648, 
+      "mda": "Andre, Carl", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by David Novros through the American Federation of Arts 1977", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "", 
+  "dimensions": "support: 216 x 279 mm\r\nframe: 390 x 446 x 25 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "279", 
+  "id": 511, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Carl Andre/VAGA, New York and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02136_8.jpg", 
+  "title": "Drawing for \u2018The Perfect Painting\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/andre-drawing-for-the-perfect-painting-t02136", 
+  "width": "216"
+}

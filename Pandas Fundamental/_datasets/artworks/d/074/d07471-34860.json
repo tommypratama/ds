@@ -1,0 +1,112 @@
+{
+  "acno": "D07471", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1136667, 
+  "catalogueGroup": {
+    "accessionRanges": "D07353-D07511; D40670", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65755, 
+    "shortTitle": "Perspective Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1809, 
+    "text": "c.1809"
+  }, 
+  "dateText": "c.1809", 
+  "depth": "", 
+  "dimensions": "support: 88 x 115 mm", 
+  "finberg": "CVIII 71", 
+  "foreignTitle": null, 
+  "groupTitle": "Perspective Sketchbook", 
+  "height": "115", 
+  "id": 34860, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "pageNumber": 143, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }, 
+              {
+                "id": 22695, 
+                "name": "perspective"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07471_8.jpg", 
+  "title": "Diagrams of a Cube in Perspective and a Pantograph, from an Unidentified Source", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-diagrams-of-a-cube-in-perspective-and-a-pantograph-from-an-unidentified-source-d07471", 
+  "width": "88"
+}

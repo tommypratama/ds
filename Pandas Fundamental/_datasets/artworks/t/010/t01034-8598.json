@@ -1,0 +1,102 @@
+{
+  "acno": "T01034", 
+  "acquisitionYear": 1968, 
+  "all_artists": "Kaspar-Thomas Lenk", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Kaspar-Thomas Lenk", 
+      "gender": "Male", 
+      "id": 1493, 
+      "mda": "Lenk, Kaspar-Thomas", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1968", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "356", 
+  "dimensions": "object: 1194 x 1168 x 356 mm", 
+  "foreignTitle": "Schichtung 10a (Nosferatu)", 
+  "groupTitle": null, 
+  "height": "1168", 
+  "id": 8598, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 21405, 
+                "name": "film: Murnau, F.W., 'Nosferatu, eine Symphonie des Grauens''"
+              }
+            ], 
+            "id": 10058, 
+            "name": "film, music and ballet"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3981, 
+                "name": "menace"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Stratification 10a (Nosferatu)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lenk-stratification-10a-nosferatu-t01034", 
+  "width": "1194"
+}

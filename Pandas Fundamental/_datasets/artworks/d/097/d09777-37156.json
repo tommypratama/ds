@@ -1,0 +1,130 @@
+{
+  "acno": "D09777", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09777", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D97/D09777_E.jpg", 
+          "height": 349, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1146203, 
+  "catalogueGroup": {
+    "accessionRanges": "D09668-D09788; D40819-D40820", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65775, 
+    "shortTitle": "Devon Rivers, No.2 Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1814, 
+    "startYear": 1814, 
+    "text": "?1814"
+  }, 
+  "dateText": "?1814", 
+  "depth": "", 
+  "dimensions": "support: 110 x 178 mm", 
+  "finberg": "CXXXIII 78", 
+  "foreignTitle": null, 
+  "groupTitle": "Devon Rivers, No.2 Sketchbook", 
+  "height": "178", 
+  "id": 37156, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 157, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8236, 
+                "name": "Farnley, Farnley Hall"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6005, 
+                "name": "avenue"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09777_8.jpg", 
+  "title": "Trees in the Avenue at Farnley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-trees-in-the-avenue-at-farnley-d09777", 
+  "width": "110"
+}

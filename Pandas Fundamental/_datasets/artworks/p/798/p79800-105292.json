@@ -1,0 +1,102 @@
+{
+  "acno": "P79800", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Richard Hamilton", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Richard Hamilton", 
+      "gender": "Male", 
+      "id": 1244, 
+      "mda": "Hamilton, Richard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Tate Members 2010", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "", 
+  "dimensions": "image: 384 x 490 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "490", 
+  "id": 105292, 
+  "inscription": null, 
+  "medium": "Collotype and screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 765, 
+                "name": "car"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Richard Hamilton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79800_8.jpg", 
+  "title": "AAH!(1961)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-aah1961-p79800", 
+  "width": "384"
+}

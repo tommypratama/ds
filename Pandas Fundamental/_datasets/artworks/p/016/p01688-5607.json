@@ -1,0 +1,118 @@
+{
+  "acno": "P01688", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Derrick Greaves", 
+  "catalogueGroup": {
+    "accessionRanges": "P01688-P01697", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65562, 
+    "shortTitle": "Tetrad Pamphlets Vol. I Nos. I-X"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Derrick Greaves", 
+      "gender": "Male", 
+      "id": 1210, 
+      "mda": "Greaves, Derrick", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Tetrad Press through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 305 x 511 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Tetrad Pamphlets Vol. I Nos. I-X", 
+  "height": "511", 
+  "id": 5607, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1571, 
+                "name": "poem"
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4290, 
+                "name": "thorn"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Derrick Greaves", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01688_8.jpg", 
+  "title": "Poem 1968", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/greaves-poem-1968-p01688", 
+  "width": "305"
+}

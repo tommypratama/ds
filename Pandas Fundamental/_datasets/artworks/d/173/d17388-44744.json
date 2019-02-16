@@ -1,0 +1,93 @@
+{
+  "acno": "D17388", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D17388", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D173/D17388_E.jpg", 
+          "height": 342, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D17365-D17507; D40691-D40693", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXCIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65837, 
+    "shortTitle": "Medway Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1820, 
+    "startYear": 1820, 
+    "text": "1820"
+  }, 
+  "dateText": "1820", 
+  "depth": "", 
+  "dimensions": "support: 112 x 190 mm", 
+  "finberg": "CXCIX 14 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Medway Sketchbook", 
+  "height": "190", 
+  "id": 44744, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 30, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17388_8.jpg", 
+  "title": "Ships on Medway, with Town Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ships-on-medway-with-town-beyond-d17388", 
+  "width": "112"
+}

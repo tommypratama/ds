@@ -1,0 +1,130 @@
+{
+  "acno": "P78520", 
+  "acquisitionYear": 2001, 
+  "all_artists": "Gavin Turk", 
+  "catalogueGroup": {
+    "accessionRanges": "P78511-P78520", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66646, 
+    "shortTitle": "Bugs: A Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1967, 
+      "date": "born 1967", 
+      "displayOrder": 1, 
+      "fc": "Gavin Turk", 
+      "gender": "Male", 
+      "id": 2596, 
+      "mda": "Turk, Gavin", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 2001", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "image: 355 x 250 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Bugs: A Portfolio", 
+  "height": "250", 
+  "id": 66645, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15933, 
+                "name": "Kafka, Franz, 'Metamorphosis'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal / human"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13030, 
+                "name": "beetle"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3405, 
+                "name": "quotation"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5930, 
+                "name": "transformation"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Gavin Turk", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78520_8.jpg", 
+  "title": "Metamorphosis", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turk-metamorphosis-p78520", 
+  "width": "355"
+}

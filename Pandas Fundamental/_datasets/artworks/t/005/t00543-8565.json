@@ -1,0 +1,106 @@
+{
+  "acno": "T00543", 
+  "acquisitionYear": 1962, 
+  "all_artists": "Wilhelm Lehmbruck", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1881, 
+      "date": "1881\u20131919", 
+      "displayOrder": 1, 
+      "fc": "Wilhelm Lehmbruck", 
+      "gender": "Male", 
+      "id": 1490, 
+      "mda": "Lehmbruck, Wilhelm", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Bequeathed by the Earl of Sandwich 1962", 
+  "dateRange": {
+    "endYear": 1910, 
+    "startYear": 1910, 
+    "text": "1910"
+  }, 
+  "dateText": "1910", 
+  "depth": "248", 
+  "dimensions": "object: 425 x 419 x 248 mm", 
+  "foreignTitle": "Gesenkter Frauenkopf", 
+  "groupTitle": null, 
+  "height": "419", 
+  "id": 8565, 
+  "inscription": null, 
+  "medium": "Cast stone on wooden base", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17187, 
+                "name": "Lehmbruck, Anita"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2594, 
+                "name": "looking down"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00543_8.jpg", 
+  "title": "Inclined Head of a Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lehmbruck-inclined-head-of-a-woman-t00543", 
+  "width": "425"
+}

@@ -1,0 +1,110 @@
+{
+  "acno": "T07973", 
+  "acquisitionYear": 2003, 
+  "all_artists": "David Tindle", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "David Tindle", 
+      "gender": "Male", 
+      "id": 2044, 
+      "mda": "Tindle, David", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2003", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1988, 
+    "text": "1988"
+  }, 
+  "dateText": "1988", 
+  "depth": "", 
+  "dimensions": "support: 812 x 1224 mm\r\nframe: 902 x 1307 x 33 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1224", 
+  "id": 77077, 
+  "inscription": null, 
+  "medium": "Tempera on board", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 841, 
+                "name": "curtain"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 760, 
+                "name": "jacket"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3298, 
+                "name": "telephone"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Telephone", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tindle-telephone-t07973", 
+  "width": "812"
+}

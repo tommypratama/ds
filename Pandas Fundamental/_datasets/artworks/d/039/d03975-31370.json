@@ -1,0 +1,95 @@
+{
+  "acno": "D03975", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03974-D03984", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65717, 
+    "shortTitle": "On a Lee Shore (1) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1800, 
+    "text": "c.1800-2"
+  }, 
+  "dateText": "c.1800\u20132", 
+  "depth": "", 
+  "dimensions": "support: 117 x 182 mm", 
+  "finberg": "LXVII 2", 
+  "foreignTitle": null, 
+  "groupTitle": "On a Lee Shore (1) Sketchbook", 
+  "height": "182", 
+  "id": 31370, 
+  "inscription": null, 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 7, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03975_8.jpg", 
+  "title": "Four Ships at Anchor, Seen beyond Breakers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-four-ships-at-anchor-seen-beyond-breakers-d03975", 
+  "width": "117"
+}

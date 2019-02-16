@@ -1,0 +1,150 @@
+{
+  "acno": "N04935", 
+  "acquisitionYear": 1938, 
+  "all_artists": "Edward Wadsworth", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1889, 
+      "date": "1889\u20131949", 
+      "displayOrder": 1, 
+      "fc": "Edward Wadsworth", 
+      "gender": "Male", 
+      "id": 2113, 
+      "mda": "Wadsworth, Edward", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1938", 
+  "dateRange": {
+    "endYear": 1937, 
+    "startYear": 1937, 
+    "text": "1937"
+  }, 
+  "dateText": "1937", 
+  "depth": "", 
+  "dimensions": "support: 711 x 1016 mm\r\nframe: 910 x 1215 x 85 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1016", 
+  "id": 15774, 
+  "inscription": "date inscribed", 
+  "medium": "Tempera on canvas on wood", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1688, 
+      "name": "British Surrealism"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 321, 
+      "name": "Unit One"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5252, 
+                "name": "starfish"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6095, 
+                "name": "float"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4616, 
+                "name": "scientific instrument"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6093, 
+                "name": "spade"
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04935_8.jpg", 
+  "title": "The Beached Margin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wadsworth-the-beached-margin-n04935", 
+  "width": "711"
+}

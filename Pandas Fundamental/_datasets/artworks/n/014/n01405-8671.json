@@ -1,0 +1,216 @@
+{
+  "acno": "N01405", 
+  "acquisitionYear": 1894, 
+  "all_artists": "John Frederick Lewis", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1805, 
+      "date": "1805\u20131876", 
+      "displayOrder": 1, 
+      "fc": "John Frederick Lewis", 
+      "gender": "Male", 
+      "id": 350, 
+      "mda": "Lewis, John Frederick", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1894", 
+  "dateRange": {
+    "endYear": 1860, 
+    "startYear": 1860, 
+    "text": "1860"
+  }, 
+  "dateText": "1860", 
+  "depth": "", 
+  "dimensions": "support: 298 x 775 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "775", 
+  "id": 8671, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on mahogany", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 5866, 
+      "name": "Orientalist"
+    }
+  ], 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5860, 
+                "name": "Edfu"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1147, 
+                "name": "Egypt"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5861, 
+                "name": "Egypt"
+              }
+            ], 
+            "id": 152, 
+            "name": "dress: nations/regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5503, 
+                "name": "Egyptian"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4144, 
+                "name": "Middle Eastern"
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 672, 
+                "name": "camel"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3924, 
+                "name": "desert"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1746, 
+                "name": "minaret"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 874, 
+                "name": "tent"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 844, 
+                "name": "rug"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01405_8.jpg", 
+  "title": "Edfu, Upper Egypt", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-edfu-upper-egypt-n01405", 
+  "width": "298"
+}

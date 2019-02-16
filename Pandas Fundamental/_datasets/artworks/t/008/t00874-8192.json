@@ -1,0 +1,80 @@
+{
+  "acno": "T00874", 
+  "acquisitionYear": 1966, 
+  "all_artists": "Joseph Konzal", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1905, 
+      "date": "1905\u20131994", 
+      "displayOrder": 1, 
+      "fc": "Joseph Konzal", 
+      "gender": "Male", 
+      "id": 1432, 
+      "mda": "Konzal, Joseph", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Joseph L. Shulman through the American Federation of Arts 1966", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1963, 
+    "text": "1963-4"
+  }, 
+  "dateText": "1963\u20134", 
+  "depth": "368", 
+  "dimensions": "object: 1880 x 470 x 368 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "470", 
+  "id": 8192, 
+  "inscription": null, 
+  "medium": "Steel on stone base", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Cretan Queen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/konzal-cretan-queen-t00874", 
+  "width": "1880"
+}

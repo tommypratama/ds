@@ -1,0 +1,149 @@
+{
+  "acno": "AR00235", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Andy Warhol", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Andy Warhol", 
+      "gender": "Male", 
+      "id": 2121, 
+      "mda": "Warhol, Andy", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1986, 
+    "startYear": 1985, 
+    "text": "c.1985-6"
+  }, 
+  "dateText": "c.1985\u20136", 
+  "depth": "32", 
+  "dimensions": "support: 1830 x 2032 x 32 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2032", 
+  "id": 97397, 
+  "inscription": null, 
+  "medium": "Acrylic paint and silkscreen on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 437, 
+      "name": "Pop Art"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2998, 
+                "name": "China"
+              }, 
+              {
+                "id": 3201, 
+                "name": "Japan"
+              }, 
+              {
+                "id": 3001, 
+                "name": "Russia"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9331, 
+                "name": "map"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3188, 
+                "name": "missile"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 233, 
+                "name": "politics: Cold War, post-1945"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3592, 
+                "name": "war"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Map of Eastern U.S.S.R. Missile Bases", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-map-of-eastern-ussr-missile-bases-ar00235", 
+  "width": "1830"
+}

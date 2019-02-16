@@ -1,0 +1,108 @@
+{
+  "acno": "P01887", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Michael McKinnon", 
+  "catalogueGroup": {
+    "accessionRanges": "P01887-P01890", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65217, 
+    "shortTitle": "Fibonacci Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Michael McKinnon", 
+      "gender": "Male", 
+      "id": 1609, 
+      "mda": "McKinnon, Michael", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Editions Alecto 1979", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 635 x 825 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Fibonacci Portfolio", 
+  "height": "825", 
+  "id": 9117, 
+  "inscription": "date inscribed", 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13237, 
+                "name": "mathematics, Fibonacci"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8034, 
+                "name": "sequence"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Michael McKinnon", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01887_8.jpg", 
+  "title": "Arabian Reel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mckinnon-arabian-reel-p01887", 
+  "width": "635"
+}

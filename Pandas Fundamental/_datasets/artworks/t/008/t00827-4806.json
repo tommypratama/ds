@@ -1,0 +1,108 @@
+{
+  "acno": "T00827", 
+  "acquisitionYear": 1966, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist through the American Federation of Arts 1966", 
+  "dateRange": {
+    "endYear": 1920, 
+    "startYear": 1919, 
+    "text": "1919-20, replica 1985"
+  }, 
+  "dateText": "1919\u201320, replica 1985", 
+  "depth": "190", 
+  "dimensions": "object: 616 x 241 x 190 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "241", 
+  "id": 4806, 
+  "inscription": null, 
+  "medium": "Metal, wood and electric motor", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 12072, 
+      "name": "Kinetic Art"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }, 
+              {
+                "id": 6745, 
+                "name": "rhythm"
+              }, 
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00827_8.jpg", 
+  "title": "Kinetic Construction (Standing Wave)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-kinetic-construction-standing-wave-t00827", 
+  "width": "616"
+}

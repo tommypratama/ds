@@ -1,0 +1,106 @@
+{
+  "acno": "T01132", 
+  "acquisitionYear": 1969, 
+  "all_artists": "Francis Danby", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1793, 
+      "date": "1793\u20131861", 
+      "displayOrder": 1, 
+      "fc": "Francis Danby", 
+      "gender": "Male", 
+      "id": 135, 
+      "mda": "Danby, Francis", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the Friends of the Tate Gallery 1969", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1845, 
+    "text": "1845"
+  }, 
+  "dateText": "1845", 
+  "depth": "", 
+  "dimensions": "support: 1073 x 1524 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1524", 
+  "id": 3003, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 681, 
+                "name": "morning"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01132_8.jpg", 
+  "title": "The Wood Nymph\u2019s Hymn to the Rising Sun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/danby-the-wood-nymphs-hymn-to-the-rising-sun-t01132", 
+  "width": "1073"
+}

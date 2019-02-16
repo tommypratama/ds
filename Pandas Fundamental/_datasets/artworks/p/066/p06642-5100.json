@@ -1,0 +1,142 @@
+{
+  "acno": "P06642", 
+  "acquisitionYear": 1976, 
+  "all_artists": "David Gentleman", 
+  "catalogueGroup": {
+    "accessionRanges": "P06636-P06642", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65326, 
+    "shortTitle": "The Bath Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "David Gentleman", 
+      "gender": "Male", 
+      "id": 1148, 
+      "mda": "Gentleman, David", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1976", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 394 x 525 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Bath Suite", 
+  "height": "525", 
+  "id": 5100, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8223, 
+                "name": "Bath and Northeast Somerset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7586, 
+                "name": "Bath, Bath Abbey"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }, 
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1473, 
+                "name": "shop"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Gentleman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06642_8.jpg", 
+  "title": "Bath Abbey Precinct", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gentleman-bath-abbey-precinct-p06642", 
+  "width": "394"
+}

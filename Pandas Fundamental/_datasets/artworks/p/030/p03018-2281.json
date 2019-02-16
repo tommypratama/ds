@@ -1,0 +1,156 @@
+{
+  "acno": "P03018", 
+  "acquisitionYear": 1918, 
+  "all_artists": "Sir George Clausen", 
+  "catalogueGroup": {
+    "accessionRanges": "P03001-P03006; P03011-P03022; P03031-P03036; P03039-P03044; P03059-P03064", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 66105, 
+    "shortTitle": "The Great War: Britain's Efforts and Ideals"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1852, 
+      "date": "1852\u20131944", 
+      "displayOrder": 1, 
+      "fc": "Sir George Clausen", 
+      "gender": "Male", 
+      "id": 96, 
+      "mda": "Clausen, Sir George", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Ministry of Information 1918", 
+  "dateRange": {
+    "endYear": 1917, 
+    "startYear": 1917, 
+    "text": "1917"
+  }, 
+  "dateText": "1917", 
+  "depth": "", 
+  "dimensions": "image: 460 x 347 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Great War: Britain's Efforts and Ideals", 
+  "height": "347", 
+  "id": 2281, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 10525, 
+      "name": "British War Art"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3529, 
+                "name": "artillery"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7182, 
+                "name": "furnace"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5869, 
+                "name": "factory"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1326, 
+                "name": "fire"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7060, 
+                "name": "home front"
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03018_8.jpg", 
+  "title": "Making Guns: The Furnace", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clausen-making-guns-the-furnace-p03018", 
+  "width": "460"
+}

@@ -1,0 +1,106 @@
+{
+  "acno": "T05833", 
+  "acquisitionYear": 1990, 
+  "all_artists": "James Ward", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131859", 
+      "displayOrder": 1, 
+      "fc": "James Ward", 
+      "gender": "Male", 
+      "id": 581, 
+      "mda": "Ward, James", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1990", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1811, 
+    "text": "1811"
+  }, 
+  "dateText": "1811", 
+  "depth": "", 
+  "dimensions": "support: 386 x 269 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "269", 
+  "id": 19302, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5478, 
+                "name": "Gordale Scar"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05833_8.jpg", 
+  "title": "Gordale, Looking Out (Study for \u2018Gordale Scar\u2019)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ward-gordale-looking-out-study-for-gordale-scar-t05833", 
+  "width": "386"
+}

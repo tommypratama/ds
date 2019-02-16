@@ -1,0 +1,103 @@
+{
+  "acno": "D21543", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D21543", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D215/D21543_E.jpg", 
+          "height": 359, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D21412-D21536; D21538-D21587; D40997-D40998", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65864, 
+    "shortTitle": "Genoa and Florence Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1828, 
+    "text": "1828"
+  }, 
+  "dateText": "1828", 
+  "depth": "", 
+  "dimensions": "support: 143 x 97 mm", 
+  "finberg": "CCXXXIII 69", 
+  "foreignTitle": null, 
+  "groupTitle": "Genoa and Florence Sketchbook", 
+  "height": "97", 
+  "id": 48885, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 139, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21543_8.jpg", 
+  "title": "Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-d21543", 
+  "width": "143"
+}

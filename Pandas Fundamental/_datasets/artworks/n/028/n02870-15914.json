@@ -1,0 +1,158 @@
+{
+  "acno": "N02870", 
+  "acquisitionYear": 1912, 
+  "all_artists": "Henry Walton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1746, 
+      "date": "1746\u20131813", 
+      "displayOrder": 1, 
+      "fc": "Henry Walton", 
+      "gender": "Male", 
+      "id": 579, 
+      "mda": "Walton, Henry", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1912", 
+  "dateRange": {
+    "endYear": 1776, 
+    "startYear": 1776, 
+    "text": "exhibited 1776"
+  }, 
+  "dateText": "exhibited 1776", 
+  "depth": "", 
+  "dimensions": "support: 762 x 635 mm\r\nframe: 942 x 820 x 85 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "635", 
+  "id": 15914, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 533, 
+                "name": "apron"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6076, 
+                "name": "poultry, turkey"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2796, 
+                "name": "cooking"
+              }, 
+              {
+                "id": 1220, 
+                "name": "maid"
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2921, 
+                "name": "turkey"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02870_8.jpg", 
+  "title": "Plucking the Turkey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walton-plucking-the-turkey-n02870", 
+  "width": "762"
+}

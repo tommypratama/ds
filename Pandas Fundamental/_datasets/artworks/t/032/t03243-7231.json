@@ -1,0 +1,160 @@
+{
+  "acno": "T03243", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Allen Jones", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Allen Jones", 
+      "gender": "Male", 
+      "id": 1368, 
+      "mda": "Jones, Allen", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Purchased 1981", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "support: 1835 x 1835 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1835", 
+  "id": 7231, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11221, 
+                "name": "Los Angeles, Santa Monica"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 584, 
+                "name": "balcony"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9653, 
+                "name": "camera"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1076, 
+                "name": "leg"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Allen Jones", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03243_8.jpg", 
+  "title": "Santa Monica Shore", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-santa-monica-shore-t03243", 
+  "width": "1835"
+}

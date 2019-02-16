@@ -1,0 +1,126 @@
+{
+  "acno": "T05467", 
+  "acquisitionYear": 1988, 
+  "all_artists": "John William Inchbold", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1830, 
+      "date": "1830\u20131888", 
+      "displayOrder": 1, 
+      "fc": "John William Inchbold", 
+      "gender": "Male", 
+      "id": 293, 
+      "mda": "Inchbold, John William", 
+      "role": "artist", 
+      "startLetter": "I"
+    }
+  ], 
+  "creditLine": "Presented by the Patrons of British Art through the Friends of the Tate Gallery 1988", 
+  "dateRange": {
+    "endYear": 1876, 
+    "startYear": 1876, 
+    "text": "exhibited 1876"
+  }, 
+  "dateText": "exhibited 1876", 
+  "depth": "", 
+  "dimensions": "support: 1254 x 913 mm\r\nframe: 1580 x 1230 x 100 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "913", 
+  "id": 17247, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5478, 
+                "name": "Gordale Scar"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05467_8.jpg", 
+  "title": "Gordale Scar, Yorkshire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/inchbold-gordale-scar-yorkshire-t05467", 
+  "width": "1254"
+}

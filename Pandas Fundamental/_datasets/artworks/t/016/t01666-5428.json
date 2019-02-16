@@ -1,0 +1,80 @@
+{
+  "acno": "T01666", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Joan Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1868, 
+      "date": "1868\u20131908", 
+      "displayOrder": 1, 
+      "fc": "Joan Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1187, 
+      "mda": "Gonz\u00e1lez, Joan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mme Roberta Gonzalez-Richard, the artist's niece 1972", 
+  "dateRange": {
+    "endYear": 1902, 
+    "startYear": 1901, 
+    "text": "c.1901-2"
+  }, 
+  "dateText": "c.1901\u20132", 
+  "depth": "", 
+  "dimensions": "support: 235 x 333 mm", 
+  "foreignTitle": "Paysage d\u00e9coup\u00e9", 
+  "groupTitle": null, 
+  "height": "333", 
+  "id": 5428, 
+  "inscription": null, 
+  "medium": "Pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01666_8.jpg", 
+  "title": "Part of a Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-part-of-a-landscape-t01666", 
+  "width": "235"
+}

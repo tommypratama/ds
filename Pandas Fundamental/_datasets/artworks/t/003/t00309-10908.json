@@ -1,0 +1,98 @@
+{
+  "acno": "T00309", 
+  "acquisitionYear": 1959, 
+  "all_artists": "Roderic O'Conor", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1860, 
+      "date": "1860\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Roderic O'Conor", 
+      "gender": "Male", 
+      "id": 2191, 
+      "mda": "O'Conor, Roderic", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1959", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "?1913"
+  }, 
+  "dateText": "?1913", 
+  "depth": "", 
+  "dimensions": "support: 610 x 502 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "502", 
+  "id": 10908, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4750, 
+                "name": "iris"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00309_8.jpg", 
+  "title": "Iris", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oconor-iris-t00309", 
+  "width": "610"
+}

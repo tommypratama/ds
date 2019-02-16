@@ -1,0 +1,106 @@
+{
+  "acno": "T01340", 
+  "acquisitionYear": 1970, 
+  "all_artists": "David Annesley", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "David Annesley", 
+      "gender": "Male", 
+      "id": 650, 
+      "mda": "Annesley, David", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1970", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1964, 
+    "text": "1964"
+  }, 
+  "dateText": "1964", 
+  "depth": "368", 
+  "dimensions": "object: 1283 x 1759 x 368 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1759", 
+  "id": 522, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 572, 
+                "name": "energy"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Annesley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01340_8.jpg", 
+  "title": "Swing Low", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/annesley-swing-low-t01340", 
+  "width": "1283"
+}

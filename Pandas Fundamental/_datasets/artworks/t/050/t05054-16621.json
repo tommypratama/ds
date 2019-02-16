@@ -1,0 +1,112 @@
+{
+  "acno": "T05054", 
+  "acquisitionYear": 1988, 
+  "all_artists": "Sir Frank Short", 
+  "catalogueGroup": {
+    "accessionRanges": "T04873; T05042-T05074", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65602, 
+    "shortTitle": "Prints after J.M.W. Turner"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1857, 
+      "date": "1857\u20131945", 
+      "displayOrder": 1, 
+      "fc": "Sir Frank Short", 
+      "gender": "Male", 
+      "id": 492, 
+      "mda": "Short, Sir Frank", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1988", 
+  "dateRange": {
+    "endYear": 1888, 
+    "startYear": 1888, 
+    "text": "1888"
+  }, 
+  "dateText": "1888", 
+  "depth": "", 
+  "dimensions": "image: 181 x 264 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Prints after J.M.W. Turner", 
+  "height": "264", 
+  "id": 16621, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3425, 
+                "name": "Argyll and Bute"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7493, 
+                "name": "Ben Arthur"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Ben Arthur, Scotland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/short-ben-arthur-scotland-t05054", 
+  "width": "181"
+}

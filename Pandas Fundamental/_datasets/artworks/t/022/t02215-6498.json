@@ -1,0 +1,96 @@
+{
+  "acno": "T02215", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Ivon Hitchens", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1893, 
+      "date": "1893\u20131979", 
+      "displayOrder": 1, 
+      "fc": "Ivon Hitchens", 
+      "gender": "Male", 
+      "id": 1291, 
+      "mda": "Hitchens, Ivon", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Mary Hitchens, the artist's wife 1977", 
+  "dateRange": {
+    "endYear": 1932, 
+    "startYear": 1932, 
+    "text": "1932"
+  }, 
+  "dateText": "1932", 
+  "depth": "", 
+  "dimensions": "support: 781 x 1111 mm\r\nframe: 940 x 1270 x 60 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1111", 
+  "id": 6498, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 319, 
+      "name": "Seven and Five"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug"
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Ivon Hitchens", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02215_8.jpg", 
+  "title": "Autumn Composition, Flowers on a Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hitchens-autumn-composition-flowers-on-a-table-t02215", 
+  "width": "781"
+}

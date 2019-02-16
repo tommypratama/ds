@@ -1,0 +1,106 @@
+{
+  "acno": "T01712", 
+  "acquisitionYear": 1973, 
+  "all_artists": "Cornelius Varley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1781, 
+      "date": "1781\u20131873", 
+      "displayOrder": 1, 
+      "fc": "Cornelius Varley", 
+      "gender": "Male", 
+      "id": 568, 
+      "mda": "Varley, Cornelius", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased 1973", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "c.1805"
+  }, 
+  "dateText": "c.1805", 
+  "depth": "", 
+  "dimensions": "support: 231 x 342 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "342", 
+  "id": 15703, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6177, 
+                "name": "Millbank - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01712_8.jpg", 
+  "title": "Millbank", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/varley-millbank-t01712", 
+  "width": "231"
+}

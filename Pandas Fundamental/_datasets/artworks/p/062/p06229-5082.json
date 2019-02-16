@@ -1,0 +1,140 @@
+{
+  "acno": "P06229", 
+  "acquisitionYear": 1975, 
+  "all_artists": "David Gentleman", 
+  "catalogueGroup": {
+    "accessionRanges": "P06225-P06232", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65324, 
+    "shortTitle": "The Charleston Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "David Gentleman", 
+      "gender": "Male", 
+      "id": 1148, 
+      "mda": "Gentleman, David", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1971, 
+    "text": "1971-2"
+  }, 
+  "dateText": "1971\u20132", 
+  "depth": "", 
+  "dimensions": "image: 385 x 514 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Charleston Suite", 
+  "height": "514", 
+  "id": 5082, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13311, 
+                "name": "Charleston, Mulberry Plantation"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3529, 
+                "name": "artillery"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 447, 
+                "name": "hedge"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Gentleman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06229_8.jpg", 
+  "title": "Mulberry Plantation House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gentleman-mulberry-plantation-house-p06229", 
+  "width": "385"
+}

@@ -1,0 +1,392 @@
+{
+  "acno": "N00375", 
+  "acquisitionYear": 1847, 
+  "all_artists": "Henry Perronet Briggs", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1791, 
+      "date": "?1791\u20131844", 
+      "displayOrder": 1, 
+      "fc": "Henry Perronet Briggs", 
+      "gender": "Male", 
+      "id": 55, 
+      "mda": "Briggs, Henry Perronet", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Robert Vernon 1847", 
+  "dateRange": {
+    "endYear": 1827, 
+    "startYear": 1827, 
+    "text": "exhibited 1827"
+  }, 
+  "dateText": "exhibited 1827", 
+  "depth": "", 
+  "dimensions": "support: 1448 x 1956 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1956", 
+  "id": 1489, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 36, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14412, 
+                "name": "Atahualpa"
+              }, 
+              {
+                "id": 8173, 
+                "name": "Pizarro, Francisco"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1902, 
+                "name": "Native American"
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 712, 
+                "name": "talking"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14414, 
+                "name": "Cajamarca"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14415, 
+                "name": "Peru"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14423, 
+                "name": "Cajamarca, massacre of Incas, 16 Nov 1532"
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1299, 
+                "name": "exploration: South America, 16th c."
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 893, 
+                "name": "aggression"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 854, 
+                "name": "armour"
+              }, 
+              {
+                "id": 493, 
+                "name": "hat"
+              }, 
+              {
+                "id": 1901, 
+                "name": "headdress"
+              }, 
+              {
+                "id": 868, 
+                "name": "helmet"
+              }, 
+              {
+                "id": 629, 
+                "name": "jewellery"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3529, 
+                "name": "artillery"
+              }, 
+              {
+                "id": 2814, 
+                "name": "gun, handgun"
+              }, 
+              {
+                "id": 878, 
+                "name": "spear"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4032, 
+                "name": "clergyman"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3074, 
+                "name": "courtier"
+              }, 
+              {
+                "id": 870, 
+                "name": "king"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12599, 
+                "name": "explorer"
+              }
+            ], 
+            "id": 121, 
+            "name": "educational and scientific"
+          }, 
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4347, 
+                "name": "fur / hide"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1831, 
+                "name": "palm"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00375_8.jpg", 
+  "title": "The First Interview between the Spaniards and the Peruvians", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/briggs-the-first-interview-between-the-spaniards-and-the-peruvians-n00375", 
+  "width": "1448"
+}

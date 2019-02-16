@@ -1,0 +1,90 @@
+{
+  "acno": "T01093", 
+  "acquisitionYear": 1968, 
+  "all_artists": "John Walker", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "John Walker", 
+      "gender": "Male", 
+      "id": 2116, 
+      "mda": "Walker, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1968", 
+  "dateRange": {
+    "endYear": 1968, 
+    "startYear": 1968, 
+    "text": "1968"
+  }, 
+  "dateText": "1968", 
+  "depth": "", 
+  "dimensions": "support: 2675 x 6147 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "6147", 
+  "id": 15887, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }, 
+              {
+                "id": 6741, 
+                "name": "visual illusion"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Walker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01093_8.jpg", 
+  "title": "Lesson I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-lesson-i-t01093", 
+  "width": "2675"
+}

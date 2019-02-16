@@ -1,0 +1,82 @@
+{
+  "acno": "P06526", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Edwina Sandys", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Edwina Sandys", 
+      "gender": "Female", 
+      "id": 1897, 
+      "mda": "Sandys, Edwina", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "c.1972"
+  }, 
+  "dateText": "c.1972", 
+  "depth": "", 
+  "dimensions": "image: 508 x 460 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "460", 
+  "id": 13078, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4943, 
+                "name": "tulip"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Bowl of Flowers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sandys-bowl-of-flowers-p06526", 
+  "width": "508"
+}

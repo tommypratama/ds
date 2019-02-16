@@ -1,0 +1,276 @@
+{
+  "acno": "P02024", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Sir Eduardo Paolozzi", 
+  "catalogueGroup": {
+    "accessionRanges": "P02020-P02065", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65447, 
+    "shortTitle": "Bunk"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Sir Eduardo Paolozzi", 
+      "gender": "Male", 
+      "id": 1738, 
+      "mda": "Paolozzi, Sir Eduardo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1972", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "support: 389 x 283 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Bunk", 
+  "height": "283", 
+  "id": 11125, 
+  "inscription": null, 
+  "medium": "Screenprint and lithograph on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 425, 
+      "name": "Independent Group"
+    }
+  ], 
+  "subjectCount": 19, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6928, 
+                "name": "advertising"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2476, 
+                "name": "contemporary society"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6924, 
+                "name": "mother and child"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 955, 
+                "name": "ball"
+              }, 
+              {
+                "id": 10504, 
+                "name": "swing"
+              }
+            ], 
+            "id": 285, 
+            "name": "sports and games"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9811, 
+                "name": "canopy"
+              }, 
+              {
+                "id": 9521, 
+                "name": "high chair"
+              }, 
+              {
+                "id": 9520, 
+                "name": "play pen"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9497, 
+                "name": "soft toy"
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom"
+              }, 
+              {
+                "id": 3054, 
+                "name": "hallway"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6743, 
+                "name": "illogicality"
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Eduardo Paolozzi Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02024_8.jpg", 
+  "title": "5. See Mom? A Baby\u2019s Life is not all Sunshine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-5-see-mom-a-babys-life-is-not-all-sunshine-p02024", 
+  "width": "389"
+}

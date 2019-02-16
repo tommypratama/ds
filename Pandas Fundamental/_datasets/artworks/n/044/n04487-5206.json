@@ -1,0 +1,128 @@
+{
+  "acno": "N04487", 
+  "acquisitionYear": 1929, 
+  "all_artists": "Eric Gill", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Eric Gill", 
+      "gender": "Male", 
+      "id": 1168, 
+      "mda": "Gill, Eric", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1929", 
+  "dateRange": {
+    "endYear": 1929, 
+    "startYear": 1929, 
+    "text": "1929"
+  }, 
+  "dateText": "1929", 
+  "depth": "102", 
+  "dimensions": "object: 254 x 705 x 102 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "705", 
+  "id": 5206, 
+  "inscription": null, 
+  "medium": "Bath stone", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 303, 
+      "name": "Direct Carving"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15300, 
+                "name": "East Wind - flying figure"
+              }
+            ], 
+            "id": 8026, 
+            "name": "nature"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1503, 
+                "name": "flying"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 800, 
+                "name": "wind"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04487_8.jpg", 
+  "title": "The East Wind", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gill-the-east-wind-n04487", 
+  "width": "254"
+}

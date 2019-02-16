@@ -1,0 +1,76 @@
+{
+  "acno": "P01878", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Derek Hirst", 
+  "catalogueGroup": {
+    "accessionRanges": "P01878-P01882", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65347, 
+    "shortTitle": "Paradox I-V"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20132006", 
+      "displayOrder": 1, 
+      "fc": "Derek Hirst", 
+      "gender": "Male", 
+      "id": 1290, 
+      "mda": "Hirst, Derek", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Editions Alecto 1979", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 533 x 533 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Paradox I-V", 
+  "height": "533", 
+  "id": 6475, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 estate of Derek Hirst", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01878_8.jpg", 
+  "title": "Paradox I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hirst-paradox-i-p01878", 
+  "width": "533"
+}

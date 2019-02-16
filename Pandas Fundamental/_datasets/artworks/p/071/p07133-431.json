@@ -1,0 +1,86 @@
+{
+  "acno": "P07133", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Norman Ackroyd", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Norman Ackroyd", 
+      "gender": "Male", 
+      "id": 625, 
+      "mda": "Ackroyd, Norman", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 216 x 190 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "190", 
+  "id": 431, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1400, 
+                "name": "rain"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Norman Ackroyd", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07133_8.jpg", 
+  "title": "Gentle Rainstorm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ackroyd-gentle-rainstorm-p07133", 
+  "width": "216"
+}

@@ -1,0 +1,130 @@
+{
+  "acno": "T09544", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Downman", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1750, 
+      "date": "1750\u20131824", 
+      "displayOrder": 1, 
+      "fc": "John Downman", 
+      "gender": "Male", 
+      "id": 159, 
+      "mda": "Downman, John", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1773, 
+    "startYear": 1773, 
+    "text": "1773"
+  }, 
+  "dateText": "1773", 
+  "depth": "", 
+  "dimensions": "support: 261 x 364 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "364", 
+  "id": 22829, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2872, 
+                "name": "Nice - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09544_8.jpg", 
+  "title": "Near the City of Nice. (A Wide Valley)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/downman-near-the-city-of-nice-a-wide-valley-t09544", 
+  "width": "261"
+}

@@ -1,0 +1,122 @@
+{
+  "acno": "D12104", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1145506, 
+  "catalogueGroup": {
+    "accessionRanges": "D12099-D12108; D12110-D12122; D40047; D40073-D40074; D40299", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 190844, 
+    "shortTitle": "Farnley and Related Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1809, 
+    "text": "c.1809"
+  }, 
+  "dateText": "c.1809", 
+  "depth": "", 
+  "dimensions": "support: 225 x 367 mm", 
+  "finberg": "CLIV F", 
+  "foreignTitle": null, 
+  "groupTitle": "Farnley and Related Subjects", 
+  "height": "367", 
+  "id": 39473, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10599, 
+                "name": "Chevin"
+              }, 
+              {
+                "id": 10003, 
+                "name": "Wharfedale"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5007, 
+                "name": "Leeds"
+              }, 
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12104_8.jpg", 
+  "title": "Wharfedale from Caley Crags, Otley Chevin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wharfedale-from-caley-crags-otley-chevin-d12104", 
+  "width": "225"
+}

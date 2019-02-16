@@ -1,0 +1,102 @@
+{
+  "acno": "P06064", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Reg Butler", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131981", 
+      "displayOrder": 1, 
+      "fc": "Reg Butler", 
+      "gender": "Male", 
+      "id": 844, 
+      "mda": "Butler, Reg", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1968, 
+    "text": "1968-9"
+  }, 
+  "dateText": "1968\u20139", 
+  "depth": "", 
+  "dimensions": "image: 651 x 467 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "467", 
+  "id": 1878, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 424, 
+      "name": "Geometry of Fear"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Reg Butler", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06064_8.jpg", 
+  "title": "Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/butler-tower-p06064", 
+  "width": "651"
+}

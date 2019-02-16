@@ -1,0 +1,88 @@
+{
+  "acno": "N06252", 
+  "acquisitionYear": 1954, 
+  "all_artists": "Hercules Brabazon Brabazon", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1821, 
+      "date": "1821\u20131906", 
+      "displayOrder": 1, 
+      "fc": "Hercules Brabazon Brabazon", 
+      "gender": "Male", 
+      "id": 50, 
+      "mda": "Brabazon, Hercules Brabazon", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by Sir Victor A.A.H. Wellesley Bt 1954", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 254 x 330 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "330", 
+  "id": 1423, 
+  "inscription": null, 
+  "medium": "Watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16625, 
+                "name": "Akaba"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14735, 
+                "name": "Jordan"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06252_8.jpg", 
+  "title": "Akaba", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brabazon-akaba-n06252", 
+  "width": "254"
+}

@@ -1,0 +1,108 @@
+{
+  "acno": "P01760", 
+  "acquisitionYear": 1976, 
+  "all_artists": "John Berry", 
+  "catalogueGroup": {
+    "accessionRanges": "P01759-P01773; T05842-T05844", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65564, 
+    "shortTitle": "Eurominiprotopack"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "born 1925", 
+      "displayOrder": 1, 
+      "fc": "John Berry", 
+      "gender": "Male", 
+      "id": 746, 
+      "mda": "Berry, John, CBE", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1976", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1969, 
+    "text": "1969-71"
+  }, 
+  "dateText": "1969\u201371", 
+  "depth": "", 
+  "dimensions": "image: 594 x 502 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Eurominiprotopack", 
+  "height": "502", 
+  "id": 946, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 868, 
+                "name": "helmet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Helmetatec", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/berry-helmetatec-p01760", 
+  "width": "594"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "N04648", 
+  "acquisitionYear": 1932, 
+  "all_artists": "Abraham Harris Benson", 
+  "catalogueGroup": {}, 
+  "classification": null, 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1878, 
+      "date": "1878\u20131929", 
+      "displayOrder": 1, 
+      "fc": "Abraham Harris Benson", 
+      "gender": "Male", 
+      "id": 740, 
+      "mda": "Benson, Abraham Harris", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs A.H. Benson 1932", 
+  "dateRange": {
+    "endYear": 1929, 
+    "startYear": 1929, 
+    "text": "1929"
+  }, 
+  "dateText": "1929", 
+  "depth": "", 
+  "dimensions": "support: 282 x 267 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "267", 
+  "id": 934, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour on board", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12426, 
+                "name": "anemone"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04648_8.jpg", 
+  "title": "Anemones", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/benson-anemones-n04648", 
+  "width": "282"
+}

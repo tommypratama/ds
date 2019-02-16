@@ -1,0 +1,148 @@
+{
+  "acno": "T11515", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Sell Cotman", 
+  "catalogueGroup": {
+    "accessionRanges": "T11487-T11534", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66050, 
+    "shortTitle": "Liber Studiorum: A Series of Sketches and Studies"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Sell Cotman", 
+      "gender": "Male", 
+      "id": 116, 
+      "mda": "Cotman, John Sell", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 183 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum: A Series of Sketches and Studies", 
+  "height": "120", 
+  "id": 25407, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4756, 
+                "name": "Caernarfonshire and Merionethshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7640, 
+                "name": "Harlech, Harlech Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4753, 
+                "name": "Snowdonia"
+              }, 
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }, 
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11515_8.jpg", 
+  "title": "Harlech Castle, North Wales", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-harlech-castle-north-wales-t11515", 
+  "width": "183"
+}

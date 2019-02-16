@@ -1,0 +1,92 @@
+{
+  "acno": "T01594", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Julio Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1876, 
+      "date": "1876\u20131942", 
+      "displayOrder": 1, 
+      "fc": "Julio Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1188, 
+      "mda": "Gonz\u00e1lez, Julio", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mme Roberta Gonzalez-Richard, the artist's niece 1972", 
+  "dateRange": {
+    "endYear": 1904, 
+    "startYear": 1904, 
+    "text": "c.1904"
+  }, 
+  "dateText": "c.1904", 
+  "depth": "", 
+  "dimensions": "support: 362 x 267 mm\r\nframe: 649 x 474 x 29 mm", 
+  "foreignTitle": "Profil de jeune fille \u00e0 la coiffe", 
+  "groupTitle": null, 
+  "height": "267", 
+  "id": 5451, 
+  "inscription": null, 
+  "medium": "Pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1901, 
+                "name": "headdress"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01594_8.jpg", 
+  "title": "Profile of a Girl in a Head-Dress", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-profile-of-a-girl-in-a-head-dress-t01594", 
+  "width": "362"
+}

@@ -1,0 +1,150 @@
+{
+  "acno": "T13310", 
+  "acquisitionYear": 2011, 
+  "all_artists": "Piotr Janas", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1970, 
+      "date": "born 1970", 
+      "displayOrder": 1, 
+      "fc": "Piotr Janas", 
+      "gender": "Male", 
+      "id": 14955, 
+      "mda": "Janas, Piotr", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the American Patrons of Tate, courtesy of Panos Karpidas 2011", 
+  "dateRange": {
+    "endYear": 2010, 
+    "startYear": 2010, 
+    "text": "2010"
+  }, 
+  "dateText": "2010", 
+  "depth": "25", 
+  "dimensions": "support: 1100 x 2303 x 25 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2303", 
+  "id": 114473, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3718, 
+                "name": "blood"
+              }, 
+              {
+                "id": 10213, 
+                "name": "organ"
+              }, 
+              {
+                "id": 3965, 
+                "name": "viscera"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13039, 
+                "name": "mutilated"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2353, 
+                "name": "decay"
+              }, 
+              {
+                "id": 1968, 
+                "name": "violence"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 795, 
+                "name": "horror"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Piotr Janas, courtesy Foksal Gallery Foundation, Warsaw", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13310_8.jpg", 
+  "title": "Slash", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/janas-slash-t13310", 
+  "width": "1100"
+}

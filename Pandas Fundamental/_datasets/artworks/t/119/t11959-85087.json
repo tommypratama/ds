@@ -1,0 +1,76 @@
+{
+  "acno": "T11959", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Thomas Kerrich", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1748, 
+      "date": "1748\u20131828", 
+      "displayOrder": 1, 
+      "fc": "Thomas Kerrich", 
+      "gender": "Male", 
+      "id": 7945, 
+      "mda": "Kerrich, Thomas", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Angus Neill in memory of Leslie Parris 2005", 
+  "dateRange": {
+    "endYear": 1795, 
+    "startYear": 1795, 
+    "text": "c.1795"
+  }, 
+  "dateText": "c.1795", 
+  "depth": "", 
+  "dimensions": "support: 195 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "120", 
+  "id": 85087, 
+  "inscription": null, 
+  "medium": "Chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11959_8.jpg", 
+  "title": "Cloudscape with Colour Trials", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kerrich-cloudscape-with-colour-trials-t11959", 
+  "width": "195"
+}

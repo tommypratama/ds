@@ -1,0 +1,118 @@
+{
+  "acno": "N06080", 
+  "acquisitionYear": 1952, 
+  "all_artists": "Ambrose McEvoy", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1878, 
+      "date": "1878\u20131927", 
+      "displayOrder": 1, 
+      "fc": "Ambrose McEvoy", 
+      "gender": "Male", 
+      "id": 1605, 
+      "mda": "McEvoy, Ambrose", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Mrs C. Johnson 1952", 
+  "dateRange": {
+    "endYear": 1900, 
+    "startYear": 1900, 
+    "text": "1900"
+  }, 
+  "dateText": "1900", 
+  "depth": "", 
+  "dimensions": "support: 457 x 356 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "356", 
+  "id": 9091, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14432, 
+                "name": "Pimlico, Bessborough Street"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06080_8.jpg", 
+  "title": "Bessborough Street, Pimlico", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mcevoy-bessborough-street-pimlico-n06080", 
+  "width": "457"
+}

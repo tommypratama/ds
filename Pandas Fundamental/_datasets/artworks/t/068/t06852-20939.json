@@ -1,0 +1,98 @@
+{
+  "acno": "T06852", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Basil Beattie", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Basil Beattie", 
+      "gender": "Male", 
+      "id": 717, 
+      "mda": "Beattie, Basil", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1994", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 2135 x 1830 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1830", 
+  "id": 20939, 
+  "inscription": null, 
+  "medium": "Oil paint and wax on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Basil Beattie", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06852_8.jpg", 
+  "title": "Door", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beattie-door-t06852", 
+  "width": "2135"
+}

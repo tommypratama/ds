@@ -1,0 +1,104 @@
+{
+  "acno": "T04124", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Margaret Mellis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1914, 
+      "date": "1914\u20132009", 
+      "displayOrder": 1, 
+      "fc": "Margaret Mellis", 
+      "gender": "Female", 
+      "id": 1620, 
+      "mda": "Mellis, Margaret", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1985", 
+  "dateRange": {
+    "endYear": 1942, 
+    "startYear": 1942, 
+    "text": "1942"
+  }, 
+  "dateText": "1942", 
+  "depth": "", 
+  "dimensions": "support: 263 x 370 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "370", 
+  "id": 9436, 
+  "inscription": "date inscribed", 
+  "medium": "Paper and printed paper on paper on board", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10924, 
+                "name": "product packaging"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Margaret Mellis", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04124_8.jpg", 
+  "title": "Sobranie Collage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mellis-sobranie-collage-t04124", 
+  "width": "263"
+}

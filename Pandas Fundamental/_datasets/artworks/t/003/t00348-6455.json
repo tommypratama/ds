@@ -1,0 +1,120 @@
+{
+  "acno": "T00348", 
+  "acquisitionYear": 1960, 
+  "all_artists": "Roger Hilton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1911, 
+      "date": "1911\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Roger Hilton", 
+      "gender": "Male", 
+      "id": 1289, 
+      "mda": "Hilton, Roger", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1960", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "support: 1270 x 1016 mm\r\nframe: 1305 x 1050 x 55 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1016", 
+  "id": 6455, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 443, 
+      "name": "Tachism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Roger Hilton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00348_8.jpg", 
+  "title": "Grey Day by the Sea, February 1960", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hilton-grey-day-by-the-sea-february-1960-t00348", 
+  "width": "1270"
+}

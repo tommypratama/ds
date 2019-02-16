@@ -1,0 +1,102 @@
+{
+  "acno": "P77150", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Robert Adams", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1917, 
+      "date": "1917\u20131984", 
+      "displayOrder": 1, 
+      "fc": "Robert Adams", 
+      "gender": "Male", 
+      "id": 628, 
+      "mda": "Adams, Robert", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased 1986", 
+  "dateRange": {
+    "endYear": 1957, 
+    "startYear": 1957, 
+    "text": "1957"
+  }, 
+  "dateText": "1957", 
+  "depth": "", 
+  "dimensions": "image: 507 x 382 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "382", 
+  "id": 444, 
+  "inscription": "date inscribed", 
+  "medium": "Monotype on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 424, 
+      "name": "Geometry of Fear"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Robert Adams", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77150_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/adams-title-not-known-p77150", 
+  "width": "507"
+}

@@ -1,0 +1,112 @@
+{
+  "acno": "P79363", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Susan Hiller", 
+  "catalogueGroup": {
+    "accessionRanges": "P79359-P79373", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 100724, 
+    "shortTitle": "E3 4RR"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Susan Hiller", 
+      "gender": "Female", 
+      "id": 1286, 
+      "mda": "Hiller, Susan", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 2008", 
+  "dateRange": {
+    "endYear": 2007, 
+    "startYear": 2007, 
+    "text": "2007"
+  }, 
+  "dateText": "2007", 
+  "depth": "", 
+  "dimensions": "image: 206 x 280 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "E3 4RR", 
+  "height": "280", 
+  "id": 100709, 
+  "inscription": null, 
+  "medium": "Photo-etching and aquatint on copperplate on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9947, 
+                "name": "boxing"
+              }
+            ], 
+            "id": 54, 
+            "name": "sport"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 545, 
+                "name": "fighting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1628, 
+                "name": "skeleton"
+              }, 
+              {
+                "id": 2448, 
+                "name": "skull"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Susan Hiller", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79363_8.jpg", 
+  "title": "The Fight", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hiller-the-fight-p79363", 
+  "width": "206"
+}

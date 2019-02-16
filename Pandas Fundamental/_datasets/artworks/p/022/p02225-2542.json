@@ -1,0 +1,102 @@
+{
+  "acno": "P02225", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Ian Colverson", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Ian Colverson", 
+      "gender": "Male", 
+      "id": 2270, 
+      "mda": "Colverson, Ian", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1975", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "image: 762 x 502 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "502", 
+  "id": 2542, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5172, 
+                "name": "billboard"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 458, 
+                "name": "ladder"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ian Colverson", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02225_8.jpg", 
+  "title": "Project Print", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/colverson-project-print-p02225", 
+  "width": "762"
+}

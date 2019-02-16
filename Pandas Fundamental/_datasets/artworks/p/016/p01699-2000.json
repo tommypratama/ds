@@ -1,0 +1,200 @@
+{
+  "acno": "P01699", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Thomas Carr", 
+  "catalogueGroup": {
+    "accessionRanges": "P01698-P01727", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65675, 
+    "shortTitle": "School Prints"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1909, 
+      "date": "1909\u20131999", 
+      "displayOrder": 1, 
+      "fc": "Thomas Carr", 
+      "gender": "Male", 
+      "id": 866, 
+      "mda": "Carr, Thomas", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Patrick Seale Prints 1975", 
+  "dateRange": {
+    "endYear": 1946, 
+    "startYear": 1946, 
+    "text": "1946"
+  }, 
+  "dateText": "1946", 
+  "depth": "", 
+  "dimensions": "image: 495 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "School Prints", 
+  "height": "762", 
+  "id": 2000, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 1579, 
+                "name": "cushion"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1607, 
+                "name": "doll"
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models"
+          }, 
+          {
+            "children": [
+              {
+                "id": 851, 
+                "name": "hairbrush"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6465, 
+                "name": "kettle"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4766, 
+                "name": "stove"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16076, 
+                "name": "dog, Jack Russell Terrier"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 761, 
+                "name": "living room"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1566, 
+                "name": "reading"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Fireside", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/carr-fireside-p01699", 
+  "width": "495"
+}

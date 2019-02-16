@@ -1,0 +1,106 @@
+{
+  "acno": "T01366", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Tim Scott", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tim Scott", 
+      "gender": "Male", 
+      "id": 1915, 
+      "mda": "Scott, Tim", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1970", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "2159", 
+  "dimensions": "object: 2153 x 6109 x 2159 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "6109", 
+  "id": 13214, 
+  "inscription": null, 
+  "medium": "Aluminium and Perspex", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 21770, 
+                "name": "ship, galley"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tim Scott", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01366_8.jpg", 
+  "title": "Quinquereme", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-quinquereme-t01366", 
+  "width": "2153"
+}

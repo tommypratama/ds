@@ -1,0 +1,102 @@
+{
+  "acno": "T09343", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Inigo Richards", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1731, 
+      "date": "1731\u20131810", 
+      "displayOrder": 1, 
+      "fc": "John Inigo Richards", 
+      "gender": "Male", 
+      "id": 446, 
+      "mda": "Richards, John Inigo", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1764, 
+    "startYear": 1764, 
+    "text": "1764"
+  }, 
+  "dateText": "1764", 
+  "depth": "", 
+  "dimensions": "support: 146 x 222 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "222", 
+  "id": 23424, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, watercolour and pen on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9646, 
+                "name": "Drogheda"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4714, 
+                "name": "Ireland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09343_8.jpg", 
+  "title": "Ruins of the Abbey at Drogheda", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richards-ruins-of-the-abbey-at-drogheda-t09343", 
+  "width": "146"
+}

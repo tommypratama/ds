@@ -1,0 +1,86 @@
+{
+  "acno": "T01579", 
+  "acquisitionYear": 1972, 
+  "all_artists": "John Walker", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "John Walker", 
+      "gender": "Male", 
+      "id": 2116, 
+      "mda": "Walker, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1972", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "", 
+  "dimensions": "support: 2210 x 3073 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3073", 
+  "id": 15888, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 758, 
+                "name": "anxiety"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Walker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01579_8.jpg", 
+  "title": "Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-study-t01579", 
+  "width": "2210"
+}

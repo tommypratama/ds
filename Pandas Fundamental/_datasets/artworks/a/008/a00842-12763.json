@@ -1,0 +1,154 @@
+{
+  "acno": "A00842", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Dante Gabriel Rossetti", 
+  "catalogueGroup": {
+    "accessionRanges": "A00842-A00844", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65246, 
+    "shortTitle": "The Seed of David"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1828, 
+      "date": "1828\u20131882", 
+      "displayOrder": 1, 
+      "fc": "Dante Gabriel Rossetti", 
+      "gender": "Male", 
+      "id": 461, 
+      "mda": "Rossetti, Dante Gabriel", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1924", 
+  "dateRange": {
+    "endYear": 1864, 
+    "startYear": 1858, 
+    "text": "1858-64"
+  }, 
+  "dateText": "1858\u201364", 
+  "depth": "", 
+  "dimensions": "support: 279 x 133 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Seed of David", 
+  "height": "133", 
+  "id": 12763, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11506, 
+                "name": "1 Samuel, chapter 17"
+              }, 
+              {
+                "id": 1336, 
+                "name": "David"
+              }
+            ], 
+            "id": 135, 
+            "name": "Bible: Old Testament"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4117, 
+                "name": "army"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9451, 
+                "name": "sling"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1321, 
+                "name": "staff"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00842_8.jpg", 
+  "title": "David", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rossetti-david-a00842", 
+  "width": "279"
+}

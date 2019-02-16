@@ -1,0 +1,82 @@
+{
+  "acno": "P02551", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Adriana Maraz", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Adriana Maraz", 
+      "gender": "Female", 
+      "id": 1574, 
+      "mda": "Maraz, Adriana", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1981", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": "image: 489 x 648 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "648", 
+  "id": 9244, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 839, 
+                "name": "couch"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2353, 
+                "name": "decay"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Tyrants", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/maraz-tyrants-p02551", 
+  "width": "489"
+}

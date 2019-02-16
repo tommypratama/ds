@@ -1,0 +1,76 @@
+{
+  "acno": "T00172", 
+  "acquisitionYear": 1958, 
+  "all_artists": "Rodrigo Moynihan", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131990", 
+      "displayOrder": 1, 
+      "fc": "Rodrigo Moynihan", 
+      "gender": "Male", 
+      "id": 1674, 
+      "mda": "Moynihan, Rodrigo", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1958", 
+  "dateRange": {
+    "endYear": 1936, 
+    "startYear": 1935, 
+    "text": "c.1935-6"
+  }, 
+  "dateText": "c.1935\u20136", 
+  "depth": "", 
+  "dimensions": "support: 457 x 356 mm\r\nframe: 555 x 454 x 75 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "356", 
+  "id": 10372, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 313, 
+      "name": "Objective Abstraction"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Rodrigo Moynihan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00172_8.jpg", 
+  "title": "Objective Abstraction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moynihan-objective-abstraction-t00172", 
+  "width": "457"
+}

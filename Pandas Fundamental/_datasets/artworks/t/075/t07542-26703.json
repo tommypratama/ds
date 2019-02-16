@@ -1,0 +1,92 @@
+{
+  "acno": "T07542", 
+  "acquisitionYear": 1999, 
+  "all_artists": "David Nash", 
+  "catalogueGroup": {
+    "accessionRanges": "T07539-T07544", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66086, 
+    "shortTitle": "Pyramid, Sphere, Cube"
+  }, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "David Nash", 
+      "gender": "Male", 
+      "id": 1688, 
+      "mda": "Nash, David", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Purchased 1999", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1997, 
+    "text": "1997-8"
+  }, 
+  "dateText": "1997\u20138", 
+  "depth": "", 
+  "dimensions": "support: 1530 x 2750 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Pyramid, Sphere, Cube", 
+  "height": "2750", 
+  "id": 26703, 
+  "inscription": null, 
+  "medium": "Charcoal on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Nash", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07542_8.jpg", 
+  "title": "Pyramid", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nash-pyramid-t07542", 
+  "width": "1530"
+}

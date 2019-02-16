@@ -1,0 +1,128 @@
+{
+  "acno": "P03115", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Jeffery Edwards", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Jeffery Edwards", 
+      "gender": "Male", 
+      "id": 1050, 
+      "mda": "Edwards, Jeffery", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Presented by Andrew Dickerson 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 533 x 562 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "562", 
+  "id": 4088, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 841, 
+                "name": "curtain"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 458, 
+                "name": "ladder"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4568, 
+                "name": "moonlight"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jeffery Edwards", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03115_8.jpg", 
+  "title": "Moonlight", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/edwards-moonlight-p03115", 
+  "width": "533"
+}

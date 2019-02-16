@@ -1,0 +1,108 @@
+{
+  "acno": "P01098", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Dame Elisabeth Frink", 
+  "catalogueGroup": {
+    "accessionRanges": "P01097-P01101", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65304, 
+    "shortTitle": "The Canterbury Tales I"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20131993", 
+      "displayOrder": 1, 
+      "fc": "Dame Elisabeth Frink", 
+      "gender": "Female", 
+      "id": 1124, 
+      "mda": "Frink, Dame Elisabeth", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by Waddington Galleries through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 250 x 303 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Canterbury Tales I", 
+  "height": "303", 
+  "id": 4563, 
+  "inscription": null, 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8737, 
+                "name": "Chaucer, Geoffrey, 'Canterbury Tales: The Nun's Priest's Tale'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6851, 
+                "name": "attacking"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4856, 
+                "name": "cockerel"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2922, 
+                "name": "fox"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Frink Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01098_8.jpg", 
+  "title": "Chanticleer and the Fox", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-chanticleer-and-the-fox-p01098", 
+  "width": "250"
+}

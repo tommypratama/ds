@@ -1,0 +1,104 @@
+{
+  "acno": "D22373", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D22373", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D223/D22373_E.jpg", 
+          "height": 346, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1150171, 
+  "catalogueGroup": {
+    "accessionRanges": "D22323-D22462; D41056-D41057", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXL", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65871, 
+    "shortTitle": "Birmingham and Coventry Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1830, 
+    "startYear": 1830, 
+    "text": "1830"
+  }, 
+  "dateText": "1830", 
+  "depth": "", 
+  "dimensions": "support: 78 x 110 mm", 
+  "finberg": "CCXL 28", 
+  "foreignTitle": null, 
+  "groupTitle": "Birmingham and Coventry Sketchbook", 
+  "height": "110", 
+  "id": 49711, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 57, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22373_8.jpg", 
+  "title": "A Midlands Town or Village with a Church Spire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-midlands-town-or-village-with-a-church-spire-d22373", 
+  "width": "78"
+}

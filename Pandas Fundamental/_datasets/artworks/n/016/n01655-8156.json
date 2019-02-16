@@ -1,0 +1,132 @@
+{
+  "acno": "N01655", 
+  "acquisitionYear": 1898, 
+  "all_artists": "Charles Parsons Knight", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1829, 
+      "date": "1829\u20131897", 
+      "displayOrder": 1, 
+      "fc": "Charles Parsons Knight", 
+      "gender": "Male", 
+      "id": 311, 
+      "mda": "Knight, Charles Parsons", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Miss A.F.C. Knight 1898", 
+  "dateRange": {
+    "endYear": 1893, 
+    "startYear": 1893, 
+    "text": "1893"
+  }, 
+  "dateText": "1893", 
+  "depth": "", 
+  "dimensions": "support: 622 x 1105 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1105", 
+  "id": 8156, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3425, 
+                "name": "Argyll and Bute"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01655_8.jpg", 
+  "title": "The Kyles of Bute", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/knight-the-kyles-of-bute-n01655", 
+  "width": "622"
+}

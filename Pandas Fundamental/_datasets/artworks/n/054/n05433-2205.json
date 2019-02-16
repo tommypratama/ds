@@ -1,0 +1,116 @@
+{
+  "acno": "N05433", 
+  "acquisitionYear": 1943, 
+  "all_artists": "Gerard Chowne", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1875, 
+      "date": "1875\u20131917", 
+      "displayOrder": 1, 
+      "fc": "Gerard Chowne", 
+      "gender": "Male", 
+      "id": 903, 
+      "mda": "Chowne, Gerard", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Michel Salaman 1943", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "c.1913"
+  }, 
+  "dateText": "c.1913", 
+  "depth": "", 
+  "dimensions": "support: 241 x 375 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "375", 
+  "id": 2205, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19444, 
+                "name": "Granada"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17517, 
+                "name": "Spain, Andalucia"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05433_8.jpg", 
+  "title": "Spanish Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chowne-spanish-landscape-n05433", 
+  "width": "241"
+}

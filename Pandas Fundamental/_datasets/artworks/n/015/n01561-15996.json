@@ -1,0 +1,128 @@
+{
+  "acno": "N01561", 
+  "acquisitionYear": 1898, 
+  "all_artists": "George Frederic Watts", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1817, 
+      "date": "1817\u20131904", 
+      "displayOrder": 1, 
+      "fc": "George Frederic Watts", 
+      "gender": "Male", 
+      "id": 586, 
+      "mda": "Watts, George Frederic", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Bequeathed by Sir William Bowman Bt 1898", 
+  "dateRange": {
+    "endYear": 1864, 
+    "startYear": 1864, 
+    "text": "1864"
+  }, 
+  "dateText": "1864", 
+  "depth": "", 
+  "dimensions": "support: 648 x 521 mm\r\nframe: 990 x 863 x 90 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "521", 
+  "id": 15996, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3530, 
+                "name": "Watts, George Frederic"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20116, 
+                "name": "self-portraits"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01561_8.jpg", 
+  "title": "Self-Portrait", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/watts-self-portrait-n01561", 
+  "width": "648"
+}

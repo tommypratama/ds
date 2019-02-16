@@ -1,0 +1,119 @@
+{
+  "acno": "D30151", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D30130-D30266; D30268-D30295; D41223-D41224", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCC", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65928, 
+    "shortTitle": "Salzburg and Danube Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "1833"
+  }, 
+  "dateText": "1833", 
+  "depth": "", 
+  "dimensions": "support: 159 x 99 mm", 
+  "finberg": "CCC 11 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Salzburg and Danube Sketchbook", 
+  "height": "99", 
+  "id": 57411, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 24, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 13860, 
+                "name": "River Salzach"
+              }, 
+              {
+                "id": 15220, 
+                "name": "Untersberg"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7000, 
+                "name": "Austria"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30151_8.jpg", 
+  "title": "View up the Salzach to Pass Lueg, with the Hoher G\u00f6ll, Watzmann and Eastern Flank of the Untersberg", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-up-the-salzach-to-pass-lueg-with-the-hoher-goll-watzmann-and-eastern-flank-of-d30151", 
+  "width": "159"
+}

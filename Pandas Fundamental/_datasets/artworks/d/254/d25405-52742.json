@@ -1,0 +1,88 @@
+{
+  "acno": "D25405", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149876, 
+  "catalogueGroup": {
+    "accessionRanges": "D17758-D17761; D17766; D25149; D25272; D25322; D25344; D25349; D25362; D25365; D25370; D25378; D25383; D25389; D25390; D25393; D25405; D25422; D25470; D40147", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 190843, 
+    "shortTitle": "'Ports of England' Studies"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1822, 
+    "text": "c.1822-8"
+  }, 
+  "dateText": "c.1822\u20138", 
+  "depth": "", 
+  "dimensions": "support: 170 x 240 mm", 
+  "finberg": "CCLXIII 282", 
+  "foreignTitle": null, 
+  "groupTitle": "'Ports of England' Studies", 
+  "height": "240", 
+  "id": 52742, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25405_8.jpg", 
+  "title": "Bay on the Coast with Stormy Sky, possibly Ramsgate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bay-on-the-coast-with-stormy-sky-possibly-ramsgate-d25405", 
+  "width": "170"
+}

@@ -1,0 +1,128 @@
+{
+  "acno": "P11102", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Ivor Abrahams", 
+  "catalogueGroup": {
+    "accessionRanges": "P11101-P11105", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65659, 
+    "shortTitle": "Privacy Plots"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Ivor Abrahams", 
+      "gender": "Male", 
+      "id": 622, 
+      "mda": "Abrahams, Ivor", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Evelyne Abrahams, the artist's wife 1986", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 388 x 611 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Privacy Plots", 
+  "height": "611", 
+  "id": 330, 
+  "inscription": null, 
+  "medium": "Screenprint and flock fibre on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7702, 
+                "name": "flowerbed"
+              }, 
+              {
+                "id": 743, 
+                "name": "garden"
+              }, 
+              {
+                "id": 807, 
+                "name": "lawn"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ivor Abrahams", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11102_8.jpg", 
+  "title": "Privacy Plots II: Flower Garden", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-ii-flower-garden-p11102", 
+  "width": "388"
+}

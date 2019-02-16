@@ -1,0 +1,107 @@
+{
+  "acno": "D36654", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Sawrey Gilpin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1733, 
+      "date": "1733\u20131807", 
+      "displayOrder": 1, 
+      "fc": "Sawrey Gilpin", 
+      "gender": "Male", 
+      "id": 2578, 
+      "mda": "Gilpin, Sawrey", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 113 x 146 mm", 
+  "finberg": "CCCLXXX 6", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "146", 
+  "id": 63737, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }, 
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1561, 
+                "name": "farm"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19432, 
+                "name": "hut"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36654_8.jpg", 
+  "title": "A Horse and Two Cows near a Farm Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gilpin-a-horse-and-two-cows-near-a-farm-building-d36654", 
+  "width": "113"
+}

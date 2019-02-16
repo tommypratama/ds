@@ -1,0 +1,328 @@
+{
+  "acno": "T06750", 
+  "acquisitionYear": 1993, 
+  "all_artists": "John Michael Wright", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1617, 
+      "date": "1617\u20131694", 
+      "displayOrder": 1, 
+      "fc": "John Michael Wright", 
+      "gender": "Male", 
+      "id": 614, 
+      "mda": "Wright, John Michael", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by the Patrons of British Art through the Tate Gallery Foundation 1993", 
+  "dateRange": {
+    "endYear": 1676, 
+    "startYear": 1675, 
+    "text": "1675-6"
+  }, 
+  "dateText": "1675\u20136", 
+  "depth": "", 
+  "dimensions": "support: 1295 x 1336 mm\r\n", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1336", 
+  "id": 20788, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 411, 
+      "name": "Restoration"
+    }
+  ], 
+  "subjectCount": 29, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7346, 
+                "name": "Bagot, Edward"
+              }, 
+              {
+                "id": 7345, 
+                "name": "Bagot, Elizabeth"
+              }, 
+              {
+                "id": 7344, 
+                "name": "Salesbury, Elizabeth"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }, 
+              {
+                "id": 249, 
+                "name": "boy"
+              }, 
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20115, 
+                "name": "groups"
+              }, 
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6905, 
+                "name": "brother"
+              }, 
+              {
+                "id": 6909, 
+                "name": "granddaughter"
+              }, 
+              {
+                "id": 7348, 
+                "name": "grandmother"
+              }, 
+              {
+                "id": 7347, 
+                "name": "grandson"
+              }, 
+              {
+                "id": 6912, 
+                "name": "sister"
+              }, 
+              {
+                "id": 6914, 
+                "name": "widow"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2928, 
+                "name": "mourning"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7349, 
+                "name": "mourning dress"
+              }
+            ], 
+            "id": 151, 
+            "name": "dress: ceremonial/royal"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1607, 
+                "name": "doll"
+              }, 
+              {
+                "id": 4872, 
+                "name": "horse"
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress"
+              }, 
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1957, 
+                "name": "name of sitter"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 941, 
+                "name": "playing"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06750_8.jpg", 
+  "title": "Portrait of Mrs Salesbury with her Grandchildren Edward and Elizabeth Bagot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wright-portrait-of-mrs-salesbury-with-her-grandchildren-edward-and-elizabeth-bagot-t06750", 
+  "width": "1295"
+}

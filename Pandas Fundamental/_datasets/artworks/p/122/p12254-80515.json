@@ -1,0 +1,76 @@
+{
+  "acno": "P12254", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Richard Smith", 
+  "catalogueGroup": {
+    "accessionRanges": "P12252-P12258", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 80520, 
+    "shortTitle": "Fields and Streams"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Richard Smith", 
+      "gender": "Male", 
+      "id": 1959, 
+      "mda": "Smith, Richard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Tyler Graphics Ltd in honour of Pat Gilmour, Tate Print Department 1974-7, 2004", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "", 
+  "dimensions": "image: 486 x 395 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Fields and Streams", 
+  "height": "395", 
+  "id": 80515, 
+  "inscription": null, 
+  "medium": "Aquatint and drypoint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Pix, State I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-pix-state-i-p12254", 
+  "width": "486"
+}

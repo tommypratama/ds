@@ -1,0 +1,112 @@
+{
+  "acno": "T02306", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Georges Vantongerloo", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1886, 
+      "date": "1886\u20131965", 
+      "displayOrder": 1, 
+      "fc": "Georges Vantongerloo", 
+      "gender": "Male", 
+      "id": 2094, 
+      "mda": "Vantongerloo, Georges", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased 1978", 
+  "dateRange": {
+    "endYear": 1919, 
+    "startYear": 1919, 
+    "text": "1919"
+  }, 
+  "dateText": "1919", 
+  "depth": "137", 
+  "dimensions": "object: 225 x 137 x 137 mm", 
+  "foreignTitle": "Rapport des volumes", 
+  "groupTitle": null, 
+  "height": "137", 
+  "id": 15699, 
+  "inscription": null, 
+  "medium": "Sandstone", 
+  "movementCount": 3, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1686, 
+      "name": "De Stijl"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 6277, 
+      "name": "Neo-Plasticism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance"
+              }, 
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02306_8.jpg", 
+  "title": "Interrelation of Volumes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vantongerloo-interrelation-of-volumes-t02306", 
+  "width": "225"
+}

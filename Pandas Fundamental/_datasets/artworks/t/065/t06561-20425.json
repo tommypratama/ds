@@ -1,0 +1,274 @@
+{
+  "acno": "T06561", 
+  "acquisitionYear": 1992, 
+  "all_artists": "James Barry", 
+  "catalogueGroup": {
+    "accessionRanges": "T06557-T06568; T06571-T06584", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65516, 
+    "shortTitle": "A Series of Etchings by James Barry, Esq. from his Original and Justly Celebrated Paintings, in the Great Room of the Society of Arts"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1741, 
+      "date": "1741\u20131806", 
+      "displayOrder": 1, 
+      "fc": "James Barry", 
+      "gender": "Male", 
+      "id": 24, 
+      "mda": "Barry, James", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1992", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1795, 
+    "text": "1795-1808"
+  }, 
+  "dateText": "1795\u20131808", 
+  "depth": "", 
+  "dimensions": "image: 737 x 474 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Series of Etchings by James Barry, Esq. from his Original and Justly Celebrated Paintings, in the Great Room of the Society of Arts", 
+  "height": "474", 
+  "id": 20425, 
+  "inscription": null, 
+  "medium": "Etching and line engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 26, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19366, 
+                "name": "Bacon, Francis, Viscount St Alban"
+              }, 
+              {
+                "id": 22702, 
+                "name": "Bacon, Roger"
+              }, 
+              {
+                "id": 17627, 
+                "name": "Copernicus, Nicolaus"
+              }, 
+              {
+                "id": 19367, 
+                "name": "Descartes, Ren\u00e9"
+              }, 
+              {
+                "id": 17628, 
+                "name": "Galileo Galilei"
+              }, 
+              {
+                "id": 22701, 
+                "name": "Grosseteste, Robert, Bishop of Lincoln"
+              }, 
+              {
+                "id": 1553, 
+                "name": "Newton, Sir Isaac"
+              }, 
+              {
+                "id": 22703, 
+                "name": "Thales of Miletus"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20115, 
+                "name": "groups"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1491, 
+                "name": "pointing"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5733, 
+                "name": "angel"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17626, 
+                "name": "astronomer"
+              }, 
+              {
+                "id": 12600, 
+                "name": "mathematician"
+              }, 
+              {
+                "id": 13711, 
+                "name": "philosopher"
+              }, 
+              {
+                "id": 12602, 
+                "name": "scientist"
+              }
+            ], 
+            "id": 121, 
+            "name": "educational and scientific"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2113, 
+                "name": "friar / monk"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11861, 
+                "name": "astronomy"
+              }, 
+              {
+                "id": 621, 
+                "name": "mathematics"
+              }, 
+              {
+                "id": 11525, 
+                "name": "science, Galileo"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2542, 
+                "name": "planet"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1566, 
+                "name": "reading"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06561_8.jpg", 
+  "title": "Reserved Knowledge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barry-reserved-knowledge-t06561", 
+  "width": "737"
+}

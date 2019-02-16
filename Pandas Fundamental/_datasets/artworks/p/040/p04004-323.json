@@ -1,0 +1,96 @@
+{
+  "acno": "P04004", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Ivor Abrahams", 
+  "catalogueGroup": {
+    "accessionRanges": "P04001-P04005", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65250, 
+    "shortTitle": "The Garden Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Ivor Abrahams", 
+      "gender": "Male", 
+      "id": 622, 
+      "mda": "Abrahams, Ivor", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "support: 580 x 784 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Garden Suite", 
+  "height": "784", 
+  "id": 323, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }, 
+              {
+                "id": 807, 
+                "name": "lawn"
+              }, 
+              {
+                "id": 1747, 
+                "name": "topiary"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ivor Abrahams", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04004_8.jpg", 
+  "title": "Garden Suite IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-iv-p04004", 
+  "width": "580"
+}

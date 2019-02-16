@@ -1,0 +1,266 @@
+{
+  "acno": "N03373", 
+  "acquisitionYear": 1919, 
+  "all_artists": "William Blake", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1757, 
+      "date": "1757\u20131827", 
+      "displayOrder": 1, 
+      "fc": "William Blake", 
+      "gender": "Male", 
+      "id": 39, 
+      "mda": "Blake, William", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased with the assistance of a special grant from the National Gallery and donations from the Art Fund, Lord Duveen and others, and presented through the the Art Fund 1919", 
+  "dateRange": {
+    "endYear": 1795, 
+    "startYear": 1795, 
+    "text": "c.1795"
+  }, 
+  "dateText": "c.1795", 
+  "depth": "", 
+  "dimensions": "support: 170 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "120", 
+  "id": 1114, 
+  "inscription": null, 
+  "medium": "Relief etching, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 24, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2272, 
+                "name": "Blake, William, 'Visions of the Daughters of Albion'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2274, 
+                "name": "Bromion"
+              }, 
+              {
+                "id": 2277, 
+                "name": "Oothoon"
+              }, 
+              {
+                "id": 2275, 
+                "name": "Theotormon"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2279, 
+                "name": "Bromion's cave"
+              }
+            ], 
+            "id": 110, 
+            "name": "mythical, religious, fictional"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2607, 
+                "name": "cave"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3631, 
+                "name": "chain"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching"
+              }, 
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }, 
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2815, 
+                "name": "fear"
+              }, 
+              {
+                "id": 727, 
+                "name": "grief"
+              }, 
+              {
+                "id": 3847, 
+                "name": "humility"
+              }, 
+              {
+                "id": 1560, 
+                "name": "shame"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2206, 
+                "name": "imprisonment"
+              }, 
+              {
+                "id": 1344, 
+                "name": "punishment"
+              }, 
+              {
+                "id": 1966, 
+                "name": "rape"
+              }
+            ], 
+            "id": 147, 
+            "name": "crime and punishment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 554, 
+                "name": "morality"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03373_8.jpg", 
+  "title": "Frontispiece to \u2018Visions of the Daughters of Albion\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-frontispiece-to-visions-of-the-daughters-of-albion-n03373", 
+  "width": "170"
+}

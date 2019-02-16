@@ -1,0 +1,92 @@
+{
+  "acno": "T07516", 
+  "acquisitionYear": 1999, 
+  "all_artists": "David Smith", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1906, 
+      "date": "1906\u20131965", 
+      "displayOrder": 1, 
+      "fc": "David Smith", 
+      "gender": "Male", 
+      "id": 1953, 
+      "mda": "Smith, David", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the American Fund for the Tate Gallery, the Art Fund and the Friends of the Tate Gallery 1999", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1964, 
+    "text": "1964"
+  }, 
+  "dateText": "1964", 
+  "depth": "2875", 
+  "dimensions": "object: 2140 x 1175 x 2875 mm, 1300 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1175", 
+  "id": 26597, 
+  "inscription": null, 
+  "medium": "Steel", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of David Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07516_8.jpg", 
+  "title": "Wagon II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-wagon-ii-t07516", 
+  "width": "2140"
+}

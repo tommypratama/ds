@@ -1,0 +1,80 @@
+{
+  "acno": "T01343", 
+  "acquisitionYear": 1970, 
+  "all_artists": "David Annesley", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "David Annesley", 
+      "gender": "Male", 
+      "id": 650, 
+      "mda": "Annesley, David", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1970", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "508", 
+  "dimensions": "object: 1441 x 1441 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1441", 
+  "id": 525, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Annesley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01343_8.jpg", 
+  "title": "Godroon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/annesley-godroon-t01343", 
+  "width": "1441"
+}

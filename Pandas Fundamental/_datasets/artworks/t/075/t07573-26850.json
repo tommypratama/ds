@@ -1,0 +1,116 @@
+{
+  "acno": "T07573", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Marcel Duchamp", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131968", 
+      "displayOrder": 1, 
+      "fc": "Marcel Duchamp", 
+      "gender": "Male", 
+      "id": 1036, 
+      "mda": "Duchamp, Marcel", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Friends of the Tate Gallery 1999", 
+  "dateRange": {
+    "endYear": 1917, 
+    "startYear": 1917, 
+    "text": "1917, replica 1964"
+  }, 
+  "dateText": "1917, replica 1964", 
+  "depth": "610", 
+  "dimensions": "unconfirmed: 360 x 480 x 610 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "480", 
+  "id": 26850, 
+  "inscription": null, 
+  "medium": "Porcelain", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 300, 
+      "name": "Dada"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour"
+              }, 
+              {
+                "id": 2438, 
+                "name": "pun"
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15026, 
+                "name": "urinal"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Succession Marcel Duchamp/ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07573_8.jpg", 
+  "title": "Fountain", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/duchamp-fountain-t07573", 
+  "width": "360"
+}

@@ -1,0 +1,122 @@
+{
+  "acno": "N01947", 
+  "acquisitionYear": 1904, 
+  "all_artists": "Arthur Wardle", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1864, 
+      "date": "1864\u20131949", 
+      "displayOrder": 1, 
+      "fc": "Arthur Wardle", 
+      "gender": "Male", 
+      "id": 2120, 
+      "mda": "Wardle, Arthur", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1904", 
+  "dateRange": {
+    "endYear": 1904, 
+    "startYear": 1904, 
+    "text": "1904"
+  }, 
+  "dateText": "1904", 
+  "depth": "", 
+  "dimensions": "support: 946 x 1480 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1480", 
+  "id": 15943, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7325, 
+                "name": "Africa"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6851, 
+                "name": "attacking"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 755, 
+                "name": "grass"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6803, 
+                "name": "guinea fowl"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2332, 
+                "name": "heathland"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4607, 
+                "name": "leopard"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Fate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wardle-fate-n01947", 
+  "width": "946"
+}

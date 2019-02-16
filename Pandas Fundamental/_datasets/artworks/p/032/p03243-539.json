@@ -1,0 +1,88 @@
+{
+  "acno": "P03243", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Karel Appel", 
+  "catalogueGroup": {
+    "accessionRanges": "P03241-P03255", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65252, 
+    "shortTitle": "For Jorn"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20132006", 
+      "displayOrder": 1, 
+      "fc": "Karel Appel", 
+      "gender": "Male", 
+      "id": 654, 
+      "mda": "Appel, Karel", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by the Asger Jorn Foundation 1978", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1975, 
+    "text": "1975-6"
+  }, 
+  "dateText": "1975\u20136", 
+  "depth": "", 
+  "dimensions": "image: 692 x 483 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "For Jorn", 
+  "height": "483", 
+  "id": 539, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Karel Appel Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03243_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/appel-no-title-p03243", 
+  "width": "692"
+}

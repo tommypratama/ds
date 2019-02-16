@@ -1,0 +1,89 @@
+{
+  "acno": "D05247", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D05245-D05350", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65732, 
+    "shortTitle": "Eclipse Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1804, 
+    "startYear": 1804, 
+    "text": "1804"
+  }, 
+  "dateText": "1804", 
+  "depth": "", 
+  "dimensions": "support: 166 x 112 mm", 
+  "finberg": "LXXXV 2", 
+  "foreignTitle": null, 
+  "groupTitle": "Eclipse Sketchbook", 
+  "height": "112", 
+  "id": 32639, 
+  "inscription": null, 
+  "medium": "Chalk and charcoal on paper", 
+  "movementCount": 0, 
+  "pageNumber": 5, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05247_8.jpg", 
+  "title": "Landscape with the Commencement of an Eclipse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-the-commencement-of-an-eclipse-d05247", 
+  "width": "166"
+}

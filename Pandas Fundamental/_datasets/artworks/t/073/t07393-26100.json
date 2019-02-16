@@ -1,0 +1,92 @@
+{
+  "acno": "T07393", 
+  "acquisitionYear": 1998, 
+  "all_artists": "John Downton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1906, 
+      "date": "1906\u20131991", 
+      "displayOrder": 1, 
+      "fc": "John Downton", 
+      "gender": "Male", 
+      "id": 2350, 
+      "mda": "Downton, John", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the John Downton Trust 1998", 
+  "dateRange": {
+    "endYear": 1938, 
+    "startYear": 1938, 
+    "text": "c.1938"
+  }, 
+  "dateText": "c.1938", 
+  "depth": "14", 
+  "dimensions": "support: 531 x 353 x 14 mm\r\nframe: 633 x 478 x 65 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "353", 
+  "id": 26100, 
+  "inscription": null, 
+  "medium": "Tempera on wood", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Portrait of a Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/downton-portrait-of-a-girl-t07393", 
+  "width": "531"
+}

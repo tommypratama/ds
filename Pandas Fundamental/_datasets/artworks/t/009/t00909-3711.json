@@ -1,0 +1,70 @@
+{
+  "acno": "T00909", 
+  "acquisitionYear": 1967, 
+  "all_artists": "Tony DeLap", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Tony DeLap", 
+      "gender": "Male", 
+      "id": 991, 
+      "mda": "DeLap, Tony", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented anonymously through the American Federation of Arts 1967", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "318", 
+  "dimensions": "object: 362 x 610 x 318 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "610", 
+  "id": 3711, 
+  "inscription": null, 
+  "medium": "Plastic", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Modern Times II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/delap-modern-times-ii-t00909", 
+  "width": "362"
+}

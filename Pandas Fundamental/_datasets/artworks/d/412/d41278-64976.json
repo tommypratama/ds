@@ -1,0 +1,93 @@
+{
+  "acno": "D41278", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1137426, 
+  "catalogueGroup": {
+    "accessionRanges": "D08941-D08942; D41275-D41296; D41299-D41373", 
+    "completeStatus": "COMPLETE", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65767, 
+    "shortTitle": "Cornwall and Devon Sketchbook [pseudo-Finberg CXXV a]"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1811, 
+    "text": "1811"
+  }, 
+  "dateText": "1811", 
+  "depth": "", 
+  "dimensions": "support: 141 x 215 mm", 
+  "finberg": "CXXV a 3", 
+  "foreignTitle": null, 
+  "groupTitle": "Cornwall and Devon Sketchbook [pseudo-Finberg CXXV a]", 
+  "height": "215", 
+  "id": 64976, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 9, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41278_8.jpg", 
+  "title": "A View or Views on the West Country Coast, Possibly at Whitesand or Whitsand Bay near Plymouth, Whitesand Bay, Land\u2019s End, or Clovelly", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-view-or-views-on-the-west-country-coast-possibly-at-whitesand-or-whitsand-bay-d41278", 
+  "width": "141"
+}

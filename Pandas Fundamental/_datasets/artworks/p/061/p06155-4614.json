@@ -1,0 +1,88 @@
+{
+  "acno": "P06155", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Dame Elisabeth Frink", 
+  "catalogueGroup": {
+    "accessionRanges": "P06151-P06159", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65308, 
+    "shortTitle": "Images 67"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20131993", 
+      "displayOrder": 1, 
+      "fc": "Dame Elisabeth Frink", 
+      "gender": "Female", 
+      "id": 1124, 
+      "mda": "Frink, Dame Elisabeth", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "", 
+  "dimensions": "image: 778 x 594 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Images 67", 
+  "height": "594", 
+  "id": 4614, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Frink Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06155_8.jpg", 
+  "title": "Horse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-horse-p06155", 
+  "width": "778"
+}

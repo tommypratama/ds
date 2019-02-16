@@ -1,0 +1,70 @@
+{
+  "acno": "T01156", 
+  "acquisitionYear": 1969, 
+  "all_artists": "John Plumb", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "1927\u20132008", 
+      "displayOrder": 1, 
+      "fc": "John Plumb", 
+      "gender": "Male", 
+      "id": 1781, 
+      "mda": "Plumb, John", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1969", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "", 
+  "dimensions": "support: 2540 x 2534 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2534", 
+  "id": 12134, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Plumb", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01156_8.jpg", 
+  "title": "Untitled August 1969", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/plumb-untitled-august-1969-t01156", 
+  "width": "2540"
+}

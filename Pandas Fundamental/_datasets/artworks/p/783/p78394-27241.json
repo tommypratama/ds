@@ -1,0 +1,92 @@
+{
+  "acno": "P78394", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Alex Katz", 
+  "catalogueGroup": {
+    "accessionRanges": "P78388-P78407", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66101, 
+    "shortTitle": "Cubitt Print Box"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 2000", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 260 x 210 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Cubitt Print Box", 
+  "height": "210", 
+  "id": 27241, 
+  "inscription": null, 
+  "medium": "Woodcut on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz. All Rights Reserved, DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78394_8.jpg", 
+  "title": "Dark Eyes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-dark-eyes-p78394", 
+  "width": "260"
+}

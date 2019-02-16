@@ -1,0 +1,76 @@
+{
+  "acno": "P03103", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Morris Kestelman", 
+  "catalogueGroup": {
+    "accessionRanges": "P03096-P03104; P03107", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65668, 
+    "shortTitle": "IAA Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1905, 
+      "date": "1905\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Morris Kestelman", 
+      "gender": "Male", 
+      "id": 1403, 
+      "mda": "Kestelman, Morris", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by the International Association of Art 1975", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 511 x 400 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "IAA Portfolio", 
+  "height": "400", 
+  "id": 7929, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Bonjour!", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kestelman-bonjour-p03103", 
+  "width": "511"
+}

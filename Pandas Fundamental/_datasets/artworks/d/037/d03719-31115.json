@@ -1,0 +1,91 @@
+{
+  "acno": "D03719", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03653-D03720; D40781-D40782", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65711, 
+    "shortTitle": "Jason Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1801, 
+    "startYear": 1801, 
+    "text": "c.1801"
+  }, 
+  "dateText": "c.1801", 
+  "depth": "", 
+  "dimensions": "support: 206 x 130 mm", 
+  "finberg": "LXI 63 v", 
+  "foreignTitle": null, 
+  "groupTitle": "Jason Sketchbook", 
+  "height": "130", 
+  "id": 31115, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 16, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5404, 
+                "name": "laurel"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03719_8.jpg", 
+  "title": "Studies of Laurel Leaves", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-laurel-leaves-d03719", 
+  "width": "206"
+}

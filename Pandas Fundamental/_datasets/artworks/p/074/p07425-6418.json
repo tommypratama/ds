@@ -1,0 +1,80 @@
+{
+  "acno": "P07425", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Anthony Hill", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Anthony Hill", 
+      "gender": "Male", 
+      "id": 1284, 
+      "mda": "Hill, Anthony", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1981", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "image: 597 x 597 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "597", 
+  "id": 6418, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Anthony Hill", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07425_8.jpg", 
+  "title": "Rational Concepts", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hill-rational-concepts-p07425", 
+  "width": "597"
+}

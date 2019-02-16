@@ -1,0 +1,111 @@
+{
+  "acno": "D41376", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1137525, 
+  "catalogueGroup": {
+    "accessionRanges": "D41374-D41388", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65768, 
+    "shortTitle": "Stonehenge Sketchbook [pseudo-Finberg CXXV b]"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1811, 
+    "text": "1811"
+  }, 
+  "dateText": "1811", 
+  "depth": "", 
+  "dimensions": "support: 222 x 183 mm", 
+  "finberg": "CXXV b 3", 
+  "foreignTitle": null, 
+  "groupTitle": "Stonehenge Sketchbook [pseudo-Finberg CXXV b]", 
+  "height": "183", 
+  "id": 65074, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 11, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8988, 
+                "name": "Cheddar Gorge"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1559, 
+                "name": "Somerset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41376_8.jpg", 
+  "title": "Cheddar Gorge: The Pinnacles from near Horseshoe Bend", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cheddar-gorge-the-pinnacles-from-near-horseshoe-bend-d41376", 
+  "width": "222"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "P02335", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Agathe Sorel", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Agathe Sorel", 
+      "gender": "Female", 
+      "id": 1963, 
+      "mda": "Sorel, Agathe", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1976", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 565 x 737 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "737", 
+  "id": 13640, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4205, 
+                "name": "aircraft - non-specific"
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8703, 
+                "name": "boat, catamaran"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Of Biplanes and Catamarans", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sorel-of-biplanes-and-catamarans-p02335", 
+  "width": "565"
+}

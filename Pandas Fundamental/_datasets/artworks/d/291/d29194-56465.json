@@ -1,0 +1,102 @@
+{
+  "acno": "D29194", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151780, 
+  "catalogueGroup": {
+    "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65921, 
+    "shortTitle": "Val d'Aosta Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1836, 
+    "startYear": 1836, 
+    "text": "1836"
+  }, 
+  "dateText": "1836", 
+  "depth": "", 
+  "dimensions": "support: 190 x 113 mm", 
+  "finberg": "CCXCIII 83", 
+  "foreignTitle": null, 
+  "groupTitle": "Val d'Aosta Sketchbook", 
+  "height": "113", 
+  "id": 56465, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 167, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29194_8.jpg", 
+  "title": "Avise, Val d\u2019Aosta", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-avise-val-daosta-d29194", 
+  "width": "190"
+}

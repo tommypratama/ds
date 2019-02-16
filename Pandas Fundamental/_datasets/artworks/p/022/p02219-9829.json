@@ -1,0 +1,88 @@
+{
+  "acno": "P02219", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Henry Moore OM, CH", 
+  "catalogueGroup": {
+    "accessionRanges": "P02201-P02219", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65404, 
+    "shortTitle": "Auden Poems Moore Lithographs Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Henry Moore OM, CH", 
+      "gender": "Male", 
+      "id": 1659, 
+      "mda": "Moore, Henry, OM, CH", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1975", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "image: 249 x 342 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Auden Poems Moore Lithographs Portfolio", 
+  "height": "342", 
+  "id": 9829, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Henry Moore Foundation; All rights reserved DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02219_8.jpg", 
+  "title": "The Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-the-bridge-p02219", 
+  "width": "249"
+}

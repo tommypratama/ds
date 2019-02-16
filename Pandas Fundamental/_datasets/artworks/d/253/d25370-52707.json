@@ -1,0 +1,110 @@
+{
+  "acno": "D25370", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149869, 
+  "catalogueGroup": {
+    "accessionRanges": "D17758-D17761; D17766; D25149; D25272; D25322; D25344; D25349; D25362; D25365; D25370; D25378; D25383; D25389; D25390; D25393; D25405; D25422; D25470; D40147", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 190843, 
+    "shortTitle": "'Ports of England' Studies"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1822, 
+    "text": "c.1822-8"
+  }, 
+  "dateText": "c.1822\u20138", 
+  "depth": "", 
+  "dimensions": "support: 190 x 231 mm", 
+  "finberg": "CCLXIII 248", 
+  "foreignTitle": null, 
+  "groupTitle": "'Ports of England' Studies", 
+  "height": "231", 
+  "id": 52707, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25370_8.jpg", 
+  "title": "Figures on the Sands", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-on-the-sands-d25370", 
+  "width": "190"
+}

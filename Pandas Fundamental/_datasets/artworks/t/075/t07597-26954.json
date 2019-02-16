@@ -1,0 +1,146 @@
+{
+  "acno": "T07597", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Ewan Gibbs", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1973, 
+      "date": "born 1973", 
+      "displayOrder": 1, 
+      "fc": "Ewan Gibbs", 
+      "gender": "Male", 
+      "id": 2737, 
+      "mda": "Gibbs, Ewan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the Patrons of New Art (Special Purchase Fund) through the Tate Gallery Foundation 2000", 
+  "dateRange": {
+    "endYear": 1999, 
+    "startYear": 1999, 
+    "text": "1999"
+  }, 
+  "dateText": "1999", 
+  "depth": "", 
+  "dimensions": "support: 419 x 297 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "297", 
+  "id": 26954, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed"
+              }, 
+              {
+                "id": 1579, 
+                "name": "cushion"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4990, 
+                "name": "lamp"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 744, 
+                "name": "picture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2700, 
+                "name": "hotel"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }, 
+              {
+                "id": 6741, 
+                "name": "visual illusion"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Wall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gibbs-wall-t07597", 
+  "width": "419"
+}

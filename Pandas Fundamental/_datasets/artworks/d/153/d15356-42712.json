@@ -1,0 +1,148 @@
+{
+  "acno": "D15356", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D15356", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D153/D15356_E.jpg", 
+          "height": 352, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1132651, 
+  "catalogueGroup": {
+    "accessionRanges": "D15296-D15466; D40616-D40618", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65823, 
+    "shortTitle": "Albano, Nemi, Rome Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 113 x 189 mm", 
+  "finberg": "CLXXXII 33", 
+  "foreignTitle": null, 
+  "groupTitle": "Albano, Nemi, Rome Sketchbook", 
+  "height": "189", 
+  "id": 42712, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 67, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11755, 
+                "name": "Rome, Forum, Arch of Septimus Severus"
+              }, 
+              {
+                "id": 11948, 
+                "name": "Rome, Forum, Column of Phocas"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 241, 
+                "name": "column"
+              }, 
+              {
+                "id": 6609, 
+                "name": "triumphal arch"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15356_8.jpg", 
+  "title": "The Forum, Rome, with the Arch of Septimius Severus and the Column of Phocas", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-forum-rome-with-the-arch-of-septimius-severus-and-the-column-of-phocas-d15356", 
+  "width": "113"
+}

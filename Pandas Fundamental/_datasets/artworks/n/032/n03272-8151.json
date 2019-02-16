@@ -1,0 +1,104 @@
+{
+  "acno": "N03272", 
+  "acquisitionYear": 1917, 
+  "all_artists": "Sir Godfrey Kneller", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1646, 
+      "date": "1646\u20131723", 
+      "displayOrder": 1, 
+      "fc": "Sir Godfrey Kneller", 
+      "gender": "Male", 
+      "id": 310, 
+      "mda": "Kneller, Sir Godfrey", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Sir George Leon 1917", 
+  "dateRange": {
+    "endYear": 1695, 
+    "startYear": 1695, 
+    "text": "1695"
+  }, 
+  "dateText": "1695", 
+  "depth": "", 
+  "dimensions": "support: 749 x 635 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "635", 
+  "id": 8151, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 406, 
+      "name": "Netherlands-trained, working in Britain"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4340, 
+                "name": "Tweeddale, 1st Marquess of"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03272_8.jpg", 
+  "title": "The First Marquess of Tweeddale", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kneller-the-first-marquess-of-tweeddale-n03272", 
+  "width": "749"
+}

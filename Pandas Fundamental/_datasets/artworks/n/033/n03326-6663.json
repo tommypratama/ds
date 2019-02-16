@@ -1,0 +1,102 @@
+{
+  "acno": "N03326", 
+  "acquisitionYear": 1918, 
+  "all_artists": "James Holland", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1799, 
+      "date": "1799\u20131870", 
+      "displayOrder": 1, 
+      "fc": "James Holland", 
+      "gender": "Male", 
+      "id": 268, 
+      "mda": "Holland, James", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Lancelot Hannen through the Art Fund 1918", 
+  "dateRange": {
+    "endYear": 1828, 
+    "startYear": 1828, 
+    "text": "1828"
+  }, 
+  "dateText": "1828", 
+  "depth": "", 
+  "dimensions": "support: 432 x 298 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "298", 
+  "id": 6663, 
+  "inscription": "date inscribed", 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16659, 
+                "name": "Rouen, St Quen church"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03326_8.jpg", 
+  "title": "St Ouen: Rouen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/holland-st-ouen-rouen-n03326", 
+  "width": "432"
+}

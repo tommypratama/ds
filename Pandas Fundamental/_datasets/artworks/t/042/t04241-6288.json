@@ -1,0 +1,98 @@
+{
+  "acno": "T04241", 
+  "acquisitionYear": 1986, 
+  "all_artists": "attributed to Joseph Highmore", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1692, 
+      "date": "1692\u20131780", 
+      "displayOrder": 1, 
+      "fc": "Joseph Highmore", 
+      "gender": "Male", 
+      "id": 256, 
+      "mda": "Highmore, Joseph", 
+      "role": "attributed to", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Joan Highmore Blackhall and Dr R.B. McConnell 1986", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 164 x 170 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "170", 
+  "id": 6288, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04241_8.jpg", 
+  "title": "A Landscape with a Tree and Church Spire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/highmore-a-landscape-with-a-tree-and-church-spire-t04241", 
+  "width": "164"
+}

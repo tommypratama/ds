@@ -1,0 +1,91 @@
+{
+  "acno": "D17160", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1820, 
+    "startYear": 1810, 
+    "text": "c.1810-20"
+  }, 
+  "dateText": "c.1810\u201320", 
+  "depth": "", 
+  "dimensions": "support: 185 x 200 mm", 
+  "finberg": "CXCV a J", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "200", 
+  "id": 44516, 
+  "inscription": null, 
+  "medium": "Chalk and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11481, 
+                "name": "hull"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }, 
+              {
+                "id": 1163, 
+                "name": "ship, warship"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17160_8.jpg", 
+  "title": "A Row of Houses; Also Part of Man-of-War\u2019s Hulk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-row-of-houses-also-part-of-man-of-wars-hulk-d17160", 
+  "width": "185"
+}

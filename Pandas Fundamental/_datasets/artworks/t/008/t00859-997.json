@@ -1,0 +1,116 @@
+{
+  "acno": "T00859", 
+  "acquisitionYear": 1966, 
+  "all_artists": "Elizabeth Blackadder", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Elizabeth Blackadder", 
+      "gender": "Female", 
+      "id": 760, 
+      "mda": "Blackadder, Elizabeth", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1966", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "", 
+  "dimensions": "support: 864 x 1118 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1118", 
+  "id": 997, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1649, 
+                "name": "coffee pot"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1650, 
+                "name": "fruit, pomegranate"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 844, 
+                "name": "rug"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }, 
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Elizabeth Blackadder", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00859_8.jpg", 
+  "title": "Still Life with Pomegranates", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blackadder-still-life-with-pomegranates-t00859", 
+  "width": "864"
+}

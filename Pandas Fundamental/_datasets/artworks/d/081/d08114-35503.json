@@ -1,0 +1,152 @@
+{
+  "acno": "D08114", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131716, 
+  "catalogueGroup": {
+    "accessionRanges": "D08100; D08102-D08106; D08110-D08123; D08125-D08142; D08144-D08175; D08177-D08178; D08182; D25451; N02941; N03631", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Watercolour", 
+    "id": 77169, 
+    "shortTitle": "Liber Studiorum 1807-1819 Watercolours"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1806, 
+    "text": "circa 1806-7"
+  }, 
+  "dateText": "circa 1806\u20137", 
+  "depth": "", 
+  "dimensions": "support: 184 x 262 mm", 
+  "finberg": "CXVI M", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum 1807-1819 Watercolours", 
+  "height": "262", 
+  "id": 35503, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }, 
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }, 
+              {
+                "id": 800, 
+                "name": "wind"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2042, 
+                "name": "pier"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08114_8.jpg", 
+  "title": "Ships in a Breeze (\u2018The Egremont Sea Piece\u2019)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ships-in-a-breeze-the-egremont-sea-piece-d08114", 
+  "width": "184"
+}

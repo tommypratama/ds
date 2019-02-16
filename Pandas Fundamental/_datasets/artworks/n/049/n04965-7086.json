@@ -1,0 +1,164 @@
+{
+  "acno": "N04965", 
+  "acquisitionYear": 1938, 
+  "all_artists": "A. Gosset James", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1875, 
+      "date": "1875\u20131950", 
+      "displayOrder": 1, 
+      "fc": "A. Gosset James", 
+      "gender": "Male", 
+      "id": 1352, 
+      "mda": "James, A. Gosset", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1938", 
+  "dateRange": {
+    "endYear": 1938, 
+    "startYear": 1938, 
+    "text": "1938"
+  }, 
+  "dateText": "1938", 
+  "depth": "", 
+  "dimensions": "support: 635 x 1022 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1022", 
+  "id": 7086, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1240, 
+                "name": "Cotswolds"
+              }, 
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4108, 
+                "name": "Gloucestershire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6084, 
+                "name": "Naunton"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6083, 
+                "name": "River Windrush"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 2289, 
+                "name": "village"
+              }, 
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Winter on the Windrush", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/james-winter-on-the-windrush-n04965", 
+  "width": "635"
+}

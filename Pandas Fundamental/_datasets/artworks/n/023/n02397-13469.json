@@ -1,0 +1,120 @@
+{
+  "acno": "N02397", 
+  "acquisitionYear": 1898, 
+  "all_artists": "James Smetham", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1821, 
+      "date": "1821\u20131889", 
+      "displayOrder": 1, 
+      "fc": "James Smetham", 
+      "gender": "Male", 
+      "id": 502, 
+      "mda": "Smetham, James", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Edmund Houghton 1898", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 229 x 305 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "305", 
+  "id": 13469, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }, 
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4670, 
+                "name": "hands clasped"
+              }, 
+              {
+                "id": 723, 
+                "name": "lying down"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02397_8.jpg", 
+  "title": "Midsummer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smetham-midsummer-n02397", 
+  "width": "229"
+}

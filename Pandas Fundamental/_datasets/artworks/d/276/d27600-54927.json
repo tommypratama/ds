@@ -1,0 +1,128 @@
+{
+  "acno": "D27600", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D27600_94665", 
+      "sizes": [
+        {
+          "caption": "Composite View", 
+          "cleared": true, 
+          "file": "D/D27/D27600_94665_7.jpg", 
+          "height": 104, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Composite View", 
+          "cleared": true, 
+          "file": "D/D27/D27600_94665_8.jpg", 
+          "height": 208, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Composite View", 
+          "cleared": true, 
+          "file": "D/D27/D27600_94665_9.jpg", 
+          "height": 416, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": "Composite View", 
+          "cleared": true, 
+          "file": "D/D27/D27600_94665_10.jpg", 
+          "height": 1248, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1841, 
+    "text": "c.1841-5"
+  }, 
+  "dateText": "c.1841\u20135", 
+  "depth": "", 
+  "dimensions": "support: 185 x 230 mm", 
+  "finberg": "CCLXXX 83", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "230", 
+  "id": 54927, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27600_8.jpg", 
+  "title": "River or Coastal Subject: ?Light Towers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-or-coastal-subject-light-towers-d27600", 
+  "width": "185"
+}

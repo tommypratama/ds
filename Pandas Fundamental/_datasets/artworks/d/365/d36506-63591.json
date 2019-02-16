@@ -1,0 +1,217 @@
+{
+  "acno": "D36506", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D36506_113638", 
+      "sizes": [
+        {
+          "caption": "Composite View", 
+          "cleared": true, 
+          "file": "D/D36/D36506_113638_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 98
+        }, 
+        {
+          "caption": "Composite View", 
+          "cleared": true, 
+          "file": "D/D36/D36506_113638_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 197
+        }, 
+        {
+          "caption": "Composite View", 
+          "cleared": true, 
+          "file": "D/D36/D36506_113638_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 394
+        }, 
+        {
+          "caption": "Composite View", 
+          "cleared": true, 
+          "file": "D/D36/D36506_113638_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1183
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner, Thomas Girtin", 
+  "catTextResId": 1140574, 
+  "catalogueGroup": {
+    "accessionRanges": "D36478-D36500; D36502-D36516", 
+    "completeStatus": "COMPLETE", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65985, 
+    "shortTitle": "Album of Copies of Swiss and Italian Views for Dr Thomas Monro"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }, 
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 2, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1798, 
+    "startYear": 1794, 
+    "text": "c.1794-8"
+  }, 
+  "dateText": "c.1794\u20138", 
+  "depth": "", 
+  "dimensions": null, 
+  "finberg": "CCCLXXIV 27 b", 
+  "foreignTitle": null, 
+  "groupTitle": "Album of Copies of Swiss and Italian Views for Dr Thomas Monro", 
+  "height": "", 
+  "id": 63591, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 59, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10089, 
+                "name": "architectural fragments"
+              }, 
+              {
+                "id": 245, 
+                "name": "column"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36506_8.jpg", 
+  "title": "A Capriccio with Classical Ruins and Figures", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-girtin-a-capriccio-with-classical-ruins-and-figures-d36506", 
+  "width": ""
+}

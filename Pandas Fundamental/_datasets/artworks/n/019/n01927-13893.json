@@ -1,0 +1,126 @@
+{
+  "acno": "N01927", 
+  "acquisitionYear": 1903, 
+  "all_artists": "Adrian Stokes", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1854, 
+      "date": "1854\u20131935", 
+      "displayOrder": 1, 
+      "fc": "Adrian Stokes", 
+      "gender": "Male", 
+      "id": 527, 
+      "mda": "Stokes, Adrian", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1903", 
+  "dateRange": {
+    "endYear": 1903, 
+    "startYear": 1903, 
+    "text": "exhibited 1903"
+  }, 
+  "dateText": "exhibited 1903", 
+  "depth": "", 
+  "dimensions": "support: 800 x 1067 mm\r\nframe: 1106 x 1372 x 95 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1067", 
+  "id": 13893, 
+  "inscription": null, 
+  "medium": "Tempera on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9824, 
+                "name": "Austria, Tyrol"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2962, 
+                "name": "deer"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01927_8.jpg", 
+  "title": "Autumn in the Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stokes-autumn-in-the-mountains-n01927", 
+  "width": "800"
+}

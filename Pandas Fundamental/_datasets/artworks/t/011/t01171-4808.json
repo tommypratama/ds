@@ -1,0 +1,92 @@
+{
+  "acno": "T01171", 
+  "acquisitionYear": 1969, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist through the American Federation of Arts 1969", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1960, 
+    "text": "1960-4"
+  }, 
+  "dateText": "1960\u20134", 
+  "depth": "841", 
+  "dimensions": "object: 762 x 841 x 841 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "841", 
+  "id": 4808, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01171_8.jpg", 
+  "title": "Torsion (Project for a Fountain)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-torsion-project-for-a-fountain-t01171", 
+  "width": "762"
+}

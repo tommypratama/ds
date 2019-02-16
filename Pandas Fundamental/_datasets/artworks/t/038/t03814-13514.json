@@ -1,0 +1,86 @@
+{
+  "acno": "T03814", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Jack Smith", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Jack Smith", 
+      "gender": "Male", 
+      "id": 1956, 
+      "mda": "Smith, Jack", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "support: 920 x 920 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "920", 
+  "id": 13514, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12083, 
+                "name": "light"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Jack Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03814_8.jpg", 
+  "title": "Inside, Outside 3", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-inside-outside-3-t03814", 
+  "width": "920"
+}

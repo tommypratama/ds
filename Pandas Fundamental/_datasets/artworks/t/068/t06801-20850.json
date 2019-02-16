@@ -1,0 +1,112 @@
+{
+  "acno": "T06801", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Fernand L\u00e9ger", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1881, 
+      "date": "1881\u20131955", 
+      "displayOrder": 1, 
+      "fc": "Fernand L\u00e9ger", 
+      "gender": "Male", 
+      "id": 1488, 
+      "mda": "L\u00e9ger, Fernand", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Bequeathed by Elly Kahnweiler 1991 to form part of the gift of Gustav and Elly Kahnweiler, accessioned 1994", 
+  "dateRange": {
+    "endYear": 1923, 
+    "startYear": 1923, 
+    "text": "1923"
+  }, 
+  "dateText": "1923", 
+  "depth": "", 
+  "dimensions": "support: 325 x 245 mm", 
+  "foreignTitle": "Arbres", 
+  "groupTitle": null, 
+  "height": "245", 
+  "id": 20850, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06801_8.jpg", 
+  "title": "Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leger-trees-t06801", 
+  "width": "325"
+}

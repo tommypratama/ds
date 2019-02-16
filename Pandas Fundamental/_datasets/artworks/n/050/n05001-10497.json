@@ -1,0 +1,116 @@
+{
+  "acno": "N05001", 
+  "acquisitionYear": 1939, 
+  "all_artists": "Charles Fairfax Murray", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1849, 
+      "date": "1849\u20131919", 
+      "displayOrder": 1, 
+      "fc": "Charles Fairfax Murray", 
+      "gender": "Male", 
+      "id": 394, 
+      "mda": "Murray, Charles Fairfax", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Bequeathed by Miss May Morris 1939", 
+  "dateRange": {
+    "endYear": 1896, 
+    "startYear": 1896, 
+    "text": "1896"
+  }, 
+  "dateText": "1896", 
+  "depth": "", 
+  "dimensions": "support: 286 x 225 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "225", 
+  "id": 10497, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1187, 
+                "name": "Morris, William"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard"
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05001_8.jpg", 
+  "title": "Study of William Morris on his Death-Bed", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murray-study-of-william-morris-on-his-death-bed-n05001", 
+  "width": "286"
+}

@@ -1,0 +1,110 @@
+{
+  "acno": "D00186", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140291, 
+  "catalogueGroup": {
+    "accessionRanges": "D00155-D00156; D00161; D00176; D00184-D00186; D00379; D40228-D40229", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127058, 
+    "shortTitle": "Watercolours of Oxford and the Home Counties"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1792, 
+    "startYear": 1791, 
+    "text": "?1791-2"
+  }, 
+  "dateText": "?1791\u20132", 
+  "depth": "", 
+  "dimensions": "support: 207 x 301 mm", 
+  "finberg": "XVII K", 
+  "foreignTitle": null, 
+  "groupTitle": "Watercolours of Oxford and the Home Counties", 
+  "height": "301", 
+  "id": 27602, 
+  "inscription": null, 
+  "medium": "Pen and ink, graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1251, 
+                "name": "shed"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00186_8.jpg", 
+  "title": "A House with Outbuildings in a Wooded Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-house-with-outbuildings-in-a-wooded-landscape-d00186", 
+  "width": "207"
+}

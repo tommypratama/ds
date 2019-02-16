@@ -1,0 +1,98 @@
+{
+  "acno": "P03176", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Serge Tousignant", 
+  "catalogueGroup": {
+    "accessionRanges": "P03166-P03178", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65251, 
+    "shortTitle": "Homage to Albert Dumouchel"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1942, 
+      "date": "born 1942", 
+      "displayOrder": 1, 
+      "fc": "Serge Tousignant", 
+      "gender": "Male", 
+      "id": 2059, 
+      "mda": "Tousignant, Serge", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the University of Quebec 1976", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "support: 765 x 568 mm", 
+  "foreignTitle": "Quelque part en mer entre Lisbonne et Southampton", 
+  "groupTitle": "Homage to Albert Dumouchel", 
+  "height": "568", 
+  "id": 14382, 
+  "inscription": "date inscribed", 
+  "medium": "Photograph, colour, Chromogenic print, on paper mounted on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "At Sea Somewhere Between Lisbon and Southampton", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tousignant-at-sea-somewhere-between-lisbon-and-southampton-p03176", 
+  "width": "765"
+}

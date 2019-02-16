@@ -1,0 +1,86 @@
+{
+  "acno": "P02855", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Henry Moore OM, CH", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Henry Moore OM, CH", 
+      "gender": "Male", 
+      "id": 1659, 
+      "mda": "Moore, Henry, OM, CH", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the Henry Moore Foundation 1986", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1980, 
+    "text": "1980-1, published 1982"
+  }, 
+  "dateText": "1980\u20131, published 1982", 
+  "depth": "", 
+  "dimensions": "image: 419 x 514 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "514", 
+  "id": 10107, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Henry Moore Foundation; All rights reserved DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02855_8.jpg", 
+  "title": "Reclining Woman II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-reclining-woman-ii-p02855", 
+  "width": "419"
+}

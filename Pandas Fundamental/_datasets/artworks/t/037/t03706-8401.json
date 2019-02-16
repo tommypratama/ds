@@ -1,0 +1,138 @@
+{
+  "acno": "T03706", 
+  "acquisitionYear": 1983, 
+  "all_artists": "John Latham", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u2013 2006", 
+      "displayOrder": 1, 
+      "fc": "John Latham", 
+      "gender": "Male", 
+      "id": 1470, 
+      "mda": "Latham, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "380", 
+  "dimensions": "object: 2440 x 1830 x 380 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1830", 
+  "id": 8401, 
+  "inscription": null, 
+  "medium": "Plaster, resin, books, wire, metal and spray paint on canvas and board", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5802, 
+                "name": "Dostoevsky, Fyodor Mikhailovich, 'The Brothers Karamazov'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1695, 
+                "name": "electrical component"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1298, 
+                "name": "wire"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9592, 
+                "name": "cosmos"
+              }, 
+              {
+                "id": 4312, 
+                "name": "time"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Latham Estate, courtesy Lisson Gallery, London", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03706_8.jpg", 
+  "title": "Observer IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/latham-observer-iv-t03706", 
+  "width": "2440"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "T04900", 
+  "acquisitionYear": 1987, 
+  "all_artists": "Johannes D\u00f6rflinger", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1941, 
+      "date": "born 1941", 
+      "displayOrder": 1, 
+      "fc": "Johannes D\u00f6rflinger", 
+      "gender": "Male", 
+      "id": 1022, 
+      "mda": "D\u00f6rflinger, Johannes", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1987", 
+  "dateRange": {
+    "endYear": 1986, 
+    "startYear": 1986, 
+    "text": "1986"
+  }, 
+  "dateText": "1986", 
+  "depth": "", 
+  "dimensions": "support: 685 x 1014 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1014", 
+  "id": 3983, 
+  "inscription": null, 
+  "medium": "Pastel and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13030, 
+                "name": "beetle"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 448, 
+                "name": "leaf"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1573, 
+                "name": "wing"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Cassida", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dorflinger-cassida-t04900", 
+  "width": "685"
+}

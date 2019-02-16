@@ -1,0 +1,296 @@
+{
+  "acno": "N03551", 
+  "acquisitionYear": 1920, 
+  "all_artists": "William Blake", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1757, 
+      "date": "1757\u20131827", 
+      "displayOrder": 1, 
+      "fc": "William Blake", 
+      "gender": "Male", 
+      "id": 39, 
+      "mda": "Blake, William", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1920", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1809, 
+    "text": "?1809"
+  }, 
+  "dateText": "?1809", 
+  "depth": "", 
+  "dimensions": "support: 600 x 441 mm\r\nframe: 775 x 623 x 70 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "441", 
+  "id": 1116, 
+  "inscription": "date inscribed", 
+  "medium": "Tempera and gold on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 24, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2297, 
+                "name": "Edward I, King"
+              }, 
+              {
+                "id": 2298, 
+                "name": "Eleanor, Queen of Edward I"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1503, 
+                "name": "flying"
+              }, 
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }, 
+              {
+                "id": 1696, 
+                "name": "looking up"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }, 
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2315, 
+                "name": "English"
+              }, 
+              {
+                "id": 2316, 
+                "name": "Welsh"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6910, 
+                "name": "husband"
+              }, 
+              {
+                "id": 6915, 
+                "name": "wife"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2292, 
+                "name": "Gray, Thomas, 'The Bard'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10993, 
+                "name": "River Conwy"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2311, 
+                "name": "Wales, Edward I's invasion, late 13th c."
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 854, 
+                "name": "armour"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2312, 
+                "name": "instrument, harp"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2299, 
+                "name": "ghost"
+              }
+            ], 
+            "id": 138, 
+            "name": "magic and occultism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 870, 
+                "name": "king"
+              }, 
+              {
+                "id": 1434, 
+                "name": "queen"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1181, 
+                "name": "poet"
+              }
+            ], 
+            "id": 126, 
+            "name": "literary"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03551_8.jpg", 
+  "title": "The Bard, from Gray", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-the-bard-from-gray-n03551", 
+  "width": "600"
+}

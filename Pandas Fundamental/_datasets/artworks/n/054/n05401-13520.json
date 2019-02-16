@@ -1,0 +1,116 @@
+{
+  "acno": "N05401", 
+  "acquisitionYear": 1943, 
+  "all_artists": "Sir Matthew Smith", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1879, 
+      "date": "1879\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Sir Matthew Smith", 
+      "gender": "Male", 
+      "id": 1958, 
+      "mda": "Smith, Sir Matthew", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Sir Matthew and Lady Smith 1943, in memory of A/Sq. Ldr F.M. Smith, killed on active service 1940, and Sq. Ldr C.D. Smith DFC, killed in air combat 1941", 
+  "dateRange": {
+    "endYear": 1936, 
+    "startYear": 1936, 
+    "text": "c.1936"
+  }, 
+  "dateText": "c.1936", 
+  "depth": "", 
+  "dimensions": "support: 806 x 997 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "997", 
+  "id": 13520, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12426, 
+                "name": "anemone"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket"
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 701, 
+                "name": "drapery"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "By permission of the estate of the artist", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05401_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-still-life-n05401", 
+  "width": "806"
+}

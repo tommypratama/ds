@@ -1,0 +1,126 @@
+{
+  "acno": "T00973", 
+  "acquisitionYear": 1967, 
+  "all_artists": "John Sell Cotman", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Sell Cotman", 
+      "gender": "Male", 
+      "id": 116, 
+      "mda": "Cotman, John Sell", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund (Herbert Powell Bequest) 1967", 
+  "dateRange": {
+    "endYear": 1803, 
+    "startYear": 1803, 
+    "text": "1803"
+  }, 
+  "dateText": "1803", 
+  "depth": "", 
+  "dimensions": "support: 371 x 270 mm\r\nframe (mount): 598 x 447 x 25 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "270", 
+  "id": 2828, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6310, 
+                "name": "Rievaulx, Rievaulx Abbey"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00973_8.jpg", 
+  "title": "Rievaulx Abbey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-rievaulx-abbey-t00973", 
+  "width": "371"
+}

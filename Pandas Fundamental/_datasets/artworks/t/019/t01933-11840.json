@@ -1,0 +1,86 @@
+{
+  "acno": "T01933", 
+  "acquisitionYear": 1974, 
+  "all_artists": "Tom Phillips", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tom Phillips", 
+      "gender": "Male", 
+      "id": 1764, 
+      "mda": "Phillips, Esq Tom", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "", 
+  "dimensions": "support: 559 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "762", 
+  "id": 11840, 
+  "inscription": null, 
+  "medium": "Charcoal on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13021, 
+                "name": "musical analogy"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tom Phillips", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01933_8.jpg", 
+  "title": "Music Drawing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-music-drawing-t01933", 
+  "width": "559"
+}

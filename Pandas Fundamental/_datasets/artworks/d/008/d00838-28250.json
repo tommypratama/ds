@@ -1,0 +1,85 @@
+{
+  "acno": "D00838", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D00730-D00764; D00766-D00768; D00770-D00831; D00833-D00842; D40759-D40761", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65688, 
+    "shortTitle": "Studies near Brighton Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1796, 
+    "startYear": 1796, 
+    "text": "1796"
+  }, 
+  "dateText": "1796", 
+  "depth": "", 
+  "dimensions": "support: 126 x 108 mm", 
+  "finberg": "XXX 93", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies near Brighton Sketchbook", 
+  "height": "108", 
+  "id": 28250, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 9, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1132, 
+                "name": "pig"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3521, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00838_8.jpg", 
+  "title": "Studies of Pigs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-pigs-d00838", 
+  "width": "126"
+}

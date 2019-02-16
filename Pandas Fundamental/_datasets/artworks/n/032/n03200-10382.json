@@ -1,0 +1,108 @@
+{
+  "acno": "N03200", 
+  "acquisitionYear": 1917, 
+  "all_artists": "David Muirhead", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1867, 
+      "date": "1867\u20131930", 
+      "displayOrder": 1, 
+      "fc": "David Muirhead", 
+      "gender": "Male", 
+      "id": 1676, 
+      "mda": "Muirhead, David", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Mr and Mrs F. Gibson 1917", 
+  "dateRange": {
+    "endYear": 1901, 
+    "startYear": 1901, 
+    "text": "1901"
+  }, 
+  "dateText": "1901", 
+  "depth": "", 
+  "dimensions": "support: 445 x 540 mm\r\nframe: 694 x 792 x 127 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "540", 
+  "id": 10382, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6005, 
+                "name": "avenue"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03200_8.jpg", 
+  "title": "The Avenue", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/muirhead-the-avenue-n03200", 
+  "width": "445"
+}

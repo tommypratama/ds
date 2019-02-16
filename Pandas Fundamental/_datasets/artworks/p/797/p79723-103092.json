@@ -1,0 +1,98 @@
+{
+  "acno": "P79723", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Gary Hume", 
+  "catalogueGroup": {
+    "accessionRanges": "P79720-P79727", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 103101, 
+    "shortTitle": "Here's Flowers"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1962, 
+      "date": "born 1962", 
+      "displayOrder": 1, 
+      "fc": "Gary Hume", 
+      "gender": "Male", 
+      "id": 2403, 
+      "mda": "Hume, Gary", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2008", 
+  "dateRange": {
+    "endYear": 2006, 
+    "startYear": 2006, 
+    "text": "2006"
+  }, 
+  "dateText": "2006", 
+  "depth": "", 
+  "dimensions": "image: 555 x 400 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Here's Flowers", 
+  "height": "400", 
+  "id": 103092, 
+  "inscription": null, 
+  "medium": "Linocut print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Gary Hume", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79723_8.jpg", 
+  "title": "Untitled 03", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hume-untitled-03-p79723", 
+  "width": "555"
+}

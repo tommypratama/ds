@@ -1,0 +1,78 @@
+{
+  "acno": "N04677", 
+  "acquisitionYear": 1933, 
+  "all_artists": "Ernest Leopold Sichel", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1862, 
+      "date": "1862\u20131941", 
+      "displayOrder": 1, 
+      "fc": "Ernest Leopold Sichel", 
+      "gender": "Male", 
+      "id": 1939, 
+      "mda": "Sichel, Ernest Leopold", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1933", 
+  "dateRange": {
+    "endYear": 1905, 
+    "startYear": 1895, 
+    "text": "1895-1905"
+  }, 
+  "dateText": "1895\u20131905", 
+  "depth": "", 
+  "dimensions": "support: 533 x 1181 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1181", 
+  "id": 13378, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9278, 
+                "name": "instrument, tambourine"
+              }, 
+              {
+                "id": 3011, 
+                "name": "instrument, violin"
+              }, 
+              {
+                "id": 14349, 
+                "name": "instrument, zither"
+              }, 
+              {
+                "id": 816, 
+                "name": "sheet music"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04677_8.jpg", 
+  "title": "Musical Instruments", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sichel-musical-instruments-n04677", 
+  "width": "533"
+}

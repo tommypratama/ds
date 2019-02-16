@@ -1,0 +1,139 @@
+{
+  "acno": "N05100", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Spencer Gore", 
+  "catTextResId": 1139238, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1878, 
+      "date": "1878\u20131914", 
+      "displayOrder": 1, 
+      "fc": "Spencer Gore", 
+      "gender": "Male", 
+      "id": 1190, 
+      "mda": "Gore, Spencer", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Bequeathed by Lady Henry Cavendish-Bentinck 1940", 
+  "dateRange": {
+    "endYear": 1914, 
+    "startYear": 1914, 
+    "text": "c.1914"
+  }, 
+  "dateText": "c.1914", 
+  "depth": "73", 
+  "dimensions": "frame: 692 x 946 x 73 mm\r\nsupport: 508 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "946", 
+  "id": 5521, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12287, 
+                "name": "Richmond, Richmond Park"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05100_8.jpg", 
+  "title": "Richmond Park", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gore-richmond-park-n05100", 
+  "width": "692"
+}

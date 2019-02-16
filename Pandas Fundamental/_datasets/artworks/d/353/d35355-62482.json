@@ -1,0 +1,92 @@
+{
+  "acno": "D35355", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151576, 
+  "catalogueGroup": {
+    "accessionRanges": "D35335-D35360", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65975, 
+    "shortTitle": "Hythe and Walmer Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1845, 
+    "text": "1845"
+  }, 
+  "dateText": "1845", 
+  "depth": "", 
+  "dimensions": "support: 70 x 186 mm", 
+  "finberg": "CCCLV 11 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Hythe and Walmer Sketchbook", 
+  "height": "186", 
+  "id": 62482, 
+  "inscription": null, 
+  "medium": "Chalk and graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 24, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35355_8.jpg", 
+  "title": "A Monument or Tower and Classical Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-monument-or-tower-and-classical-building-d35355", 
+  "width": "70"
+}

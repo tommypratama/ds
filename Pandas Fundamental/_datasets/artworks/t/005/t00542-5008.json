@@ -1,0 +1,210 @@
+{
+  "acno": "T00542", 
+  "acquisitionYear": 1962, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T00542_131258", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "T/T00/T00542_131258_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 115
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "T/T00/T00542_131258_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 230
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "T/T00/T00542_131258_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 460
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "T/T00/T00542_131258_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1381
+        }
+      ]
+    }, 
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T00542_131263", 
+      "sizes": [
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "T/T00/T00542_131263_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 88
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "T/T00/T00542_131263_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 176
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "T/T00/T00542_131263_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 352
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "T/T00/T00542_131263_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1056
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Henri Gaudier-Brzeska", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131915", 
+      "displayOrder": 1, 
+      "fc": "Henri Gaudier-Brzeska", 
+      "gender": "Male", 
+      "id": 1143, 
+      "mda": "Gaudier-Brzeska, Henri", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Bequeathed by the Earl of Sandwich 1962", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "1913"
+  }, 
+  "dateText": "1913", 
+  "depth": "203.2", 
+  "dimensions": "object: 406.4 x 368.8 x 203.2 mm, 24 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "368.8", 
+  "id": 5008, 
+  "inscription": null, 
+  "medium": "Bath stone", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4593, 
+                "name": "head in hand/hands"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 727, 
+                "name": "grief"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2928, 
+                "name": "mourning"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00542_8.jpg", 
+  "title": "Sepulchral Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-sepulchral-figure-t00542", 
+  "width": "406.4"
+}

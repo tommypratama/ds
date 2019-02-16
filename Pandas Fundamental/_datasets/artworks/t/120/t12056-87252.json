@@ -1,0 +1,82 @@
+{
+  "acno": "T12056", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Markus L\u00fcpertz", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1941, 
+      "date": "born 1941", 
+      "displayOrder": 1, 
+      "fc": "Markus L\u00fcpertz", 
+      "gender": "Male", 
+      "id": 8594, 
+      "mda": "L\u00fcpertz, Markus", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 2005", 
+  "dateRange": {
+    "endYear": 1968, 
+    "startYear": 1968, 
+    "text": "1968"
+  }, 
+  "dateText": "1968", 
+  "depth": "", 
+  "dimensions": "support (right): 3005 x 1518 x 30 mm\r\nsupport (left): 3003 x 1523 x 30 mm\r\n", 
+  "foreignTitle": "Der Grosse Schritt", 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 87252, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Big Step", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/lupertz-the-big-step-t12056", 
+  "width": ""
+}

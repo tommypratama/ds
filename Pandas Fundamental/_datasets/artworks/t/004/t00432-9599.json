@@ -1,0 +1,104 @@
+{
+  "acno": "T00432", 
+  "acquisitionYear": 1961, 
+  "all_artists": "L\u00e1szl\u00f3 Moholy-Nagy", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1895, 
+      "date": "1895\u20131946", 
+      "displayOrder": 1, 
+      "fc": "L\u00e1szl\u00f3 Moholy-Nagy", 
+      "gender": "Male", 
+      "id": 1649, 
+      "mda": "Moholy-Nagy, L\u00e1szl\u00f3", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1961", 
+  "dateRange": {
+    "endYear": 1922, 
+    "startYear": 1922, 
+    "text": "1922"
+  }, 
+  "dateText": "1922", 
+  "depth": "", 
+  "dimensions": "support: 1153 x 1359 mm\r\nframe: 1308 x 1512 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1359", 
+  "id": 9599, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 294, 
+      "name": "Bauhaus"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00432_8.jpg", 
+  "title": "K VII", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moholy-nagy-k-vii-t00432", 
+  "width": "1153"
+}

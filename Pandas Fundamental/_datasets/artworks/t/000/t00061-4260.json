@@ -1,0 +1,90 @@
+{
+  "acno": "T00061", 
+  "acquisitionYear": 1955, 
+  "all_artists": "William Gow Ferguson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1633, 
+      "date": "c.1633\u20131695", 
+      "displayOrder": 1, 
+      "fc": "William Gow Ferguson", 
+      "gender": "Male", 
+      "id": 179, 
+      "mda": "Ferguson, William Gow", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1955", 
+  "dateRange": {
+    "endYear": 1684, 
+    "startYear": 1684, 
+    "text": "1684"
+  }, 
+  "dateText": "1684", 
+  "depth": "", 
+  "dimensions": "support: 654 x 540 mm\r\nframe: 838 x 727 x 75 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "540", 
+  "id": 4260, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4876, 
+                "name": "death"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4432, 
+                "name": "gamebird"
+              }, 
+              {
+                "id": 1520, 
+                "name": "pheasant"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00061_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ferguson-still-life-t00061", 
+  "width": "654"
+}

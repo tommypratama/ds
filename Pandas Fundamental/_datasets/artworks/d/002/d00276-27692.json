@@ -1,0 +1,126 @@
+{
+  "acno": "D00276", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00276", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D02/D00276_E.jpg", 
+          "height": 342, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140669, 
+  "catalogueGroup": {
+    "accessionRanges": "D00260-D00326; D40753-D40754", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65684, 
+    "shortTitle": "Marford Mill Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1794, 
+    "startYear": 1794, 
+    "text": "1794"
+  }, 
+  "dateText": "1794", 
+  "depth": "", 
+  "dimensions": "support: 99 x 152 mm", 
+  "finberg": "XX 15", 
+  "foreignTitle": null, 
+  "groupTitle": "Marford Mill Sketchbook", 
+  "height": "152", 
+  "id": 27692, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 31, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3695, 
+                "name": "caravan"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5598, 
+                "name": "fair"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00276_8.jpg", 
+  "title": "Fairground Caravans and Placards", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fairground-caravans-and-placards-d00276", 
+  "width": "99"
+}

@@ -1,0 +1,118 @@
+{
+  "acno": "N04917", 
+  "acquisitionYear": 1938, 
+  "all_artists": "Sir Alfred East", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1844, 
+      "date": "1844\u20131913", 
+      "displayOrder": 1, 
+      "fc": "Sir Alfred East", 
+      "gender": "Male", 
+      "id": 165, 
+      "mda": "East, Sir Alfred", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Mildred Donald 1938", 
+  "dateRange": {
+    "endYear": 1904, 
+    "startYear": 1904, 
+    "text": "?1904"
+  }, 
+  "dateText": "?1904", 
+  "depth": "", 
+  "dimensions": "support: 1225 x 1530 mm\r\nframe: 1905 x 1635 x 138 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1530", 
+  "id": 4073, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2280, 
+                "name": "fishing"
+              }
+            ], 
+            "id": 54, 
+            "name": "sport"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04917_8.jpg", 
+  "title": "Golden Autumn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/east-golden-autumn-n04917", 
+  "width": "1225"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "T12004", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Anish Kapoor", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1954, 
+      "date": "born 1954", 
+      "displayOrder": 1, 
+      "fc": "Anish Kapoor", 
+      "gender": "Male", 
+      "id": 1384, 
+      "mda": "Kapoor, Anish", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Tate International Council 2005", 
+  "dateRange": {
+    "endYear": 2003, 
+    "startYear": 2003, 
+    "text": "2003"
+  }, 
+  "dateText": "2003", 
+  "depth": "2240", 
+  "dimensions": "object: 3150 x 2500 x 2240 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2500", 
+  "id": 79550, 
+  "inscription": null, 
+  "medium": "Fibreglass, resin and lacquer", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Anish Kapoor", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12004_8.jpg", 
+  "title": "Ishi\u2019s Light", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kapoor-ishis-light-t12004", 
+  "width": "3150"
+}

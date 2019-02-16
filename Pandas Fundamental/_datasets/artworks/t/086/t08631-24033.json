@@ -1,0 +1,88 @@
+{
+  "acno": "T08631", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Thomas Worlidge", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1700, 
+      "date": "1700\u20131766", 
+      "displayOrder": 1, 
+      "fc": "Thomas Worlidge", 
+      "gender": "Male", 
+      "id": 2469, 
+      "mda": "Worlidge, Thomas", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 174 x 129 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "129", 
+  "id": 24033, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08631_8.jpg", 
+  "title": "Head of a Man in a Fur Cap", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/worlidge-head-of-a-man-in-a-fur-cap-t08631", 
+  "width": "174"
+}

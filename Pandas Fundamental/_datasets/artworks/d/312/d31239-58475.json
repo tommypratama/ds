@@ -1,0 +1,85 @@
+{
+  "acno": "D31239", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D31223-D31256; D31258-D31276", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65937, 
+    "shortTitle": "Dover, Rhine and Innsbruck Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1843, 
+    "startYear": 1843, 
+    "text": "1843"
+  }, 
+  "dateText": "1843", 
+  "depth": "", 
+  "dimensions": "support: 174 x 76 mm", 
+  "finberg": "CCCIX 9 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Dover, Rhine and Innsbruck Sketchbook", 
+  "height": "76", 
+  "id": 58475, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 18, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31239_8.jpg", 
+  "title": "Castle on Rock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-d31239", 
+  "width": "174"
+}

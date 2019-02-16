@@ -1,0 +1,138 @@
+{
+  "acno": "P07316", 
+  "acquisitionYear": 1979, 
+  "all_artists": "John Walker", 
+  "catalogueGroup": {
+    "accessionRanges": "P07314-P07321", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65243, 
+    "shortTitle": "The Newhaven Etchings"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "John Walker", 
+      "gender": "Male", 
+      "id": 2116, 
+      "mda": "Walker, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1979", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1976, 
+    "text": "1976-7"
+  }, 
+  "dateText": "1976\u20137", 
+  "depth": "", 
+  "dimensions": "image: 216 x 184 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Newhaven Etchings", 
+  "height": "184", 
+  "id": 16586, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16177, 
+                "name": "Newhaven"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1856, 
+                "name": "Sussex, East"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Walker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07316_8.jpg", 
+  "title": "Newhaven 7", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-newhaven-7-p07316", 
+  "width": "216"
+}

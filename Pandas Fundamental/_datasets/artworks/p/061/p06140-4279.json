@@ -1,0 +1,82 @@
+{
+  "acno": "P06140", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Lois Fine", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Lois Fine", 
+      "gender": "Female", 
+      "id": 1092, 
+      "mda": "Fine, Lois", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 483 x 692 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "692", 
+  "id": 4279, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11269, 
+                "name": "Sphinx"
+              }
+            ], 
+            "id": 142, 
+            "name": "classical myths: creatures"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal / human"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Sphinx", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fine-sphinx-p06140", 
+  "width": "483"
+}

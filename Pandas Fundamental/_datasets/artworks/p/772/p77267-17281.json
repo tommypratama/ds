@@ -1,0 +1,112 @@
+{
+  "acno": "P77267", 
+  "acquisitionYear": 1988, 
+  "all_artists": "Matt Mullican", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1951, 
+      "date": "born 1951", 
+      "displayOrder": 1, 
+      "fc": "Matt Mullican", 
+      "gender": "Male", 
+      "id": 2228, 
+      "mda": "Mullican, Matt", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1988", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1988, 
+    "text": "1988"
+  }, 
+  "dateText": "1988", 
+  "depth": "", 
+  "dimensions": "support: 764 x 208 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "208", 
+  "id": 17281, 
+  "inscription": null, 
+  "medium": "Relief print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9592, 
+                "name": "cosmos"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3485, 
+                "name": "space"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Cosmology", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mullican-cosmology-p77267", 
+  "width": "764"
+}

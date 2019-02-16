@@ -1,0 +1,94 @@
+{
+  "acno": "D07638", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131125, 
+  "catalogueGroup": {
+    "accessionRanges": "D07593-D07754; D40662", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65758, 
+    "shortTitle": "Hastings Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1810, 
+    "startYear": 1810, 
+    "text": "c.1810"
+  }, 
+  "dateText": "c.1810", 
+  "depth": "", 
+  "dimensions": "support: 88 x 110 mm", 
+  "finberg": "CXI 31 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Hastings Sketchbook", 
+  "height": "110", 
+  "id": 35027, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 64, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07638_8.jpg", 
+  "title": "Landscape, with Sea Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-sea-beyond-d07638", 
+  "width": "88"
+}

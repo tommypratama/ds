@@ -1,0 +1,102 @@
+{
+  "acno": "T01336", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Gerardo Dottori", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1884, 
+      "date": "1884\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Gerardo Dottori", 
+      "gender": "Male", 
+      "id": 1024, 
+      "mda": "Dottori, Gerardo", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1971", 
+  "dateRange": {
+    "endYear": 1910, 
+    "startYear": 1910, 
+    "text": "1910"
+  }, 
+  "dateText": "1910", 
+  "depth": "", 
+  "dimensions": "support: 492 x 695 mm\r\nframe: 745 x 954 x 70 mm", 
+  "foreignTitle": "Esplosione di Rosso sul verde", 
+  "groupTitle": null, 
+  "height": "695", 
+  "id": 3987, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 307, 
+      "name": "Futurism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Estate of Gerardo Dottori", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01336_8.jpg", 
+  "title": "Explosion of Red on Green", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dottori-explosion-of-red-on-green-t01336", 
+  "width": "492"
+}

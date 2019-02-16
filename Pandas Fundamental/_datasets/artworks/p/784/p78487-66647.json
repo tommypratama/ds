@@ -1,0 +1,88 @@
+{
+  "acno": "P78487", 
+  "acquisitionYear": 2001, 
+  "all_artists": "Ian Tyson", 
+  "catalogueGroup": {
+    "accessionRanges": "P78487-P78494", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66655, 
+    "shortTitle": "Tetrad Pamphlets Vol. II"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Ian Tyson", 
+      "gender": "Male", 
+      "id": 2081, 
+      "mda": "Tyson, Ian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 2001", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "support: 300 x 763 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Tetrad Pamphlets Vol. II", 
+  "height": "763", 
+  "id": 66647, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ian Tyson", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78487_8.jpg", 
+  "title": "Patterns", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tyson-patterns-p78487", 
+  "width": "300"
+}

@@ -1,0 +1,136 @@
+{
+  "acno": "N05143", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Maurice Utrillo", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1883, 
+      "date": "1883\u20131955", 
+      "displayOrder": 1, 
+      "fc": "Maurice Utrillo", 
+      "gender": "Male", 
+      "id": 2090, 
+      "mda": "Utrillo, Maurice", 
+      "role": "artist", 
+      "startLetter": "U"
+    }
+  ], 
+  "creditLine": "Bequeathed by Montague Shearman through the Contemporary Art Society 1940", 
+  "dateRange": {
+    "endYear": 1910, 
+    "startYear": 1910, 
+    "text": "c.1910"
+  }, 
+  "dateText": "c.1910", 
+  "depth": "", 
+  "dimensions": "support: 540 x 730 mm\r\nframe: 820 x 1010 x 100 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "730", 
+  "id": 15679, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6993, 
+                "name": "Paris, Montmartre, Le Passage Cottin"
+              }, 
+              {
+                "id": 6992, 
+                "name": "Paris, Sacre-Coeur"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6991, 
+                "name": "restaurant"
+              }
+            ], 
+            "id": 23, 
+            "name": "places of entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage"
+              }, 
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05143_8.jpg", 
+  "title": "Le Passage Cottin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/utrillo-le-passage-cottin-n05143", 
+  "width": "540"
+}

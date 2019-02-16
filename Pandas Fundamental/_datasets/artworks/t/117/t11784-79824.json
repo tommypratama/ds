@@ -1,0 +1,92 @@
+{
+  "acno": "T11784", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Stephen Willats", 
+  "catalogueGroup": {}, 
+  "classification": null, 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1943, 
+      "date": "born 1943", 
+      "displayOrder": 1, 
+      "fc": "Stephen Willats", 
+      "gender": "Male", 
+      "id": 2147, 
+      "mda": "Willats, Stephen", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased from funds provided by the Knapping Fund 2004", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "245", 
+  "dimensions": "object: 765 x 1330 x 245 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1330", 
+  "id": 79824, 
+  "inscription": null, 
+  "medium": "Plywood, wood, plastic, metal, light bulbs, electrical components and motor", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Stephen Willats", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11784_8.jpg", 
+  "title": "Visual Automatic No.5", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/willats-visual-automatic-no5-t11784", 
+  "width": "765"
+}

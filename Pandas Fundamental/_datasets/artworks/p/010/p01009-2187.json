@@ -1,0 +1,110 @@
+{
+  "acno": "P01009", 
+  "acquisitionYear": 1918, 
+  "all_artists": "Charles Cheston", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131960", 
+      "displayOrder": 1, 
+      "fc": "Charles Cheston", 
+      "gender": "Male", 
+      "id": 897, 
+      "mda": "Cheston, Charles", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by D. MacColl 1918", 
+  "dateRange": {
+    "endYear": 1912, 
+    "startYear": 1912, 
+    "text": "1912"
+  }, 
+  "dateText": "1912", 
+  "depth": "", 
+  "dimensions": "image: 133 x 406 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "406", 
+  "id": 2187, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 815, 
+                "name": "marsh"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Across the Marshes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cheston-across-the-marshes-p01009", 
+  "width": "133"
+}

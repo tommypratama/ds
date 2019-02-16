@@ -1,0 +1,134 @@
+{
+  "acno": "T13811", 
+  "acquisitionYear": 2013, 
+  "all_artists": "Steven Claydon", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1969, 
+      "date": "born 1969", 
+      "displayOrder": 1, 
+      "fc": "Steven Claydon", 
+      "gender": "Male", 
+      "id": 9805, 
+      "mda": "Claydon, Steven", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Sadie Coles HQ 2012\r\n", 
+  "dateRange": {
+    "endYear": 2012, 
+    "startYear": 2012, 
+    "text": "2012"
+  }, 
+  "dateText": "2012", 
+  "depth": "65", 
+  "dimensions": "displayed: 550 x 830 x 65 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "830", 
+  "id": 123643, 
+  "inscription": null, 
+  "medium": "21 aluminium bricks", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1205, 
+                "name": "London - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 576, 
+                "name": "brick"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "London Pixel Array 21", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/claydon-london-pixel-array-21-t13811", 
+  "width": "550"
+}

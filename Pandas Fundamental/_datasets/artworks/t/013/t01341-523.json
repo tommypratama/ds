@@ -1,0 +1,80 @@
+{
+  "acno": "T01341", 
+  "acquisitionYear": 1970, 
+  "all_artists": "David Annesley", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "David Annesley", 
+      "gender": "Male", 
+      "id": 650, 
+      "mda": "Annesley, David", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Alistair McAlpine (later Lord McAlpine of West Green) 1970", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "279", 
+  "dimensions": "object: 1140 x 1575 x 279 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1575", 
+  "id": 523, 
+  "inscription": null, 
+  "medium": "Painted steel", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 433, 
+      "name": "New Generation Sculpture"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Annesley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01341_8.jpg", 
+  "title": "Jump", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/annesley-jump-t01341", 
+  "width": "1140"
+}

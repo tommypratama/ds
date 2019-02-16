@@ -1,0 +1,102 @@
+{
+  "acno": "P12105", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Richard Hamilton", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Richard Hamilton", 
+      "gender": "Male", 
+      "id": 1244, 
+      "mda": "Hamilton, Richard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Tyler Graphics Ltd in honour of Pat Gilmour, Tate Print Department 1974-7, 2004", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 432 x 314 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "314", 
+  "id": 79320, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10924, 
+                "name": "product packaging"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2052, 
+                "name": "toilet paper"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Hamilton 2014. All rights reserved, DACS", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12105_8.jpg", 
+  "title": "Flower-piece B - cyan separation", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-flower-piece-b-cyan-separation-p12105", 
+  "width": "432"
+}

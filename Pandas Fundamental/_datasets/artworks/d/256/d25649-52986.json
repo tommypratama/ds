@@ -1,0 +1,110 @@
+{
+  "acno": "D25649", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D25649", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D256/D25649_E.jpg", 
+          "height": 348, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134012, 
+  "catalogueGroup": {
+    "accessionRanges": "D25644-D25761; D41232-D41234", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65890, 
+    "shortTitle": "Berwick Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "1831"
+  }, 
+  "dateText": "1831", 
+  "depth": "", 
+  "dimensions": "support: 59 x 96 mm", 
+  "finberg": "CCLXV 4", 
+  "foreignTitle": null, 
+  "groupTitle": "Berwick Sketchbook", 
+  "height": "96", 
+  "id": 52986, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 9, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25649_8.jpg", 
+  "title": "Inscription by Turner, and Continuation of a Sketch of Liverpool from Birkenhead", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-inscription-by-turner-and-continuation-of-a-sketch-of-liverpool-from-birkenhead-d25649", 
+  "width": "59"
+}

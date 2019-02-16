@@ -1,0 +1,108 @@
+{
+  "acno": "T08015", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Alexander Cozens", 
+  "catalogueGroup": {
+    "accessionRanges": "T08000-T08082; T10676", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66030, 
+    "shortTitle": "Mackworth Praed Book"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1717, 
+      "date": "1717\u20131786", 
+      "displayOrder": 1, 
+      "fc": "Alexander Cozens", 
+      "gender": "Male", 
+      "id": 118, 
+      "mda": "Cozens, Alexander", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 97 x 140 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Mackworth Praed Book", 
+  "height": "140", 
+  "id": 22561, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08015_8.jpg", 
+  "title": "A Lake with Hills and Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-a-lake-with-hills-and-buildings-t08015", 
+  "width": "97"
+}

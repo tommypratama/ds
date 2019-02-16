@@ -1,0 +1,92 @@
+{
+  "acno": "P07215", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Robyn Denny", 
+  "catalogueGroup": {
+    "accessionRanges": "P07215-P07219", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65293, 
+    "shortTitle": "Colour Boxes"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20132014", 
+      "displayOrder": 1, 
+      "fc": "Robyn Denny", 
+      "gender": "Male", 
+      "id": 997, 
+      "mda": "Denny, Robyn", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1976", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "", 
+  "dimensions": "image: 615 x 510 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Colour Boxes", 
+  "height": "510", 
+  "id": 3780, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/denny-no-title-p07215", 
+  "width": "615"
+}

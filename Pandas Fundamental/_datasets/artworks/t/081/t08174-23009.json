@@ -1,0 +1,106 @@
+{
+  "acno": "T08174", 
+  "acquisitionYear": 1996, 
+  "all_artists": "James Holland", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1799, 
+      "date": "1799\u20131870", 
+      "displayOrder": 1, 
+      "fc": "James Holland", 
+      "gender": "Male", 
+      "id": 268, 
+      "mda": "Holland, James", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1850, 
+    "startYear": 1850, 
+    "text": "1850"
+  }, 
+  "dateText": "1850", 
+  "depth": "", 
+  "dimensions": "support: 380 x 273 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "273", 
+  "id": 23009, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2886, 
+                "name": "Rouen - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08174_8.jpg", 
+  "title": "Rouen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/holland-rouen-t08174", 
+  "width": "380"
+}

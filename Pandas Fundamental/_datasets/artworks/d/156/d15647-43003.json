@@ -1,0 +1,154 @@
+{
+  "acno": "D15647", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D15647", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D156/D15647_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1138109, 
+  "catalogueGroup": {
+    "accessionRanges": "D15555-D15693; D15695-D15738; D40945-D40947", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65825, 
+    "shortTitle": "Gandolfo to Naples Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 122 x 197 mm", 
+  "finberg": "CLXXXIV 45 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Gandolfo to Naples Sketchbook", 
+  "height": "197", 
+  "id": 43003, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 96, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8322, 
+                "name": "Bay of Naples"
+              }, 
+              {
+                "id": 6198, 
+                "name": "Vesuvius"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7738, 
+                "name": "hermitage"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 6199, 
+                "name": "volcano"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15647_8.jpg", 
+  "title": "The Gulf of Naples Seen from Vesuvius; and the Summit of the Volcano from the Hermitage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-gulf-of-naples-seen-from-vesuvius-and-the-summit-of-the-volcano-from-the-d15647", 
+  "width": "122"
+}

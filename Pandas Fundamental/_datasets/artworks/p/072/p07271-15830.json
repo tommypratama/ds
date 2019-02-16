@@ -1,0 +1,92 @@
+{
+  "acno": "P07271", 
+  "acquisitionYear": 1979, 
+  "all_artists": "John Walker", 
+  "catalogueGroup": {
+    "accessionRanges": "P07267-P07278", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65570, 
+    "shortTitle": "The Blackboard Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "John Walker", 
+      "gender": "Male", 
+      "id": 2116, 
+      "mda": "Walker, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1979", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "image: 1030 x 705 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Blackboard Suite", 
+  "height": "705", 
+  "id": 15830, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1981, 
+                "name": "blackboard"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Walker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07271_8.jpg", 
+  "title": "V", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-v-p07271", 
+  "width": "1030"
+}

@@ -1,0 +1,110 @@
+{
+  "acno": "D10418", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131401, 
+  "catalogueGroup": {
+    "accessionRanges": "D10409-D10585; D40868; D41539", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXL", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65782, 
+    "shortTitle": "Richmond Hill; Hastings to Margate Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1816, 
+    "startYear": 1816, 
+    "text": "c.1816"
+  }, 
+  "dateText": "c.1816", 
+  "depth": "", 
+  "dimensions": "support: 155 x 95 mm", 
+  "finberg": "CXL 5", 
+  "foreignTitle": null, 
+  "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook", 
+  "height": "95", 
+  "id": 37794, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 13, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2763, 
+                "name": "back"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10418_8.jpg", 
+  "title": "A Standing Nude Woman, Seen from Behind", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-standing-nude-woman-seen-from-behind-d10418", 
+  "width": "155"
+}

@@ -1,0 +1,90 @@
+{
+  "acno": "T00818", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Henri Hayden", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1883, 
+      "date": "1883\u20131970", 
+      "displayOrder": 1, 
+      "fc": "Henri Hayden", 
+      "gender": "Male", 
+      "id": 1255, 
+      "mda": "Hayden, Henri", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Victor and Mabel Waddington through the Institute of Contemporary Prints in memory of Eliza Heygate 1975", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "", 
+  "dimensions": "support: 736 x 923 mm", 
+  "foreignTitle": "Echecs en ochre", 
+  "groupTitle": null, 
+  "height": "923", 
+  "id": 5887, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 776, 
+                "name": "ashtray"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3793, 
+                "name": "chess board"
+              }, 
+              {
+                "id": 3176, 
+                "name": "chess piece"
+              }
+            ], 
+            "id": 285, 
+            "name": "sports and games"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Chess Board in Ochre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hayden-chess-board-in-ochre-t00818", 
+  "width": "736"
+}

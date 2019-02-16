@@ -1,0 +1,268 @@
+{
+  "acno": "P20252", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Tacita Dean", 
+  "catalogueGroup": {
+    "accessionRanges": "P20246-P20265", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 75361, 
+    "shortTitle": "The Russian Ending"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1965, 
+      "date": "born 1965", 
+      "displayOrder": 1, 
+      "fc": "Tacita Dean", 
+      "gender": "Female", 
+      "id": 2675, 
+      "mda": "Dean, Tacita", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2002", 
+  "dateRange": {
+    "endYear": 2001, 
+    "startYear": 2001, 
+    "text": "2001"
+  }, 
+  "dateText": "2001", 
+  "depth": "", 
+  "dimensions": "image: 450 x 685 mm\r\nsupport: 540 x 690 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Russian Ending", 
+  "height": "685", 
+  "id": 75342, 
+  "inscription": "date inscribed", 
+  "medium": "Photo-etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 17, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2078, 
+                "name": "altar"
+              }, 
+              {
+                "id": 19658, 
+                "name": "coffin"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 767, 
+                "name": "candle"
+              }, 
+              {
+                "id": 2079, 
+                "name": "candlestick"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5273, 
+                "name": "postcard"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1460, 
+                "name": "chrysanthemum"
+              }, 
+              {
+                "id": 1228, 
+                "name": "lily"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5483, 
+                "name": "cinema"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4032, 
+                "name": "clergyman"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3981, 
+                "name": "menace"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5345, 
+                "name": "sadness"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tacita Dean, courtesy Frith Street Gallery, London and Marian Goodman Gallery, New York/Paris", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20252_8.jpg", 
+  "title": "Death of a Priest", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dean-death-of-a-priest-p20252", 
+  "width": "450"
+}

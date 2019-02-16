@@ -1,0 +1,86 @@
+{
+  "acno": "T12437", 
+  "acquisitionYear": 2007, 
+  "all_artists": "J\u00falius Koller", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "1939\u20132007", 
+      "displayOrder": 1, 
+      "fc": "J\u00falius Koller", 
+      "gender": "Male", 
+      "id": 10345, 
+      "mda": "Koller, J\u00falius", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 2007", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "support: 174 x 123 mm", 
+  "foreignTitle": "G-Astron\u00f3mia", 
+  "groupTitle": null, 
+  "height": "123", 
+  "id": 93825, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 929, 
+                "name": "document - non-specific"
+              }, 
+              {
+                "id": 4896, 
+                "name": "poster"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17774, 
+                "name": "universe"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of J\u00falius Koller", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12437_8.jpg", 
+  "title": "G-Astronomy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/koller-g-astronomy-t12437", 
+  "width": "174"
+}

@@ -1,0 +1,134 @@
+{
+  "acno": "T01270", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Frank Auerbach", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Frank Auerbach", 
+      "gender": "Male", 
+      "id": 676, 
+      "mda": "Auerbach, Frank", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1968, 
+    "startYear": 1967, 
+    "text": "1967-8"
+  }, 
+  "dateText": "1967\u20138", 
+  "depth": "", 
+  "dimensions": "support: 1219 x 1467 mm\r\nframe: 1345 x 1595 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1467", 
+  "id": 636, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1666, 
+      "name": "School of London"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1882, 
+                "name": "Primrose Hill"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Frank Auerbach", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01270_8.jpg", 
+  "title": "Primrose Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/auerbach-primrose-hill-t01270", 
+  "width": "1219"
+}

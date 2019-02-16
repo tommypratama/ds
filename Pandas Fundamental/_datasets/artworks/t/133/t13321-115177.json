@@ -1,0 +1,70 @@
+{
+  "acno": "T13321", 
+  "acquisitionYear": 2011, 
+  "all_artists": "Anne Martin", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Anne Martin", 
+      "gender": "Female", 
+      "id": 15125, 
+      "mda": "Martin, Anne", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 2011", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1962, 
+    "text": "1962"
+  }, 
+  "dateText": "1962", 
+  "depth": "", 
+  "dimensions": "support: 1843 x 1831 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1831", 
+  "id": 115177, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Anne Martin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13321_8.jpg", 
+  "title": "From One World to Another", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-from-one-world-to-another-t13321", 
+  "width": "1843"
+}

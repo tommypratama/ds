@@ -1,0 +1,98 @@
+{
+  "acno": "T11444", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Richard Cooper Junior", 
+  "catalogueGroup": {
+    "accessionRanges": "T11442-T11447", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66051, 
+    "shortTitle": "Six Etchings of Landscapes"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1740, 
+      "date": "c.1740\u2013c.1814", 
+      "displayOrder": 1, 
+      "fc": "Richard Cooper Junior", 
+      "gender": "Male", 
+      "id": 2419, 
+      "mda": "Cooper, Richard, Junior", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 210 x 261 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Six Etchings of Landscapes", 
+  "height": "261", 
+  "id": 25427, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11444_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11444", 
+  "width": "210"
+}

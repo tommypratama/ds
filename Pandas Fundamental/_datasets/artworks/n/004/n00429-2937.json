@@ -1,0 +1,138 @@
+{
+  "acno": "N00429", 
+  "acquisitionYear": 1847, 
+  "all_artists": "Thomas Creswick", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1811, 
+      "date": "1811\u20131869", 
+      "displayOrder": 1, 
+      "fc": "Thomas Creswick", 
+      "gender": "Male", 
+      "id": 122, 
+      "mda": "Creswick, Thomas", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Robert Vernon 1847", 
+  "dateRange": {
+    "endYear": 1839, 
+    "startYear": 1839, 
+    "text": "1839, exhibited 1839"
+  }, 
+  "dateText": "1839, exhibited 1839", 
+  "depth": "", 
+  "dimensions": "support: 610 x 495 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "495", 
+  "id": 2937, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on mahogany", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4286, 
+                "name": "Townsend, H., 'The Way to Church'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4285, 
+                "name": "stile"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00429_8.jpg", 
+  "title": "The Stile", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/creswick-the-stile-n00429", 
+  "width": "610"
+}

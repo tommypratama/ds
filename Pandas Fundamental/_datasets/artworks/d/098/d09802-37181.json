@@ -1,0 +1,94 @@
+{
+  "acno": "D09802", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09802", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D98/D09802_E.jpg", 
+          "height": 371, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1146229, 
+  "catalogueGroup": {
+    "accessionRanges": "D09789-D09855; D09857-D09888; D40878-D40884", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65776, 
+    "shortTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1816, 
+    "startYear": 1816, 
+    "text": "1816"
+  }, 
+  "dateText": "1816", 
+  "depth": "", 
+  "dimensions": "support: 179 x 254 mm", 
+  "finberg": "CXXXIV 12 v", 
+  "foreignTitle": null, 
+  "groupTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook", 
+  "height": "254", 
+  "id": 37181, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 12, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09802_8.jpg", 
+  "title": "Lindley Hall, near Farnley, from beside Lake Tiny", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lindley-hall-near-farnley-from-beside-lake-tiny-d09802", 
+  "width": "179"
+}

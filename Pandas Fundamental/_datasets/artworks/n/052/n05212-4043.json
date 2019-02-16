@@ -1,0 +1,128 @@
+{
+  "acno": "N05212", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Evelyn Dunbar", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1906, 
+      "date": "1906\u20131960", 
+      "displayOrder": 1, 
+      "fc": "Evelyn Dunbar", 
+      "gender": "Female", 
+      "id": 1041, 
+      "mda": "Dunbar, Evelyn", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1940", 
+  "dateRange": {
+    "endYear": 1937, 
+    "startYear": 1929, 
+    "text": "c.1929-37"
+  }, 
+  "dateText": "c.1929\u201337", 
+  "depth": "", 
+  "dimensions": "support: 305 x 914 mm\r\nframe: 383 x 995 x 54 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "914", 
+  "id": 4043, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 810, 
+                "name": "Kent"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3283, 
+                "name": "Strood"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05212_8.jpg", 
+  "title": "Winter Garden", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dunbar-winter-garden-n05212", 
+  "width": "305"
+}

@@ -1,0 +1,174 @@
+{
+  "acno": "D34809", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D34809", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D348/D34809_E.jpg", 
+          "height": 481, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }, 
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D34809_89088", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "D/D34/D34809_89088_7.jpg", 
+          "height": 120, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "D/D34/D34809_89088_8.jpg", 
+          "height": 240, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "D/D34/D34809_89088_9.jpg", 
+          "height": 480, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "D/D34/D34809_89088_10.jpg", 
+          "height": 1442, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1841, 
+    "startYear": 1830, 
+    "text": "c.1830-41"
+  }, 
+  "dateText": "c.1830\u201341", 
+  "depth": "", 
+  "dimensions": "support: 136 x 144 mm", 
+  "finberg": "CCCXLIV 338", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "144", 
+  "id": 61964, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34809_8.jpg", 
+  "title": "Tower on Hill: Also Two Seated Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-tower-on-hill-also-two-seated-figures-d34809", 
+  "width": "136"
+}

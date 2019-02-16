@@ -1,0 +1,104 @@
+{
+  "acno": "T07034", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Robert Adams", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1917, 
+      "date": "1917\u20131984", 
+      "displayOrder": 1, 
+      "fc": "Robert Adams", 
+      "gender": "Male", 
+      "id": 628, 
+      "mda": "Adams, Robert", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased 1995", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1950, 
+    "text": "1950"
+  }, 
+  "dateText": "1950", 
+  "depth": "410", 
+  "dimensions": "object: 940 x 420 x 410 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "420", 
+  "id": 21491, 
+  "inscription": null, 
+  "medium": "Steel wire and wood", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 424, 
+      "name": "Geometry of Fear"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }, 
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Robert Adams", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07034_8.jpg", 
+  "title": "Space Construction with a Spiral", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/adams-space-construction-with-a-spiral-t07034", 
+  "width": "940"
+}

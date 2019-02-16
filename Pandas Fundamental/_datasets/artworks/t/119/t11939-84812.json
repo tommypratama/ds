@@ -1,0 +1,82 @@
+{
+  "acno": "T11939", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Rodney Graham", 
+  "catalogueGroup": {}, 
+  "classification": null, 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "Rodney Graham", 
+      "gender": "Male", 
+      "id": 7810, 
+      "mda": "Graham, Rodney", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Mary Joy Thomson Bequest 2005", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1998, 
+    "text": "1998"
+  }, 
+  "dateText": "1998", 
+  "depth": "20", 
+  "dimensions": "object: 190 x 145 x 20 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "145", 
+  "id": 84812, 
+  "inscription": null, 
+  "medium": "3 books", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17551, 
+                "name": "Poe, Edgar Allan, 'Landor's Cottage'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17550, 
+                "name": "book, Beckford, William, 'Vathek'"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Rodney Graham, courtesy Donald Young Gallery, Chicago", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11939_8.jpg", 
+  "title": "Vathek*", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/graham-vathek-t11939", 
+  "width": "190"
+}

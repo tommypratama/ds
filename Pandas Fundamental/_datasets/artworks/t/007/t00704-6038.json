@@ -1,0 +1,80 @@
+{
+  "acno": "T00704", 
+  "acquisitionYear": 1964, 
+  "all_artists": "Dame Barbara Hepworth", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Dame Barbara Hepworth", 
+      "gender": "Female", 
+      "id": 1274, 
+      "mda": "Hepworth, Dame Barbara", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1964", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1963, 
+    "text": "1963-4"
+  }, 
+  "dateText": "1963\u20134", 
+  "depth": "229", 
+  "dimensions": "object: 1264 x 972 x 229 mm, 630 kg\r\nbase: 1110 x 580 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "972", 
+  "id": 6038, 
+  "inscription": null, 
+  "medium": "Pentelicon marble on wooden base", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00704_8.jpg", 
+  "title": "Pierced Form", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-pierced-form-t00704", 
+  "width": "1264"
+}

@@ -1,0 +1,98 @@
+{
+  "acno": "D05478", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D05478", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D54/D05478_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139288, 
+  "catalogueGroup": {
+    "accessionRanges": "D05446-D05490; D40701-D40705; D41427", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65736, 
+    "shortTitle": "Nelson Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 114 x 184 mm", 
+  "finberg": "LXXXIX 24", 
+  "foreignTitle": null, 
+  "groupTitle": "Nelson Sketchbook", 
+  "height": "184", 
+  "id": 32870, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 63, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11481, 
+                "name": "hull"
+              }, 
+              {
+                "id": 25141, 
+                "name": "ship, warship, 'HMS Temeraire'"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05478_8.jpg", 
+  "title": "Two Studies of the Bows and Beakhead of the\u2019Temeraire\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-studies-of-the-bows-and-beakhead-of-thetemeraire-d05478", 
+  "width": "114"
+}

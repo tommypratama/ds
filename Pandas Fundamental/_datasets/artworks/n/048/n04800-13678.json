@@ -1,0 +1,92 @@
+{
+  "acno": "N04800", 
+  "acquisitionYear": 1935, 
+  "all_artists": "Sir Stanley Spencer", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Sir Stanley Spencer", 
+      "gender": "Male", 
+      "id": 1977, 
+      "mda": "Spencer, Sir Stanley", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1935", 
+  "dateRange": {
+    "endYear": 1925, 
+    "startYear": 1925, 
+    "text": "1925"
+  }, 
+  "dateText": "1925", 
+  "depth": "", 
+  "dimensions": "support: 508 x 762 mm\r\nframe: 703 x 953 x 100 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "762", 
+  "id": 13678, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1136, 
+                "name": "livestock pen"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2921, 
+                "name": "turkey"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Stanley Spencer", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04800_8.jpg", 
+  "title": "Turkeys", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/spencer-turkeys-n04800", 
+  "width": "508"
+}

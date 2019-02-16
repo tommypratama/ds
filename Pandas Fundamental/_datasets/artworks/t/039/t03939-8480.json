@@ -1,0 +1,138 @@
+{
+  "acno": "T03939", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Edward Lear", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1812, 
+      "date": "1812\u20131888", 
+      "displayOrder": 1, 
+      "fc": "Edward Lear", 
+      "gender": "Male", 
+      "id": 337, 
+      "mda": "Lear, Edward", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Denzil Young in accordance with the wishes of his late sister Miss Monica Young 1985", 
+  "dateRange": {
+    "endYear": 1848, 
+    "startYear": 1848, 
+    "text": "1848"
+  }, 
+  "dateText": "1848", 
+  "depth": "", 
+  "dimensions": "support: 356 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 8480, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13695, 
+                "name": "Argostoli"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15629, 
+                "name": "Greece, Cephalonia"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03939_8.jpg", 
+  "title": "The Fortress of San George, near Argostoli, Cephalonia", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lear-the-fortress-of-san-george-near-argostoli-cephalonia-t03939", 
+  "width": "356"
+}

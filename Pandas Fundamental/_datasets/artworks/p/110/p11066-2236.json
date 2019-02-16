@@ -1,0 +1,112 @@
+{
+  "acno": "P11066", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Brian Clarke", 
+  "catalogueGroup": {
+    "accessionRanges": "P11062-P11069", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65270, 
+    "shortTitle": "The Two Cultures"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1953, 
+      "date": "born 1953", 
+      "displayOrder": 1, 
+      "fc": "Brian Clarke", 
+      "gender": "Male", 
+      "id": 911, 
+      "mda": "Clarke, Brian", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Paul Beldock 1983", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "", 
+  "dimensions": "image: 1005 x 698 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Two Cultures", 
+  "height": "698", 
+  "id": 2236, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 7289, 
+                "name": "tower block"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11714, 
+                "name": "defacement"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Brian Clarke. All Rights Reserved 2014 / DACS", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11066_8.jpg", 
+  "title": "Buildings ", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clarke-buildings-p11066", 
+  "width": "1005"
+}

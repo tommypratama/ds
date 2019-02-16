@@ -1,0 +1,100 @@
+{
+  "acno": "T12488", 
+  "acquisitionYear": 2007, 
+  "all_artists": "Phyllida Barlow", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1944, 
+      "date": "born 1944", 
+      "displayOrder": 1, 
+      "fc": "Phyllida Barlow", 
+      "gender": "Female", 
+      "id": 10908, 
+      "mda": "Barlow, Phyllida", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 2007", 
+  "dateRange": {
+    "endYear": 2006, 
+    "startYear": 2006, 
+    "text": "2006"
+  }, 
+  "dateText": "2006", 
+  "depth": "", 
+  "dimensions": "1855 x 1550 x 1160 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1160", 
+  "id": 94943, 
+  "inscription": null, 
+  "medium": "Timber, galvanized steel and plaster", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11189, 
+                "name": "rack"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Phyllida Barlow", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12488_8.jpg", 
+  "title": "Untitled (Yellow Rack)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-untitled-yellow-rack-t12488", 
+  "width": "1550"
+}

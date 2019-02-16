@@ -1,0 +1,80 @@
+{
+  "acno": "T00760", 
+  "acquisitionYear": 1965, 
+  "all_artists": "James Wines", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "James Wines", 
+      "gender": "Male", 
+      "id": 2153, 
+      "mda": "Wines, James", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Mr and Mrs H.J. Heinz II through the American Federation of Arts 1965", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "650", 
+  "dimensions": "object: 470 x 600 x 650 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "600", 
+  "id": 16266, 
+  "inscription": null, 
+  "medium": "Painted concrete and steel", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Homage to L\u00e9ger", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wines-homage-to-leger-t00760", 
+  "width": "470"
+}

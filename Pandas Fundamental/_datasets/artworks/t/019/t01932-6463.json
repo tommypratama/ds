@@ -1,0 +1,70 @@
+{
+  "acno": "T01932", 
+  "acquisitionYear": 1974, 
+  "all_artists": "Roger Hilton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1911, 
+      "date": "1911\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Roger Hilton", 
+      "gender": "Male", 
+      "id": 1289, 
+      "mda": "Hilton, Roger", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "1953"
+  }, 
+  "dateText": "1953", 
+  "depth": "", 
+  "dimensions": "support: 362 x 705 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "705", 
+  "id": 6463, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Roger Hilton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01932_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hilton-untitled-t01932", 
+  "width": "362"
+}

@@ -1,0 +1,136 @@
+{
+  "acno": "P07923", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Ian Hamilton Finlay", 
+  "catalogueGroup": {
+    "accessionRanges": "P07923-P07924", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65609, 
+    "shortTitle": "Two Trees [collaboration with Richard Healy]"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20132006", 
+      "displayOrder": 1, 
+      "fc": "Ian Hamilton Finlay", 
+      "gender": "Male", 
+      "id": 1093, 
+      "mda": "Hamilton Finlay, Ian", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "", 
+  "dimensions": "image: 92 x 116 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Two Trees [collaboration with Richard Healy]", 
+  "height": "116", 
+  "id": 16987, 
+  "inscription": null, 
+  "medium": "Woodcut on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text"
+              }, 
+              {
+                "id": 8685, 
+                "name": "instructions"
+              }, 
+              {
+                "id": 1986, 
+                "name": "title of work"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Ian Hamilton Finlay", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07923_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-no-title-p07923", 
+  "width": "92"
+}

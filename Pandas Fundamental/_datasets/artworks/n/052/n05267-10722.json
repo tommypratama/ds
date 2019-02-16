@@ -1,0 +1,76 @@
+{
+  "acno": "N05267", 
+  "acquisitionYear": 1941, 
+  "all_artists": "Sir William Nicholson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1872, 
+      "date": "1872\u20131949", 
+      "displayOrder": 1, 
+      "fc": "Sir William Nicholson", 
+      "gender": "Male", 
+      "id": 1703, 
+      "mda": "Nicholson, Sir William", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Purchased 1941", 
+  "dateRange": {
+    "endYear": 1940, 
+    "startYear": 1940, 
+    "text": "1940"
+  }, 
+  "dateText": "1940", 
+  "depth": "", 
+  "dimensions": "support: 349 x 451 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "451", 
+  "id": 10722, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4949, 
+                "name": "vegetable, mushroom"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Desmond Banks", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05267_8.jpg", 
+  "title": "Mushrooms", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-mushrooms-n05267", 
+  "width": "349"
+}

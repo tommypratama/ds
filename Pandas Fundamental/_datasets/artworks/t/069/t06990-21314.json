@@ -1,0 +1,100 @@
+{
+  "acno": "T06990", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Nicholas May", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1962, 
+      "date": "born 1962", 
+      "displayOrder": 1, 
+      "fc": "Nicholas May", 
+      "gender": "Male", 
+      "id": 2367, 
+      "mda": "May, Nicholas", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1995", 
+  "dateRange": {
+    "endYear": 1994, 
+    "startYear": 1994, 
+    "text": "1994"
+  }, 
+  "dateText": "1994", 
+  "depth": "50", 
+  "dimensions": "support: 2490 x 3708 x 50 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3708", 
+  "id": 21314, 
+  "inscription": null, 
+  "medium": "Silicone rubber and metallic powder on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2974, 
+                "name": "ambiguity"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Liminal 174", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/may-liminal-174-t06990", 
+  "width": "2490"
+}

@@ -1,0 +1,98 @@
+{
+  "acno": "D14098", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D14098", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D140/D14098_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 351
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1148923, 
+  "catalogueGroup": {
+    "accessionRanges": "D13991-D14044; D14047-D14143; D40872-D40877", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65814, 
+    "shortTitle": "Paris, France, Savoy 2 Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 185 x 114 mm", 
+  "finberg": "CLXXIII 66", 
+  "foreignTitle": null, 
+  "groupTitle": "Paris, France, Savoy 2 Sketchbook", 
+  "height": "114", 
+  "id": 41461, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 135, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14098_8.jpg", 
+  "title": "?Entrance to the Voie Sarde near Les \u00c9chelles, Savoy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-entrance-to-the-voie-sarde-near-les-echelles-savoy-d14098", 
+  "width": "185"
+}

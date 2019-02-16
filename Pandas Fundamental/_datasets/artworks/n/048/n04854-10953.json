@@ -1,0 +1,82 @@
+{
+  "acno": "N04854", 
+  "acquisitionYear": 1936, 
+  "all_artists": "Isidore Opsomer", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1878, 
+      "date": "1878\u20131967", 
+      "displayOrder": 1, 
+      "fc": "Isidore Opsomer", 
+      "gender": "Male", 
+      "id": 1723, 
+      "mda": "Opsomer, Isidore", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Presented by Sam Salz 1936", 
+  "dateRange": {
+    "endYear": 1935, 
+    "startYear": 1935, 
+    "text": "1935"
+  }, 
+  "dateText": "1935", 
+  "depth": "", 
+  "dimensions": "support: 600 x 498 mm\r\nframe: 784 x 688 x 105 mm", 
+  "foreignTitle": "Kwiaty", 
+  "groupTitle": null, 
+  "height": "498", 
+  "id": 10953, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2213, 
+                "name": "dahlia"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Isidore Opsomer ", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04854_8.jpg", 
+  "title": "Vase with Dahlias", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/opsomer-vase-with-dahlias-n04854", 
+  "width": "600"
+}

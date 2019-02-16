@@ -1,0 +1,70 @@
+{
+  "acno": "P20048", 
+  "acquisitionYear": 1991, 
+  "all_artists": "Sean Scully", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Sean Scully", 
+      "gender": "Male", 
+      "id": 1917, 
+      "mda": "Scully, Sean", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1991", 
+  "dateRange": {
+    "endYear": 1991, 
+    "startYear": 1991, 
+    "text": "1991"
+  }, 
+  "dateText": "1991", 
+  "depth": "", 
+  "dimensions": "image: 285 x 225 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "225", 
+  "id": 20172, 
+  "inscription": "date inscribed", 
+  "medium": "Woodcut on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Sean Scully", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20048_8.jpg", 
+  "title": "Narcissus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scully-narcissus-p20048", 
+  "width": "285"
+}

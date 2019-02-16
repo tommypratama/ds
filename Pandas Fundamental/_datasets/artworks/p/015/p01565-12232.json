@@ -1,0 +1,108 @@
+{
+  "acno": "P01565", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Patrick Procktor", 
+  "catalogueGroup": {
+    "accessionRanges": "P01565-P01570", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65491, 
+    "shortTitle": "South African Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "1936\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Patrick Procktor", 
+      "gender": "Male", 
+      "id": 1800, 
+      "mda": "Procktor, Patrick", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Editions Alecto through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 122 x 205 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "South African Suite", 
+  "height": "205", 
+  "id": 12232, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7325, 
+                "name": "Africa"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11112, 
+                "name": "Victoria Falls"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5377, 
+                "name": "rainbow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Leaping Cataract, Victoria Falls", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/procktor-leaping-cataract-victoria-falls-p01565", 
+  "width": "122"
+}

@@ -1,0 +1,76 @@
+{
+  "acno": "P07505", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Leonard McComb", 
+  "catalogueGroup": {
+    "accessionRanges": "P07501-P07506", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65390, 
+    "shortTitle": "Blossoms and Flowers"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Leonard McComb", 
+      "gender": "Male", 
+      "id": 1604, 
+      "mda": "McComb, Leonard", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1981", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1975, 
+    "text": "1975-9"
+  }, 
+  "dateText": "1975\u20139", 
+  "depth": "", 
+  "dimensions": "image: 445 x 349 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Blossoms and Flowers", 
+  "height": "349", 
+  "id": 9070, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3572, 
+                "name": "apple"
+              }, 
+              {
+                "id": 2270, 
+                "name": "blossom"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Leonard McComb", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07505_8.jpg", 
+  "title": "Apple Blossom I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mccomb-apple-blossom-i-p07505", 
+  "width": "445"
+}

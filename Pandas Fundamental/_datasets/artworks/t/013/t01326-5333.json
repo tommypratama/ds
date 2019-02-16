@@ -1,0 +1,92 @@
+{
+  "acno": "T01326", 
+  "acquisitionYear": 1974, 
+  "all_artists": "Sam Gilliam", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Sam Gilliam", 
+      "gender": "Male", 
+      "id": 1170, 
+      "mda": "Gilliam, Sam", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Nesta Dorrance through the American Federation of Arts 1974", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "object: 2159 x 1353 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1353", 
+  "id": 5333, 
+  "inscription": null, 
+  "medium": "Acrylic on canvas and leather string", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 699, 
+                "name": "cloak"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Simmering", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gilliam-simmering-t01326", 
+  "width": "2159"
+}

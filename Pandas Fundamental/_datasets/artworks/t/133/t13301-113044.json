@@ -1,0 +1,106 @@
+{
+  "acno": "T13301", 
+  "acquisitionYear": 2011, 
+  "all_artists": "Thilo Heinzmann", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1969, 
+      "date": "born 1969", 
+      "displayOrder": 1, 
+      "fc": "Thilo Heinzmann", 
+      "gender": "Male", 
+      "id": 14527, 
+      "mda": "Heinzmann, Thilo", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 2010", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 2000 x 3000 mm", 
+  "foreignTitle": "o.T.", 
+  "groupTitle": null, 
+  "height": "3000", 
+  "id": 113044, 
+  "inscription": null, 
+  "medium": "Pigment, epoxy on styrofoam and plexiglass", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15901, 
+                "name": "fragility"
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12910, 
+                "name": "high art"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Thilo Heinzmann", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13301_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/heinzmann-untitled-t13301", 
+  "width": "2000"
+}

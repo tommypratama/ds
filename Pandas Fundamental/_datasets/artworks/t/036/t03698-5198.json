@@ -1,0 +1,102 @@
+{
+  "acno": "T03698", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Stephen Gilbert", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20132007", 
+      "displayOrder": 1, 
+      "fc": "Stephen Gilbert", 
+      "gender": "Male", 
+      "id": 1165, 
+      "mda": "Gilbert, Stephen", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1948, 
+    "text": "1948"
+  }, 
+  "dateText": "1948", 
+  "depth": "", 
+  "dimensions": "support: 535 x 715 mm\r\nframe: 582 x 767 x 53 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "715", 
+  "id": 5198, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 420, 
+      "name": "Cobra"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7201, 
+                "name": "insect"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Stephen Gilbert", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03698_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gilbert-untitled-t03698", 
+  "width": "535"
+}

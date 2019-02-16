@@ -1,0 +1,134 @@
+{
+  "acno": "T11525", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Sell Cotman", 
+  "catalogueGroup": {
+    "accessionRanges": "T11487-T11534", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66050, 
+    "shortTitle": "Liber Studiorum: A Series of Sketches and Studies"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Sell Cotman", 
+      "gender": "Male", 
+      "id": 116, 
+      "mda": "Cotman, John Sell", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 175 x 243 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum: A Series of Sketches and Studies", 
+  "height": "243", 
+  "id": 25417, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7832, 
+                "name": "Ashtead"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 471, 
+                "name": "Surrey"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 458, 
+                "name": "ladder"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1937, 
+                "name": "laundry"
+              }, 
+              {
+                "id": 1936, 
+                "name": "washing line"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11525_8.jpg", 
+  "title": "View at Ashted, Surrey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-view-at-ashted-surrey-t11525", 
+  "width": "175"
+}

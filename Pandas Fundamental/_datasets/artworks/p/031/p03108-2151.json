@@ -1,0 +1,86 @@
+{
+  "acno": "P03108", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Michael Challenger", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "Michael Challenger", 
+      "gender": "Male", 
+      "id": 883, 
+      "mda": "Challenger, Michael", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Challenger Clegg Editions 1975", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 302 x 225 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "225", 
+  "id": 2151, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Michael Challenger", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03108_8.jpg", 
+  "title": "Green Jay", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/challenger-green-jay-p03108", 
+  "width": "302"
+}

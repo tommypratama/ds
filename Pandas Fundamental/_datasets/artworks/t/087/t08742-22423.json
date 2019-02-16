@@ -1,0 +1,86 @@
+{
+  "acno": "T08742", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Constable", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1803, 
+    "startYear": 1803, 
+    "text": "1803"
+  }, 
+  "dateText": "1803", 
+  "depth": "", 
+  "dimensions": "support: 124 x 200 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "200", 
+  "id": 22423, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08742_8.jpg", 
+  "title": "Sketch of Shipping. Three Ships, Close Hauled in a Choppy Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-sketch-of-shipping-three-ships-close-hauled-in-a-choppy-sea-t08742", 
+  "width": "124"
+}

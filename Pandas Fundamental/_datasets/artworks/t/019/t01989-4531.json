@@ -1,0 +1,134 @@
+{
+  "acno": "T01989", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Claud Lovat Fraser", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131921", 
+      "displayOrder": 1, 
+      "fc": "Claud Lovat Fraser", 
+      "gender": "Male", 
+      "id": 1115, 
+      "mda": "Fraser, Claud Lovat", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1975", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1912, 
+    "text": "1912-3"
+  }, 
+  "dateText": "1912\u20133", 
+  "depth": "", 
+  "dimensions": "support: 610 x 914 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "914", 
+  "id": 4531, 
+  "inscription": null, 
+  "medium": "Gouache, watercolour and graphite on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1325, 
+                "name": "black"
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity"
+          }, 
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1393, 
+                "name": "pope"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3991, 
+                "name": "slavery"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01989_8.jpg", 
+  "title": "The Slave Market", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fraser-the-slave-market-t01989", 
+  "width": "610"
+}

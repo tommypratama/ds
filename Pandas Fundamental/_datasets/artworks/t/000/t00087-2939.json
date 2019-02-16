@@ -1,0 +1,110 @@
+{
+  "acno": "T00087", 
+  "acquisitionYear": 1956, 
+  "all_artists": "Roberto Crippa", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131972", 
+      "displayOrder": 1, 
+      "fc": "Roberto Crippa", 
+      "gender": "Male", 
+      "id": 960, 
+      "mda": "Crippa, Roberto", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1956", 
+  "dateRange": {
+    "endYear": 1952, 
+    "startYear": 1952, 
+    "text": "1952"
+  }, 
+  "dateText": "1952", 
+  "depth": "", 
+  "dimensions": "support: 600 x 702 mm\r\nframe: 630 x 733 x 48 mm", 
+  "foreignTitle": "Aurora Boreale", 
+  "groupTitle": null, 
+  "height": "702", 
+  "id": 2939, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 4246, 
+      "name": "Spazialismo"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4247, 
+                "name": "Northern Lights"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Aurora Borealis", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/crippa-aurora-borealis-t00087", 
+  "width": "600"
+}

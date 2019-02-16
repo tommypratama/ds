@@ -1,0 +1,76 @@
+{
+  "acno": "P78423", 
+  "acquisitionYear": 2001, 
+  "all_artists": "Jannis Kounellis", 
+  "catalogueGroup": {
+    "accessionRanges": "P78423-P78434", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66560, 
+    "shortTitle": "Kounellis 99"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Jannis Kounellis", 
+      "gender": "Male", 
+      "id": 1438, 
+      "mda": "Kounellis, Jannis", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 2001", 
+  "dateRange": {
+    "endYear": 1999, 
+    "startYear": 1999, 
+    "text": "1999"
+  }, 
+  "dateText": "1999", 
+  "depth": "", 
+  "dimensions": "support: 355 x 387 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Kounellis 99", 
+  "height": "387", 
+  "id": 79, 
+  "inscription": null, 
+  "medium": "Etching, drypoint and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jannis Kounellis", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78423_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78423", 
+  "width": "355"
+}

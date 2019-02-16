@@ -1,0 +1,82 @@
+{
+  "acno": "T09728", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Heneage Finch, Fourth Earl of Aylesford", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1751, 
+      "date": "1751\u20131812", 
+      "displayOrder": 1, 
+      "fc": "Heneage Finch, Fourth Earl of Aylesford", 
+      "gender": "Male", 
+      "id": 2480, 
+      "mda": "Aylesford, Heneage Finch, Fourth Earl of", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 208 x 277 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "277", 
+  "id": 22247, 
+  "inscription": null, 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09728_8.jpg", 
+  "title": "A House in the Dutch Style, by a Church Spire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/aylesford-a-house-in-the-dutch-style-by-a-church-spire-t09728", 
+  "width": "208"
+}

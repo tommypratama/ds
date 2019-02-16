@@ -1,0 +1,82 @@
+{
+  "acno": "N02642", 
+  "acquisitionYear": 1910, 
+  "all_artists": "after Joseph Mallord William Turner", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "after", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Bequeathed by George Salting 1910", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 394 x 483 mm\r\nframe: 645 x 735 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "483", 
+  "id": 15038, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02642_8.jpg", 
+  "title": "A Fresh Breeze (after \u2018Sheerness and the Isle of Sheppey\u2019)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-fresh-breeze-after-sheerness-and-the-isle-of-sheppey-n02642", 
+  "width": "394"
+}

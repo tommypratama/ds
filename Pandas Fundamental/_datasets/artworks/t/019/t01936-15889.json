@@ -1,0 +1,74 @@
+{
+  "acno": "T01936", 
+  "acquisitionYear": 1974, 
+  "all_artists": "John Walker", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "John Walker", 
+      "gender": "Male", 
+      "id": 2116, 
+      "mda": "Walker, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "support: 1003 x 708 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "708", 
+  "id": 15889, 
+  "inscription": "date inscribed", 
+  "medium": "Acrylic paint and chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Walker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01936_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-untitled-t01936", 
+  "width": "1003"
+}

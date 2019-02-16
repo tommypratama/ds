@@ -1,0 +1,106 @@
+{
+  "acno": "T13396", 
+  "acquisitionYear": 2012, 
+  "all_artists": "Trevor Bell", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Trevor Bell", 
+      "gender": "Male", 
+      "id": 730, 
+      "mda": "Bell, Trevor", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2011", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "57", 
+  "dimensions": "support: 1160 x 2140 x 57 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2140", 
+  "id": 118519, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 20392, 
+                "name": "Calshot - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 607, 
+                "name": "Hampshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Trevor Bell", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13396_8.jpg", 
+  "title": "Calshot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bell-calshot-t13396", 
+  "width": "1160"
+}

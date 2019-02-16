@@ -1,0 +1,172 @@
+{
+  "acno": "N05740", 
+  "acquisitionYear": 1946, 
+  "all_artists": "Graham Sutherland OM", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131980", 
+      "displayOrder": 1, 
+      "fc": "Graham Sutherland OM", 
+      "gender": "Male", 
+      "id": 2014, 
+      "mda": "Sutherland, Graham, OM", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the War Artists Advisory Committee 1946", 
+  "dateRange": {
+    "endYear": 1942, 
+    "startYear": 1941, 
+    "text": "1941-2"
+  }, 
+  "dateText": "1941\u20132", 
+  "depth": "", 
+  "dimensions": "support: 921 x 860 mm\r\nframe: 1155 x 1100 x 70 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "860", 
+  "id": 14021, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 10525, 
+      "name": "British War Art"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 312, 
+      "name": "Neo-Romanticism"
+    }
+  ], 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5216, 
+                "name": "'Recording Britain' project"
+              }, 
+              {
+                "id": 7828, 
+                "name": "home front"
+              }
+            ], 
+            "id": 37, 
+            "name": "military: World War II"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7953, 
+                "name": "Cardiff"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7179, 
+                "name": "Cardiff, Guest, Keen and Baldwin Steelworks"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1326, 
+                "name": "fire"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6241, 
+                "name": "foundry"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7182, 
+                "name": "furnace"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05740_8.jpg", 
+  "title": "Tapping a Blast Furnace", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sutherland-tapping-a-blast-furnace-n05740", 
+  "width": "921"
+}

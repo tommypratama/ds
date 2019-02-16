@@ -1,0 +1,123 @@
+{
+  "acno": "T07113", 
+  "acquisitionYear": 1996, 
+  "all_artists": "British School 17th century, attributed to John Greenhill", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1600, 
+      "date": "1600\u20131699", 
+      "displayOrder": 1, 
+      "fc": "British School 17th century", 
+      "gender": null, 
+      "id": 57, 
+      "mda": "British School 17th century", 
+      "role": "artist", 
+      "startLetter": "B"
+    }, 
+    {
+      "birthYear": 1642, 
+      "date": "1642\u20131676", 
+      "displayOrder": 2, 
+      "fc": "John Greenhill", 
+      "gender": "Male", 
+      "id": 2690, 
+      "mda": "Greenhill, John", 
+      "role": "attributed to", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Gilbert Cousland 1996 to celebrate the Tate Gallery Centenary 1997", 
+  "dateRange": {
+    "endYear": 1662, 
+    "startYear": 1662, 
+    "text": "c.1662"
+  }, 
+  "dateText": "c.1662", 
+  "depth": "", 
+  "dimensions": "support: 704 x 590 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "590", 
+  "id": 21683, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16119, 
+                "name": "Colman, Richard"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1946, 
+                "name": "lawyer"
+              }
+            ], 
+            "id": 125, 
+            "name": "crime and punishment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07113_8.jpg", 
+  "title": "Portrait of Richard Colman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/british-school-17th-century-greenhill-portrait-of-richard-colman-t07113", 
+  "width": "704"
+}

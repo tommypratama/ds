@@ -1,0 +1,101 @@
+{
+  "acno": "D30890", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D30888-D30893; D30895-D31019; D41123-D41124", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65934, 
+    "shortTitle": "Dresden and Saxon Switzerland Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1835, 
+    "startYear": 1835, 
+    "text": "1835"
+  }, 
+  "dateText": "1835", 
+  "depth": "", 
+  "dimensions": "support: 170 x 104 mm", 
+  "finberg": "CCCVI 2", 
+  "foreignTitle": null, 
+  "groupTitle": "Dresden and Saxon Switzerland Sketchbook", 
+  "height": "104", 
+  "id": 58130, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 5, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15173, 
+                "name": "Pfaffenstein"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30890_8.jpg", 
+  "title": "Two Views of Saxon Switzerland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-views-of-saxon-switzerland-d30890", 
+  "width": "170"
+}

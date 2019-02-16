@@ -1,0 +1,96 @@
+{
+  "acno": "T02393", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Anthony Gross", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1905, 
+      "date": "1905\u20131984", 
+      "displayOrder": 1, 
+      "fc": "Anthony Gross", 
+      "gender": "Male", 
+      "id": 1222, 
+      "mda": "Gross, Anthony", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1979", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1978, 
+    "text": "1978"
+  }, 
+  "dateText": "1978", 
+  "depth": "", 
+  "dimensions": "support: 895 x 1308 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1308", 
+  "id": 5712, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5146, 
+                "name": "Pech de Murat"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Anthony Gross", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02393_8.jpg", 
+  "title": "Pech de Murat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gross-pech-de-murat-t02393", 
+  "width": "895"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "T11950", 
+  "acquisitionYear": 2005, 
+  "all_artists": "John Wells", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20132000", 
+      "displayOrder": 1, 
+      "fc": "John Wells", 
+      "gender": "Male", 
+      "id": 2130, 
+      "mda": "Wells, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Bequeathed by the artist 2000, accessioned 2005", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "support: 255 x 380 mm\r\nframe: 418 x 545 x 32 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "380", 
+  "id": 85028, 
+  "inscription": "date inscribed", 
+  "medium": "Ink, acrylic paint and graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Wells", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11950_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wells-untitled-t11950", 
+  "width": "255"
+}

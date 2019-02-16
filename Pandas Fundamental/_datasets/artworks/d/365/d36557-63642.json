@@ -1,0 +1,131 @@
+{
+  "acno": "D36557", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner, Thomas Girtin", 
+  "catTextResId": 1141259, 
+  "catalogueGroup": {
+    "accessionRanges": "D00673-D00674; D00904; D01910; D36355; D36501; D36522-D36561; D36563-D36570; D36616-D36624; D36628; D36648; D36667; D40488", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127524, 
+    "shortTitle": "Collaborations with Thomas Girtin for Dr Monro, and Other Copies"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }, 
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 2, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1795, 
+    "text": "c.1795-7"
+  }, 
+  "dateText": "c.1795\u20137", 
+  "depth": "", 
+  "dimensions": "support: 183 x 235 mm", 
+  "finberg": "CCCLXXV 36", 
+  "foreignTitle": null, 
+  "groupTitle": "Collaborations with Thomas Girtin for Dr Monro, and Other Copies", 
+  "height": "235", 
+  "id": 63642, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9824, 
+                "name": "Austria, Tyrol"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36557_8.jpg", 
+  "title": "Buildings among Wooded Hills; a Lake in the Foreground and a Mountain in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-girtin-buildings-among-wooded-hills-a-lake-in-the-foreground-and-a-mountain-in-the-d36557", 
+  "width": "183"
+}

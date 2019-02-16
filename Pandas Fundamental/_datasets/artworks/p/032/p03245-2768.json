@@ -1,0 +1,108 @@
+{
+  "acno": "P03245", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Constant (Constant A. Nieuwenhuys)", 
+  "catalogueGroup": {
+    "accessionRanges": "P03241-P03255", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65252, 
+    "shortTitle": "For Jorn"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1920, 
+      "date": "1920\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Constant (Constant A. Nieuwenhuys)", 
+      "gender": "Male", 
+      "id": 937, 
+      "mda": "Constant", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Asger Jorn Foundation 1978", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1975, 
+    "text": "1975-6"
+  }, 
+  "dateText": "1975\u20136", 
+  "depth": "", 
+  "dimensions": "image: 645 x 502 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "For Jorn", 
+  "height": "502", 
+  "id": 2768, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03245_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constant-no-title-p03245", 
+  "width": "645"
+}

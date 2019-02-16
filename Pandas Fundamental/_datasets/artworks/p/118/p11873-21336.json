@@ -1,0 +1,88 @@
+{
+  "acno": "P11873", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Elizabeth Murray", 
+  "catalogueGroup": {
+    "accessionRanges": "P11873-P11876", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66001, 
+    "shortTitle": "Quartet"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Elizabeth Murray", 
+      "gender": "Female", 
+      "id": 1683, 
+      "mda": "Murray, Elizabeth", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery, courtesy of a private collector 1991", 
+  "dateRange": {
+    "endYear": 1990, 
+    "startYear": 1989, 
+    "text": "1989-90"
+  }, 
+  "dateText": "1989\u201390", 
+  "depth": "", 
+  "dimensions": "image: 206 x 167 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Quartet", 
+  "height": "167", 
+  "id": 21336, 
+  "inscription": "date inscribed", 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Bird", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murray-bird-p11873", 
+  "width": "206"
+}

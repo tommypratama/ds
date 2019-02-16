@@ -1,0 +1,410 @@
+{
+  "acno": "T06572", 
+  "acquisitionYear": 1992, 
+  "all_artists": "James Barry", 
+  "catalogueGroup": {
+    "accessionRanges": "T06557-T06568; T06571-T06584", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65516, 
+    "shortTitle": "A Series of Etchings by James Barry, Esq. from his Original and Justly Celebrated Paintings, in the Great Room of the Society of Arts"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1741, 
+      "date": "1741\u20131806", 
+      "displayOrder": 1, 
+      "fc": "James Barry", 
+      "gender": "Male", 
+      "id": 24, 
+      "mda": "Barry, James", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1992", 
+  "dateRange": {
+    "endYear": 1808, 
+    "startYear": 1776, 
+    "text": "1776-1808"
+  }, 
+  "dateText": "1776\u20131808", 
+  "depth": "", 
+  "dimensions": "image: 433 x 613 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Series of Etchings by James Barry, Esq. from his Original and Justly Celebrated Paintings, in the Great Room of the Society of Arts", 
+  "height": "613", 
+  "id": 20436, 
+  "inscription": null, 
+  "medium": "Etching, line engraving and aquatint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 344, 
+      "name": "Neo-Classicism"
+    }
+  ], 
+  "subjectCount": 35, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }, 
+              {
+                "id": 2019, 
+                "name": "scroll"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11495, 
+                "name": "gravestone / tomb"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1709, 
+                "name": "scythe"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2550, 
+                "name": "temple"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3379, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1303, 
+                "name": "colonialism"
+              }, 
+              {
+                "id": 232, 
+                "name": "freedom"
+              }, 
+              {
+                "id": 843, 
+                "name": "satire"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2928, 
+                "name": "mourning"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8806, 
+                "name": "revolution"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1817, 
+                "name": "despair"
+              }, 
+              {
+                "id": 11716, 
+                "name": "hope"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 931, 
+                "name": "garland"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }, 
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10146, 
+                "name": "phoenix"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1503, 
+                "name": "flying"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }, 
+              {
+                "id": 271, 
+                "name": "walking"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1491, 
+                "name": "pointing"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1497, 
+                "name": "ploughing"
+              }, 
+              {
+                "id": 708, 
+                "name": "shepherd / shepherdess"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12117, 
+                "name": "politics: America, Declaration of Independence, 1776"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12118, 
+                "name": "rebirth - phoenix"
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9101, 
+                "name": "time - old man"
+              }
+            ], 
+            "id": 1030, 
+            "name": "abstract concepts"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06572_8.jpg", 
+  "title": "The Phoenix or the Resurrection of Freedom", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barry-the-phoenix-or-the-resurrection-of-freedom-t06572", 
+  "width": "433"
+}

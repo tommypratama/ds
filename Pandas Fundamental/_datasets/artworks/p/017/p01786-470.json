@@ -1,0 +1,104 @@
+{
+  "acno": "P01786", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Josef Albers", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1888, 
+      "date": "1888\u20131976", 
+      "displayOrder": 1, 
+      "fc": "Josef Albers", 
+      "gender": "Male", 
+      "id": 636, 
+      "mda": "Albers, Josef", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by the Museum of Modern Art, New York 1976", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "", 
+  "dimensions": "image: 400 x 400 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "400", 
+  "id": 470, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 294, 
+      "name": "Bauhaus"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Joseph and Annie Albers Foundation/VG Bild-Kunst, Bonn and DACS, London, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01786_8.jpg", 
+  "title": "White Line Square IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/albers-white-line-square-iv-p01786", 
+  "width": "400"
+}

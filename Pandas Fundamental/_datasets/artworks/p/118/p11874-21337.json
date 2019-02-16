@@ -1,0 +1,104 @@
+{
+  "acno": "P11874", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Elizabeth Murray", 
+  "catalogueGroup": {
+    "accessionRanges": "P11873-P11876", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66001, 
+    "shortTitle": "Quartet"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Elizabeth Murray", 
+      "gender": "Female", 
+      "id": 1683, 
+      "mda": "Murray, Elizabeth", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery, courtesy of a private collector 1991", 
+  "dateRange": {
+    "endYear": 1990, 
+    "startYear": 1989, 
+    "text": "1989-90"
+  }, 
+  "dateText": "1989\u201390", 
+  "depth": "", 
+  "dimensions": "image: 204 x 165 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Quartet", 
+  "height": "165", 
+  "id": 21337, 
+  "inscription": "date inscribed", 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Chair", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murray-chair-p11874", 
+  "width": "204"
+}

@@ -1,0 +1,114 @@
+{
+  "acno": "T09371", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Sir Edward Poynter", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1836, 
+      "date": "1836\u20131919", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Poynter", 
+      "gender": "Male", 
+      "id": 433, 
+      "mda": "Poynter, Sir Edward", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1901, 
+    "startYear": 1901, 
+    "text": "1901"
+  }, 
+  "dateText": "1901", 
+  "depth": "", 
+  "dimensions": "support: 261 x 178 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "178", 
+  "id": 23402, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13977, 
+                "name": "Tintagel Head"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2607, 
+                "name": "cave"
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09371_8.jpg", 
+  "title": "Cliffs at Tintagel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/poynter-cliffs-at-tintagel-t09371", 
+  "width": "261"
+}

@@ -1,0 +1,138 @@
+{
+  "acno": "T09030", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John William Inchbold", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1830, 
+      "date": "1830\u20131888", 
+      "displayOrder": 1, 
+      "fc": "John William Inchbold", 
+      "gender": "Male", 
+      "id": 293, 
+      "mda": "Inchbold, John William", 
+      "role": "artist", 
+      "startLetter": "I"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1862, 
+    "startYear": 1862, 
+    "text": "1862"
+  }, 
+  "dateText": "1862", 
+  "depth": "", 
+  "dimensions": "support: 176 x 253 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "253", 
+  "id": 23074, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, watercolour and gouache on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1546, 
+                "name": "bending forward"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2990, 
+                "name": "digging"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2533, 
+                "name": "spade"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09030_8.jpg", 
+  "title": "A Man Digging on the Shore", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/inchbold-a-man-digging-on-the-shore-t09030", 
+  "width": "176"
+}

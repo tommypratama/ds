@@ -1,0 +1,118 @@
+{
+  "acno": "D00034", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00034", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D00/D00034_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 344
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140189, 
+  "catalogueGroup": {
+    "accessionRanges": "D00010-D00045; D40737-D40742", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "II", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65681, 
+    "shortTitle": "Oxford Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1789, 
+    "startYear": 1789, 
+    "text": "c.1789"
+  }, 
+  "dateText": "c.1789", 
+  "depth": "", 
+  "dimensions": "support: 249 x 160 mm", 
+  "finberg": "II 18 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford Sketchbook", 
+  "height": "160", 
+  "id": 27450, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 38, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 564, 
+                "name": "running"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00034_8.jpg", 
+  "title": "?Two Boys Running", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-boys-running-d00034", 
+  "width": "249"
+}

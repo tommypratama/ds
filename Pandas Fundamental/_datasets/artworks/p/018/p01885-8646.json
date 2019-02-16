@@ -1,0 +1,76 @@
+{
+  "acno": "P01885", 
+  "acquisitionYear": 1979, 
+  "all_artists": "David Leverett", 
+  "catalogueGroup": {
+    "accessionRanges": "P01884-P01886", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65195, 
+    "shortTitle": "3 X 3 Shift"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "David Leverett", 
+      "gender": "Male", 
+      "id": 1499, 
+      "mda": "Leverett, David", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Editions Alecto 1979", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "image: 600 x 900 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "3 X 3 Shift", 
+  "height": "900", 
+  "id": 8646, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Leverett", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01885_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leverett-no-title-p01885", 
+  "width": "600"
+}

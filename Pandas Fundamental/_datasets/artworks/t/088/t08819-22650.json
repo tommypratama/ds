@@ -1,0 +1,86 @@
+{
+  "acno": "T08819", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Joshua Cristall", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1767, 
+      "date": "1767 or 8\u20131847", 
+      "displayOrder": 1, 
+      "fc": "Joshua Cristall", 
+      "gender": "Male", 
+      "id": 123, 
+      "mda": "Cristall, Joshua", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1829, 
+    "startYear": 1829, 
+    "text": "1829"
+  }, 
+  "dateText": "1829", 
+  "depth": "", 
+  "dimensions": "support: 251 x 356 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "356", 
+  "id": 22650, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15954, 
+                "name": "harness"
+              }, 
+              {
+                "id": 6523, 
+                "name": "wheelbarrow"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2736, 
+                "name": "stable"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08819_8.jpg", 
+  "title": "Interior of a Stable", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cristall-interior-of-a-stable-t08819", 
+  "width": "251"
+}

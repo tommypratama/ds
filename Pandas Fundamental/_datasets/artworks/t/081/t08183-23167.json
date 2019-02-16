@@ -1,0 +1,118 @@
+{
+  "acno": "T08183", 
+  "acquisitionYear": 1996, 
+  "all_artists": "John Frederick Lewis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1805, 
+      "date": "1805\u20131876", 
+      "displayOrder": 1, 
+      "fc": "John Frederick Lewis", 
+      "gender": "Male", 
+      "id": 350, 
+      "mda": "Lewis, John Frederick", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1851, 
+    "startYear": 1841, 
+    "text": "1841-51"
+  }, 
+  "dateText": "1841\u201351", 
+  "depth": "", 
+  "dimensions": "support: 540 x 379 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "379", 
+  "id": 23167, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour and gouache on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 5866, 
+      "name": "Orientalist"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9944, 
+                "name": "Cairo, Mosque of El-Gh-ri"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1147, 
+                "name": "Egypt"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1166, 
+                "name": "market"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08183_8.jpg", 
+  "title": "The Bazaar of the Gh\u00fbriyah from the Steps of the Mosque of El-Gh\u00fbri, Cairo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-the-bazaar-of-the-ghuriyah-from-the-steps-of-the-mosque-of-el-ghuri-cairo-t08183", 
+  "width": "540"
+}

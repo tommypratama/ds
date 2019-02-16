@@ -1,0 +1,292 @@
+{
+  "acno": "N01498", 
+  "acquisitionYear": 1895, 
+  "all_artists": "John Prescott Knight", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1803, 
+      "date": "1803\u20131881", 
+      "displayOrder": 1, 
+      "fc": "John Prescott Knight", 
+      "gender": "Male", 
+      "id": 314, 
+      "mda": "Knight, John Prescott", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Col. Knight Prescott 1895", 
+  "dateRange": {
+    "endYear": 1843, 
+    "startYear": 1843, 
+    "text": "1843"
+  }, 
+  "dateText": "1843", 
+  "depth": "", 
+  "dimensions": "support: 1460 x 1956 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1956", 
+  "id": 8160, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 23, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6366, 
+                "name": "Knox, John"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2033, 
+                "name": "attacking"
+              }, 
+              {
+                "id": 1097, 
+                "name": "restraining"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }, 
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13986, 
+                "name": "Perth"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6229, 
+                "name": "Perth and Kinross"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5412, 
+                "name": "Scottish Reformation, late 16th c."
+              }
+            ], 
+            "id": 39, 
+            "name": "religious"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2078, 
+                "name": "altar"
+              }, 
+              {
+                "id": 2112, 
+                "name": "crucifix"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 868, 
+                "name": "helmet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 878, 
+                "name": "spear"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4032, 
+                "name": "clergyman"
+              }, 
+              {
+                "id": 2113, 
+                "name": "friar / monk"
+              }, 
+              {
+                "id": 2114, 
+                "name": "nun"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1817, 
+                "name": "despair"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1715, 
+                "name": "destruction"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6351, 
+                "name": "iconoclasm"
+              }
+            ], 
+            "id": 133, 
+            "name": "Judaeo-Christian imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01498_8.jpg", 
+  "title": "Sacking a Church at the Time of John Knox", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/knight-sacking-a-church-at-the-time-of-john-knox-n01498", 
+  "width": "1460"
+}

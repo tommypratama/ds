@@ -1,0 +1,104 @@
+{
+  "acno": "A01287", 
+  "acquisitionYear": 1888, 
+  "all_artists": "George Jones", 
+  "catalogueGroup": {
+    "accessionRanges": "A00219-A00701; A01189-A01741", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 65241, 
+    "shortTitle": "Sketches of Figures, Costumes, etc."
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131869", 
+      "displayOrder": 1, 
+      "fc": "George Jones", 
+      "gender": "Male", 
+      "id": 300, 
+      "mda": "Jones, George", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1888", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
+  "id": 69417, 
+  "inscription": null, 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1324, 
+                "name": "contorted"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 545, 
+                "name": "fighting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1522, 
+                "name": "wrestling"
+              }
+            ], 
+            "id": 54, 
+            "name": "sport"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01287_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01287", 
+  "width": ""
+}

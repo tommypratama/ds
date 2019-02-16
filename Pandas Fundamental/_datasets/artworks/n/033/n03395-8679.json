@@ -1,0 +1,156 @@
+{
+  "acno": "N03395", 
+  "acquisitionYear": 1919, 
+  "all_artists": "John Frederick Lewis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1805, 
+      "date": "1805\u20131876", 
+      "displayOrder": 1, 
+      "fc": "John Frederick Lewis", 
+      "gender": "Male", 
+      "id": 350, 
+      "mda": "Lewis, John Frederick", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Lady Holroyd in accordance with the wishes of the late Sir Charles Holroyd 1919", 
+  "dateRange": {
+    "endYear": 1843, 
+    "startYear": 1843, 
+    "text": "1843"
+  }, 
+  "dateText": "1843", 
+  "depth": "", 
+  "dimensions": "support: 368 x 495 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "495", 
+  "id": 8679, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 5866, 
+      "name": "Orientalist"
+    }
+  ], 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1147, 
+                "name": "Egypt"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13974, 
+                "name": "Sinai Peninsula"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15821, 
+                "name": "St Catherine's Monastery, Chapel of the Burning Bush"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2078, 
+                "name": "altar"
+              }, 
+              {
+                "id": 5854, 
+                "name": "censer"
+              }, 
+              {
+                "id": 5853, 
+                "name": "icon"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5852, 
+                "name": "chapel"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03395_8.jpg", 
+  "title": "Chapel of the Burning Bush, Mount Sinai", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-chapel-of-the-burning-bush-mount-sinai-n03395", 
+  "width": "368"
+}

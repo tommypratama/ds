@@ -1,0 +1,80 @@
+{
+  "acno": "T01941", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Ian Stephenson", 
+  "catalogueGroup": {
+    "accessionRanges": "T01941-T01944", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65537, 
+    "shortTitle": "Sandsend Series from Beyond the World's End"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20132000", 
+      "displayOrder": 1, 
+      "fc": "Ian Stephenson", 
+      "gender": "Male", 
+      "id": 1995, 
+      "mda": "Stephenson, Ian", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "support: 559 x 759 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Sandsend Series from Beyond the World's End", 
+  "height": "759", 
+  "id": 13834, 
+  "inscription": "date inscribed", 
+  "medium": "Oil, enamel and paper on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Ian Stephenson", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01941_8.jpg", 
+  "title": "Chelsea Reach: Understudy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stephenson-chelsea-reach-understudy-t01941", 
+  "width": "559"
+}

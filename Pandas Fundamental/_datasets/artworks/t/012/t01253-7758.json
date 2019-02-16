@@ -1,0 +1,82 @@
+{
+  "acno": "T01253", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Asger Jorn", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1914, 
+      "date": "1914\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Asger Jorn", 
+      "gender": "Male", 
+      "id": 1375, 
+      "mda": "Jorn, Asger", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by Sir Dennis Proctor in memory of Dennis Cohen 1970", 
+  "dateRange": {
+    "endYear": 1955, 
+    "startYear": 1955, 
+    "text": "1955"
+  }, 
+  "dateText": "1955", 
+  "depth": "", 
+  "dimensions": "support: 479 x 632 mm", 
+  "foreignTitle": "L'Enrol noir", 
+  "groupTitle": null, 
+  "height": "632", 
+  "id": 7758, 
+  "inscription": "date inscribed", 
+  "medium": "Gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 907, 
+                "name": "flying"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01253_8.jpg", 
+  "title": "The Black Flight", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jorn-the-black-flight-t01253", 
+  "width": "479"
+}

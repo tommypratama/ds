@@ -1,0 +1,90 @@
+{
+  "acno": "T00014", 
+  "acquisitionYear": 1955, 
+  "all_artists": "Emilio Greco", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131995", 
+      "displayOrder": 1, 
+      "fc": "Emilio Greco", 
+      "gender": "Male", 
+      "id": 1211, 
+      "mda": "Greco, Emilio", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1955", 
+  "dateRange": {
+    "endYear": 1951, 
+    "startYear": 1951, 
+    "text": "1951"
+  }, 
+  "dateText": "1951", 
+  "depth": "635", 
+  "dimensions": "object: 1321 x 406 x 635 mm", 
+  "foreignTitle": "Grande figura seduta", 
+  "groupTitle": null, 
+  "height": "406", 
+  "id": 5635, 
+  "inscription": "date inscribed", 
+  "medium": "Bronze", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1219, 
+                "name": "legs crossed"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Large Seated Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/greco-large-seated-figure-t00014", 
+  "width": "1321"
+}

@@ -1,0 +1,96 @@
+{
+  "acno": "T03313", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Abbott Fund 1981", 
+  "dateRange": {
+    "endYear": 1890, 
+    "startYear": 1890, 
+    "text": "c.1890"
+  }, 
+  "dateText": "c.1890", 
+  "depth": "", 
+  "dimensions": "support: 250 x 179 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "179", 
+  "id": 1828, 
+  "inscription": null, 
+  "medium": "Gold paint and watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4332, 
+                "name": "corn"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03313_8.jpg", 
+  "title": "Decorative Design: Sun Ripening Corn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-decorative-design-sun-ripening-corn-t03313", 
+  "width": "250"
+}

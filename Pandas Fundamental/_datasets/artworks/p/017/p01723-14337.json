@@ -1,0 +1,134 @@
+{
+  "acno": "P01723", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Hans Tisdall", 
+  "catalogueGroup": {
+    "accessionRanges": "P01698-P01727", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65675, 
+    "shortTitle": "School Prints"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131997", 
+      "displayOrder": 1, 
+      "fc": "Hans Tisdall", 
+      "gender": "Male", 
+      "id": 2047, 
+      "mda": "Tisdall, Hans", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Patrick Seale Prints 1975", 
+  "dateRange": {
+    "endYear": 1946, 
+    "startYear": 1946, 
+    "text": "1946"
+  }, 
+  "dateText": "1946", 
+  "depth": "", 
+  "dimensions": "image: 495 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "School Prints", 
+  "height": "762", 
+  "id": 14337, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16170, 
+                "name": "aviary"
+              }, 
+              {
+                "id": 16169, 
+                "name": "bird house"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19432, 
+                "name": "hut"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Fisherman\u2019s Hut", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tisdall-fishermans-hut-p01723", 
+  "width": "495"
+}

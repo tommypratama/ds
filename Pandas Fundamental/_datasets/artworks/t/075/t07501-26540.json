@@ -1,0 +1,92 @@
+{
+  "acno": "T07501", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Fiona Banner", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1966, 
+      "date": "born 1966", 
+      "displayOrder": 1, 
+      "fc": "Fiona Banner", 
+      "gender": "Female", 
+      "id": 2687, 
+      "mda": "Banner, Fiona", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1999", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1998, 
+    "text": "1998"
+  }, 
+  "dateText": "1998", 
+  "depth": "61", 
+  "dimensions": "support: 2744 x 4273 x 61 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "4273", 
+  "id": 26540, 
+  "inscription": null, 
+  "medium": "Marker pen and acrylic paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12649, 
+                "name": "film: Bigelow, Kathryn, 'Point Break'"
+              }
+            ], 
+            "id": 10058, 
+            "name": "film, music and ballet"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Fiona Banner", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07501_8.jpg", 
+  "title": "Break Point", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/banner-break-point-t07501", 
+  "width": "2744"
+}

@@ -1,0 +1,88 @@
+{
+  "acno": "P07094", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Keith Milow", 
+  "catalogueGroup": {
+    "accessionRanges": "P07090-P07095", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65395, 
+    "shortTitle": "15 23/55 55/46 66"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Keith Milow", 
+      "gender": "Male", 
+      "id": 1638, 
+      "mda": "Milow, Keith", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "", 
+  "dimensions": "image: 508 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "15 23/55 55/46 66", 
+  "height": "762", 
+  "id": 9559, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3479, 
+                "name": "cloth"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Keith Milow", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07094_8.jpg", 
+  "title": "PR5NT A", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/milow-pr5nt-a-p07094", 
+  "width": "508"
+}

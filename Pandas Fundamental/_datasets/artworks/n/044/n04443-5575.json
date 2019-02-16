@@ -1,0 +1,122 @@
+{
+  "acno": "N04443", 
+  "acquisitionYear": 1929, 
+  "all_artists": "Duncan Grant", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1885, 
+      "date": "1885\u20131978", 
+      "displayOrder": 1, 
+      "fc": "Duncan Grant", 
+      "gender": "Male", 
+      "id": 1203, 
+      "mda": "Grant, Duncan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1929", 
+  "dateRange": {
+    "endYear": 1922, 
+    "startYear": 1922, 
+    "text": "1922"
+  }, 
+  "dateText": "1922", 
+  "depth": "", 
+  "dimensions": "support: 648 x 806 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "806", 
+  "id": 5575, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 295, 
+      "name": "Bloomsbury Group"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13706, 
+                "name": "Saint-Tropez - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04443_8.jpg", 
+  "title": "South of France", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/grant-south-of-france-n04443", 
+  "width": "648"
+}

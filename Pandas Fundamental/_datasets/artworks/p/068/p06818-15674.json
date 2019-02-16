@@ -1,0 +1,122 @@
+{
+  "acno": "P06818", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Marianne Unwin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Marianne Unwin", 
+      "gender": "Female", 
+      "id": 2089, 
+      "mda": "Unwin, Marianne", 
+      "role": "artist", 
+      "startLetter": "U"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1978", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1976, 
+    "text": "1976-7"
+  }, 
+  "dateText": "1976\u20137", 
+  "depth": "", 
+  "dimensions": "image: 445 x 571 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "571", 
+  "id": 15674, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4582, 
+                "name": "shed"
+              }, 
+              {
+                "id": 12044, 
+                "name": "yard"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1297, 
+                "name": "wood"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Woodyard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/unwin-the-woodyard-p06818", 
+  "width": "445"
+}

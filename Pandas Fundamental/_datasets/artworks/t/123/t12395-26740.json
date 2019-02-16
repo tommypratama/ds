@@ -1,0 +1,82 @@
+{
+  "acno": "T12395", 
+  "acquisitionYear": 2007, 
+  "all_artists": "Kurt Schwitters", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131948", 
+      "displayOrder": 1, 
+      "fc": "Kurt Schwitters", 
+      "gender": "Male", 
+      "id": 1912, 
+      "mda": "Schwitters, Kurt", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2007", 
+  "dateRange": {
+    "endYear": 1932, 
+    "startYear": 1932, 
+    "text": "1932"
+  }, 
+  "dateText": "1932", 
+  "depth": "", 
+  "dimensions": "support: 157 x 125 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "125", 
+  "id": 26740, 
+  "inscription": null, 
+  "medium": "Printed paper and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12395_8.jpg", 
+  "title": "Koi", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/schwitters-koi-t12395", 
+  "width": "157"
+}

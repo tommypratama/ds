@@ -1,0 +1,100 @@
+{
+  "acno": "N05857", 
+  "acquisitionYear": 1948, 
+  "all_artists": "Frances Hodgkins", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1869, 
+      "date": "1869\u20131947", 
+      "displayOrder": 1, 
+      "fc": "Frances Hodgkins", 
+      "gender": "Female", 
+      "id": 1296, 
+      "mda": "Hodgkins, Frances", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1948", 
+  "dateRange": {
+    "endYear": 1930, 
+    "startYear": 1925, 
+    "text": "c.1925-30"
+  }, 
+  "dateText": "c.1925\u201330", 
+  "depth": "", 
+  "dimensions": "support: 940 x 597 mm\r\nFrame: 1052 x 710 x 46 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "597", 
+  "id": 6595, 
+  "inscription": null, 
+  "medium": "Graphite and chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }, 
+              {
+                "id": 2217, 
+                "name": "necklace"
+              }, 
+              {
+                "id": 1963, 
+                "name": "shawl"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05857_8.jpg", 
+  "title": "Seated Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkins-seated-woman-n05857", 
+  "width": "940"
+}

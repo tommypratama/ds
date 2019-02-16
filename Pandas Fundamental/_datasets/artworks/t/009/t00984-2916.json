@@ -1,0 +1,96 @@
+{
+  "acno": "T00984", 
+  "acquisitionYear": 1967, 
+  "all_artists": "John Robert Cozens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1752, 
+      "date": "1752\u20131797", 
+      "displayOrder": 1, 
+      "fc": "John Robert Cozens", 
+      "gender": "Male", 
+      "id": 119, 
+      "mda": "Cozens, John Robert", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund (Herbert Powell Bequest) 1967", 
+  "dateRange": {
+    "endYear": 1790, 
+    "startYear": 1790, 
+    "text": "c.1790"
+  }, 
+  "dateText": "c.1790", 
+  "depth": "", 
+  "dimensions": "support: 371 x 537 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "537", 
+  "id": 2916, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00984_8.jpg", 
+  "title": "The Gulf of Salerno", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-the-gulf-of-salerno-t00984", 
+  "width": "371"
+}

@@ -1,0 +1,86 @@
+{
+  "acno": "N01745", 
+  "acquisitionYear": 1858, 
+  "all_artists": "William Mulready", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131863", 
+      "displayOrder": 1, 
+      "fc": "William Mulready", 
+      "gender": "Male", 
+      "id": 392, 
+      "mda": "Mulready, William", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Society of Arts 1858", 
+  "dateRange": {
+    "endYear": 1842, 
+    "startYear": 1842, 
+    "text": "1842"
+  }, 
+  "dateText": "1842", 
+  "depth": "", 
+  "dimensions": "support: 508 x 356 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "356", 
+  "id": 10476, 
+  "inscription": "date inscribed", 
+  "medium": "Pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01745_8.jpg", 
+  "title": "Academy Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mulready-academy-study-n01745", 
+  "width": "508"
+}

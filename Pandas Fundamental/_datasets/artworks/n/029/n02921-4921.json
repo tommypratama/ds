@@ -1,0 +1,86 @@
+{
+  "acno": "N02921", 
+  "acquisitionYear": 1913, 
+  "all_artists": "Thomas Gainsborough", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1727, 
+      "date": "1727\u20131788", 
+      "displayOrder": 1, 
+      "fc": "Thomas Gainsborough", 
+      "gender": "Male", 
+      "id": 199, 
+      "mda": "Gainsborough, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Sir Edward Poynter Bt 1913", 
+  "dateRange": {
+    "endYear": 1785, 
+    "startYear": 1780, 
+    "text": "early 1780s"
+  }, 
+  "dateText": "early 1780s", 
+  "depth": "", 
+  "dimensions": "support: 254 x 324 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "324", 
+  "id": 4921, 
+  "inscription": null, 
+  "medium": "Pastel and chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02921_8.jpg", 
+  "title": "Wooded Landscape with Buildings on a Hillside", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-buildings-on-a-hillside-n02921", 
+  "width": "254"
+}

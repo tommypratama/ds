@@ -1,0 +1,79 @@
+{
+  "acno": "P06738", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Alex Mackay", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "date": null, 
+      "displayOrder": 1, 
+      "fc": "Alex Mackay", 
+      "gender": null, 
+      "id": 1542, 
+      "mda": "Mackay, Alex", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1977", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 597 x 765 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "765", 
+  "id": 9104, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1520, 
+                "name": "pheasant"
+              }, 
+              {
+                "id": 7655, 
+                "name": "woodcock"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Two Bird Studies", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mackay-two-bird-studies-p06738", 
+  "width": "597"
+}

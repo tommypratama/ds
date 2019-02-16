@@ -1,0 +1,86 @@
+{
+  "acno": "T01938", 
+  "acquisitionYear": 1974, 
+  "all_artists": "Tom Phillips", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tom Phillips", 
+      "gender": "Male", 
+      "id": 1764, 
+      "mda": "Phillips, Esq Tom", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1968, 
+    "startYear": 1967, 
+    "text": "1967-8"
+  }, 
+  "dateText": "1967\u20138", 
+  "depth": "", 
+  "dimensions": "support: 1530 x 2570 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2570", 
+  "id": 11841, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }, 
+              {
+                "id": 8034, 
+                "name": "sequence"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tom Phillips", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01938_8.jpg", 
+  "title": "Here We Exemplify", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-here-we-exemplify-t01938", 
+  "width": "1530"
+}

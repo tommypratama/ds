@@ -1,0 +1,76 @@
+{
+  "acno": "P01017", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Ettore Colla", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1896, 
+      "date": "1896\u20131968", 
+      "displayOrder": 1, 
+      "fc": "Ettore Colla", 
+      "gender": "Male", 
+      "id": 929, 
+      "mda": "Colla, Ettore", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Mariolina Colla 1972", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "c.1953"
+  }, 
+  "dateText": "c.1953", 
+  "depth": "", 
+  "dimensions": "image: 352 x 502 mm", 
+  "foreignTitle": "Serie serigrafica", 
+  "groupTitle": null, 
+  "height": "502", 
+  "id": 2464, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 9378, 
+      "name": "Origine group"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Screenprint", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/colla-screenprint-p01017", 
+  "width": "352"
+}

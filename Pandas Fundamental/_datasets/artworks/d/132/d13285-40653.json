@@ -1,0 +1,107 @@
+{
+  "acno": "D13285", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D13285", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D132/D13285_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 366
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D13245-D13321; D40907-D40909", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65806, 
+    "shortTitle": "Guards Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1817, 
+    "text": "c.1817-18"
+  }, 
+  "dateText": "c.1817\u201318", 
+  "depth": "", 
+  "dimensions": "support: 69 x 103 mm", 
+  "finberg": "CLXIV 33", 
+  "foreignTitle": null, 
+  "groupTitle": "Guards Sketchbook", 
+  "height": "103", 
+  "id": 40653, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 67, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 868, 
+                "name": "helmet"
+              }, 
+              {
+                "id": 5446, 
+                "name": "uniform / kit"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3398, 
+                "name": "lance"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13285_8.jpg", 
+  "title": "Details of Uniform", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-details-of-uniform-d13285", 
+  "width": "69"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "T08232", 
+  "acquisitionYear": 1996, 
+  "all_artists": "John Robert Cozens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1752, 
+      "date": "1752\u20131797", 
+      "displayOrder": 1, 
+      "fc": "John Robert Cozens", 
+      "gender": "Male", 
+      "id": 119, 
+      "mda": "Cozens, John Robert", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 225 x 265 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "265", 
+  "id": 22640, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4654, 
+                "name": "Milton, John, 'Paradise Lost'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 675, 
+                "name": "cave"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08232_8.jpg", 
+  "title": "A Milton Subject, Unfinished", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-a-milton-subject-unfinished-t08232", 
+  "width": "225"
+}

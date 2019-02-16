@@ -1,0 +1,98 @@
+{
+  "acno": "T12189", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Michelangelo Pistoletto", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Michelangelo Pistoletto", 
+      "gender": "Male", 
+      "id": 8669, 
+      "mda": "Pistoletto, Michelangelo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 2006", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1976, 
+    "text": "1976,1997"
+  }, 
+  "dateText": "1976,1997", 
+  "depth": "2080", 
+  "dimensions": "object: 450 x 1190 x 2080 mm", 
+  "foreignTitle": "Letto", 
+  "groupTitle": null, 
+  "height": "1190", 
+  "id": 88063, 
+  "inscription": null, 
+  "medium": "Iron alloy, plywood, foam and cotton", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 877, 
+                "name": "dysfunction"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Michaelangelo Pistoletto", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12189_8.jpg", 
+  "title": "Bed", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pistoletto-bed-t12189", 
+  "width": "450"
+}

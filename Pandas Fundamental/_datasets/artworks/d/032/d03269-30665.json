@@ -1,0 +1,125 @@
+{
+  "acno": "D03269", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D02927-D02984; D02992-D03276; D41240-D41249; D41411", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65707, 
+    "shortTitle": "Scotch Lakes Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1801, 
+    "startYear": 1801, 
+    "text": "1801"
+  }, 
+  "dateText": "1801", 
+  "depth": "", 
+  "dimensions": "support: 182 x 114 mm", 
+  "finberg": "LVI 181 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Scotch Lakes Sketchbook", 
+  "height": "114", 
+  "id": 30665, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 368, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8261, 
+                "name": "Dumfries and Galloway"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15537, 
+                "name": "Gretna"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }, 
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03269_8.jpg", 
+  "title": "Gretna Green: The Village Street and Smithy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-gretna-green-the-village-street-and-smithy-d03269", 
+  "width": "182"
+}

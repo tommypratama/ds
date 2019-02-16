@@ -1,0 +1,112 @@
+{
+  "acno": "T00268", 
+  "acquisitionYear": 1959, 
+  "all_artists": "Sir Terry Frost", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1915, 
+      "date": "1915\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Sir Terry Frost", 
+      "gender": "Male", 
+      "id": 1126, 
+      "mda": "Frost, Sir Terry", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1959", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1956, 
+    "text": "1956"
+  }, 
+  "dateText": "1956", 
+  "depth": "", 
+  "dimensions": "support: 762 x 635 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "635", 
+  "id": 4713, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 443, 
+      "name": "Tachism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3981, 
+                "name": "menace"
+              }, 
+              {
+                "id": 4357, 
+                "name": "void"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sir Terry Frost", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00268_8.jpg", 
+  "title": "Khaki and Lemon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-khaki-and-lemon-t00268", 
+  "width": "762"
+}

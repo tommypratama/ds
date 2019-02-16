@@ -1,0 +1,96 @@
+{
+  "acno": "T01080", 
+  "acquisitionYear": 1968, 
+  "all_artists": "Larry Zox", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Larry Zox", 
+      "gender": "Male", 
+      "id": 2186, 
+      "mda": "Zox, Larry", 
+      "role": "artist", 
+      "startLetter": "Z"
+    }
+  ], 
+  "creditLine": "Purchased 1968", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "", 
+  "dimensions": "support: 2235 x 2489 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2489", 
+  "id": 16531, 
+  "inscription": "date inscribed", 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Larry Zox, courtesy Stephen Haller Gallery, New York", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01080_8.jpg", 
+  "title": "Orange Time", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/zox-orange-time-t01080", 
+  "width": "2235"
+}

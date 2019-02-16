@@ -1,0 +1,117 @@
+{
+  "acno": "D01163", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65691, 
+    "shortTitle": "Wilson Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1796, 
+    "text": "1796-7"
+  }, 
+  "dateText": "1796\u20137", 
+  "depth": "", 
+  "dimensions": "support: 113 x 93 mm", 
+  "finberg": "XXXVII 46", 
+  "foreignTitle": null, 
+  "groupTitle": "Wilson Sketchbook", 
+  "height": "93", 
+  "id": 28574, 
+  "inscription": null, 
+  "medium": "Gouache, graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 48, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2418, 
+                "name": "St James's Park"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01163_8.jpg", 
+  "title": "Westminster Abbey from St James\u2019s Park, London", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-westminster-abbey-from-st-jamess-park-london-d01163", 
+  "width": "113"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "P08003", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Gio Pomodoro", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Gio Pomodoro", 
+      "gender": "Male", 
+      "id": 1786, 
+      "mda": "Pomodoro, Gio", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1977", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1975, 
+    "text": "1975-6"
+  }, 
+  "dateText": "1975\u20136", 
+  "depth": "", 
+  "dimensions": "image: 165 x 257 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "257", 
+  "id": 12154, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2472, 
+                "name": "number"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pomodoro-untitled-p08003", 
+  "width": "165"
+}

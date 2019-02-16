@@ -1,0 +1,80 @@
+{
+  "acno": "T09344", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Inigo Richards", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1731, 
+      "date": "1731\u20131810", 
+      "displayOrder": 1, 
+      "fc": "John Inigo Richards", 
+      "gender": "Male", 
+      "id": 446, 
+      "mda": "Richards, John Inigo", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1765, 
+    "startYear": 1765, 
+    "text": "1765"
+  }, 
+  "dateText": "1765", 
+  "depth": "", 
+  "dimensions": "support: 149 x 226 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "226", 
+  "id": 23425, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, watercolour and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }, 
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09344_8.jpg", 
+  "title": "Houses in a Village", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richards-houses-in-a-village-t09344", 
+  "width": "149"
+}

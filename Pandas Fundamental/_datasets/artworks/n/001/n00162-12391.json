@@ -1,0 +1,102 @@
+{
+  "acno": "N00162", 
+  "acquisitionYear": 1828, 
+  "all_artists": "Sir Joshua Reynolds", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1723, 
+      "date": "1723\u20131792", 
+      "displayOrder": 1, 
+      "fc": "Sir Joshua Reynolds", 
+      "gender": "Male", 
+      "id": 444, 
+      "mda": "Reynolds, Sir Joshua", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Bequeathed by Lord Farnborough 1828", 
+  "dateRange": {
+    "endYear": 1776, 
+    "startYear": 1776, 
+    "text": "c.1776"
+  }, 
+  "dateText": "c.1776", 
+  "depth": "", 
+  "dimensions": "support: 914 x 714 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "714", 
+  "id": 12391, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5283, 
+                "name": "Samuel"
+              }
+            ], 
+            "id": 135, 
+            "name": "Bible: Old Testament"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5741, 
+                "name": "prayer"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00162_8.jpg", 
+  "title": "The Infant Samuel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/reynolds-the-infant-samuel-n00162", 
+  "width": "914"
+}

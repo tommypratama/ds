@@ -1,0 +1,92 @@
+{
+  "acno": "T03751", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Louise Hutchinson", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131968", 
+      "displayOrder": 1, 
+      "fc": "Louise Hutchinson", 
+      "gender": "Female", 
+      "id": 1329, 
+      "mda": "Hutchinson, Louise", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "c.1953"
+  }, 
+  "dateText": "c.1953", 
+  "depth": "180", 
+  "dimensions": "object: 330 x 320 x 180 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "320", 
+  "id": 7008, 
+  "inscription": null, 
+  "medium": "Terracotta and wax", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 789, 
+                "name": "deformity"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Three-fold Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hutchinson-three-fold-head-t03751", 
+  "width": "330"
+}

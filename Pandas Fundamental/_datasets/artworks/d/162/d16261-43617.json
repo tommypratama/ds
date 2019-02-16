@@ -1,0 +1,128 @@
+{
+  "acno": "D16261", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139773, 
+  "catalogueGroup": {
+    "accessionRanges": "D16157-D16326; D17158; D40952-D40954; D41410", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65829, 
+    "shortTitle": "St Peter's Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 114 x 189 mm", 
+  "finberg": "CLXXXVIII 58", 
+  "foreignTitle": null, 
+  "groupTitle": "St Peter's Sketchbook", 
+  "height": "189", 
+  "id": 43617, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 119, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5936, 
+                "name": "Rome, Basilica of Constantine"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2987, 
+                "name": "bell tower"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3568, 
+                "name": "ceiling"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5730, 
+                "name": "hall"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16261_8.jpg", 
+  "title": "Basilica of Constantine, with the Campanile of San Francesca Romana, Rome", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-basilica-of-constantine-with-the-campanile-of-san-francesca-romana-rome-d16261", 
+  "width": "114"
+}

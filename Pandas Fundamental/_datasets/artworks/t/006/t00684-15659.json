@@ -1,0 +1,92 @@
+{
+  "acno": "T00684", 
+  "acquisitionYear": 1964, 
+  "all_artists": "Gunther Uecker", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Gunther Uecker", 
+      "gender": "Male", 
+      "id": 2083, 
+      "mda": "Uecker, Gunther", 
+      "role": "artist", 
+      "startLetter": "U"
+    }
+  ], 
+  "creditLine": "Purchased 1964", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1964, 
+    "text": "1964"
+  }, 
+  "dateText": "1964", 
+  "depth": "76", 
+  "dimensions": "object: 870 x 870 x 76 mm", 
+  "foreignTitle": "Weisses Feld", 
+  "groupTitle": null, 
+  "height": "870", 
+  "id": 15659, 
+  "inscription": "date inscribed", 
+  "medium": "Painted nails on canvas and board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 435, 
+      "name": "Optical Art"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2073, 
+                "name": "nail"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "White Field", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/uecker-white-field-t00684", 
+  "width": "870"
+}

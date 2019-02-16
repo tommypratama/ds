@@ -1,0 +1,91 @@
+{
+  "acno": "D41118", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D31791-D31928; D41118-D41120", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65941, 
+    "shortTitle": "Venice and Botzen Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1840, 
+    "startYear": 1840, 
+    "text": "1840"
+  }, 
+  "dateText": "1840", 
+  "depth": "", 
+  "dimensions": "support: 173 x 123 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Venice and Botzen Sketchbook", 
+  "height": "123", 
+  "id": 64864, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 2, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41118_8.jpg", 
+  "title": "A Boat Laden with Bales", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-boat-laden-with-bales-d41118", 
+  "width": "173"
+}

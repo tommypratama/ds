@@ -1,0 +1,96 @@
+{
+  "acno": "T12993", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Lucy Skaer", 
+  "catalogueGroup": {}, 
+  "classification": "installation", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1977, 
+      "date": "born 1977", 
+      "displayOrder": 1, 
+      "fc": "Lucy Skaer", 
+      "gender": "Female", 
+      "id": 13391, 
+      "mda": "Skaer, Lucy", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Anne Best 2010", 
+  "dateRange": {
+    "endYear": 2008, 
+    "startYear": 2008, 
+    "text": "2008"
+  }, 
+  "dateText": "2008", 
+  "depth": "1020", 
+  "dimensions": "object: 718 x 1580 x 1020 mm\r\nimage, each: 1687 x 1132 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1580", 
+  "id": 108166, 
+  "inscription": null, 
+  "medium": "Wooden table and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2472, 
+                "name": "number"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6306, 
+                "name": "print"
+              }, 
+              {
+                "id": 18563, 
+                "name": "printing plate"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Zero Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/skaer-zero-table-t12993", 
+  "width": "718"
+}

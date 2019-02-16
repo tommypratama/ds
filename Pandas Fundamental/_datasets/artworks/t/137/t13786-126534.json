@@ -1,0 +1,122 @@
+{
+  "acno": "T13786", 
+  "acquisitionYear": 2013, 
+  "all_artists": "Caragh Thuring", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1972, 
+      "date": "born 1972", 
+      "displayOrder": 1, 
+      "fc": "Caragh Thuring", 
+      "gender": "Female", 
+      "id": 17408, 
+      "mda": "Thuring, Caragh", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased using funds provided by the 2012 Outset / Frieze Art Fair Fund to benefit the Tate Collection 2013", 
+  "dateRange": {
+    "endYear": 2012, 
+    "startYear": 2012, 
+    "text": "2012"
+  }, 
+  "dateText": "2012", 
+  "depth": "", 
+  "dimensions": "support: 1219 x 1829 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1829", 
+  "id": 126534, 
+  "inscription": null, 
+  "medium": "Oil paint and graphite on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5033, 
+                "name": "New York - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18627, 
+                "name": "building"
+              }, 
+              {
+                "id": 7205, 
+                "name": "structure"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Arthur Kennedy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/thuring-arthur-kennedy-t13786", 
+  "width": "1219"
+}

@@ -1,0 +1,158 @@
+{
+  "acno": "D08113", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131715, 
+  "catalogueGroup": {
+    "accessionRanges": "D08100; D08102-D08106; D08110-D08123; D08125-D08142; D08144-D08175; D08177-D08178; D08182; D25451; N02941; N03631", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Watercolour", 
+    "id": 77169, 
+    "shortTitle": "Liber Studiorum 1807-1819 Watercolours"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1806, 
+    "text": "circa 1806-7"
+  }, 
+  "dateText": "circa 1806\u20137", 
+  "depth": "", 
+  "dimensions": "support: 184 x 260 mm", 
+  "finberg": "CXVI L", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum 1807-1819 Watercolours", 
+  "height": "260", 
+  "id": 35502, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 8364, 
+                "name": "St Gotthard Pass"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1256, 
+                "name": "mule"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7306, 
+                "name": "pack animal"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path"
+              }, 
+              {
+                "id": 5848, 
+                "name": "tunnel"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08113_8.jpg", 
+  "title": "Mt St Gothard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mt-st-gothard-d08113", 
+  "width": "184"
+}

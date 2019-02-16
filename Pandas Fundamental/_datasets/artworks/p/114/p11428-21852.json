@@ -1,0 +1,82 @@
+{
+  "acno": "P11428", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Liam Gillick", 
+  "catalogueGroup": {
+    "accessionRanges": "P11422-P11436", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66018, 
+    "shortTitle": "Other Men's Flowers"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1964, 
+      "date": "born 1964", 
+      "displayOrder": 1, 
+      "fc": "Liam Gillick", 
+      "gender": "Male", 
+      "id": 2592, 
+      "mda": "Gillick, Liam", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Charles Booth-Clibborn in memory of Joshua Compston 1997", 
+  "dateRange": {
+    "endYear": 1994, 
+    "startYear": 1994, 
+    "text": "1994"
+  }, 
+  "dateText": "1994", 
+  "depth": "", 
+  "dimensions": "image: 470 x 612 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Other Men's Flowers", 
+  "height": "612", 
+  "id": 21852, 
+  "inscription": null, 
+  "medium": "Letterpress on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Liam Gillick", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11428_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gillick-no-title-p11428", 
+  "width": "470"
+}

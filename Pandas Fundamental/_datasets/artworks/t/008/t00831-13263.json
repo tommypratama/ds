@@ -1,0 +1,80 @@
+{
+  "acno": "T00831", 
+  "acquisitionYear": 1966, 
+  "all_artists": "William Scott", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131989", 
+      "displayOrder": 1, 
+      "fc": "William Scott", 
+      "gender": "Male", 
+      "id": 1916, 
+      "mda": "Scott, William", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1966", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "1953"
+  }, 
+  "dateText": "1953", 
+  "depth": "", 
+  "dimensions": "support: 1219 x 1219 mm\r\nframe: 1260 x 1268 x 65 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1219", 
+  "id": 13263, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of William Scott", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00831_8.jpg", 
+  "title": "Orange, Black and White Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-orange-black-and-white-composition-t00831", 
+  "width": "1219"
+}

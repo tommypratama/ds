@@ -1,0 +1,96 @@
+{
+  "acno": "T02144", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1977", 
+  "dateRange": {
+    "endYear": 1926, 
+    "startYear": 1926, 
+    "text": "c.1926"
+  }, 
+  "dateText": "c.1926", 
+  "depth": "279", 
+  "dimensions": "object: 660 x 514 x 279 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "514", 
+  "id": 4813, 
+  "inscription": null, 
+  "medium": "Plastic, cork, metal and wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1702, 
+                "name": "niche"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02144_8.jpg", 
+  "title": "Red Cavern", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-red-cavern-t02144", 
+  "width": "660"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "T03781", 
+  "acquisitionYear": 1983, 
+  "all_artists": "George Stubbs", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1724, 
+      "date": "1724\u20131806", 
+      "displayOrder": 1, 
+      "fc": "George Stubbs", 
+      "gender": "Male", 
+      "id": 538, 
+      "mda": "Stubbs, George", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Transferred from the British Museum 1983", 
+  "dateRange": {
+    "endYear": 1788, 
+    "startYear": 1788, 
+    "text": "published 1788"
+  }, 
+  "dateText": "published 1788", 
+  "depth": "", 
+  "dimensions": "image: 84 x 107 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "107", 
+  "id": 13999, 
+  "inscription": null, 
+  "medium": "Engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 610, 
+                "name": "dog, foxhound"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03781_8.jpg", 
+  "title": "A Foxhound Viewed from Behind", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stubbs-a-foxhound-viewed-from-behind-t03781", 
+  "width": "84"
+}

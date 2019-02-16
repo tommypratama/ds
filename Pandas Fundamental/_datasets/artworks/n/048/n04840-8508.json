@@ -1,0 +1,122 @@
+{
+  "acno": "N04840", 
+  "acquisitionYear": 1936, 
+  "all_artists": "Gilbert Ledward", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1888, 
+      "date": "1888\u20131960", 
+      "displayOrder": 1, 
+      "fc": "Gilbert Ledward", 
+      "gender": "Male", 
+      "id": 1485, 
+      "mda": "Ledward, Gilbert", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1936", 
+  "dateRange": {
+    "endYear": 1936, 
+    "startYear": 1936, 
+    "text": "exhibited 1936"
+  }, 
+  "dateText": "exhibited 1936", 
+  "depth": "320", 
+  "dimensions": "object: 1540 x 320 x 320 mm, 400 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "320", 
+  "id": 8508, 
+  "inscription": null, 
+  "medium": "Limestone", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18425, 
+                "name": "di Duccio, Agostino, sculpture"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Gilbert Ledward", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04840_8.jpg", 
+  "title": "Monolith", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ledward-monolith-n04840", 
+  "width": "1540"
+}

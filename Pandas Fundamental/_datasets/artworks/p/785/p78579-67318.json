@@ -1,0 +1,76 @@
+{
+  "acno": "P78579", 
+  "acquisitionYear": 2001, 
+  "all_artists": "Giuseppe Penone", 
+  "catalogueGroup": {
+    "accessionRanges": "P78571-P78581", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 67322, 
+    "shortTitle": "Footsteps on Mulberry Tree Tops"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1947, 
+      "date": "born 1947", 
+      "displayOrder": 1, 
+      "fc": "Giuseppe Penone", 
+      "gender": "Male", 
+      "id": 1754, 
+      "mda": "Penone, Giuseppe", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 2001", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "image: 192 x 147 mm\r\nsupport: 431 x 355 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Footsteps on Mulberry Tree Tops", 
+  "height": "147", 
+  "id": 67318, 
+  "inscription": null, 
+  "medium": "Etching on paper mounted onto paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11192, 
+                "name": "fingerprint"
+              }, 
+              {
+                "id": 11235, 
+                "name": "handprint"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Archivio Penone", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78579_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/penone-no-title-p78579", 
+  "width": "192"
+}

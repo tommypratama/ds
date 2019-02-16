@@ -1,0 +1,100 @@
+{
+  "acno": "T00683", 
+  "acquisitionYear": 1964, 
+  "all_artists": "Heinz Mack", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Heinz Mack", 
+      "gender": "Male", 
+      "id": 1263, 
+      "mda": "Mack, Heinz", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1964", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "220", 
+  "dimensions": "support: 578 x 571 x 220 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "571", 
+  "id": 9102, 
+  "inscription": "date inscribed", 
+  "medium": "Aluminium, glass, wood and motor", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 12072, 
+      "name": "Kinetic Art"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12083, 
+                "name": "light"
+              }, 
+              {
+                "id": 6744, 
+                "name": "movement"
+              }, 
+              {
+                "id": 6741, 
+                "name": "visual illusion"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00683_8.jpg", 
+  "title": "Light Dynamo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mack-light-dynamo-t00683", 
+  "width": "578"
+}

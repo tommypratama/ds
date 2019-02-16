@@ -1,0 +1,142 @@
+{
+  "acno": "T01587", 
+  "acquisitionYear": 1972, 
+  "all_artists": "George Price Boyce", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1826, 
+      "date": "1826\u20131897", 
+      "displayOrder": 1, 
+      "fc": "George Price Boyce", 
+      "gender": "Male", 
+      "id": 48, 
+      "mda": "Boyce, George Price", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1972", 
+  "dateRange": {
+    "endYear": 1857, 
+    "startYear": 1857, 
+    "text": "1857"
+  }, 
+  "dateText": "1857", 
+  "depth": "", 
+  "dimensions": "support: 298 x 479 mm\r\nframe: 414 x 595 x 41 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "479", 
+  "id": 1381, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3321, 
+                "name": "beech"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01587_8.jpg", 
+  "title": "A Girl by a Beech Tree in a Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/boyce-a-girl-by-a-beech-tree-in-a-landscape-t01587", 
+  "width": "298"
+}

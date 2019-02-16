@@ -1,0 +1,75 @@
+{
+  "acno": "D03711", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03653-D03720; D40781-D40782", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65711, 
+    "shortTitle": "Jason Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1801, 
+    "startYear": 1801, 
+    "text": "c.1801"
+  }, 
+  "dateText": "c.1801", 
+  "depth": "", 
+  "dimensions": "support: 206 x 130 mm", 
+  "finberg": "LXI 56 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Jason Sketchbook", 
+  "height": "130", 
+  "id": 31107, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 122, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03711_8.jpg", 
+  "title": "A Rowing Boat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-rowing-boat-d03711", 
+  "width": "206"
+}

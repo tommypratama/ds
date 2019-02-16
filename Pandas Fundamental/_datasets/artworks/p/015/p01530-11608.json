@@ -1,0 +1,82 @@
+{
+  "acno": "P01530", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Tom Phillips", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tom Phillips", 
+      "gender": "Male", 
+      "id": 1764, 
+      "mda": "Phillips, Esq Tom", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Tetrad Press through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 254 x 200 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "200", 
+  "id": 11608, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10065, 
+                "name": "music"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tom Phillips", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01530_8.jpg", 
+  "title": "Metamorphoses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-metamorphoses-p01530", 
+  "width": "254"
+}

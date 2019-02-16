@@ -1,0 +1,119 @@
+{
+  "acno": "P79379", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Jeremy Deller, Alan Kane", 
+  "catalogueGroup": {
+    "accessionRanges": "P79374-P79395", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 101484, 
+    "shortTitle": "The House of Fairy Tales"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1966, 
+      "date": "born 1966", 
+      "displayOrder": 1, 
+      "fc": "Jeremy Deller", 
+      "gender": "Male", 
+      "id": 3034, 
+      "mda": "Deller, Jeremy", 
+      "role": "artist", 
+      "startLetter": "D"
+    }, 
+    {
+      "birthYear": 1961, 
+      "date": "born 1961", 
+      "displayOrder": 2, 
+      "fc": "Alan Kane", 
+      "gender": "Male", 
+      "id": 7631, 
+      "mda": "Kane, Alan", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Anne Best 2008", 
+  "dateRange": {
+    "endYear": 2008, 
+    "startYear": 2008, 
+    "text": "2008"
+  }, 
+  "dateText": "2008", 
+  "depth": "", 
+  "dimensions": "image: 158 x 240 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The House of Fairy Tales", 
+  "height": "240", 
+  "id": 101510, 
+  "inscription": null, 
+  "medium": "Photograph, colour, Chromogenic print, on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 765, 
+                "name": "car"
+              }, 
+              {
+                "id": 1725, 
+                "name": "taxi cab"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1851, 
+                "name": "skull"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jeremy Deller & Alan Kane", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79379_8.jpg", 
+  "title": "Mari\u2019s Taxi", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/deller-kane-maris-taxi-p79379", 
+  "width": "158"
+}

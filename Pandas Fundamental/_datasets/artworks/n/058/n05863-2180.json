@@ -1,0 +1,106 @@
+{
+  "acno": "N05863", 
+  "acquisitionYear": 1948, 
+  "all_artists": "Siegfried Charoux", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1896, 
+      "date": "1896\u20131967", 
+      "displayOrder": 1, 
+      "fc": "Siegfried Charoux", 
+      "gender": "Male", 
+      "id": 894, 
+      "mda": "Charoux, Siegfried", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1948", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1948, 
+    "text": "exhibited 1948"
+  }, 
+  "dateText": "exhibited 1948", 
+  "depth": "600", 
+  "dimensions": "object: 1801 x 720 x 600 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "720", 
+  "id": 2180, 
+  "inscription": null, 
+  "medium": "Terracotta", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 955, 
+                "name": "ball"
+              }
+            ], 
+            "id": 285, 
+            "name": "sports and games"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 CHAROUX Museum, Langenzersdorfer Museen", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05863_8.jpg", 
+  "title": "Youth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/charoux-youth-n05863", 
+  "width": "1801"
+}

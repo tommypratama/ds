@@ -1,0 +1,102 @@
+{
+  "acno": "N00452", 
+  "acquisitionYear": 1847, 
+  "all_artists": "John Frederick Herring", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1795, 
+      "date": "1795\u20131865", 
+      "displayOrder": 1, 
+      "fc": "John Frederick Herring", 
+      "gender": "Male", 
+      "id": 252, 
+      "mda": "Herring, John Frederick", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Robert Vernon 1847", 
+  "dateRange": {
+    "endYear": 1847, 
+    "startYear": 1847, 
+    "text": "exhibited 1847"
+  }, 
+  "dateText": "exhibited 1847", 
+  "depth": "", 
+  "dimensions": "support: 546 x 749 mm\r\nframe: 810 x 1150 x 130 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "749", 
+  "id": 6191, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5053, 
+                "name": "pigeon"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1142, 
+                "name": "hay"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00452_8.jpg", 
+  "title": "The Frugal Meal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/herring-the-frugal-meal-n00452", 
+  "width": "546"
+}

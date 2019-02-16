@@ -1,0 +1,72 @@
+{
+  "acno": "P05294", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Brett Whiteley", 
+  "catalogueGroup": {
+    "accessionRanges": "P05290-P05295", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65579, 
+    "shortTitle": "My Relationship between Screenprinting and Regent's Park Zoo between June and August 1965"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "1939\u20131992", 
+      "displayOrder": 1, 
+      "fc": "Brett Whiteley", 
+      "gender": "Male", 
+      "id": 2142, 
+      "mda": "Whiteley, Brett", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "", 
+  "dimensions": "image: 760 x 557 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "My Relationship between Screenprinting and Regent's Park Zoo between June and August 1965", 
+  "height": "557", 
+  "id": 16148, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6850, 
+                "name": "giraffe"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "5. Giraffe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/whiteley-5-giraffe-p05294", 
+  "width": "760"
+}

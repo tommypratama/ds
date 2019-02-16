@@ -1,0 +1,142 @@
+{
+  "acno": "P06239", 
+  "acquisitionYear": 1975, 
+  "all_artists": "David Gentleman", 
+  "catalogueGroup": {
+    "accessionRanges": "P06233-P06239", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65325, 
+    "shortTitle": "Covent Garden Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "David Gentleman", 
+      "gender": "Male", 
+      "id": 1148, 
+      "mda": "Gentleman, David", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 400 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Covent Garden Suite", 
+  "height": "508", 
+  "id": 5092, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13305, 
+                "name": "Covent Garden, Earlham Street"
+              }, 
+              {
+                "id": 13306, 
+                "name": "Covent Garden, Shelton Street"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1826, 
+                "name": "crane"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6523, 
+                "name": "wheelbarrow"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage"
+              }, 
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5441, 
+                "name": "warehouse"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Gentleman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06239_8.jpg", 
+  "title": "Warehouses between Shelton St and Earlham St", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gentleman-warehouses-between-shelton-st-and-earlham-st-p06239", 
+  "width": "400"
+}

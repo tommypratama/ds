@@ -1,0 +1,88 @@
+{
+  "acno": "P11263", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Julian Trevelyan", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Julian Trevelyan", 
+      "gender": "Male", 
+      "id": 2065, 
+      "mda": "Trevelyan, Julian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Mary Trevelyan, the artist's widow 1989", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1946, 
+    "text": "after 1945"
+  }, 
+  "dateText": "after 1945", 
+  "depth": "", 
+  "dimensions": "image: 74 x 101 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "101", 
+  "id": 18924, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1165, 
+                "name": "chimney"
+              }, 
+              {
+                "id": 823, 
+                "name": "factory"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage"
+              }, 
+              {
+                "id": 5020, 
+                "name": "telegraph pole"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Julian Trevelyan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11263_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-no-title-p11263", 
+  "width": "74"
+}

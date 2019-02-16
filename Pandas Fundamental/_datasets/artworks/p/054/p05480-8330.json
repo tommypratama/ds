@@ -1,0 +1,116 @@
+{
+  "acno": "P05480", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Hans Landsaat", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Hans Landsaat", 
+      "gender": "Male", 
+      "id": 1464, 
+      "mda": "Landsaat, Hans", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater 1979", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": "image: 749 x 829 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "829", 
+  "id": 8330, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Hans Landsaat", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05480_8.jpg", 
+  "title": "Cloud over Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landsaat-cloud-over-sea-p05480", 
+  "width": "749"
+}

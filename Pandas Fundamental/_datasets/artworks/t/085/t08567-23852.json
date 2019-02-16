@@ -1,0 +1,86 @@
+{
+  "acno": "T08567", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Francis Towne", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1739, 
+      "date": "1739\u20131816", 
+      "displayOrder": 1, 
+      "fc": "Francis Towne", 
+      "gender": "Male", 
+      "id": 553, 
+      "mda": "Towne, Francis", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1780, 
+    "startYear": 1780, 
+    "text": "1780"
+  }, 
+  "dateText": "1780", 
+  "depth": "", 
+  "dimensions": "support: 136 x 210 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "210", 
+  "id": 23852, 
+  "inscription": "date inscribed", 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08567_8.jpg", 
+  "title": "Landscape Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/towne-landscape-composition-t08567", 
+  "width": "136"
+}

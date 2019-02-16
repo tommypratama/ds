@@ -1,0 +1,104 @@
+{
+  "acno": "P02983", 
+  "acquisitionYear": 1990, 
+  "all_artists": "Karl-Otto G\u00f6tz", 
+  "catalogueGroup": {
+    "accessionRanges": "P02980-P02989", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65236, 
+    "shortTitle": "[no title]"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1914, 
+      "date": "born 1914", 
+      "displayOrder": 1, 
+      "fc": "Karl-Otto G\u00f6tz", 
+      "gender": "Male", 
+      "id": 2203, 
+      "mda": "G\u00f6tz, Professor Karl-Otto", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1990", 
+  "dateRange": {
+    "endYear": 1983, 
+    "startYear": 1946, 
+    "text": "1946, printed 1983"
+  }, 
+  "dateText": "1946, printed 1983", 
+  "depth": "", 
+  "dimensions": "image: 215 x 300 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "[no title]", 
+  "height": "300", 
+  "id": 19148, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal / human"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Karl-Otto G\u00f6tz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02983_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02983", 
+  "width": "215"
+}

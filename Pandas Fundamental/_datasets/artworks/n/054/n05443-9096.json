@@ -1,0 +1,92 @@
+{
+  "acno": "N05443", 
+  "acquisitionYear": 1943, 
+  "all_artists": "David B. McFall", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1919, 
+      "date": "1919\u20131988", 
+      "displayOrder": 1, 
+      "fc": "David B. McFall", 
+      "gender": "Male", 
+      "id": 1608, 
+      "mda": "McFall, David B.", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1943", 
+  "dateRange": {
+    "endYear": 1943, 
+    "startYear": 1942, 
+    "text": "1942-3"
+  }, 
+  "dateText": "1942\u20133", 
+  "depth": "565", 
+  "dimensions": "object: 476 x 648 x 565 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "648", 
+  "id": 9096, 
+  "inscription": null, 
+  "medium": "Portland stone", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1130, 
+                "name": "bull"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10478, 
+                "name": "lying down"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4898, 
+                "name": "stonework"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Bull Calf", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mcfall-bull-calf-n05443", 
+  "width": "476"
+}

@@ -1,0 +1,92 @@
+{
+  "acno": "N05346", 
+  "acquisitionYear": 1940, 
+  "all_artists": "Augustus John OM", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1878, 
+      "date": "1878\u20131961", 
+      "displayOrder": 1, 
+      "fc": "Augustus John OM", 
+      "gender": "Male", 
+      "id": 1362, 
+      "mda": "John, Augustus, OM", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1940", 
+  "dateRange": {
+    "endYear": 1928, 
+    "startYear": 1928, 
+    "text": "c.1928"
+  }, 
+  "dateText": "c.1928", 
+  "depth": "", 
+  "dimensions": "support: 762 x 686 mm\r\nframe: 966 x 892 x 93 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "686", 
+  "id": 7131, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5967, 
+                "name": "cineraria"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15964, 
+                "name": "plant pot"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Blue Cineraria", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/john-blue-cineraria-n05346", 
+  "width": "762"
+}

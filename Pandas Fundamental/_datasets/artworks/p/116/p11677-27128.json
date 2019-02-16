@@ -1,0 +1,134 @@
+{
+  "acno": "P11677", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Richard Billingham", 
+  "catalogueGroup": {
+    "accessionRanges": "P11676-P11685", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66093, 
+    "shortTitle": "Tate Modern: Ten Artists, Ten Images"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1970, 
+      "date": "born 1970", 
+      "displayOrder": 1, 
+      "fc": "Richard Billingham", 
+      "gender": "Male", 
+      "id": 2749, 
+      "mda": "Billingham, Richard", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Tate Publishing 2000", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 508 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Tate Modern: Ten Artists, Ten Images", 
+  "height": "762", 
+  "id": 27128, 
+  "inscription": null, 
+  "medium": "Photograph, colour, Chromogenic print, on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9985, 
+                "name": "arrow"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4537, 
+                "name": "art gallery"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8482, 
+                "name": "blur"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11677_8.jpg", 
+  "title": "Arrow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/billingham-arrow-p11677", 
+  "width": "508"
+}

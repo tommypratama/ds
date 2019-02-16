@@ -1,0 +1,70 @@
+{
+  "acno": "T01454", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Sir Anthony Caro", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132013", 
+      "displayOrder": 1, 
+      "fc": "Sir Anthony Caro", 
+      "gender": "Male", 
+      "id": 865, 
+      "mda": "Caro, Sir Anthony", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "3531", 
+  "dimensions": "object: 1524 x 2845 x 3531 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2845", 
+  "id": 1996, 
+  "inscription": null, 
+  "medium": "Steel", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Anthony Caro/Barford Sculptures Ltd", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01454_8.jpg", 
+  "title": "Quartet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caro-quartet-t01454", 
+  "width": "1524"
+}

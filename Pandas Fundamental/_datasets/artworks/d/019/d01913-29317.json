@@ -1,0 +1,123 @@
+{
+  "acno": "D01913", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D01913", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D19/D01913_E.jpg", 
+          "height": 395, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D01912-D01991; D41266-D41274", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65698, 
+    "shortTitle": "Lancashire and North Wales Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1799, 
+    "startYear": 1799, 
+    "text": "1799"
+  }, 
+  "dateText": "1799", 
+  "depth": "", 
+  "dimensions": "support: 330 x 228 mm", 
+  "finberg": "XLV 2", 
+  "foreignTitle": null, 
+  "groupTitle": "Lancashire and North Wales Sketchbook", 
+  "height": "228", 
+  "id": 29317, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 7, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9798, 
+                "name": "gatehouse"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01913_8.jpg", 
+  "title": "The Battlements ?of a Castle Gatehouse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-battlements-of-a-castle-gatehouse-d01913", 
+  "width": "330"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "P04611", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Nicholas Monro", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Nicholas Monro", 
+      "gender": "Male", 
+      "id": 1654, 
+      "mda": "Monro, Nicholas", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "image: 565 x 924 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "924", 
+  "id": 9641, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4665, 
+                "name": "antelope"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 755, 
+                "name": "grass"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6127, 
+                "name": "running"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Nicholas Monro", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04611_8.jpg", 
+  "title": "Gazelles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/monro-gazelles-p04611", 
+  "width": "565"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "N03834", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Fred Mayor", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1865, 
+      "date": "1865\u20131916", 
+      "displayOrder": 1, 
+      "fc": "Fred Mayor", 
+      "gender": "Male", 
+      "id": 1601, 
+      "mda": "Mayor, Fred", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1924", 
+  "dateRange": {
+    "endYear": 1909, 
+    "startYear": 1909, 
+    "text": "c.1909"
+  }, 
+  "dateText": "c.1909", 
+  "depth": "", 
+  "dimensions": "support: 318 x 394 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "394", 
+  "id": 9415, 
+  "inscription": null, 
+  "medium": "Watercolour and chalk on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 359, 
+      "name": "New English Art Club"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6620, 
+                "name": "Montreuil"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03834_8.jpg", 
+  "title": "Church at Montreuil", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mayor-church-at-montreuil-n03834", 
+  "width": "318"
+}

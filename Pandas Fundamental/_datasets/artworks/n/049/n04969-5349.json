@@ -1,0 +1,136 @@
+{
+  "acno": "N04969", 
+  "acquisitionYear": 1938, 
+  "all_artists": "Edna Ginesi", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1902, 
+      "date": "1902\u20132000", 
+      "displayOrder": 1, 
+      "fc": "Edna Ginesi", 
+      "gender": "Female", 
+      "id": 1173, 
+      "mda": "Ginesi, Edna", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Hazel McKinley 1938", 
+  "dateRange": {
+    "endYear": 1937, 
+    "startYear": 1937, 
+    "text": "1937"
+  }, 
+  "dateText": "1937", 
+  "depth": "", 
+  "dimensions": "support: 639 x 812 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "812", 
+  "id": 5349, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4756, 
+                "name": "Caernarfonshire and Merionethshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4757, 
+                "name": "Porthmadog"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4753, 
+                "name": "Snowdonia"
+              }, 
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1561, 
+                "name": "farm"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Landscape, North Wales", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ginesi-landscape-north-wales-n04969", 
+  "width": "639"
+}

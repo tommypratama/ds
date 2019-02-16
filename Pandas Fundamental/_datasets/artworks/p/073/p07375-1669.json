@@ -1,0 +1,80 @@
+{
+  "acno": "P07375", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Stephen Buckley", 
+  "catalogueGroup": {
+    "accessionRanges": "P07367-P07376", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65209, 
+    "shortTitle": "Ten Colour Etchings"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1944, 
+      "date": "born 1944", 
+      "displayOrder": 1, 
+      "fc": "Stephen Buckley", 
+      "gender": "Male", 
+      "id": 828, 
+      "mda": "Buckley, Stephen", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1979, 
+    "text": "1979-80"
+  }, 
+  "dateText": "1979\u201380", 
+  "depth": "", 
+  "dimensions": "image: 185 x 162 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Ten Colour Etchings", 
+  "height": "162", 
+  "id": 1669, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Stephen Buckley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07375_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07375", 
+  "width": "185"
+}

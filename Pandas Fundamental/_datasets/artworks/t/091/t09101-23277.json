@@ -1,0 +1,92 @@
+{
+  "acno": "T09101", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Hamilton Mortimer", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1740, 
+      "date": "1740\u20131779", 
+      "displayOrder": 1, 
+      "fc": "John Hamilton Mortimer", 
+      "gender": "Male", 
+      "id": 389, 
+      "mda": "Mortimer, John Hamilton", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1779, 
+    "startYear": 1770, 
+    "text": "1770s"
+  }, 
+  "dateText": "1770s", 
+  "depth": "", 
+  "dimensions": "support: 175 x 112 mm\r\nsupport, secondary: 240 x 165 mm\r\nframe: 481 x 411 x 22 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "112", 
+  "id": 23277, 
+  "inscription": null, 
+  "medium": "Graphite and crayon on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3537, 
+                "name": "'The Tempest'"
+              }
+            ], 
+            "id": 59, 
+            "name": "Shakespeare"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9983, 
+                "name": "Caliban"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1708, 
+                "name": "monster"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09101_8.jpg", 
+  "title": "Monstrous Male Figure, Caliban?", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mortimer-monstrous-male-figure-caliban-t09101", 
+  "width": "175"
+}

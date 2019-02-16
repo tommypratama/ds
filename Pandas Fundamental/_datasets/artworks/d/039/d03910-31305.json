@@ -1,0 +1,107 @@
+{
+  "acno": "D03910", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03833-D03973; D40780", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65716, 
+    "shortTitle": "Egyptian Details Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1800, 
+    "startYear": 1799, 
+    "text": "c.1799-1800"
+  }, 
+  "dateText": "c.1799\u20131800", 
+  "depth": "", 
+  "dimensions": "support: 166 x 82 mm", 
+  "finberg": "LXVI 74 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Egyptian Details Sketchbook", 
+  "height": "82", 
+  "id": 31305, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 152, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5861, 
+                "name": "Egypt"
+              }
+            ], 
+            "id": 152, 
+            "name": "dress: nations/regions"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03910_8.jpg", 
+  "title": "Four Studies of Ancient Figures and Details of Costume", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-four-studies-of-ancient-figures-and-details-of-costume-d03910", 
+  "width": "166"
+}

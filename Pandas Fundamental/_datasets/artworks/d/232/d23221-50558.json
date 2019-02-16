@@ -1,0 +1,177 @@
+{
+  "acno": "D23221", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D23221", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D232/D23221_E.jpg", 
+          "height": 354, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D23151-D23245; D40689-D40690", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65878, 
+    "shortTitle": "Nantes, Angers and Saumur Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1826, 
+    "startYear": 1826, 
+    "text": "1826"
+  }, 
+  "dateText": "1826", 
+  "depth": "", 
+  "dimensions": "support: 170 x 110 mm", 
+  "finberg": "CCXLVIII 36 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Nantes, Angers and Saumur Sketchbook", 
+  "height": "110", 
+  "id": 50558, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 74, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13582, 
+                "name": "Angers, Basse Chaine"
+              }, 
+              {
+                "id": 13591, 
+                "name": "Angers, Chateau"
+              }, 
+              {
+                "id": 13580, 
+                "name": "Angers, La Trinit\u00e9"
+              }, 
+              {
+                "id": 13581, 
+                "name": "Angers, Tour de Guillou"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23221_8.jpg", 
+  "title": "Angers: View Upriver, with the Tour de Guillou and Basse Chaine, with La Trinit\u00e9 (Left), and the Ch\u00e2teau (Right); The Southern Walls of the Ch\u00e2teau, with Roofs of Houses to its Right", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-angers-view-upriver-with-the-tour-de-guillou-and-basse-chaine-with-la-trinite-left-d23221", 
+  "width": "170"
+}

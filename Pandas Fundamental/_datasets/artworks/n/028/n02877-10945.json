@@ -1,0 +1,96 @@
+{
+  "acno": "N02877", 
+  "acquisitionYear": 1912, 
+  "all_artists": "John Opie", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1761, 
+      "date": "1761\u20131807", 
+      "displayOrder": 1, 
+      "fc": "John Opie", 
+      "gender": "Male", 
+      "id": 406, 
+      "mda": "Opie, John", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Purchased 1912", 
+  "dateRange": {
+    "endYear": 1795, 
+    "startYear": 1795, 
+    "text": "1795"
+  }, 
+  "dateText": "1795", 
+  "depth": "130", 
+  "dimensions": "frame: 950 x 820 x 130 mm\r\nsupport: 762 x 635 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "820", 
+  "id": 10945, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14458, 
+                "name": "Reynolds, S.W."
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4593, 
+                "name": "head in hand/hands"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02877_8.jpg", 
+  "title": "Mrs S.W. Reynolds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/opie-mrs-sw-reynolds-n02877", 
+  "width": "950"
+}

@@ -1,0 +1,70 @@
+{
+  "acno": "P05512", 
+  "acquisitionYear": 1979, 
+  "all_artists": "John Hoyland", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20132011", 
+      "displayOrder": 1, 
+      "fc": "John Hoyland", 
+      "gender": "Male", 
+      "id": 1318, 
+      "mda": "Hoyland, John", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater 1979", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": "image: 692 x 546 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "546", 
+  "id": 6923, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Hoyland", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05512_8.jpg", 
+  "title": "Trickster", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hoyland-trickster-p05512", 
+  "width": "692"
+}

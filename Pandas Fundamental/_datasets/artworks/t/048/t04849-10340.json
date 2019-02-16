@@ -1,0 +1,136 @@
+{
+  "acno": "T04849", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Marie-Louise Von Motesiczky", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1906, 
+      "date": "1906\u20131996", 
+      "displayOrder": 1, 
+      "fc": "Marie-Louise Von Motesiczky", 
+      "gender": "Female", 
+      "id": 1672, 
+      "mda": "Von Motesiczky, Marie-Louise", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1986", 
+  "dateRange": {
+    "endYear": 1925, 
+    "startYear": 1925, 
+    "text": "1925"
+  }, 
+  "dateText": "1925", 
+  "depth": "", 
+  "dimensions": "support: 625 x 310 mm\r\nframe: 722 x 400 x 69 mm", 
+  "foreignTitle": "Blick aus dem Fenster, Wien", 
+  "groupTitle": null, 
+  "height": "310", 
+  "id": 10340, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7000, 
+                "name": "Austria"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7004, 
+                "name": "Vienna, Johann Strauss Theatre"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome"
+              }, 
+              {
+                "id": 3123, 
+                "name": "roof"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Marie-Louise Von Motesiczky", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04849_8.jpg", 
+  "title": "View from the Window, Vienna", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/von-motesiczky-view-from-the-window-vienna-t04849", 
+  "width": "625"
+}

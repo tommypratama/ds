@@ -1,0 +1,102 @@
+{
+  "acno": "T13656", 
+  "acquisitionYear": 2012, 
+  "all_artists": "David Musgrave", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1973, 
+      "date": "born 1973", 
+      "displayOrder": 1, 
+      "fc": "David Musgrave", 
+      "gender": "Male", 
+      "id": 6241, 
+      "mda": "Musgrave, David", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 2012", 
+  "dateRange": {
+    "endYear": 2009, 
+    "startYear": 2009, 
+    "text": "2009"
+  }, 
+  "dateText": "2009", 
+  "depth": "40", 
+  "dimensions": "object: 390 x 16 x 40 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "16", 
+  "id": 123141, 
+  "inscription": null, 
+  "medium": "Resin and steel", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Musgrave", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13656_8.jpg", 
+  "title": "Transparent Stick Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/musgrave-transparent-stick-figure-t13656", 
+  "width": "390"
+}

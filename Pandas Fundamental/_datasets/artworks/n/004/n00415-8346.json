@@ -1,0 +1,402 @@
+{
+  "acno": "N00415", 
+  "acquisitionYear": 1847, 
+  "all_artists": "Sir Edwin Henry Landseer", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1802, 
+      "date": "1802\u20131873", 
+      "displayOrder": 1, 
+      "fc": "Sir Edwin Henry Landseer", 
+      "gender": "Male", 
+      "id": 323, 
+      "mda": "Landseer, Sir Edwin Henry", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Robert Vernon 1847", 
+  "dateRange": {
+    "endYear": 1850, 
+    "startYear": 1850, 
+    "text": "exhibited 1850"
+  }, 
+  "dateText": "exhibited 1850", 
+  "depth": "", 
+  "dimensions": "support: 1937 x 3880 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3880", 
+  "id": 8346, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "subjectCount": 36, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3381, 
+                "name": "Belgium"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8205, 
+                "name": "Waterloo - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4419, 
+                "name": "Waterloo, Battle, 18 Jun 1815"
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 696, 
+                "name": "Wellington, Arthur Wellesley, 1st Duke of"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }, 
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20115, 
+                "name": "groups"
+              }, 
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 1134, 
+                "name": "man, old"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1491, 
+                "name": "pointing"
+              }, 
+              {
+                "id": 712, 
+                "name": "talking"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4702, 
+                "name": "aristocrat"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }, 
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2567, 
+                "name": "trader"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3051, 
+                "name": "bag"
+              }, 
+              {
+                "id": 1091, 
+                "name": "pipe"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket"
+              }, 
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1496, 
+                "name": "plough"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15206, 
+                "name": "souvenir"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4876, 
+                "name": "death"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }, 
+              {
+                "id": 1547, 
+                "name": "hare"
+              }, 
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4432, 
+                "name": "gamebird"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6907, 
+                "name": "family"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }, 
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 606, 
+                "name": "hunting"
+              }, 
+              {
+                "id": 627, 
+                "name": "riding"
+              }, 
+              {
+                "id": 6939, 
+                "name": "tourism"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3557, 
+                "name": "picnic"
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00415_8.jpg", 
+  "title": "A Dialogue at Waterloo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landseer-a-dialogue-at-waterloo-n00415", 
+  "width": "1937"
+}

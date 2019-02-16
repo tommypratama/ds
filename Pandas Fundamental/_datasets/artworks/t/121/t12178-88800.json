@@ -1,0 +1,86 @@
+{
+  "acno": "T12178", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Bob Law", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20132004", 
+      "displayOrder": 1, 
+      "fc": "Bob Law", 
+      "gender": "Male", 
+      "id": 1476, 
+      "mda": "Law, Bob", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 2006", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "30", 
+  "dimensions": "object: 440 x 295 x 30 mm, 4.4 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "295", 
+  "id": 88800, 
+  "inscription": null, 
+  "medium": "Lead", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11205, 
+                "name": "psychology"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Bob Law", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12178_8.jpg", 
+  "title": "Is a Mind a Prison", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/law-is-a-mind-a-prison-t12178", 
+  "width": "440"
+}

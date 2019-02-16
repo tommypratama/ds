@@ -1,0 +1,135 @@
+{
+  "acno": "D30192", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D30130-D30266; D30268-D30295; D41223-D41224", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCC", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65928, 
+    "shortTitle": "Salzburg and Danube Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "1833"
+  }, 
+  "dateText": "1833", 
+  "depth": "", 
+  "dimensions": "support: 159 x 99 mm", 
+  "finberg": "CCC 32", 
+  "foreignTitle": null, 
+  "groupTitle": "Salzburg and Danube Sketchbook", 
+  "height": "99", 
+  "id": 57452, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 65, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7000, 
+                "name": "Austria"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15246, 
+                "name": "Krems"
+              }, 
+              {
+                "id": 14193, 
+                "name": "Salzburg - non-specific"
+              }, 
+              {
+                "id": 15247, 
+                "name": "Stein"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5947, 
+                "name": "River Danube"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30192_8.jpg", 
+  "title": "(1) Salzburg: The M\u00fcllnerkirche an M\u00f6nchsberg; (2) Krems on the Danube; (3) G\u00f6ttweig Abbey, as Seen from the Danube; (4) Stein on the Danube", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-salzburg-the-mullnerkirche-an-monchsberg-2-krems-on-the-danube-3-gottweig-abbey-d30192", 
+  "width": "159"
+}

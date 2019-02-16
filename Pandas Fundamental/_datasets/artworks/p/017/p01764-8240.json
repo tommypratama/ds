@@ -1,0 +1,92 @@
+{
+  "acno": "P01764", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Mauro Kunst", 
+  "catalogueGroup": {
+    "accessionRanges": "P01759-P01773; T05842-T05844", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65564, 
+    "shortTitle": "Eurominiprotopack"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Mauro Kunst", 
+      "gender": "Male", 
+      "id": 1448, 
+      "mda": "Kunst, Mauro", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by John Berry 1976", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "", 
+  "dimensions": "image: 457 x 457 mm", 
+  "foreignTitle": "Negro y blanco", 
+  "groupTitle": "Eurominiprotopack", 
+  "height": "457", 
+  "id": 8240, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Black on White", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kunst-black-on-white-p01764", 
+  "width": "457"
+}

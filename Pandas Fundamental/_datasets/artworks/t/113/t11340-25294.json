@@ -1,0 +1,85 @@
+{
+  "acno": "T11340", 
+  "acquisitionYear": 1997, 
+  "all_artists": "British (?) School", 
+  "catalogueGroup": {
+    "accessionRanges": "T10822; T11290-T11379", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66049, 
+    "shortTitle": "Album of Miscellaneous Etchings"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "date": null, 
+      "displayOrder": 1, 
+      "fc": "British (?) School", 
+      "gender": null, 
+      "id": 2638, 
+      "mda": "British (?) School", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1780, 
+    "startYear": 1780, 
+    "text": "1780"
+  }, 
+  "dateText": "1780", 
+  "depth": "", 
+  "dimensions": "image: 61 x 102 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Album of Miscellaneous Etchings", 
+  "height": "102", 
+  "id": 25294, 
+  "inscription": "date inscribed", 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1133, 
+                "name": "goat"
+              }, 
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11340_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t11340", 
+  "width": "61"
+}

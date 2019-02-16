@@ -1,0 +1,110 @@
+{
+  "acno": "T06977", 
+  "acquisitionYear": 1995, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of tax and allocated to the Tate Gallery 1995", 
+  "dateRange": {
+    "endYear": 1940, 
+    "startYear": 1938, 
+    "text": "1938-40"
+  }, 
+  "dateText": "1938\u201340", 
+  "depth": "220", 
+  "dimensions": "object: 324 x 470 x 220 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "470", 
+  "id": 21298, 
+  "inscription": null, 
+  "medium": "Perspex and celluloid", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4619, 
+                "name": "crystal"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06977_8.jpg", 
+  "title": "Construction in Space with Crystalline Centre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-construction-in-space-with-crystalline-centre-t06977", 
+  "width": "324"
+}

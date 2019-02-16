@@ -1,0 +1,94 @@
+{
+  "acno": "D07850", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D07850", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D78/D07850_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 328
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1135804, 
+  "catalogueGroup": {
+    "accessionRanges": "D07755-D07852; D40804", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65759, 
+    "shortTitle": "Frittlewell Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1809, 
+    "text": "1809"
+  }, 
+  "dateText": "1809", 
+  "depth": "", 
+  "dimensions": "support: 180 x 107 mm", 
+  "finberg": "CXII 87 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Frittlewell Sketchbook", 
+  "height": "107", 
+  "id": 35239, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 176, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13022, 
+                "name": "poetry"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07850_8.jpg", 
+  "title": "Verses (Inscriptions by Turner)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-verses-inscriptions-by-turner-d07850", 
+  "width": "180"
+}

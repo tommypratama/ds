@@ -1,0 +1,111 @@
+{
+  "acno": "D04135", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03994-D04096; D04098-D04151; D40585-D40590", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65719, 
+    "shortTitle": "Studies for Pictures Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1799, 
+    "text": "c.1799-1802"
+  }, 
+  "dateText": "c.1799\u20131802", 
+  "depth": "", 
+  "dimensions": "support: 215 x 138 mm", 
+  "finberg": "LXIX 118", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies for Pictures Sketchbook", 
+  "height": "138", 
+  "id": 31530, 
+  "inscription": null, 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 235, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04135_8.jpg", 
+  "title": "Shipping at Sea, with a Small Boat in the Foreground, Possibly a Study for the \u2018Egremont Sea Piece\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-shipping-at-sea-with-a-small-boat-in-the-foreground-possibly-a-study-for-the-d04135", 
+  "width": "215"
+}

@@ -1,0 +1,134 @@
+{
+  "acno": "P05460", 
+  "acquisitionYear": 1978, 
+  "all_artists": "John Piper", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131992", 
+      "displayOrder": 1, 
+      "fc": "John Piper", 
+      "gender": "Male", 
+      "id": 1774, 
+      "mda": "Piper, John", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater 1978", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1975, 
+    "text": "1975-8"
+  }, 
+  "dateText": "1975\u20138", 
+  "depth": "", 
+  "dimensions": "image: 429 x 1607 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1607", 
+  "id": 12008, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17132, 
+                "name": "Aldgate"
+              }, 
+              {
+                "id": 17134, 
+                "name": "Bishopsgate"
+              }, 
+              {
+                "id": 17135, 
+                "name": "Kingsgate"
+              }, 
+              {
+                "id": 17131, 
+                "name": "Moorgate"
+              }, 
+              {
+                "id": 17133, 
+                "name": "Temple Bar"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Piper Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05460_8.jpg", 
+  "title": "Gates of London", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/piper-gates-of-london-p05460", 
+  "width": "429"
+}

@@ -1,0 +1,110 @@
+{
+  "acno": "D00288", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00288", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D02/D00288_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 346
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140681, 
+  "catalogueGroup": {
+    "accessionRanges": "D00260-D00326; D40753-D40754", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65684, 
+    "shortTitle": "Marford Mill Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1794, 
+    "startYear": 1794, 
+    "text": "c.1794"
+  }, 
+  "dateText": "c.1794", 
+  "depth": "", 
+  "dimensions": "support: 99 x 152 mm", 
+  "finberg": "XX 22", 
+  "foreignTitle": null, 
+  "groupTitle": "Marford Mill Sketchbook", 
+  "height": "152", 
+  "id": 27704, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 45, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3568, 
+                "name": "ceiling"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11011, 
+                "name": "mill"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00288_8.jpg", 
+  "title": "The Interior of a Mill or Foundry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-interior-of-a-mill-or-foundry-d00288", 
+  "width": "99"
+}

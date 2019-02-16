@@ -1,0 +1,118 @@
+{
+  "acno": "N04549", 
+  "acquisitionYear": 1930, 
+  "all_artists": "Richard Garbe", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1876, 
+      "date": "1876\u20131957", 
+      "displayOrder": 1, 
+      "fc": "Richard Garbe", 
+      "gender": "Male", 
+      "id": 1139, 
+      "mda": "Garbe, Richard", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1930", 
+  "dateRange": {
+    "endYear": 1930, 
+    "startYear": 1930, 
+    "text": "1930"
+  }, 
+  "dateText": "1930", 
+  "depth": "178", 
+  "dimensions": "object: 914 x 210 x 178 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "210", 
+  "id": 4968, 
+  "inscription": "date inscribed", 
+  "medium": "Ivory", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2192, 
+                "name": "fruit, banana"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3502, 
+                "name": "tusk"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Autumn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/garbe-autumn-n04549", 
+  "width": "914"
+}

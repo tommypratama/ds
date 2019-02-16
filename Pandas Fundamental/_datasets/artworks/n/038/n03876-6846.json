@@ -1,0 +1,130 @@
+{
+  "acno": "N03876", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Laurence Housman", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1861, 
+      "date": "1861\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Laurence Housman", 
+      "gender": "Male", 
+      "id": 1313, 
+      "mda": "Housman, Laurence", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1924", 
+  "dateRange": {
+    "endYear": 1904, 
+    "startYear": 1904, 
+    "text": "c.1904"
+  }, 
+  "dateText": "c.1904", 
+  "depth": "", 
+  "dimensions": "support: 140 x 83 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "83", 
+  "id": 6846, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15965, 
+                "name": "Housman, Laurence, 'The Blue Moon'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2962, 
+                "name": "deer"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8603, 
+                "name": "shed"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1416, 
+                "name": "shock"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The White Doe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/housman-the-white-doe-n03876", 
+  "width": "140"
+}

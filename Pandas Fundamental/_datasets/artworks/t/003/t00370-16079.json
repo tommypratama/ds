@@ -1,0 +1,122 @@
+{
+  "acno": "T00370", 
+  "acquisitionYear": 1960, 
+  "all_artists": "John Wells", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20132000", 
+      "displayOrder": 1, 
+      "fc": "John Wells", 
+      "gender": "Male", 
+      "id": 2130, 
+      "mda": "Wells, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1960", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "support: 1219 x 760 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "760", 
+  "id": 16079, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6409, 
+                "name": "moth"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Wells", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00370_8.jpg", 
+  "title": "Brimstone Moth Variation", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wells-brimstone-moth-variation-t00370", 
+  "width": "1219"
+}

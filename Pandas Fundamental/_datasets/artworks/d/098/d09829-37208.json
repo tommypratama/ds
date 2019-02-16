@@ -1,0 +1,124 @@
+{
+  "acno": "D09829", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09829", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D98/D09829_E.jpg", 
+          "height": 363, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1146316, 
+  "catalogueGroup": {
+    "accessionRanges": "D09789-D09855; D09857-D09888; D40878-D40884", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65776, 
+    "shortTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1814, 
+    "startYear": 1814, 
+    "text": "?1814"
+  }, 
+  "dateText": "?1814", 
+  "depth": "", 
+  "dimensions": "support: 179 x 254 mm", 
+  "finberg": "CXXXIV 36", 
+  "foreignTitle": null, 
+  "groupTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook", 
+  "height": "254", 
+  "id": 37208, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 161, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "A Bridge with a Water-Mill, Possibly at Great Torrington", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-bridge-with-a-water-mill-possibly-at-great-torrington-d09829", 
+  "width": "179"
+}

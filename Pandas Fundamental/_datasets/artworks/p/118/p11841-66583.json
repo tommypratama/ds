@@ -1,0 +1,102 @@
+{
+  "acno": "P11841", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Cecil Collins", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131989", 
+      "displayOrder": 1, 
+      "fc": "Cecil Collins", 
+      "gender": "Male", 
+      "id": 930, 
+      "mda": "Collins, Cecil", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by Elisabeth Collins, the artist's widow, through the Art Fund 2001", 
+  "dateRange": {
+    "endYear": 1939, 
+    "startYear": 1939, 
+    "text": "?1939"
+  }, 
+  "dateText": "?1939", 
+  "depth": "", 
+  "dimensions": "image: 92 x 93 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "93", 
+  "id": 66583, 
+  "inscription": null, 
+  "medium": "Etching on printed paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 761, 
+                "name": "living room"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11841_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/collins-untitled-p11841", 
+  "width": "92"
+}

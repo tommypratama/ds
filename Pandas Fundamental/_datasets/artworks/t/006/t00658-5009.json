@@ -1,0 +1,128 @@
+{
+  "acno": "T00658", 
+  "acquisitionYear": 1964, 
+  "all_artists": "Henri Gaudier-Brzeska", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131915", 
+      "displayOrder": 1, 
+      "fc": "Henri Gaudier-Brzeska", 
+      "gender": "Male", 
+      "id": 1143, 
+      "mda": "Gaudier-Brzeska, Henri", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1964", 
+  "dateRange": {
+    "endYear": 1914, 
+    "startYear": 1913, 
+    "text": "c.1913-4, cast 1964"
+  }, 
+  "dateText": "c.1913\u20134, cast 1964", 
+  "depth": "279", 
+  "dimensions": "object: 318 x 603 x 279 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "603", 
+  "id": 5009, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00658_8.jpg", 
+  "title": "Bird Swallowing a Fish", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-bird-swallowing-a-fish-t00658", 
+  "width": "318"
+}

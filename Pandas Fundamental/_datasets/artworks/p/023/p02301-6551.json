@@ -1,0 +1,96 @@
+{
+  "acno": "P02301", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Howard Hodgkin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Howard Hodgkin", 
+      "gender": "Male", 
+      "id": 1295, 
+      "mda": "Hodgkin, Howard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1976", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 448 x 603 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "603", 
+  "id": 6551, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Howard Hodgkin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02301_8.jpg", 
+  "title": "Interior (Day)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkin-interior-day-p02301", 
+  "width": "448"
+}

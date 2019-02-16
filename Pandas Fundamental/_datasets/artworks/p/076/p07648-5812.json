@@ -1,0 +1,130 @@
+{
+  "acno": "P07648", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Richard Hamilton", 
+  "catalogueGroup": {
+    "accessionRanges": "P07648-P07653", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65339, 
+    "shortTitle": "Reaper"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Richard Hamilton", 
+      "gender": "Male", 
+      "id": 1244, 
+      "mda": "Hamilton, Richard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1949, 
+    "startYear": 1949, 
+    "text": "1949"
+  }, 
+  "dateText": "1949", 
+  "depth": "", 
+  "dimensions": "image: 173 x 270 mm\r\nsupport: 280 x 385 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Reaper", 
+  "height": "270", 
+  "id": 5812, 
+  "inscription": null, 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 425, 
+      "name": "Independent Group"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9361, 
+                "name": "Giedeon, Siegfried, 'Mechanization Takes Command'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 959, 
+                "name": "machine age"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9360, 
+                "name": "reaper"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Richard Hamilton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07648_8.jpg", 
+  "title": "Reaper (d)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-reaper-d-p07648", 
+  "width": "173"
+}

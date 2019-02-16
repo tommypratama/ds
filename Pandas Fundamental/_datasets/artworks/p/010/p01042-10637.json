@@ -1,0 +1,102 @@
+{
+  "acno": "P01042", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Barnett Newman", 
+  "catalogueGroup": {
+    "accessionRanges": "P01027-P01044", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65432, 
+    "shortTitle": "Eighteen Cantos"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1905, 
+      "date": "1905\u20131970", 
+      "displayOrder": 1, 
+      "fc": "Barnett Newman", 
+      "gender": "Male", 
+      "id": 1699, 
+      "mda": "Newman, Barnett", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Annalee Newman, the artist's widow 1972", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1963, 
+    "text": "1963-4"
+  }, 
+  "dateText": "1963\u20134", 
+  "depth": "", 
+  "dimensions": "image: 375 x 323 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Eighteen Cantos", 
+  "height": "323", 
+  "id": 10637, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 416, 
+      "name": "Abstract Expressionism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13022, 
+                "name": "poetry"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ARS, NY and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01042_8.jpg", 
+  "title": "Canto XVI", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/newman-canto-xvi-p01042", 
+  "width": "375"
+}

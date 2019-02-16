@@ -1,0 +1,80 @@
+{
+  "acno": "T01496", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Peter Lanyon", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1918, 
+      "date": "1918\u20131964", 
+      "displayOrder": 1, 
+      "fc": "Peter Lanyon", 
+      "gender": "Male", 
+      "id": 1467, 
+      "mda": "Lanyon, Peter", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1947, 
+    "startYear": 1947, 
+    "text": "1947"
+  }, 
+  "dateText": "1947", 
+  "depth": "248", 
+  "dimensions": "object: 260 x 327 x 248 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "327", 
+  "id": 8377, 
+  "inscription": null, 
+  "medium": "Aluminium and wood on Perspex base", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Peter Lanyon", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01496_8.jpg", 
+  "title": "Construction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lanyon-construction-t01496", 
+  "width": "260"
+}

@@ -1,0 +1,80 @@
+{
+  "acno": "P01632", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Ian Tyson", 
+  "catalogueGroup": {
+    "accessionRanges": "P01632-P01635", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65560, 
+    "shortTitle": "The Graves"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Ian Tyson", 
+      "gender": "Male", 
+      "id": 2081, 
+      "mda": "Tyson, Ian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 773 x 602 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Graves", 
+  "height": "602", 
+  "id": 15579, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ian Tyson", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01632_8.jpg", 
+  "title": "The Graves 1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tyson-the-graves-1-p01632", 
+  "width": "773"
+}

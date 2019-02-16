@@ -1,0 +1,86 @@
+{
+  "acno": "T07163", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Sean Scully", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Sean Scully", 
+      "gender": "Male", 
+      "id": 1917, 
+      "mda": "Scully, Sean", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Janet Wolfson de Botton 1996 to celebrate the Tate Gallery Centenary 1997", 
+  "dateRange": {
+    "endYear": 1987, 
+    "startYear": 1987, 
+    "text": "1987"
+  }, 
+  "dateText": "1987", 
+  "depth": "77", 
+  "dimensions": "displayed: 2444 x 2444 x 77 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2444", 
+  "id": 21785, 
+  "inscription": null, 
+  "medium": "Oil paint on 3 canvases", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Sean Scully", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07163_8.jpg", 
+  "title": "A Happy Land", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scully-a-happy-land-t07163", 
+  "width": "2444"
+}

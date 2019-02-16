@@ -1,0 +1,82 @@
+{
+  "acno": "P02167", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Henry Moore OM, CH", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Henry Moore OM, CH", 
+      "gender": "Male", 
+      "id": 1659, 
+      "mda": "Moore, Henry, OM, CH", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1972, 
+    "text": "1972-4"
+  }, 
+  "dateText": "1972\u20134", 
+  "depth": "", 
+  "dimensions": "image: 203 x 190 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "190", 
+  "id": 9778, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2331, 
+                "name": "trunk"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1297, 
+                "name": "wood"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Henry Moore Foundation; All rights reserved DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02167_8.jpg", 
+  "title": "Log Pile III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-log-pile-iii-p02167", 
+  "width": "203"
+}

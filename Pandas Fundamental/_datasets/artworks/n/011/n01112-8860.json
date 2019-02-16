@@ -1,0 +1,102 @@
+{
+  "acno": "N01112", 
+  "acquisitionYear": 1882, 
+  "all_artists": "John Linnell", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1792, 
+      "date": "1792\u20131882", 
+      "displayOrder": 1, 
+      "fc": "John Linnell", 
+      "gender": "Male", 
+      "id": 351, 
+      "mda": "Linnell, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Fred Piercy 1882", 
+  "dateRange": {
+    "endYear": 1832, 
+    "startYear": 1832, 
+    "text": "1832"
+  }, 
+  "dateText": "1832", 
+  "depth": "", 
+  "dimensions": "support: 232 x 168 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "168", 
+  "id": 8860, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14419, 
+                "name": "Hawkins, Ann"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2303, 
+                "name": "hat, bonnet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01112_8.jpg", 
+  "title": "Mrs Ann Hawkins", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/linnell-mrs-ann-hawkins-n01112", 
+  "width": "232"
+}

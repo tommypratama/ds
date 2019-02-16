@@ -1,0 +1,88 @@
+{
+  "acno": "D08267", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139294, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1806, 
+    "startYear": 1806, 
+    "text": "1806"
+  }, 
+  "dateText": "1806", 
+  "depth": "", 
+  "dimensions": "support: 187 x 234 mm", 
+  "finberg": "CXXI K a", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "234", 
+  "id": 35656, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1711, 
+                "name": "Napoleonic Wars, 1796-1815"
+              }, 
+              {
+                "id": 5875, 
+                "name": "Trafalgar, Battle, 21 Oct 1805"
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7825, 
+                "name": "ship, warship, 'HMS Victory'"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08267_8.jpg", 
+  "title": "Description of \u2018The Battle of Trafalgar, as Seen from the Mizen Starboard Shrouds of the Victory\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-description-of-the-battle-of-trafalgar-as-seen-from-the-mizen-starboard-shrouds-of-d08267", 
+  "width": "187"
+}

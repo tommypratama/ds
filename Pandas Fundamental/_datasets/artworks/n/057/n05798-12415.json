@@ -1,0 +1,126 @@
+{
+  "acno": "N05798", 
+  "acquisitionYear": 1947, 
+  "all_artists": "Sir Joshua Reynolds", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1723, 
+      "date": "1723\u20131792", 
+      "displayOrder": 1, 
+      "fc": "Sir Joshua Reynolds", 
+      "gender": "Male", 
+      "id": 444, 
+      "mda": "Reynolds, Sir Joshua", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1947", 
+  "dateRange": {
+    "endYear": 1756, 
+    "startYear": 1755, 
+    "text": "1755-6"
+  }, 
+  "dateText": "1755\u20136", 
+  "depth": "", 
+  "dimensions": "support: 1283 x 1016 mm\r\nframe: 1570 x 1300 x 85 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1016", 
+  "id": 12415, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17253, 
+                "name": "Beckford, Francis"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17254, 
+                "name": "Van Dyck, Anthony, painting, 'Queen Henrietta Maria'"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat"
+              }, 
+              {
+                "id": 5040, 
+                "name": "wig"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1939, 
+                "name": "quill pen"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05798_8.jpg", 
+  "title": "Francis Beckford", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/reynolds-francis-beckford-n05798", 
+  "width": "1283"
+}

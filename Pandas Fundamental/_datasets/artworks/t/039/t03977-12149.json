@@ -1,0 +1,116 @@
+{
+  "acno": "T03977", 
+  "acquisitionYear": 1988, 
+  "all_artists": "Jackson Pollock", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20131956", 
+      "displayOrder": 1, 
+      "fc": "Jackson Pollock", 
+      "gender": "Male", 
+      "id": 1785, 
+      "mda": "Pollock, Jackson", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1988", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1948, 
+    "text": "1948"
+  }, 
+  "dateText": "1948", 
+  "depth": "", 
+  "dimensions": "support: 848 x 5550 mm\r\nframe: 885 x 5590 x 73 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "5550", 
+  "id": 12149, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint, enamel paint and commercial paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 416, 
+      "name": "Abstract Expressionism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6745, 
+                "name": "rhythm"
+              }, 
+              {
+                "id": 6795, 
+                "name": "spontaneity"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Pollock - Krasner Foundation, Inc.", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03977_8.jpg", 
+  "title": "Summertime: Number 9A", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pollock-summertime-number-9a-t03977", 
+  "width": "848"
+}

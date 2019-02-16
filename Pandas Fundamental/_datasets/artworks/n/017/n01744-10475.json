@@ -1,0 +1,86 @@
+{
+  "acno": "N01744", 
+  "acquisitionYear": 1858, 
+  "all_artists": "William Mulready", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1786, 
+      "date": "1786\u20131863", 
+      "displayOrder": 1, 
+      "fc": "William Mulready", 
+      "gender": "Male", 
+      "id": 392, 
+      "mda": "Mulready, William", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Society of Arts 1858", 
+  "dateRange": {
+    "endYear": 1857, 
+    "startYear": 1846, 
+    "text": "1846, reworked 1857"
+  }, 
+  "dateText": "1846, reworked 1857", 
+  "depth": "", 
+  "dimensions": "support: 495 x 356 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "356", 
+  "id": 10475, 
+  "inscription": "date inscribed", 
+  "medium": "Crayon on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01744_8.jpg", 
+  "title": "Academy Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mulready-academy-study-n01744", 
+  "width": "495"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "P07322", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Conrad Atkinson", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Conrad Atkinson", 
+      "gender": "Male", 
+      "id": 671, 
+      "mda": "Atkinson, Conrad", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased 1979", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 765 x 562 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "562", 
+  "id": 612, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 929, 
+                "name": "document - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Conrad Atkinson", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07322_8.jpg", 
+  "title": "Strike", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/atkinson-strike-p07322", 
+  "width": "765"
+}

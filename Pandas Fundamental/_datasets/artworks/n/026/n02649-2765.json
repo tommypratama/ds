@@ -1,0 +1,116 @@
+{
+  "acno": "N02649", 
+  "acquisitionYear": 1910, 
+  "all_artists": "Lionel Bicknell Constable", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1828, 
+      "date": "1828\u20131887", 
+      "displayOrder": 1, 
+      "fc": "Lionel Bicknell Constable", 
+      "gender": "Male", 
+      "id": 109, 
+      "mda": "Constable, Lionel Bicknell", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Bequeathed by George Salting 1910", 
+  "dateRange": {
+    "endYear": 1850, 
+    "startYear": 1850, 
+    "text": "c.1850"
+  }, 
+  "dateText": "c.1850", 
+  "depth": "", 
+  "dimensions": "support: 356 x 445 mm\r\nframe: 560 x 650 x 100 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "445", 
+  "id": 2765, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2670, 
+                "name": "Stoke-by-Nayland"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2357, 
+                "name": "Suffolk"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2690, 
+                "name": "cow parsley"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02649_8.jpg", 
+  "title": "Near Stoke-by-Nayland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-near-stoke-by-nayland-n02649", 
+  "width": "356"
+}

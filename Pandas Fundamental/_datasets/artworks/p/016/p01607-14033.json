@@ -1,0 +1,92 @@
+{
+  "acno": "P01607", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Graham Sutherland OM", 
+  "catalogueGroup": {
+    "accessionRanges": "P01603-P01608", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65541, 
+    "shortTitle": "La Foresta, Il Fiume, La Roccia"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131980", 
+      "displayOrder": 1, 
+      "fc": "Graham Sutherland OM", 
+      "gender": "Male", 
+      "id": 2014, 
+      "mda": "Sutherland, Graham, OM", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1971, 
+    "text": "1971-2"
+  }, 
+  "dateText": "1971\u20132", 
+  "depth": "", 
+  "dimensions": "image: 631 x 481 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "La Foresta, Il Fiume, La Roccia", 
+  "height": "481", 
+  "id": 14033, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Graham Sutherland", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01607_8.jpg", 
+  "title": "La Roccia", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sutherland-la-roccia-p01607", 
+  "width": "631"
+}

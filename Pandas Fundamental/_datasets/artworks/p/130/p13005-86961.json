@@ -1,0 +1,80 @@
+{
+  "acno": "P13005", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Josef Albers", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1888, 
+      "date": "1888\u20131976", 
+      "displayOrder": 1, 
+      "fc": "Josef Albers", 
+      "gender": "Male", 
+      "id": 636, 
+      "mda": "Albers, Josef", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by The Josef and Anni Albers Foundation 2006", 
+  "dateRange": {
+    "endYear": 1933, 
+    "startYear": 1933, 
+    "text": "1933"
+  }, 
+  "dateText": "1933", 
+  "depth": "", 
+  "dimensions": "support: 362 x 505 mm", 
+  "foreignTitle": "R\u00fcnde", 
+  "groupTitle": null, 
+  "height": "505", 
+  "id": 86961, 
+  "inscription": null, 
+  "medium": "Woodcut on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 294, 
+      "name": "Bauhaus"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Joseph and Annie Albers Foundation/VG Bild-Kunst, Bonn and DACS, London, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P13/P13005_8.jpg", 
+  "title": "Circle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/albers-circle-p13005", 
+  "width": "362"
+}

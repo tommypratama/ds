@@ -1,0 +1,132 @@
+{
+  "acno": "D36487", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner, Thomas Girtin", 
+  "catTextResId": 1140556, 
+  "catalogueGroup": {
+    "accessionRanges": "D36478-D36500; D36502-D36516", 
+    "completeStatus": "COMPLETE", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65985, 
+    "shortTitle": "Album of Copies of Swiss and Italian Views for Dr Thomas Monro"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }, 
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 2, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1798, 
+    "startYear": 1794, 
+    "text": "c.1794-8"
+  }, 
+  "dateText": "c.1794\u20138", 
+  "depth": "", 
+  "dimensions": null, 
+  "finberg": "CCCLXXIV 10", 
+  "foreignTitle": null, 
+  "groupTitle": "Album of Copies of Swiss and Italian Views for Dr Thomas Monro", 
+  "height": "", 
+  "id": 63572, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 23, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11754, 
+                "name": "Civita Castellana"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36487_8.jpg", 
+  "title": "A View at Civita Castellana", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-girtin-a-view-at-civita-castellana-d36487", 
+  "width": ""
+}

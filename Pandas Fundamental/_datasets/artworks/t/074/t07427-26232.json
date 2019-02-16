@@ -1,0 +1,112 @@
+{
+  "acno": "T07427", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Paul Winstanley", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1954, 
+      "date": "born 1954", 
+      "displayOrder": 1, 
+      "fc": "Paul Winstanley", 
+      "gender": "Male", 
+      "id": 2668, 
+      "mda": "Winstanley, Paul", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1998", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "78", 
+  "dimensions": "support: 1900 x 2080 x 78 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2080", 
+  "id": 26232, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 841, 
+                "name": "curtain"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5128, 
+                "name": "television"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11206, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Paul Winstanley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07427_8.jpg", 
+  "title": "TV Room V", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winstanley-tv-room-v-t07427", 
+  "width": "1900"
+}

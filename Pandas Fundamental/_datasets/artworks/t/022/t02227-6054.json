@@ -1,0 +1,84 @@
+{
+  "acno": "T02227", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Dame Barbara Hepworth", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Dame Barbara Hepworth", 
+      "gender": "Female", 
+      "id": 1274, 
+      "mda": "Hepworth, Dame Barbara", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by Miss E.M. Hodgkins 1977", 
+  "dateRange": {
+    "endYear": 1955, 
+    "startYear": 1955, 
+    "text": "1955"
+  }, 
+  "dateText": "1955", 
+  "depth": "", 
+  "dimensions": "support: 425 x 152 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "152", 
+  "id": 6054, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint and graphite on board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02227_8.jpg", 
+  "title": "Two Forms (White and Yellow)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-two-forms-white-and-yellow-t02227", 
+  "width": "425"
+}

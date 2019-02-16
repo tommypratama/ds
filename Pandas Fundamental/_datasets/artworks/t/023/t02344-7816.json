@@ -1,0 +1,108 @@
+{
+  "acno": "T02344", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Wassily Kandinsky", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131944", 
+      "displayOrder": 1, 
+      "fc": "Wassily Kandinsky", 
+      "gender": "Male", 
+      "id": 1382, 
+      "mda": "Kandinsky, Wassily", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 1979", 
+  "dateRange": {
+    "endYear": 1925, 
+    "startYear": 1925, 
+    "text": "1925"
+  }, 
+  "dateText": "1925", 
+  "depth": "", 
+  "dimensions": "support: 705 x 502 mm\r\nframe: 954 x 750 x 80 mm", 
+  "foreignTitle": "Schaukeln", 
+  "groupTitle": null, 
+  "height": "502", 
+  "id": 7816, 
+  "inscription": null, 
+  "medium": "Oil paint on board", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 294, 
+      "name": "Bauhaus"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance"
+              }, 
+              {
+                "id": 6739, 
+                "name": "dynamism"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02344_8.jpg", 
+  "title": "Swinging", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kandinsky-swinging-t02344", 
+  "width": "705"
+}

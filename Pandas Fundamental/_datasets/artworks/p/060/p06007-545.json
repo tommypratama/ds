@@ -1,0 +1,66 @@
+{
+  "acno": "P06007", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Leonard Appelbee", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1914, 
+      "date": "1914\u20132000", 
+      "displayOrder": 1, 
+      "fc": "Leonard Appelbee", 
+      "gender": "Male", 
+      "id": 655, 
+      "mda": "Appelbee, Leonard", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": null, 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1970, 
+    "text": "1970-1"
+  }, 
+  "dateText": "1970\u20131", 
+  "depth": "", 
+  "dimensions": "image: 448 x 594 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "594", 
+  "id": 545, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13280, 
+                "name": "carp"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Carp", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/appelbee-carp-p06007", 
+  "width": "448"
+}

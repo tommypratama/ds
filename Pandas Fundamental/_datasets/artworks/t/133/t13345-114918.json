@@ -1,0 +1,112 @@
+{
+  "acno": "T13345", 
+  "acquisitionYear": 2011, 
+  "all_artists": "Francis Picabia", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1879, 
+      "date": "1879\u20131953", 
+      "displayOrder": 1, 
+      "fc": "Francis Picabia", 
+      "gender": "Male", 
+      "id": 1766, 
+      "mda": "Picabia, Francis", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 2011", 
+  "dateRange": {
+    "endYear": 1919, 
+    "startYear": 1919, 
+    "text": "1919"
+  }, 
+  "dateText": "1919", 
+  "depth": "", 
+  "dimensions": "support: 318 x 230 mm", 
+  "foreignTitle": "R\u00e9veil Matin", 
+  "groupTitle": null, 
+  "height": "230", 
+  "id": 114918, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 300, 
+      "name": "Dada"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1886, 
+                "name": "clock"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2452, 
+                "name": "cog"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13345_8.jpg", 
+  "title": "Alarm Clock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/picabia-alarm-clock-t13345", 
+  "width": "318"
+}

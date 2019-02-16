@@ -1,0 +1,104 @@
+{
+  "acno": "P02134", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Henry Moore OM, CH", 
+  "catalogueGroup": {
+    "accessionRanges": "P02130-P02135", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65397, 
+    "shortTitle": "5 Incisioni di Moore"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1898, 
+      "date": "1898\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Henry Moore OM, CH", 
+      "gender": "Male", 
+      "id": 1659, 
+      "mda": "Moore, Henry, OM, CH", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 334 x 240 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "5 Incisioni di Moore", 
+  "height": "240", 
+  "id": 9745, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print and lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6360, 
+                "name": "crash"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1715, 
+                "name": "destruction"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Henry Moore Foundation; All rights reserved DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02134_8.jpg", 
+  "title": "After the Accident", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-after-the-accident-p02134", 
+  "width": "334"
+}

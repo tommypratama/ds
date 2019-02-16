@@ -1,0 +1,98 @@
+{
+  "acno": "D06504", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06504", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D65/D06504_E.jpg", 
+          "height": 333, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130700, 
+  "catalogueGroup": {
+    "accessionRanges": "D06363-D06491; D06493-D06517; D17159; D40596-D40602", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65746, 
+    "shortTitle": "River and Margate Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1809, 
+    "startYear": 1805, 
+    "text": "c.1805-9"
+  }, 
+  "dateText": "c.1805\u20139", 
+  "depth": "", 
+  "dimensions": "support: 115 x 190 mm", 
+  "finberg": "XCIX 82 a", 
+  "foreignTitle": null, 
+  "groupTitle": "River and Margate Sketchbook", 
+  "height": "190", 
+  "id": 33895, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 174, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06504_8.jpg", 
+  "title": "Road Leading to a Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-road-leading-to-a-town-d06504", 
+  "width": "115"
+}

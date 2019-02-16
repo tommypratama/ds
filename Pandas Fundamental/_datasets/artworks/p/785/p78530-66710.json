@@ -1,0 +1,290 @@
+{
+  "acno": "P78530", 
+  "acquisitionYear": 2001, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 Adam Chodzko", 
+      "creativeCommons": null, 
+      "filenameBase": "P78530_143085", 
+      "sizes": [
+        {
+          "caption": "Diptych right", 
+          "cleared": true, 
+          "file": "P/P78/P78530_143085_7.jpg", 
+          "height": 85, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Diptych right", 
+          "cleared": true, 
+          "file": "P/P78/P78530_143085_8.jpg", 
+          "height": 170, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Diptych right", 
+          "cleared": true, 
+          "file": "P/P78/P78530_143085_9.jpg", 
+          "height": 483, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Diptych right", 
+          "cleared": true, 
+          "file": "P/P78/P78530_143085_10.jpg", 
+          "height": 972, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1468
+        }
+      ]
+    }, 
+    {
+      "copyright": "\u00a9 Adam Chodzko", 
+      "creativeCommons": null, 
+      "filenameBase": "P78530_143086", 
+      "sizes": [
+        {
+          "caption": "Diptych left", 
+          "cleared": true, 
+          "file": "P/P78/P78530_143086_7.jpg", 
+          "height": 85, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Diptych left", 
+          "cleared": true, 
+          "file": "P/P78/P78530_143086_8.jpg", 
+          "height": 170, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Diptych left", 
+          "cleared": true, 
+          "file": "P/P78/P78530_143086_9.jpg", 
+          "height": 484, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Diptych left", 
+          "cleared": true, 
+          "file": "P/P78/P78530_143086_10.jpg", 
+          "height": 974, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1470
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Adam Chodzko", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1965, 
+      "date": "born 1965", 
+      "displayOrder": 1, 
+      "fc": "Adam Chodzko", 
+      "gender": "Male", 
+      "id": 3151, 
+      "mda": "Chodzko, Adam", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 2001", 
+  "dateRange": {
+    "endYear": 1999, 
+    "startYear": 1999, 
+    "text": "1999"
+  }, 
+  "dateText": "1999", 
+  "depth": "", 
+  "dimensions": "support, each: 507 x 760 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 66710, 
+  "inscription": null, 
+  "medium": "2 photographs, colour, Chromogenic print, on paper", 
+  "movementCount": 0, 
+  "subjectCount": 14, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2836, 
+                "name": "Finchley"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1910, 
+                "name": "USA, Arizona"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 10151, 
+                "name": "car park"
+              }, 
+              {
+                "id": 5014, 
+                "name": "signage"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 765, 
+                "name": "car"
+              }, 
+              {
+                "id": 16806, 
+                "name": "trolley"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3924, 
+                "name": "desert"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16596, 
+                "name": "escapism"
+              }, 
+              {
+                "id": 6852, 
+                "name": "memory"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16029, 
+                "name": "windchime"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Adam Chodzko", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78530_8.jpg", 
+  "title": "Better Scenery", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/chodzko-better-scenery-p78530", 
+  "width": ""
+}

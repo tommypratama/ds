@@ -1,0 +1,122 @@
+{
+  "acno": "D00042", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1140197, 
+  "catalogueGroup": {
+    "accessionRanges": "D00010-D00045; D40737-D40742", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "II", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65681, 
+    "shortTitle": "Oxford Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1789, 
+    "startYear": 1789, 
+    "text": "c.1789"
+  }, 
+  "dateText": "c.1789", 
+  "depth": "", 
+  "dimensions": "support: 160 x 249 mm", 
+  "finberg": "II 24", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford Sketchbook", 
+  "height": "249", 
+  "id": 27458, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "pageNumber": 49, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 936, 
+                "name": "foliage"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00042_8.jpg", 
+  "title": "A Waterfall Seen through an Arched Opening in a Wall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-waterfall-seen-through-an-arched-opening-in-a-wall-d00042", 
+  "width": "160"
+}

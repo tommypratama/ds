@@ -1,0 +1,102 @@
+{
+  "acno": "T07494", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Victor Pasmore", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1908, 
+      "date": "1908\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Victor Pasmore", 
+      "gender": "Male", 
+      "id": 1744, 
+      "mda": "Pasmore, Victor", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Knapping Fund 1999", 
+  "dateRange": {
+    "endYear": 1995, 
+    "startYear": 1992, 
+    "text": "1992-5"
+  }, 
+  "dateText": "1992\u20135", 
+  "depth": "35", 
+  "dimensions": "support: 1223 x 2275 x 35 mm\r\n", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2275", 
+  "id": 26505, 
+  "inscription": null, 
+  "medium": "Oil paint, graphite, charcoal and spray paint on plywood board", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3485, 
+                "name": "space"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4312, 
+                "name": "time"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 estate of Victor Pasmore / DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07494_8.jpg", 
+  "title": "Space, Time and Four Dimensions", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pasmore-space-time-and-four-dimensions-t07494", 
+  "width": "1223"
+}

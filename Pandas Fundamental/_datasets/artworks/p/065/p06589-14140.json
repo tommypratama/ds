@@ -1,0 +1,138 @@
+{
+  "acno": "P06589", 
+  "acquisitionYear": 1975, 
+  "all_artists": "John Thirsk", 
+  "catalogueGroup": {
+    "accessionRanges": "P06025; P06028-P06029; P06315-P06316; P06518; P06588-P06589", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65670, 
+    "shortTitle": "Follies"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "John Thirsk", 
+      "gender": "Male", 
+      "id": 2033, 
+      "mda": "Thirsk, John", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 445 x 651 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Follies", 
+  "height": "651", 
+  "id": 14140, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13675, 
+                "name": "Calderdale"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13676, 
+                "name": "Halifax, Wainhouse Tower"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12895, 
+                "name": "folly"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Wainhouse Tower, Halifax", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/thirsk-wainhouse-tower-halifax-p06589", 
+  "width": "445"
+}

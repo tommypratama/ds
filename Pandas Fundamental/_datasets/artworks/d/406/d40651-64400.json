@@ -1,0 +1,76 @@
+{
+  "acno": "D40651", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130172, 
+  "catalogueGroup": {
+    "accessionRanges": "D05961-D06071; D40650-D40654", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65743, 
+    "shortTitle": "River Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1807, 
+    "text": "c.1807"
+  }, 
+  "dateText": "c.1807", 
+  "depth": "", 
+  "dimensions": "support: 92 x 163 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "River Sketchbook", 
+  "height": "163", 
+  "id": 64400, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 66, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40651_8.jpg", 
+  "title": "Sky and Foliage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sky-and-foliage-d40651", 
+  "width": "92"
+}

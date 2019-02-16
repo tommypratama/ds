@@ -1,0 +1,126 @@
+{
+  "acno": "P04005", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Ivor Abrahams", 
+  "catalogueGroup": {
+    "accessionRanges": "P04001-P04005", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65250, 
+    "shortTitle": "The Garden Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Ivor Abrahams", 
+      "gender": "Male", 
+      "id": 622, 
+      "mda": "Abrahams, Ivor", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 372 x 529 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Garden Suite", 
+  "height": "529", 
+  "id": 324, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 466, 
+                "name": "bush"
+              }, 
+              {
+                "id": 447, 
+                "name": "hedge"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7702, 
+                "name": "flowerbed"
+              }, 
+              {
+                "id": 807, 
+                "name": "lawn"
+              }, 
+              {
+                "id": 1747, 
+                "name": "topiary"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ivor Abrahams", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04005_8.jpg", 
+  "title": "Garden Suite V", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-v-p04005", 
+  "width": "372"
+}

@@ -1,0 +1,195 @@
+{
+  "acno": "T03791", 
+  "acquisitionYear": 1983, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 DACS 2014", 
+      "creativeCommons": null, 
+      "filenameBase": "T03791_285597", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "T/T03/T03791_285597_7.jpg", 
+          "height": 91, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "T/T03/T03791_285597_8.jpg", 
+          "height": 182, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "T/T03/T03791_285597_9.jpg", 
+          "height": 363, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "T/T03/T03791_285597_10.jpg", 
+          "height": 1089, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Tony Cragg", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "Tony Cragg", 
+      "gender": "Male", 
+      "id": 953, 
+      "mda": "Cragg, Tony", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "4902", 
+  "dimensions": "object: 1092 x 3931 x 4902 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3931", 
+  "id": 2919, 
+  "inscription": null, 
+  "medium": "Wood, metal and plastic", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1682, 
+      "name": "New British Sculpture"
+    }
+  ], 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3355, 
+                "name": "axe"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3289, 
+                "name": "coat hanger"
+              }, 
+              {
+                "id": 3412, 
+                "name": "refuse"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3578, 
+                "name": "cupboard"
+              }, 
+              {
+                "id": 2576, 
+                "name": "stool"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 827, 
+                "name": "industrial society"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03791_8.jpg", 
+  "title": "Axehead", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cragg-axehead-t03791", 
+  "width": "1092"
+}

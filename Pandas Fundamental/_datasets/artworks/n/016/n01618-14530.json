@@ -1,0 +1,176 @@
+{
+  "acno": "N01618", 
+  "acquisitionYear": 1889, 
+  "all_artists": "Henry Scott Tuke", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1858, 
+      "date": "1858\u20131929", 
+      "displayOrder": 1, 
+      "fc": "Henry Scott Tuke", 
+      "gender": "Male", 
+      "id": 555, 
+      "mda": "Tuke, Henry Scott", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1889", 
+  "dateRange": {
+    "endYear": 1889, 
+    "startYear": 1888, 
+    "text": "1888-9"
+  }, 
+  "dateText": "1888\u20139", 
+  "depth": "", 
+  "dimensions": "support: 1854 x 1397 mm\r\n", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1397", 
+  "id": 14530, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 360, 
+      "name": "Newlyn School"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2354, 
+                "name": "mast"
+              }, 
+              {
+                "id": 5779, 
+                "name": "rigging"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3617, 
+                "name": "sailor"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6887, 
+                "name": "water pump"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01618_8.jpg", 
+  "title": "All Hands to the Pumps", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tuke-all-hands-to-the-pumps-n01618", 
+  "width": "1854"
+}

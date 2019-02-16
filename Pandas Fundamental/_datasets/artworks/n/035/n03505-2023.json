@@ -1,0 +1,88 @@
+{
+  "acno": "N03505", 
+  "acquisitionYear": 1879, 
+  "all_artists": "George Cattermole", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1800, 
+      "date": "1800\u20131868", 
+      "displayOrder": 1, 
+      "fc": "George Cattermole", 
+      "gender": "Male", 
+      "id": 87, 
+      "mda": "Cattermole, George", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by John Henderson 1879", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 295 x 397 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "397", 
+  "id": 2023, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03505_8.jpg", 
+  "title": "Stream and Water Mill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cattermole-stream-and-water-mill-n03505", 
+  "width": "295"
+}

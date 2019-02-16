@@ -1,0 +1,112 @@
+{
+  "acno": "T01254", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Maurice de Vlaminck", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1876, 
+      "date": "1876\u20131958", 
+      "displayOrder": 1, 
+      "fc": "Maurice de Vlaminck", 
+      "gender": "Male", 
+      "id": 2109, 
+      "mda": "Vlaminck, Maurice de", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Bequeathed by Sir Robert Hart 1970", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "1913"
+  }, 
+  "dateText": "1913", 
+  "depth": "", 
+  "dimensions": "support: 651 x 819 mm\r\nframe: 760 x 910 x 70 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "819", 
+  "id": 15760, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4215, 
+                "name": "France, Provence"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6089, 
+                "name": "Martigues"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4526, 
+                "name": "monastery"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01254_8.jpg", 
+  "title": "Landscape near Martigues", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vlaminck-landscape-near-martigues-t01254", 
+  "width": "651"
+}

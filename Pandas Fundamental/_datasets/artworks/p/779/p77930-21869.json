@@ -1,0 +1,112 @@
+{
+  "acno": "P77930", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Damien Hirst", 
+  "catalogueGroup": {
+    "accessionRanges": "P77924-P77934", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66021, 
+    "shortTitle": "London"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1965, 
+      "date": "born 1965", 
+      "displayOrder": 1, 
+      "fc": "Damien Hirst", 
+      "gender": "Male", 
+      "id": 2308, 
+      "mda": "Hirst, Damien", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Acquired by purchase and gift from Charles Booth-Clibborn in memory of Joshua Compston 1997", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "", 
+  "dimensions": "image: 860 x 625 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "London", 
+  "height": "625", 
+  "id": 21869, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12880, 
+                "name": "classification"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6004, 
+                "name": "shell"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Damien Hirst and Science Ltd. ", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77930_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hirst-untitled-p77930", 
+  "width": "860"
+}

@@ -1,0 +1,112 @@
+{
+  "acno": "T02243", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Paul Nash", 
+  "catalogueGroup": {}, 
+  "classification": null, 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1889, 
+      "date": "1889\u20131946", 
+      "displayOrder": 1, 
+      "fc": "Paul Nash", 
+      "gender": "Male", 
+      "id": 1690, 
+      "mda": "Nash, Paul", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Presented by Anthony and Anne d'Offay 1977", 
+  "dateRange": {
+    "endYear": 1938, 
+    "startYear": 1938, 
+    "text": "1938"
+  }, 
+  "dateText": "1938", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 241 x 375 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "375", 
+  "id": 10558, 
+  "inscription": null, 
+  "medium": "Plant stems and bark on wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1688, 
+      "name": "British Surrealism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17109, 
+                "name": "bark"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 815, 
+                "name": "marsh"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2268, 
+                "name": "rush"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02243_8.jpg", 
+  "title": "In the Marshes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nash-in-the-marshes-t02243", 
+  "width": "241"
+}

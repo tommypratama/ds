@@ -1,0 +1,100 @@
+{
+  "acno": "T07860", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Rebecca Horn", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1944, 
+      "date": "born 1944", 
+      "displayOrder": 1, 
+      "fc": "Rebecca Horn", 
+      "gender": "Female", 
+      "id": 2269, 
+      "mda": "Horn, Rebecca", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Tate Members 2002", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "140", 
+  "dimensions": "displayed: 2500 x 360 x 140 mm\r\ndisplayed (open case): 200 x 1860 x 385 mm", 
+  "foreignTitle": "Bewegliche Schulterst\u00e4be", 
+  "groupTitle": null, 
+  "height": "360", 
+  "id": 40, 
+  "inscription": null, 
+  "medium": "Feathers, wood, fabric and metal", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1680, 
+      "name": "Body Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 436, 
+      "name": "Performance Art"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2475, 
+                "name": "clothing"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6460, 
+                "name": "fancy dress / role play"
+              }
+            ], 
+            "id": 153, 
+            "name": "dress: fantasy/fancy"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07860_8.jpg", 
+  "title": "Moveable Shoulder Extensions", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/horn-moveable-shoulder-extensions-t07860", 
+  "width": "2500"
+}

@@ -1,0 +1,76 @@
+{
+  "acno": "P03227", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Gordon Appelbe Smith", 
+  "catalogueGroup": {
+    "accessionRanges": "P03217-P03229", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65604, 
+    "shortTitle": "Centennial Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1919, 
+      "date": "born 1919", 
+      "displayOrder": 1, 
+      "fc": "Gordon Appelbe Smith", 
+      "gender": "Male", 
+      "id": 1954, 
+      "mda": "Smith, Gordon", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Simon Fraser University, British Columbia 1977", 
+  "dateRange": {
+    "endYear": 1968, 
+    "startYear": 1967, 
+    "text": "1967-8"
+  }, 
+  "dateText": "1967\u20138", 
+  "depth": "", 
+  "dimensions": "image: 381 x 511 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Centennial Suite", 
+  "height": "511", 
+  "id": 13502, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Special Green", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-special-green-p03227", 
+  "width": "381"
+}

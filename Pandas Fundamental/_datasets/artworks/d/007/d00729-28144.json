@@ -1,0 +1,288 @@
+{
+  "acno": "D00729", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1141105, 
+  "catalogueGroup": {
+    "accessionRanges": "D00670; D00672; D00691; D00693; D00703; D00729; D00861; D02375; D36562; D40335; D41456", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127525, 
+    "shortTitle": "Watercolours Including Midland Subjects"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1796, 
+    "startYear": 1795, 
+    "text": "1795-6"
+  }, 
+  "dateText": "1795\u20136", 
+  "depth": "", 
+  "dimensions": "support: 204 x 270 mm", 
+  "finberg": "XXIX X", 
+  "foreignTitle": null, 
+  "groupTitle": "Watercolours Including Midland Subjects", 
+  "height": "270", 
+  "id": 28144, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 26, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1647, 
+                "name": "Cambridgeshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3068, 
+                "name": "Ely - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 533, 
+                "name": "apron"
+              }, 
+              {
+                "id": 201, 
+                "name": "hat, cap"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket"
+              }, 
+              {
+                "id": 555, 
+                "name": "bottle"
+              }, 
+              {
+                "id": 2606, 
+                "name": "jar"
+              }, 
+              {
+                "id": 2076, 
+                "name": "jug"
+              }, 
+              {
+                "id": 2575, 
+                "name": "tub"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19668, 
+                "name": "cauldron"
+              }, 
+              {
+                "id": 5271, 
+                "name": "oven"
+              }, 
+              {
+                "id": 6720, 
+                "name": "saucepan"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 2576, 
+                "name": "stool"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1907, 
+                "name": "fire, open"
+              }, 
+              {
+                "id": 2571, 
+                "name": "fireplace"
+              }, 
+              {
+                "id": 7963, 
+                "name": "poker"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6368, 
+                "name": "hour glass"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1937, 
+                "name": "laundry"
+              }, 
+              {
+                "id": 1936, 
+                "name": "washing line"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3256, 
+                "name": "kitchen"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9873, 
+                "name": "transience - hour glass"
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00729_8.jpg", 
+  "title": "An Old Woman in a Cottage Kitchen (\u2018Internal of a Cottage, a Study at Ely\u2019)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-an-old-woman-in-a-cottage-kitchen-internal-of-a-cottage-a-study-at-ely-d00729", 
+  "width": "204"
+}

@@ -1,0 +1,91 @@
+{
+  "acno": "P13097", 
+  "acquisitionYear": 2010, 
+  "all_artists": "L. Booth", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "date": null, 
+      "displayOrder": 1, 
+      "fc": "L. Booth", 
+      "gender": null, 
+      "id": 13195, 
+      "mda": "Booth, L", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax from the Estate of Barbara Lloyd and allocated to Tate 2009", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 85 x 130 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "130", 
+  "id": 101319, 
+  "inscription": null, 
+  "medium": "Photograph, gelatin silver print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 243, 
+                "name": "boat, gondola"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 240, 
+                "name": "canal"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4678, 
+                "name": "ripple"
+              }, 
+              {
+                "id": 2892, 
+                "name": "water"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Gondola", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/booth-gondola-p13097", 
+  "width": "85"
+}

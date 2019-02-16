@@ -1,0 +1,350 @@
+{
+  "acno": "N01279", 
+  "acquisitionYear": 1889, 
+  "all_artists": "Dante Gabriel Rossetti", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1828, 
+      "date": "1828\u20131882", 
+      "displayOrder": 1, 
+      "fc": "Dante Gabriel Rossetti", 
+      "gender": "Male", 
+      "id": 461, 
+      "mda": "Rossetti, Dante Gabriel", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Georgiana, Baroness Mount-Temple in memory of her husband, Francis, Baron Mount-Temple 1889", 
+  "dateRange": {
+    "endYear": 1870, 
+    "startYear": 1864, 
+    "text": "c.1864-70"
+  }, 
+  "dateText": "c.1864\u201370", 
+  "depth": "", 
+  "dimensions": "support: 864 x 660 mm\r\nframe: 1212 x 1015 x 104 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "660", 
+  "id": 12769, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 3, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16650, 
+      "name": "Decadence"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16649, 
+      "name": "Symbolism"
+    }
+  ], 
+  "subjectCount": 28, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1470, 
+                "name": "Beatrice"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5386, 
+                "name": "Dante, 'La Vita Nuova'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5393, 
+                "name": "Dante Alighieri"
+              }, 
+              {
+                "id": 1379, 
+                "name": "Siddal, Elizabeth Eleanor"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6479, 
+                "name": "drug-induced state"
+              }, 
+              {
+                "id": 4024, 
+                "name": "trance"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }, 
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8363, 
+                "name": "Florence, Ponte Vecchio"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 456, 
+                "name": "Holy Spirit - dove"
+              }
+            ], 
+            "id": 165, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5390, 
+                "name": "death - dove"
+              }, 
+              {
+                "id": 6299, 
+                "name": "death - poppy"
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12502, 
+                "name": "love - angel"
+              }, 
+              {
+                "id": 5389, 
+                "name": "love - flame"
+              }
+            ], 
+            "id": 163, 
+            "name": "emotional states and conditions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }, 
+              {
+                "id": 1755, 
+                "name": "memorial"
+              }, 
+              {
+                "id": 2928, 
+                "name": "mourning"
+              }, 
+              {
+                "id": 5147, 
+                "name": "suicide"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 265, 
+                "name": "dove"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5387, 
+                "name": "poppy"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3574, 
+                "name": "sundial"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5391, 
+                "name": "transfiguration"
+              }, 
+              {
+                "id": 1714, 
+                "name": "vision"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01279_8.jpg", 
+  "title": "Beata Beatrix", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rossetti-beata-beatrix-n01279", 
+  "width": "864"
+}

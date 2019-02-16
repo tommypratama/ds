@@ -1,0 +1,92 @@
+{
+  "acno": "T11010", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Elliott Seabrooke", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1886, 
+      "date": "1886\u20131950", 
+      "displayOrder": 1, 
+      "fc": "Elliott Seabrooke", 
+      "gender": "Male", 
+      "id": 1918, 
+      "mda": "Seabrooke, Elliott", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 86 x 118 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "118", 
+  "id": 23515, 
+  "inscription": null, 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Landscape with Castle under a Stormy Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/seabrooke-landscape-with-castle-under-a-stormy-sky-t11010", 
+  "width": "86"
+}

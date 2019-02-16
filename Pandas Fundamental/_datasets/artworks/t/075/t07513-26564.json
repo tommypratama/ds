@@ -1,0 +1,124 @@
+{
+  "acno": "T07513", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Sarah Lucas", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1962, 
+      "date": "born 1962", 
+      "displayOrder": 1, 
+      "fc": "Sarah Lucas", 
+      "gender": "Female", 
+      "id": 2643, 
+      "mda": "Lucas, Sarah", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1999", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1998, 
+    "text": "1998"
+  }, 
+  "dateText": "1998", 
+  "depth": "520", 
+  "dimensions": "displayed: 400 x 360 x 520 mm, 14 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "360", 
+  "id": 26564, 
+  "inscription": null, 
+  "medium": "Polyurethane resin", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 16666, 
+      "name": "Abject art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 863, 
+                "name": "gender"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour"
+              }, 
+              {
+                "id": 1704, 
+                "name": "irony"
+              }, 
+              {
+                "id": 2438, 
+                "name": "pun"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2050, 
+                "name": "toilet"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Sarah Lucas", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07513_8.jpg", 
+  "title": "The Old In Out", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lucas-the-old-in-out-t07513", 
+  "width": "400"
+}

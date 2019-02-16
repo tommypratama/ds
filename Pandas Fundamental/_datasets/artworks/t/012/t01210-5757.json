@@ -1,0 +1,90 @@
+{
+  "acno": "T01210", 
+  "acquisitionYear": 1970, 
+  "all_artists": "David Hall", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "David Hall", 
+      "gender": "Male", 
+      "id": 1239, 
+      "mda": "Hall, David", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "5486", 
+  "dimensions": "object: 76 x 5182 x 5486 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "5182", 
+  "id": 5757, 
+  "inscription": null, 
+  "medium": "Acrylic paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }, 
+              {
+                "id": 6741, 
+                "name": "visual illusion"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Hall", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01210_8.jpg", 
+  "title": "Nine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hall-nine-t01210", 
+  "width": "76"
+}

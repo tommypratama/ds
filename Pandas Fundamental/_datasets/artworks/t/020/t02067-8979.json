@@ -1,0 +1,82 @@
+{
+  "acno": "T02067", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Richard Long", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Richard Long", 
+      "gender": "Male", 
+      "id": 1525, 
+      "mda": "Long, Richard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1976", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "5867", 
+  "dimensions": "object: 152 x 7010 x 5867 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "7010", 
+  "id": 8979, 
+  "inscription": null, 
+  "medium": "Limestone", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Long", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02067_8.jpg", 
+  "title": "119 Stones", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-119-stones-t02067", 
+  "width": "152"
+}

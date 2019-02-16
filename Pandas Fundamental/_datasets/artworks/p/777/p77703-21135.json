@@ -1,0 +1,104 @@
+{
+  "acno": "P77703", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Bill Woodrow", 
+  "catalogueGroup": {
+    "accessionRanges": "P77703-P77725; P77742", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65994, 
+    "shortTitle": "The Periodic Table"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1948, 
+      "date": "born 1948", 
+      "displayOrder": 1, 
+      "fc": "Bill Woodrow", 
+      "gender": "Male", 
+      "id": 2170, 
+      "mda": "Woodrow, Bill", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1994", 
+  "dateRange": {
+    "endYear": 1994, 
+    "startYear": 1994, 
+    "text": "1994"
+  }, 
+  "dateText": "1994", 
+  "depth": "", 
+  "dimensions": "image: 382 x 361 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Periodic Table", 
+  "height": "361", 
+  "id": 21135, 
+  "inscription": null, 
+  "medium": "Linocut on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16368, 
+                "name": "Levi, Primo, 'The Periodic Table'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bill Woodrow", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77703_8.jpg", 
+  "title": "[title page]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/woodrow-title-page-p77703", 
+  "width": "382"
+}

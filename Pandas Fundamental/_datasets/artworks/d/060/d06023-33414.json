@@ -1,0 +1,140 @@
+{
+  "acno": "D06023", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06023", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D60/D06023_E.jpg", 
+          "height": 335, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130201, 
+  "catalogueGroup": {
+    "accessionRanges": "D05961-D06071; D40650-D40654", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65743, 
+    "shortTitle": "River Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1807, 
+    "startYear": 1807, 
+    "text": "c.1807"
+  }, 
+  "dateText": "c.1807", 
+  "depth": "", 
+  "dimensions": "support: 92 x 163 mm", 
+  "finberg": "XCVI 50 a", 
+  "foreignTitle": null, 
+  "groupTitle": "River Sketchbook", 
+  "height": "163", 
+  "id": 33414, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 104, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge"
+              }, 
+              {
+                "id": 22443, 
+                "name": "cabin"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9170, 
+                "name": "boatman"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2796, 
+                "name": "cooking"
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06023_8.jpg", 
+  "title": "The Cabin of a Canal Boat, Man Cooking", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-cabin-of-a-canal-boat-man-cooking-d06023", 
+  "width": "92"
+}

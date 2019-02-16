@@ -1,0 +1,142 @@
+{
+  "acno": "T00206", 
+  "acquisitionYear": 1958, 
+  "all_artists": "Edward Bawden", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131989", 
+      "displayOrder": 1, 
+      "fc": "Edward Bawden", 
+      "gender": "Male", 
+      "id": 707, 
+      "mda": "Bawden, Edward", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1958", 
+  "dateRange": {
+    "endYear": 1957, 
+    "startYear": 1956, 
+    "text": "1956, 1957"
+  }, 
+  "dateText": "1956, 1957", 
+  "depth": "", 
+  "dimensions": "support: 470 x 581 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "581", 
+  "id": 789, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1249, 
+                "name": "Ironbridge"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1250, 
+                "name": "Shropshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }, 
+              {
+                "id": 1251, 
+                "name": "shed"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Houses at Ironbridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bawden-houses-at-ironbridge-t00206", 
+  "width": "470"
+}

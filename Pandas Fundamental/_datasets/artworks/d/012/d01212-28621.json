@@ -1,0 +1,115 @@
+{
+  "acno": "D01212", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65691, 
+    "shortTitle": "Wilson Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1797, 
+    "startYear": 1797, 
+    "text": "?1797"
+  }, 
+  "dateText": "?1797", 
+  "depth": "", 
+  "dimensions": "support: 113 x 93 mm", 
+  "finberg": "XXXVII 95", 
+  "foreignTitle": null, 
+  "groupTitle": "Wilson Sketchbook", 
+  "height": "93", 
+  "id": 28621, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "pageNumber": 95, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4736, 
+                "name": "Northumberland"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01212_8.jpg", 
+  "title": "The Lilburn Tower, Dunstanburgh Castle, with the Sea and a Stormy Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-lilburn-tower-dunstanburgh-castle-with-the-sea-and-a-stormy-sky-d01212", 
+  "width": "113"
+}

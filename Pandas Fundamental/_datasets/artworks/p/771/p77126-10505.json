@@ -1,0 +1,82 @@
+{
+  "acno": "P77126", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Elizabeth Murray", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Elizabeth Murray", 
+      "gender": "Female", 
+      "id": 1683, 
+      "mda": "Murray, Elizabeth", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1985", 
+  "dateRange": {
+    "endYear": 1984, 
+    "startYear": 1984, 
+    "text": "1984"
+  }, 
+  "dateText": "1984", 
+  "depth": "", 
+  "dimensions": "image: 1504 x 921 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "921", 
+  "id": 10505, 
+  "inscription": "date inscribed", 
+  "medium": "Hand-coloured lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Untitled (Black Cup)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murray-untitled-black-cup-p77126", 
+  "width": "1504"
+}

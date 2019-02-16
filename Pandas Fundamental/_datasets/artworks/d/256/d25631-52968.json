@@ -1,0 +1,126 @@
+{
+  "acno": "D25631", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D25631", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D256/D25631_E.jpg", 
+          "height": 434, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1133991, 
+  "catalogueGroup": {
+    "accessionRanges": "D25524-D25643; D41065-D41067", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65889, 
+    "shortTitle": "Rokeby and Appleby Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1830, 
+    "text": "c.1830-1"
+  }, 
+  "dateText": "c.1830\u20131", 
+  "depth": "", 
+  "dimensions": "support: 74 x 94 mm", 
+  "finberg": "CCLXIV 57", 
+  "foreignTitle": null, 
+  "groupTitle": "Rokeby and Appleby Sketchbook", 
+  "height": "94", 
+  "id": 52968, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 115, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25631_8.jpg", 
+  "title": "Composition Design, Perhaps Related to Rogers\u2019s Poems", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-composition-design-perhaps-related-to-rogerss-poems-d25631", 
+  "width": "74"
+}

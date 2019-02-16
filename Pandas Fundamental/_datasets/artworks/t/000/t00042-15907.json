@@ -1,0 +1,184 @@
+{
+  "acno": "T00042", 
+  "acquisitionYear": 1955, 
+  "all_artists": "Henry Wallis", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1830, 
+      "date": "1830\u20131916", 
+      "displayOrder": 1, 
+      "fc": "Henry Wallis", 
+      "gender": "Male", 
+      "id": 578, 
+      "mda": "Wallis, Henry", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1955", 
+  "dateRange": {
+    "endYear": 1853, 
+    "startYear": 1853, 
+    "text": "1853"
+  }, 
+  "dateText": "1853", 
+  "depth": "", 
+  "dimensions": "support: 292 x 419 mm\r\nframe: 511 x 638 x 65 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "419", 
+  "id": 15907, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14636, 
+                "name": "Stratford-upon-Avon, Shakespeare's Birthplace"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2695, 
+                "name": "Warwickshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15780, 
+                "name": "Knight, Charles, 'William Shakespeare; a Biography'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 3931, 
+                "name": "lectern"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3094, 
+                "name": "figurine"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00042_8.jpg", 
+  "title": "The Room in Which Shakespeare Was Born", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wallis-the-room-in-which-shakespeare-was-born-t00042", 
+  "width": "292"
+}

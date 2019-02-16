@@ -1,0 +1,86 @@
+{
+  "acno": "T13819", 
+  "acquisitionYear": 2013, 
+  "all_artists": "Ed Herring", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "1945\u20132003", 
+      "displayOrder": 1, 
+      "fc": "Ed Herring", 
+      "gender": "Male", 
+      "id": 1279, 
+      "mda": "Herring, Ed", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 2012", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "170", 
+  "dimensions": "object: 220 x 140 x 170 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "140", 
+  "id": 123636, 
+  "inscription": null, 
+  "medium": "Printed paper cards and plastic index box", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17500, 
+                "name": "card index"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "ACTS", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/herring-acts-t13819", 
+  "width": "220"
+}

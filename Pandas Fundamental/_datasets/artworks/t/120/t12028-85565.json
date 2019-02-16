@@ -1,0 +1,80 @@
+{
+  "acno": "T12028", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Mary Martin", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20131969", 
+      "displayOrder": 1, 
+      "fc": "Mary Martin", 
+      "gender": "Female", 
+      "id": 1586, 
+      "mda": "Martin, Mary", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Tate Members 2005", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "233", 
+  "dimensions": "object: 607 x 609 x 233 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "609", 
+  "id": 85565, 
+  "inscription": null, 
+  "medium": "Perspex and wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Mary Martin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12028_8.jpg", 
+  "title": "Perspex Group on Orange (B)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-perspex-group-on-orange-b-t12028", 
+  "width": "607"
+}

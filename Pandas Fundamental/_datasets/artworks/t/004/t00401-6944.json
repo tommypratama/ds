@@ -1,0 +1,120 @@
+{
+  "acno": "T00401", 
+  "acquisitionYear": 1961, 
+  "all_artists": "Thomas Hudson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1701, 
+      "date": "1701\u20131779", 
+      "displayOrder": 1, 
+      "fc": "Thomas Hudson", 
+      "gender": "Male", 
+      "id": 281, 
+      "mda": "Hudson, Thomas", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by Mrs E.M.E. Commeline 1961", 
+  "dateRange": {
+    "endYear": 1755, 
+    "startYear": 1750, 
+    "text": "c.1750-5"
+  }, 
+  "dateText": "c.1750\u20135", 
+  "depth": "", 
+  "dimensions": "support: 1270 x 1016 mm\r\nframe: 1420 x 1175 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1016", 
+  "id": 6944, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4317, 
+                "name": "Ingram, Sarah"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress"
+              }, 
+              {
+                "id": 1120, 
+                "name": "glove"
+              }, 
+              {
+                "id": 2303, 
+                "name": "hat, bonnet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00401_8.jpg", 
+  "title": "Mrs Sarah Ingram", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hudson-mrs-sarah-ingram-t00401", 
+  "width": "1270"
+}

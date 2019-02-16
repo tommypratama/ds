@@ -1,0 +1,91 @@
+{
+  "acno": "D17830", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D17773-D17817; D17819-D17833; D40981-D40983", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65841, 
+    "shortTitle": "River Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1823, 
+    "text": "1823-4"
+  }, 
+  "dateText": "1823\u20134", 
+  "depth": "", 
+  "dimensions": "support: 111 x 185 mm", 
+  "finberg": "CCIV 40", 
+  "foreignTitle": null, 
+  "groupTitle": "River Sketchbook", 
+  "height": "185", 
+  "id": 45185, 
+  "inscription": null, 
+  "medium": "Graphite and chalk on paper", 
+  "movementCount": 0, 
+  "pageNumber": 81, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17830_8.jpg", 
+  "title": "Three Designs for Pictures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-designs-for-pictures-d17830", 
+  "width": "111"
+}

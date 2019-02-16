@@ -1,0 +1,96 @@
+{
+  "acno": "N04806", 
+  "acquisitionYear": 1935, 
+  "all_artists": "George Spencer Watson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1869, 
+      "date": "1869\u20131934", 
+      "displayOrder": 1, 
+      "fc": "George Spencer Watson", 
+      "gender": "Male", 
+      "id": 2124, 
+      "mda": "Spencer Watson, George", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1935", 
+  "dateRange": {
+    "endYear": 1922, 
+    "startYear": 1922, 
+    "text": "1922"
+  }, 
+  "dateText": "1922", 
+  "depth": "", 
+  "dimensions": "support: 1270 x 1022 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1022", 
+  "id": 15992, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 699, 
+                "name": "cloak"
+              }, 
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04806_8.jpg", 
+  "title": "A Lady in Black", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/spencer-watson-a-lady-in-black-n04806", 
+  "width": "1270"
+}

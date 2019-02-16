@@ -1,0 +1,94 @@
+{
+  "acno": "T09284", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Devoto", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1708, 
+      "date": "active 1708\u2013?1752", 
+      "displayOrder": 1, 
+      "fc": "John Devoto", 
+      "gender": "Male", 
+      "id": 2542, 
+      "mda": "Devoto, John", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1719, 
+    "startYear": 1719, 
+    "text": "1719"
+  }, 
+  "dateText": "1719", 
+  "depth": "", 
+  "dimensions": "support: 239 x 323 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "323", 
+  "id": 23960, 
+  "inscription": "date inscribed", 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column"
+              }, 
+              {
+                "id": 971, 
+                "name": "door"
+              }, 
+              {
+                "id": 587, 
+                "name": "stair / step"
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 624, 
+                "name": "mural"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09284_8.jpg", 
+  "title": "Decoration for a Staircase", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/devoto-decoration-for-a-staircase-t09284", 
+  "width": "239"
+}

@@ -1,0 +1,100 @@
+{
+  "acno": "T06461", 
+  "acquisitionYear": 1990, 
+  "all_artists": "Jack Smith", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Jack Smith", 
+      "gender": "Male", 
+      "id": 1956, 
+      "mda": "Smith, Jack", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented through the Friends of the Tate Gallery, Helena and Kenneth Levy Bequest 1990", 
+  "dateRange": {
+    "endYear": 1959, 
+    "startYear": 1959, 
+    "text": "1959"
+  }, 
+  "dateText": "1959", 
+  "depth": "", 
+  "dimensions": "support: 915 x 915 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "915", 
+  "id": 19510, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19604, 
+                "name": "light"
+              }, 
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Jack Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06461_8.jpg", 
+  "title": "Objects in Light and Shadow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-objects-in-light-and-shadow-t06461", 
+  "width": "915"
+}

@@ -1,0 +1,92 @@
+{
+  "acno": "T07603", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Barry Martin", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1943, 
+      "date": "born 1943", 
+      "displayOrder": 1, 
+      "fc": "Barry Martin", 
+      "gender": "Male", 
+      "id": 2746, 
+      "mda": "Martin, Barry", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2000", 
+  "dateRange": {
+    "endYear": 1964, 
+    "startYear": 1964, 
+    "text": "1964"
+  }, 
+  "dateText": "1964", 
+  "depth": "450", 
+  "dimensions": "displayed: 390 x 410 x 450 mm, 8 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "410", 
+  "id": 27014, 
+  "inscription": null, 
+  "medium": "Metal, wood and motor", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 12072, 
+      "name": "Kinetic Art"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Barry Martin", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07603_8.jpg", 
+  "title": "Metal Surface", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-metal-surface-t07603", 
+  "width": "390"
+}

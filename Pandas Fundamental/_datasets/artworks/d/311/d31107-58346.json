@@ -1,0 +1,101 @@
+{
+  "acno": "D31107", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D31020-D31137; D41023-D41024", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65935, 
+    "shortTitle": "Copenhagen to Dresden Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1835, 
+    "startYear": 1835, 
+    "text": "1835"
+  }, 
+  "dateText": "1835", 
+  "depth": "", 
+  "dimensions": "support: 162 x 89 mm", 
+  "finberg": "CCCVII 44 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Copenhagen to Dresden Sketchbook", 
+  "height": "89", 
+  "id": 58346, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 90, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31107_8.jpg", 
+  "title": "(1) Cliffs above the Sea or a River; (2) Two Sailing Ships, with Cliffs in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-cliffs-above-the-sea-or-a-river-2-two-sailing-ships-with-cliffs-in-the-distance-d31107", 
+  "width": "162"
+}

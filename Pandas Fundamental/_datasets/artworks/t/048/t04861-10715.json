@@ -1,0 +1,80 @@
+{
+  "acno": "T04861", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Ben Nicholson OM", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1894, 
+      "date": "1894\u20131982", 
+      "displayOrder": 1, 
+      "fc": "Ben Nicholson OM", 
+      "gender": "Male", 
+      "id": 1702, 
+      "mda": "Nicholson, Ben, OM", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of tax and allocated to the Tate Gallery 1986", 
+  "dateRange": {
+    "endYear": 1924, 
+    "startYear": 1923, 
+    "text": "c.1923-4"
+  }, 
+  "dateText": "c.1923\u20134", 
+  "depth": "", 
+  "dimensions": "support: 554 x 612 mm\r\nframe: 765 x 825 x 75 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "612", 
+  "id": 10715, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint and graphite on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 319, 
+      "name": "Seven and Five"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Angela Verren Taunt 2014. All rights reserved, DACS", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04861_8.jpg", 
+  "title": "1924 (first abstract painting, Chelsea)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-1924-first-abstract-painting-chelsea-t04861", 
+  "width": "554"
+}

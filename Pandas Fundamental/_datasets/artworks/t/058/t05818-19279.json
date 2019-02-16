@@ -1,0 +1,102 @@
+{
+  "acno": "T05818", 
+  "acquisitionYear": 1990, 
+  "all_artists": "Eileen Agar", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1899, 
+      "date": "1899\u20131991", 
+      "displayOrder": 1, 
+      "fc": "Eileen Agar", 
+      "gender": "Female", 
+      "id": 633, 
+      "mda": "Agar, Eileen", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by the Friends of the Tate Gallery 1990", 
+  "dateRange": {
+    "endYear": 1939, 
+    "startYear": 1939, 
+    "text": "1939"
+  }, 
+  "dateText": "1939", 
+  "depth": "230", 
+  "dimensions": "object: 420 x 340 x 230 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "340", 
+  "id": 19279, 
+  "inscription": null, 
+  "medium": "Terracotta, horn, bone and shells", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1688, 
+      "name": "British Surrealism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2606, 
+                "name": "jar"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6004, 
+                "name": "shell"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5252, 
+                "name": "starfish"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Eileen Agar", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05818_8.jpg", 
+  "title": "Marine Object", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/agar-marine-object-t05818", 
+  "width": "420"
+}

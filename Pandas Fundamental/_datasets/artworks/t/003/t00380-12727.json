@@ -1,0 +1,66 @@
+{
+  "acno": "T00380", 
+  "acquisitionYear": 1960, 
+  "all_artists": "Sergio Romiti", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "born 1928", 
+      "displayOrder": 1, 
+      "fc": "Sergio Romiti", 
+      "gender": "Male", 
+      "id": 1863, 
+      "mda": "Romiti, Sergio", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Professor Gino Ghiringhelli 1960", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "support: 695 x 648 mm", 
+  "foreignTitle": "Composizione", 
+  "groupTitle": null, 
+  "height": "648", 
+  "id": 12727, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/romiti-composition-t00380", 
+  "width": "695"
+}

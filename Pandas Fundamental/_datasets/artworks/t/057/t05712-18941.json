@@ -1,0 +1,118 @@
+{
+  "acno": "T05712", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Tim Head", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1946, 
+      "date": "born 1946", 
+      "displayOrder": 1, 
+      "fc": "Tim Head", 
+      "gender": "Male", 
+      "id": 1259, 
+      "mda": "Head, Tim", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Esso UK plc to mark the first anniversary of the opening of the Tate Gallery Liverpool 1989", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "support: 760 x 1020 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1020", 
+  "id": 18941, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5332, 
+                "name": "New York, Solomon R. Guggenheim Museum"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16348, 
+                "name": "USA, New York"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5176, 
+                "name": "museum"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tim Head", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05712_8.jpg", 
+  "title": "Drawing for \u2018Project for Guggenheim Spiral\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/head-drawing-for-project-for-guggenheim-spiral-t05712", 
+  "width": "760"
+}

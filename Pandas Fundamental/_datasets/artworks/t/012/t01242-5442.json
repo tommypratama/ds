@@ -1,0 +1,122 @@
+{
+  "acno": "T01242", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Julio Gonz\u00e1lez", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1876, 
+      "date": "1876\u20131942", 
+      "displayOrder": 1, 
+      "fc": "Julio Gonz\u00e1lez", 
+      "gender": "Male", 
+      "id": 1188, 
+      "mda": "Gonz\u00e1lez, Julio", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1934, 
+    "startYear": 1934, 
+    "text": "1934"
+  }, 
+  "dateText": "1934", 
+  "depth": "235", 
+  "dimensions": "object: 1305 x 406 x 235 mm", 
+  "foreignTitle": "Maternit\u00e9", 
+  "groupTitle": null, 
+  "height": "406", 
+  "id": 5442, 
+  "inscription": null, 
+  "medium": "Steel and stone", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6924, 
+                "name": "mother and child"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01242_8.jpg", 
+  "title": "Maternity", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-maternity-t01242", 
+  "width": "1305"
+}

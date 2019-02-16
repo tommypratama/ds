@@ -1,0 +1,130 @@
+{
+  "acno": "D25473", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151529, 
+  "catalogueGroup": {
+    "accessionRanges": "D25124; D25133; D25142; D25144; D25145; D25151; D25153; D25162; D25176; D25184; D25189; D25194; D25204; D25211; D25222; D25224; D25226; D25251; D25282; D25283; D25284; D25294; D25308; D25310; D25473; D25474; D36222; D40191; D40192", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163281, 
+    "shortTitle": "Identified or Likely Subjects, Possibly for 'England and Wales'"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1832, 
+    "startYear": 1832, 
+    "text": "c.1832"
+  }, 
+  "dateText": "c.1832", 
+  "depth": "", 
+  "dimensions": "support: 322 x 472 mm", 
+  "finberg": "CCLXIII 350", 
+  "foreignTitle": null, 
+  "groupTitle": "Identified or Likely Subjects, Possibly for 'England and Wales'", 
+  "height": "472", 
+  "id": 52810, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9904, 
+                "name": "Bay of Baiae"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25473_8.jpg", 
+  "title": "Castle Head and Morecambe Bay from above Lindale, Cumbria", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-head-and-morecambe-bay-from-above-lindale-cumbria-d25473", 
+  "width": "322"
+}

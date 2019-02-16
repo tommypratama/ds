@@ -1,0 +1,84 @@
+{
+  "acno": "T00720", 
+  "acquisitionYear": 1965, 
+  "all_artists": "Adrian Stokes", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1902, 
+      "date": "1902\u20131972", 
+      "displayOrder": 1, 
+      "fc": "Adrian Stokes", 
+      "gender": "Male", 
+      "id": 2002, 
+      "mda": "Stokes, Adrian", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1965", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "", 
+  "dimensions": "support: 457 x 457 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "457", 
+  "id": 13896, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }, 
+              {
+                "id": 264, 
+                "name": "bowl"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19661, 
+                "name": "decanter"
+              }, 
+              {
+                "id": 19663, 
+                "name": "goblet"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Adrian Stokes", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00720_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stokes-still-life-t00720", 
+  "width": "457"
+}

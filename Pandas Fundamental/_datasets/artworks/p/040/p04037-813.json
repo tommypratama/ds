@@ -1,0 +1,76 @@
+{
+  "acno": "P04037", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Herbert Bayer", 
+  "catalogueGroup": {
+    "accessionRanges": "P04030-P04037", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65257, 
+    "shortTitle": "A Series of Eight Screenprints"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1900, 
+      "date": "1900\u20131985", 
+      "displayOrder": 1, 
+      "fc": "Herbert Bayer", 
+      "gender": "Male", 
+      "id": 711, 
+      "mda": "Bayer, Herbert", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 755 x 755 mm", 
+  "foreignTitle": "Gelbes Zentrum", 
+  "groupTitle": "A Series of Eight Screenprints", 
+  "height": "755", 
+  "id": 813, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04037_8.jpg", 
+  "title": "Yellow Centre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bayer-yellow-centre-p04037", 
+  "width": "755"
+}

@@ -1,0 +1,94 @@
+{
+  "acno": "D13398", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D13398", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D133/D13398_E.jpg", 
+          "height": 357, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131940, 
+  "catalogueGroup": {
+    "accessionRanges": "D13322-D13448; D40682-D40684", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65807, 
+    "shortTitle": "Bass Rock and Edinburgh Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1818, 
+    "text": "1818"
+  }, 
+  "dateText": "1818", 
+  "depth": "", 
+  "dimensions": "support: 99 x 159 mm", 
+  "finberg": "CLXV 43 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Bass Rock and Edinburgh Sketchbook", 
+  "height": "159", 
+  "id": 40766, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 88, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13398_8.jpg", 
+  "title": "A Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-hill-d13398", 
+  "width": "99"
+}

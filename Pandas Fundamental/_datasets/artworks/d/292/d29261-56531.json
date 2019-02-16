@@ -1,0 +1,96 @@
+{
+  "acno": "D29261", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1151851, 
+  "catalogueGroup": {
+    "accessionRanges": "D29213-D29237; D29239-D29264; D29266-D29273; D29275-D29377; D41206-D41208", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65922, 
+    "shortTitle": "Fort Bard Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1836, 
+    "startYear": 1836, 
+    "text": "1836"
+  }, 
+  "dateText": "1836", 
+  "depth": "", 
+  "dimensions": "support: 104 x 148 mm", 
+  "finberg": "CCXCIV 26 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Fort Bard Sketchbook", 
+  "height": "148", 
+  "id": 56531, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 56, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29261_8.jpg", 
+  "title": "Chamb\u00e9ry from the South-East", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-chambery-from-the-south-east-d29261", 
+  "width": "104"
+}

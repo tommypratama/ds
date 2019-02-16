@@ -1,0 +1,106 @@
+{
+  "acno": "T05465", 
+  "acquisitionYear": 1988, 
+  "all_artists": "Joe Tilson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "born 1928", 
+      "displayOrder": 1, 
+      "fc": "Joe Tilson", 
+      "gender": "Male", 
+      "id": 2043, 
+      "mda": "Tilson, Joe", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1988", 
+  "dateRange": {
+    "endYear": 1987, 
+    "startYear": 1987, 
+    "text": "1987"
+  }, 
+  "dateText": "1987", 
+  "depth": "", 
+  "dimensions": "support: 1966 x 1975 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1975", 
+  "id": 17245, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas on wood", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 481, 
+                "name": "Greek text"
+              }, 
+              {
+                "id": 8494, 
+                "name": "word"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }, 
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Joe Tilson. All Rights Reserved, DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05465_8.jpg", 
+  "title": "Liknon 3", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-liknon-3-t05465", 
+  "width": "1966"
+}

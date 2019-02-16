@@ -1,0 +1,94 @@
+{
+  "acno": "D06193", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D06193", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D61/D06193_E.jpg", 
+          "height": 350, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1130377, 
+  "catalogueGroup": {
+    "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65745, 
+    "shortTitle": "Wey, Guildford Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 117 x 182 mm", 
+  "finberg": "XCVIII 9", 
+  "foreignTitle": null, 
+  "groupTitle": "Wey, Guildford Sketchbook", 
+  "height": "182", 
+  "id": 33584, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 19, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06193_8.jpg", 
+  "title": "Diagrams of a Small Shallow-Draughted, Broad-Beamed Boat with Lateen Rig", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-diagrams-of-a-small-shallow-draughted-broad-beamed-boat-with-lateen-rig-d06193", 
+  "width": "117"
+}

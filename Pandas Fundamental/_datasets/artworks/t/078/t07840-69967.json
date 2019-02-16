@@ -1,0 +1,122 @@
+{
+  "acno": "T07840", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Denis Bowen", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20132006", 
+      "displayOrder": 1, 
+      "fc": "Denis Bowen", 
+      "gender": "Male", 
+      "id": 4381, 
+      "mda": "Bowen, Denis", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 2002", 
+  "dateRange": {
+    "endYear": 1958, 
+    "startYear": 1958, 
+    "text": "1958"
+  }, 
+  "dateText": "1958", 
+  "depth": "", 
+  "dimensions": "support: 632 x 970 mm\r\nframe: 642 x 981 x 22 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "970", 
+  "id": 69967, 
+  "inscription": null, 
+  "medium": "Alkyd paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 443, 
+      "name": "Tachism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3672, 
+                "name": "spirituality"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6795, 
+                "name": "spontaneity"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6780, 
+                "name": "subconscious"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Denis A. Bowen", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07840_8.jpg", 
+  "title": "Crystallised Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bowen-crystallised-landscape-t07840", 
+  "width": "632"
+}

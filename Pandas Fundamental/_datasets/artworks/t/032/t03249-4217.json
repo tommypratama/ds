@@ -1,0 +1,156 @@
+{
+  "acno": "T03249", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Robert Fagan", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1745, 
+      "date": "c.1745\u20131816", 
+      "displayOrder": 1, 
+      "fc": "Robert Fagan", 
+      "gender": "Male", 
+      "id": 175, 
+      "mda": "Fagan, Robert", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased 1981", 
+  "dateRange": {
+    "endYear": 1792, 
+    "startYear": 1790, 
+    "text": "c.1790-2"
+  }, 
+  "dateText": "c.1790\u20132", 
+  "depth": "", 
+  "dimensions": "support: 737 x 616 mm\r\nframe: 968 x 838 x 114 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "616", 
+  "id": 4217, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 344, 
+      "name": "Neo-Classicism"
+    }
+  ], 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3363, 
+                "name": "Fagan, Anna Maria"
+              }, 
+              {
+                "id": 3362, 
+                "name": "Ferri, Anna Maria"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3287, 
+                "name": "Italian"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4154, 
+                "name": "brooch"
+              }, 
+              {
+                "id": 699, 
+                "name": "cloak"
+              }, 
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1283, 
+                "name": "rose"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03249_8.jpg", 
+  "title": "Anna Maria Ferri, the Artist\u2019s First Wife", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fagan-anna-maria-ferri-the-artists-first-wife-t03249", 
+  "width": "737"
+}

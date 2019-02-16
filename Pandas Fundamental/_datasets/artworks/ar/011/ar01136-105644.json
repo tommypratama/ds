@@ -1,0 +1,97 @@
+{
+  "acno": "AR01136", 
+  "acquisitionYear": 2011, 
+  "all_artists": "Jannis Kounellis", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "installation", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Jannis Kounellis", 
+      "gender": "Male", 
+      "id": 1438, 
+      "mda": "Kounellis, Jannis", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nTate and National Galleries of Scotland. Presented by the artist 2010", 
+  "dateRange": {
+    "endYear": 1969, 
+    "startYear": 1969, 
+    "text": "1969"
+  }, 
+  "dateText": "1969", 
+  "depth": "", 
+  "dimensions": "Overall display dimensions variable", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 105644, 
+  "inscription": null, 
+  "medium": "Stone", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 418, 
+      "name": "Arte Povera"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }, 
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jannis Kounellis", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR01136_8.jpg", 
+  "title": "Untitled", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar01136", 
+  "width": ""
+}

@@ -1,0 +1,114 @@
+{
+  "acno": "P11128", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Ivor Abrahams", 
+  "catalogueGroup": {
+    "accessionRanges": "P11126-P11130", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65663, 
+    "shortTitle": "Works Past"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Ivor Abrahams", 
+      "gender": "Male", 
+      "id": 622, 
+      "mda": "Abrahams, Ivor", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by Evelyne Abrahams, the artist's wife 1986", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "image: 248 x 175 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Works Past", 
+  "height": "175", 
+  "id": 356, 
+  "inscription": null, 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10751, 
+                "name": "Abrahams, Ivor, sculpture, 'Stone Bench'"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1635, 
+                "name": "bench"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3200, 
+                "name": "artifice"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 535, 
+                "name": "urn"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ivor Abrahams", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11128_8.jpg", 
+  "title": "Works Past III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-works-past-iii-p11128", 
+  "width": "248"
+}

@@ -1,0 +1,92 @@
+{
+  "acno": "P04121", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Bernard Cohen", 
+  "catalogueGroup": {
+    "accessionRanges": "P04116-P04124", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65277, 
+    "shortTitle": "Group M. Nine"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1933, 
+      "date": "born 1933", 
+      "displayOrder": 1, 
+      "fc": "Bernard Cohen", 
+      "gender": "Male", 
+      "id": 924, 
+      "mda": "Cohen, Bernard", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "", 
+  "dimensions": "image: 686 x 686 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Group M. Nine", 
+  "height": "686", 
+  "id": 2367, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bernard Cohen", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04121_8.jpg", 
+  "title": "Print 6", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cohen-print-6-p04121", 
+  "width": "686"
+}

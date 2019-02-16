@@ -1,0 +1,80 @@
+{
+  "acno": "T11958", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Thomas Kerrich", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1748, 
+      "date": "1748\u20131828", 
+      "displayOrder": 1, 
+      "fc": "Thomas Kerrich", 
+      "gender": "Male", 
+      "id": 7945, 
+      "mda": "Kerrich, Thomas", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Angus Neill in memory of Leslie Parris 2005", 
+  "dateRange": {
+    "endYear": 1796, 
+    "startYear": 1796, 
+    "text": "1796"
+  }, 
+  "dateText": "1796", 
+  "depth": "", 
+  "dimensions": "support: 116 x 195 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "195", 
+  "id": 85086, 
+  "inscription": null, 
+  "medium": "Chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11958_8.jpg", 
+  "title": "Diagram of Three Landscapes Drawn towards and away from the Sun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kerrich-diagram-of-three-landscapes-drawn-towards-and-away-from-the-sun-t11958", 
+  "width": "116"
+}

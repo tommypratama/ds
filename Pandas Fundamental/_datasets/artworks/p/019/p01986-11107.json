@@ -1,0 +1,92 @@
+{
+  "acno": "P01986", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Sir Eduardo Paolozzi", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Sir Eduardo Paolozzi", 
+      "gender": "Male", 
+      "id": 1738, 
+      "mda": "Paolozzi, Sir Eduardo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented anonymously through the Friends of the Tate Gallery 1980", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 102 x 76 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "76", 
+  "id": 11107, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6041, 
+                "name": "robot"
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Eduardo Paolozzi Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01986_8.jpg", 
+  "title": "[no title: trial proof for Conditional Probability Machine]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-trial-proof-for-conditional-probability-machine-p01986", 
+  "width": "102"
+}

@@ -1,0 +1,127 @@
+{
+  "acno": "AR01161", 
+  "acquisitionYear": 2012, 
+  "all_artists": "Vija Celmins", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Vija Celmins", 
+      "gender": "Female", 
+      "id": 2731, 
+      "mda": "Celmins, Vija", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nTate and National Galleries of Scotland. Presented by the artist 2010", 
+  "dateRange": {
+    "endYear": 1983, 
+    "startYear": 1983, 
+    "text": "1983"
+  }, 
+  "dateText": "1983", 
+  "depth": "", 
+  "dimensions": null, 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 112230, 
+  "inscription": null, 
+  "medium": "Aquatint, mezzotint and drypoint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17865, 
+                "name": "galaxy"
+              }, 
+              {
+                "id": 1707, 
+                "name": "star"
+              }, 
+              {
+                "id": 17774, 
+                "name": "universe"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 20809, 
+                "name": "ship, warship, 'USS Alliance'"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Vija Celmins", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR01161_8.jpg", 
+  "title": "Alliance", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/celmins-alliance-ar01161", 
+  "width": ""
+}

@@ -1,0 +1,135 @@
+{
+  "acno": "D21762", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D21762", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D217/D21762_E.jpg", 
+          "height": 356, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D21664-D21764; D41050-D41052", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65866, 
+    "shortTitle": "Rome, Turin and Milan Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1829, 
+    "startYear": 1828, 
+    "text": "1828-9"
+  }, 
+  "dateText": "1828\u20139", 
+  "depth": "", 
+  "dimensions": "support: 144 x 90 mm", 
+  "finberg": "CCXXXV 61 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Rome, Turin and Milan Sketchbook", 
+  "height": "90", 
+  "id": 49104, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 124, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9131, 
+                "name": "Milan, Milan Cathedral"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2943, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21762_8.jpg", 
+  "title": "Interior, Milan Cathedral", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-interior-milan-cathedral-d21762", 
+  "width": "144"
+}

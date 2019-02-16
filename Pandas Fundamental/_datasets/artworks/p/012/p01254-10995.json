@@ -1,0 +1,118 @@
+{
+  "acno": "P01254", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Graham Ovenden", 
+  "catalogueGroup": {
+    "accessionRanges": "P01253-P01257", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65442, 
+    "shortTitle": "Five Girls"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1943, 
+      "date": "born 1943", 
+      "displayOrder": 1, 
+      "fc": "Graham Ovenden", 
+      "gender": "Male", 
+      "id": 1730, 
+      "mda": "Ovenden, Graham", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Presented by Waddington Galleries through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 354 x 250 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Five Girls", 
+  "height": "250", 
+  "id": 10995, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 440, 
+      "name": "Ruralists, Brotherhood of"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1866, 
+                "name": "twisting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Little Lorraine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ovenden-little-lorraine-p01254", 
+  "width": "354"
+}

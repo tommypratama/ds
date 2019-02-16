@@ -1,0 +1,110 @@
+{
+  "acno": "P05345", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Gerd Winner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Gerd Winner", 
+      "gender": "Male", 
+      "id": 2154, 
+      "mda": "Winner, Gerd", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 629 x 619 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "619", 
+  "id": 16322, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage"
+              }, 
+              {
+                "id": 209, 
+                "name": "street"
+              }, 
+              {
+                "id": 210, 
+                "name": "streetlight"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5441, 
+                "name": "warehouse"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Gerd Winner", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05345_8.jpg", 
+  "title": "Slow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-slow-p05345", 
+  "width": "629"
+}

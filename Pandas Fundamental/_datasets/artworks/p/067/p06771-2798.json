@@ -1,0 +1,82 @@
+{
+  "acno": "P06771", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Don Cordery", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1942, 
+      "date": "born 1942", 
+      "displayOrder": 1, 
+      "fc": "Don Cordery", 
+      "gender": "Male", 
+      "id": 942, 
+      "mda": "Cordery, Don", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1978", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "image: 502 x 394 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "394", 
+  "id": 2798, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6421, 
+                "name": "hawk"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2045, 
+                "name": "railing"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Goshawk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cordery-goshawk-p06771", 
+  "width": "502"
+}

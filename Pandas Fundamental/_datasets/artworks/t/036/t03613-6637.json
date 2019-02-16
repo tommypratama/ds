@@ -1,0 +1,172 @@
+{
+  "acno": "T03613", 
+  "acquisitionYear": 1983, 
+  "all_artists": "William Hogarth", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1697, 
+      "date": "1697\u20131764", 
+      "displayOrder": 1, 
+      "fc": "William Hogarth", 
+      "gender": "Male", 
+      "id": 265, 
+      "mda": "Hogarth, William", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the National Heritage Memorial Fund 1983", 
+  "dateRange": {
+    "endYear": 1745, 
+    "startYear": 1745, 
+    "text": "c.1745"
+  }, 
+  "dateText": "c.1745", 
+  "depth": "", 
+  "dimensions": "support: 677 x 892 mm\r\nframe: 840 x 1050 x 70 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "892", 
+  "id": 6637, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 343, 
+      "name": "Modern Moral Subject"
+    }, 
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 346, 
+      "name": "Rococo"
+    }
+  ], 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9892, 
+                "name": "ballroom"
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5211, 
+                "name": "candelabra"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03613_8.jpg", 
+  "title": "The Dance (The Happy Marriage ?VI: The Country Dance)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hogarth-the-dance-the-happy-marriage-vi-the-country-dance-t03613", 
+  "width": "677"
+}

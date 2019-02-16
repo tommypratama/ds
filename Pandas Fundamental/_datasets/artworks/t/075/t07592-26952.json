@@ -1,0 +1,96 @@
+{
+  "acno": "T07592", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Anish Kapoor", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1954, 
+      "date": "born 1954", 
+      "displayOrder": 1, 
+      "fc": "Anish Kapoor", 
+      "gender": "Male", 
+      "id": 1384, 
+      "mda": "Kapoor, Anish", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery, courtesy of Edwin C. Cohen (for A., A., A. and J.) 2000", 
+  "dateRange": {
+    "endYear": 1989, 
+    "startYear": 1988, 
+    "text": "1988-9"
+  }, 
+  "dateText": "1988\u20139", 
+  "depth": "1040", 
+  "dimensions": "unconfirmed: 2390 x 1205 x 1040 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1205", 
+  "id": 26952, 
+  "inscription": null, 
+  "medium": "Sandstone and pigment", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1682, 
+      "name": "New British Sculpture"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1557, 
+                "name": "Adam"
+              }
+            ], 
+            "id": 135, 
+            "name": "Bible: Old Testament"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Anish Kapoor", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07592_8.jpg", 
+  "title": "Adam", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kapoor-adam-t07592", 
+  "width": "2390"
+}

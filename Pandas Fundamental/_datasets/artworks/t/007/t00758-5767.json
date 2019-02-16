@@ -1,0 +1,104 @@
+{
+  "acno": "T00758", 
+  "acquisitionYear": 1965, 
+  "all_artists": "Cuthbert Hamilton", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1885, 
+      "date": "1885\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Cuthbert Hamilton", 
+      "gender": "Male", 
+      "id": 1243, 
+      "mda": "Hamilton, Cuthbert", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1965", 
+  "dateRange": {
+    "endYear": 1920, 
+    "startYear": 1919, 
+    "text": "1919-20"
+  }, 
+  "dateText": "1919\u201320", 
+  "depth": "", 
+  "dimensions": "support: 559 x 419 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "419", 
+  "id": 5767, 
+  "inscription": null, 
+  "medium": "Graphite, crayon and gouache on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 309, 
+      "name": "Group X"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 322, 
+      "name": "Vorticism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 reserved", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00758_8.jpg", 
+  "title": "Reconstruction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-reconstruction-t00758", 
+  "width": "559"
+}

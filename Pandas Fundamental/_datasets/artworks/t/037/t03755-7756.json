@@ -1,0 +1,121 @@
+{
+  "acno": "T03755", 
+  "acquisitionYear": 1983, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T03755_151172", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "T/T03/T03755_151172_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 86
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "T/T03/T03755_151172_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 173
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "T/T03/T03755_151172_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 346
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "T/T03/T03755_151172_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1040
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Karin Jonzen", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1914, 
+      "date": "1914\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Karin Jonzen", 
+      "gender": "Female", 
+      "id": 1374, 
+      "mda": "Jonzen, Karin", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1947, 
+    "text": "c.1947-8"
+  }, 
+  "dateText": "c.1947\u20138", 
+  "depth": "140", 
+  "dimensions": "object: 160 x 100 x 140 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "100", 
+  "id": 7756, 
+  "inscription": null, 
+  "medium": "Terracotta on wooden base", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Head of a Youth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jonzen-head-of-a-youth-t03755", 
+  "width": "160"
+}

@@ -1,0 +1,136 @@
+{
+  "acno": "P77974", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Georg Baselitz", 
+  "catalogueGroup": {
+    "accessionRanges": "P77936-P77984", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66022, 
+    "shortTitle": "Gothic Maidens"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Georg Baselitz", 
+      "gender": "Male", 
+      "id": 699, 
+      "mda": "Baselitz, Georg", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1997", 
+  "dateRange": {
+    "endYear": 1995, 
+    "startYear": 1995, 
+    "text": "1995"
+  }, 
+  "dateText": "1995", 
+  "depth": "", 
+  "dimensions": "image: 290 x 179 mm\r\nmount: 561 x 409 x 4 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Gothic Maidens", 
+  "height": "179", 
+  "id": 21942, 
+  "inscription": null, 
+  "medium": "Drypoint on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 431, 
+      "name": "Neo-Expressionism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 432, 
+      "name": "Neue Wilden"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Georg Baselitz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77974_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77974", 
+  "width": "290"
+}

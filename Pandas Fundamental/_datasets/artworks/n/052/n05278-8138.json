@@ -1,0 +1,82 @@
+{
+  "acno": "N05278", 
+  "acquisitionYear": 1941, 
+  "all_artists": "Paul Klee", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1879, 
+      "date": "1879\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Paul Klee", 
+      "gender": "Male", 
+      "id": 1417, 
+      "mda": "Klee, Paul", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1941", 
+  "dateRange": {
+    "endYear": 1930, 
+    "startYear": 1930, 
+    "text": "1930"
+  }, 
+  "dateText": "1930", 
+  "depth": "", 
+  "dimensions": "support: 368 x 467 mm", 
+  "foreignTitle": "Der Schlossberg von S.", 
+  "groupTitle": null, 
+  "height": "467", 
+  "id": 8138, 
+  "inscription": "date inscribed", 
+  "medium": "Gouache on paper on board", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05278_8.jpg", 
+  "title": "The Castle Mountain of S.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/klee-the-castle-mountain-of-s-n05278", 
+  "width": "368"
+}

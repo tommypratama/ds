@@ -1,0 +1,100 @@
+{
+  "acno": "T01211", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Clive Barker", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Clive Barker", 
+      "gender": "Male", 
+      "id": 693, 
+      "mda": "Barker, Clive", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1967, 
+    "text": "1967"
+  }, 
+  "dateText": "1967", 
+  "depth": "356", 
+  "dimensions": "object: 864 x 356 x 356 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "356", 
+  "id": 720, 
+  "inscription": null, 
+  "medium": "Metal on wooden base", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 901, 
+                "name": "bucket"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 902, 
+                "name": "tap"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }, 
+              {
+                "id": 5195, 
+                "name": "splash"
+              }, 
+              {
+                "id": 2892, 
+                "name": "water"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01211_8.jpg", 
+  "title": "Splash", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barker-splash-t01211", 
+  "width": "864"
+}

@@ -1,0 +1,108 @@
+{
+  "acno": "P79062", 
+  "acquisitionYear": 2005, 
+  "all_artists": "John Latham", 
+  "catalogueGroup": {
+    "accessionRanges": "P79062-P79066", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 85189, 
+    "shortTitle": "(5 photo etchings)"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u2013 2006", 
+      "displayOrder": 1, 
+      "fc": "John Latham", 
+      "gender": "Male", 
+      "id": 1470, 
+      "mda": "Latham, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Anne Best 2005", 
+  "dateRange": {
+    "endYear": 2004, 
+    "startYear": 2004, 
+    "text": "2004"
+  }, 
+  "dateText": "2004", 
+  "depth": "", 
+  "dimensions": "image: 598 x 803 mm\r\nsupport: 792 x 997 mm\r\nplate: 605 x 807 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "(5 photo etchings)", 
+  "height": "803", 
+  "id": 85184, 
+  "inscription": null, 
+  "medium": "Photo-etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1982, 
+                "name": "notes and diagrams"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17457, 
+                "name": "tadpole"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Latham Estate, courtesy Lisson Gallery, London", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79062_8.jpg", 
+  "title": "Tadpole-Taffrail", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/latham-tadpole-taffrail-p79062", 
+  "width": "598"
+}

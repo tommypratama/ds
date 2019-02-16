@@ -1,0 +1,76 @@
+{
+  "acno": "T08111", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Thomas Gainsborough", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1727, 
+      "date": "1727\u20131788", 
+      "displayOrder": 1, 
+      "fc": "Thomas Gainsborough", 
+      "gender": "Male", 
+      "id": 199, 
+      "mda": "Gainsborough, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1759, 
+    "startYear": 1758, 
+    "text": "c.1758-9"
+  }, 
+  "dateText": "c.1758\u20139", 
+  "depth": "", 
+  "dimensions": "support: 153 x 188 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "188", 
+  "id": 22906, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08111_8.jpg", 
+  "title": "Study of a Cow in a Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-study-of-a-cow-in-a-landscape-t08111", 
+  "width": "153"
+}

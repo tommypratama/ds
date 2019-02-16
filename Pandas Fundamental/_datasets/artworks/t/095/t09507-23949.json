@@ -1,0 +1,72 @@
+{
+  "acno": "T09507", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Varley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1778, 
+      "date": "1778\u20131842", 
+      "displayOrder": 1, 
+      "fc": "John Varley", 
+      "gender": "Male", 
+      "id": 569, 
+      "mda": "Varley, John", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 343 x 520 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "520", 
+  "id": 23949, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09507_8.jpg", 
+  "title": "Landscape with River and Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/varley-landscape-with-river-and-trees-t09507", 
+  "width": "343"
+}

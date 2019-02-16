@@ -1,0 +1,76 @@
+{
+  "acno": "N04987", 
+  "acquisitionYear": 1939, 
+  "all_artists": "James Ward", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131859", 
+      "displayOrder": 1, 
+      "fc": "James Ward", 
+      "gender": "Male", 
+      "id": 581, 
+      "mda": "Ward, James", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1939", 
+  "dateRange": {
+    "endYear": 1817, 
+    "startYear": 1817, 
+    "text": "c.1817"
+  }, 
+  "dateText": "c.1817", 
+  "depth": "", 
+  "dimensions": "support: 244 x 333 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "333", 
+  "id": 15932, 
+  "inscription": null, 
+  "medium": "Graphite and chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4876, 
+                "name": "death"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2415, 
+                "name": "swan"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04987_8.jpg", 
+  "title": "Dying Swan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ward-dying-swan-n04987", 
+  "width": "244"
+}

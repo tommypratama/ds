@@ -1,0 +1,118 @@
+{
+  "acno": "T03744", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Eric Gill", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Eric Gill", 
+      "gender": "Male", 
+      "id": 1168, 
+      "mda": "Gill, Eric", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1924, 
+    "startYear": 1923, 
+    "text": "1923-4"
+  }, 
+  "dateText": "1923\u20134", 
+  "depth": "240", 
+  "dimensions": "object: 460 x 375 x 240 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "375", 
+  "id": 5330, 
+  "inscription": null, 
+  "medium": "Slate and copper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2487, 
+                "name": "Dante, 'Divine Comedy: Purgatorio'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7648, 
+                "name": "Italian text"
+              }, 
+              {
+                "id": 2472, 
+                "name": "number"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3574, 
+                "name": "sundial"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4312, 
+                "name": "time"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03744_8.jpg", 
+  "title": "Sundial", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gill-sundial-t03744", 
+  "width": "460"
+}

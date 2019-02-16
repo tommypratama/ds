@@ -1,0 +1,106 @@
+{
+  "acno": "N04846", 
+  "acquisitionYear": 1936, 
+  "all_artists": "James Ensor", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1860, 
+      "date": "1860\u20131949", 
+      "displayOrder": 1, 
+      "fc": "James Ensor", 
+      "gender": "Male", 
+      "id": 1060, 
+      "mda": "Ensor, James", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Presented by Georges Wildenstein 1936", 
+  "dateRange": {
+    "endYear": 1935, 
+    "startYear": 1935, 
+    "text": "1935"
+  }, 
+  "dateText": "1935", 
+  "depth": "", 
+  "dimensions": "support: 508 x 616 mm\r\n", 
+  "foreignTitle": "Le Coup de lumi\u00e8re", 
+  "groupTitle": null, 
+  "height": "616", 
+  "id": 4108, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6004, 
+                "name": "shell"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug"
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04846_8.jpg", 
+  "title": "Effect of Light", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ensor-effect-of-light-n04846", 
+  "width": "508"
+}

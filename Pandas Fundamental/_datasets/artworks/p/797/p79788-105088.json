@@ -1,0 +1,98 @@
+{
+  "acno": "P79788", 
+  "acquisitionYear": 2009, 
+  "all_artists": "Alan Michael", 
+  "catalogueGroup": {
+    "accessionRanges": "P79787-P79790; P79792-P79793", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 105093, 
+    "shortTitle": "Studio Voltaire Portfolio 2008"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1967, 
+      "date": "born 1967", 
+      "displayOrder": 1, 
+      "fc": "Alan Michael", 
+      "gender": "Male", 
+      "id": 9059, 
+      "mda": "Michael, Alan", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased using funds provided by the Charities Advisory Trust 2009", 
+  "dateRange": {
+    "endYear": 2008, 
+    "startYear": 2008, 
+    "text": "2008"
+  }, 
+  "dateText": "2008", 
+  "depth": "", 
+  "dimensions": "image: 375 x 520 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Studio Voltaire Portfolio 2008", 
+  "height": "520", 
+  "id": 105088, 
+  "inscription": null, 
+  "medium": "Digital print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alan Michael", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79788_8.jpg", 
+  "title": "Flags at Le Havre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/michael-flags-at-le-havre-p79788", 
+  "width": "375"
+}

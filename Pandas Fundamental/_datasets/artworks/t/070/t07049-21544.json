@@ -1,0 +1,124 @@
+{
+  "acno": "T07049", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Sidney Richard Percy", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1821, 
+      "date": "1821\u20131886", 
+      "displayOrder": 1, 
+      "fc": "Sidney Richard Percy", 
+      "gender": "Male", 
+      "id": 2383, 
+      "mda": "Percy, Sidney Richard", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Abbott Fund 1996", 
+  "dateRange": {
+    "endYear": 1853, 
+    "startYear": 1853, 
+    "text": "1853"
+  }, 
+  "dateText": "1853", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 552 x 789 mm\r\nframe: 890 x 1135 x 110 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "789", 
+  "id": 21544, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4753, 
+                "name": "Snowdonia"
+              }, 
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2332, 
+                "name": "heathland"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07049_8.jpg", 
+  "title": "In Snowdonia", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/percy-in-snowdonia-t07049", 
+  "width": "552"
+}

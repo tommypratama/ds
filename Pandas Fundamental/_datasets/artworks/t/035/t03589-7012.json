@@ -1,0 +1,70 @@
+{
+  "acno": "T03589", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Paul Huxley", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Paul Huxley", 
+      "gender": "Male", 
+      "id": 1331, 
+      "mda": "Huxley, Paul", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1983", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1982, 
+    "text": "1982"
+  }, 
+  "dateText": "1982", 
+  "depth": "", 
+  "dimensions": "support: 1956 x 1956 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1956", 
+  "id": 7012, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Paul Huxley", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03589_8.jpg", 
+  "title": "Fable", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/huxley-fable-t03589", 
+  "width": "1956"
+}

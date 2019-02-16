@@ -1,0 +1,83 @@
+{
+  "acno": "D00718", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Thomas Girtin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 1, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "?1802"
+  }, 
+  "dateText": "?1802", 
+  "depth": "", 
+  "dimensions": "support: 88 x 115 mm", 
+  "finberg": "XXIX M", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "115", 
+  "id": 28133, 
+  "inscription": null, 
+  "medium": "Pen and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00718_8.jpg", 
+  "title": "A Thatched Cottage among Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/girtin-a-thatched-cottage-among-trees-d00718", 
+  "width": "88"
+}

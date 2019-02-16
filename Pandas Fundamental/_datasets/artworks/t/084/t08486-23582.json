@@ -1,0 +1,118 @@
+{
+  "acno": "T08486", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John `Warwick' Smith", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1749, 
+      "date": "1749\u20131831", 
+      "displayOrder": 1, 
+      "fc": "John `Warwick' Smith", 
+      "gender": "Male", 
+      "id": 508, 
+      "mda": "Smith, John `Warwick'", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1778, 
+    "startYear": 1777, 
+    "text": "c.1777-8"
+  }, 
+  "dateText": "c.1777\u20138", 
+  "depth": "", 
+  "dimensions": "support: 265 x 470 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "470", 
+  "id": 23582, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10411, 
+                "name": "Rome, Porta Pia"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08486_8.jpg", 
+  "title": "Outside Porta Pia, Rome", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-outside-porta-pia-rome-t08486", 
+  "width": "265"
+}

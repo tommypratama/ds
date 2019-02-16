@@ -1,0 +1,118 @@
+{
+  "acno": "T08124", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Giovanni Battista Cipriani", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1727, 
+      "date": "1727\u20131785", 
+      "displayOrder": 1, 
+      "fc": "Giovanni Battista Cipriani", 
+      "gender": "Male", 
+      "id": 2485, 
+      "mda": "Cipriani, Giovanni Battista", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1771, 
+    "startYear": 1771, 
+    "text": "1771"
+  }, 
+  "dateText": "1771", 
+  "depth": "", 
+  "dimensions": "support: 460 x 605 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "605", 
+  "id": 22411, 
+  "inscription": "date inscribed", 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 344, 
+      "name": "Neo-Classicism"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column"
+              }, 
+              {
+                "id": 7771, 
+                "name": "facade"
+              }, 
+              {
+                "id": 7063, 
+                "name": "portico"
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5931, 
+                "name": "monument"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 204, 
+                "name": "painting"
+              }, 
+              {
+                "id": 649, 
+                "name": "sculpture, classical"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08124_8.jpg", 
+  "title": "Design for the Illumination for the King\u2019s Birthday", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cipriani-design-for-the-illumination-for-the-kings-birthday-t08124", 
+  "width": "460"
+}

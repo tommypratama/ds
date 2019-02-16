@@ -1,0 +1,102 @@
+{
+  "acno": "T03711", 
+  "acquisitionYear": 1983, 
+  "all_artists": "Reg Butler", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131981", 
+      "displayOrder": 1, 
+      "fc": "Reg Butler", 
+      "gender": "Male", 
+      "id": 844, 
+      "mda": "Butler, Reg", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1948, 
+    "text": "1948"
+  }, 
+  "dateText": "1948", 
+  "depth": "63", 
+  "dimensions": "object: 189 x 86 x 63 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "86", 
+  "id": 1884, 
+  "inscription": null, 
+  "medium": "Iron", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 424, 
+      "name": "Geometry of Fear"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Reg Butler", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03711_8.jpg", 
+  "title": "Crouching Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/butler-crouching-woman-t03711", 
+  "width": "189"
+}

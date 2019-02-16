@@ -1,0 +1,106 @@
+{
+  "acno": "T08603", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Andrew Wilson", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1780, 
+      "date": "1780\u20131848", 
+      "displayOrder": 1, 
+      "fc": "Andrew Wilson", 
+      "gender": "Male", 
+      "id": 2467, 
+      "mda": "Wilson, Andrew", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1812, 
+    "startYear": 1812, 
+    "text": "1812"
+  }, 
+  "dateText": "1812", 
+  "depth": "", 
+  "dimensions": "support: 190 x 245 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "245", 
+  "id": 23996, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08603_8.jpg", 
+  "title": "Study for a Landscape Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wilson-study-for-a-landscape-composition-t08603", 
+  "width": "190"
+}

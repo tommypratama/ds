@@ -1,0 +1,92 @@
+{
+  "acno": "T00195", 
+  "acquisitionYear": 1958, 
+  "all_artists": "Adrian Ryan", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1920, 
+      "date": "1920\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Adrian Ryan", 
+      "gender": "Male", 
+      "id": 1886, 
+      "mda": "Ryan, Adrian", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1958", 
+  "dateRange": {
+    "endYear": 1958, 
+    "startYear": 1958, 
+    "text": "1958"
+  }, 
+  "dateText": "1958", 
+  "depth": "", 
+  "dimensions": "support: 610 x 432 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "432", 
+  "id": 13048, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Adrian Ryan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00195_8.jpg", 
+  "title": "Flowers on a Chair", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ryan-flowers-on-a-chair-t00195", 
+  "width": "610"
+}

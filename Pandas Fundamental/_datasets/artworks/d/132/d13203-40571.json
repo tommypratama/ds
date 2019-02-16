@@ -1,0 +1,109 @@
+{
+  "acno": "D13203", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D13203", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D132/D13203_E.jpg", 
+          "height": 433, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D13171-D13244; D40938; D40940-D40941; D41230", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65805, 
+    "shortTitle": "Artist's Benevolent Fund Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1817, 
+    "text": "c.1817-18"
+  }, 
+  "dateText": "c.1817\u201318", 
+  "depth": "", 
+  "dimensions": "support: 88 x 110 mm", 
+  "finberg": "CLXIII 25", 
+  "foreignTitle": null, 
+  "groupTitle": "Artist's Benevolent Fund Sketchbook", 
+  "height": "110", 
+  "id": 40571, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 51, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13203_8.jpg", 
+  "title": "Flags", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-flags-d13203", 
+  "width": "88"
+}

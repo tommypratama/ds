@@ -1,0 +1,112 @@
+{
+  "acno": "T01040", 
+  "acquisitionYear": 1968, 
+  "all_artists": "Robyn Denny", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20132014", 
+      "displayOrder": 1, 
+      "fc": "Robyn Denny", 
+      "gender": "Male", 
+      "id": 997, 
+      "mda": "Denny, Robyn", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1968", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1966, 
+    "text": "1966-7"
+  }, 
+  "dateText": "1966\u20137", 
+  "depth": "", 
+  "dimensions": "support: 2438 x 1981 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1981", 
+  "id": 3800, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Robyn Denny", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01040_8.jpg", 
+  "title": "Garden", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/denny-garden-t01040", 
+  "width": "2438"
+}

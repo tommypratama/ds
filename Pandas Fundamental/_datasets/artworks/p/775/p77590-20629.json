@@ -1,0 +1,102 @@
+{
+  "acno": "P77590", 
+  "acquisitionYear": 1993, 
+  "all_artists": "Pablo Picasso", 
+  "catalogueGroup": {
+    "accessionRanges": "P77583-P77590", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65556, 
+    "shortTitle": "156 Series"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1881, 
+      "date": "1881\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Pablo Picasso", 
+      "gender": "Male", 
+      "id": 1767, 
+      "mda": "Picasso, Pablo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1993", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 370 x 500 mm", 
+  "foreignTitle": "Eau-forte 1, 5 Mars 1972", 
+  "groupTitle": "156 Series", 
+  "height": "500", 
+  "id": 20629, 
+  "inscription": null, 
+  "medium": "Etching, drypoint and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2371, 
+                "name": "breast"
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Succession Picasso/DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77590_8.jpg", 
+  "title": "Etching: 1, 5 March 1972 (L.155)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/picasso-etching-1-5-march-1972-l155-p77590", 
+  "width": "370"
+}

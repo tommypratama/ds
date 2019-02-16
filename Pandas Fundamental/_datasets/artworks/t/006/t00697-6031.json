@@ -1,0 +1,100 @@
+{
+  "acno": "T00697", 
+  "acquisitionYear": 1964, 
+  "all_artists": "Dame Barbara Hepworth", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Dame Barbara Hepworth", 
+      "gender": "Female", 
+      "id": 1274, 
+      "mda": "Hepworth, Dame Barbara", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1964", 
+  "dateRange": {
+    "endYear": 1938, 
+    "startYear": 1937, 
+    "text": "1937-8, cast 1963"
+  }, 
+  "dateText": "1937\u20138, cast 1963", 
+  "depth": "320", 
+  "dimensions": "object: 1480 x 280 x 320 mm, 77 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "280", 
+  "id": 6031, 
+  "inscription": "date inscribed", 
+  "medium": "Bronze", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 321, 
+      "name": "Unit One"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00697_8.jpg", 
+  "title": "Single Form (Eikon)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-single-form-eikon-t00697", 
+  "width": "1480"
+}

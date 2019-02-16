@@ -1,0 +1,310 @@
+{
+  "acno": "T00608", 
+  "acquisitionYear": 1963, 
+  "all_artists": "Mordecai Ardon", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1896, 
+      "date": "1896\u20131992", 
+      "displayOrder": 1, 
+      "fc": "Mordecai Ardon", 
+      "gender": "Male", 
+      "id": 660, 
+      "mda": "Ardon, Mordecai", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by the Miriam Sacher Charitable Trust through the Friends of the Tate Gallery 1963", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1958, 
+    "text": "1958-60"
+  }, 
+  "dateText": "1958\u201360", 
+  "depth": "", 
+  "dimensions": "displayed: 195 x 520 mm", 
+  "foreignTitle": "Missa Dura: Ritter, Kristallnacht, Haus nr. 5", 
+  "groupTitle": null, 
+  "height": "520", 
+  "id": 566, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 29, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1557, 
+                "name": "Adam"
+              }, 
+              {
+                "id": 2462, 
+                "name": "Jacob's ladder"
+              }, 
+              {
+                "id": 2467, 
+                "name": "Psalms, 69"
+              }
+            ], 
+            "id": 135, 
+            "name": "Bible: Old Testament"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1556, 
+                "name": "God"
+              }
+            ], 
+            "id": 133, 
+            "name": "Judaeo-Christian imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6152, 
+                "name": "Hebrew text"
+              }, 
+              {
+                "id": 2472, 
+                "name": "number"
+              }, 
+              {
+                "id": 2018, 
+                "name": "religious"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8717, 
+                "name": "soul - cabalistic symbol"
+              }
+            ], 
+            "id": 165, 
+            "name": "religious"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2457, 
+                "name": "Hitler, Adolf"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1173, 
+                "name": "Jewish"
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2465, 
+                "name": "moustache"
+              }, 
+              {
+                "id": 757, 
+                "name": "mouth"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1757, 
+                "name": "Holocaust"
+              }, 
+              {
+                "id": 2459, 
+                "name": "Kristallnacht / Crystal Night, 9-10 Nov 1938"
+              }, 
+              {
+                "id": 2461, 
+                "name": "Third Reich, 1933-45"
+              }, 
+              {
+                "id": 2468, 
+                "name": "concentration camp"
+              }
+            ], 
+            "id": 37, 
+            "name": "military: World War II"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4366, 
+                "name": "civil and human rights: Jewish persecution"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4369, 
+                "name": "anti-semitism"
+              }, 
+              {
+                "id": 2470, 
+                "name": "persecution"
+              }, 
+              {
+                "id": 1787, 
+                "name": "torture"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 803, 
+                "name": "bell"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }, 
+          {
+            "children": [
+              {
+                "id": 767, 
+                "name": "candle"
+              }, 
+              {
+                "id": 4766, 
+                "name": "stove"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2463, 
+                "name": "puppet"
+              }, 
+              {
+                "id": 2464, 
+                "name": "skittle"
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2455, 
+                "name": "residential"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Michael Ardon", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00608_8.jpg", 
+  "title": "Missa Dura: The Knight, Crystal Night, House No. 5", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ardon-missa-dura-the-knight-crystal-night-house-no-5-t00608", 
+  "width": "195"
+}

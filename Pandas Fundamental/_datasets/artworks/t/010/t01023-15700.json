@@ -1,0 +1,106 @@
+{
+  "acno": "T01023", 
+  "acquisitionYear": 1967, 
+  "all_artists": "Cornelius Varley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1781, 
+      "date": "1781\u20131873", 
+      "displayOrder": 1, 
+      "fc": "Cornelius Varley", 
+      "gender": "Male", 
+      "id": 568, 
+      "mda": "Varley, Cornelius", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund (Herbert Powell Bequest) 1967", 
+  "dateRange": {
+    "endYear": 1804, 
+    "startYear": 1804, 
+    "text": "1804"
+  }, 
+  "dateText": "1804", 
+  "depth": "", 
+  "dimensions": "support: 241 x 349 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "349", 
+  "id": 15700, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 665, 
+                "name": "Hertfordshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14006, 
+                "name": "St Albans - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01023_8.jpg", 
+  "title": "View near St Albans", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/varley-view-near-st-albans-t01023", 
+  "width": "241"
+}

@@ -1,0 +1,120 @@
+{
+  "acno": "P79942", 
+  "acquisitionYear": 2011, 
+  "all_artists": "Werner Mantz", 
+  "catalogueGroup": {
+    "accessionRanges": "P79940-P79949", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 114340, 
+    "shortTitle": "Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1901, 
+      "date": "1901\u20131983", 
+      "displayOrder": 1, 
+      "fc": "Werner Mantz", 
+      "gender": "Male", 
+      "id": 14941, 
+      "mda": "Mantz, Werner", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Photography Acquisitions Committee 2011", 
+  "dateRange": {
+    "endYear": 1928, 
+    "startYear": 1928, 
+    "text": "1928, printed 1977"
+  }, 
+  "dateText": "1928, printed 1977", 
+  "depth": "", 
+  "dimensions": "image: 217 x 166 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Portfolio", 
+  "height": "166", 
+  "id": 114534, 
+  "inscription": null, 
+  "medium": "Photograph, gelatin silver print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3296, 
+                "name": "pavement"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79942_8.jpg", 
+  "title": "Advertisement for pavement stones, Cologne 1928", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mantz-advertisement-for-pavement-stones-cologne-1928-p79942", 
+  "width": "217"
+}

@@ -1,0 +1,308 @@
+{
+  "acno": "T05024", 
+  "acquisitionYear": 1987, 
+  "all_artists": "Eileen Agar", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1899, 
+      "date": "1899\u20131991", 
+      "displayOrder": 1, 
+      "fc": "Eileen Agar", 
+      "gender": "Female", 
+      "id": 633, 
+      "mda": "Agar, Eileen", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased 1987", 
+  "dateRange": {
+    "endYear": 1934, 
+    "startYear": 1933, 
+    "text": "1933-4"
+  }, 
+  "dateText": "1933\u20134", 
+  "depth": "", 
+  "dimensions": "support: 914 x 2130 mm\r\nframe: 1010 x 2225 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2130", 
+  "id": 461, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 24, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11209, 
+                "name": "Jarry, Alfred"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15242, 
+                "name": "Ubu"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish"
+              }, 
+              {
+                "id": 2449, 
+                "name": "sea horse"
+              }, 
+              {
+                "id": 2453, 
+                "name": "shellfish"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2446, 
+                "name": "birth"
+              }, 
+              {
+                "id": 3707, 
+                "name": "pregnancy"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1325, 
+                "name": "black"
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6472, 
+                "name": "embryo / foetus"
+              }, 
+              {
+                "id": 1079, 
+                "name": "hand"
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face"
+              }, 
+              {
+                "id": 2448, 
+                "name": "skull"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5735, 
+                "name": "cherub"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2452, 
+                "name": "cog"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6767, 
+                "name": "creativity"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5587, 
+                "name": "existence"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2447, 
+                "name": "death - reaper"
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2451, 
+                "name": "fate - hand"
+              }
+            ], 
+            "id": 1030, 
+            "name": "abstract concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2454, 
+                "name": "female creativity - womb"
+              }
+            ], 
+            "id": 848, 
+            "name": "gender"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Eileen Agar", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05024_8.jpg", 
+  "title": "The Autobiography of an Embryo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/agar-the-autobiography-of-an-embryo-t05024", 
+  "width": "914"
+}

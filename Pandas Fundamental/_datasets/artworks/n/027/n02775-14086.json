@@ -1,0 +1,82 @@
+{
+  "acno": "N02775", 
+  "acquisitionYear": 1911, 
+  "all_artists": "John Macallan Swan", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1847, 
+      "date": "1847\u20131910", 
+      "displayOrder": 1, 
+      "fc": "John Macallan Swan", 
+      "gender": "Male", 
+      "id": 539, 
+      "mda": "Swan, John Macallan", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the John M. Swan Memorial Fund 1911", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 127 x 197 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "197", 
+  "id": 14086, 
+  "inscription": null, 
+  "medium": "Chalk on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4606, 
+                "name": "head"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3119, 
+                "name": "lion"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8531, 
+                "name": "roaring"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02775_8.jpg", 
+  "title": "Head of a Lioness", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/swan-head-of-a-lioness-n02775", 
+  "width": "127"
+}

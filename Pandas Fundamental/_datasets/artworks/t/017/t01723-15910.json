@@ -1,0 +1,86 @@
+{
+  "acno": "T01723", 
+  "acquisitionYear": 1973, 
+  "all_artists": "Henry Wallis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1830, 
+      "date": "1830\u20131916", 
+      "displayOrder": 1, 
+      "fc": "Henry Wallis", 
+      "gender": "Male", 
+      "id": 578, 
+      "mda": "Wallis, Henry", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1973", 
+  "dateRange": {
+    "endYear": 1855, 
+    "startYear": 1855, 
+    "text": "c.1855"
+  }, 
+  "dateText": "c.1855", 
+  "depth": "", 
+  "dimensions": "support: 400 x 295 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "295", 
+  "id": 15910, 
+  "inscription": null, 
+  "medium": "Crayon on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01723_8.jpg", 
+  "title": "Study of a Girl Sitting in a Chair", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wallis-study-of-a-girl-sitting-in-a-chair-t01723", 
+  "width": "400"
+}

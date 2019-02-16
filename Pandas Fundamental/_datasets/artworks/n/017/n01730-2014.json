@@ -1,0 +1,100 @@
+{
+  "acno": "N01730", 
+  "acquisitionYear": 1879, 
+  "all_artists": "George Cattermole", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1800, 
+      "date": "1800\u20131868", 
+      "displayOrder": 1, 
+      "fc": "George Cattermole", 
+      "gender": "Male", 
+      "id": 87, 
+      "mda": "Cattermole, George", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by John Henderson 1879", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 337 x 489 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "489", 
+  "id": 2014, 
+  "inscription": null, 
+  "medium": "Charcoal on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01730_8.jpg", 
+  "title": "Landscape Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cattermole-landscape-study-n01730", 
+  "width": "337"
+}

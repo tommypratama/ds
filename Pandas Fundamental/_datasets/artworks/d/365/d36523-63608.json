@@ -1,0 +1,121 @@
+{
+  "acno": "D36523", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner, Thomas Girtin", 
+  "catTextResId": 1141248, 
+  "catalogueGroup": {
+    "accessionRanges": "D00673-D00674; D00904; D01910; D36355; D36501; D36522-D36561; D36563-D36570; D36616-D36624; D36628; D36648; D36667; D40488", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 127524, 
+    "shortTitle": "Collaborations with Thomas Girtin for Dr Monro, and Other Copies"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }, 
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131802", 
+      "displayOrder": 2, 
+      "fc": "Thomas Girtin", 
+      "gender": "Male", 
+      "id": 211, 
+      "mda": "Girtin, Thomas", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1796, 
+    "startYear": 1796, 
+    "text": "?1796"
+  }, 
+  "dateText": "?1796", 
+  "depth": "", 
+  "dimensions": "support: 281 x 207 mm", 
+  "finberg": "CCCLXXV 2", 
+  "foreignTitle": null, 
+  "groupTitle": "Collaborations with Thomas Girtin for Dr Monro, and Other Copies", 
+  "height": "207", 
+  "id": 63608, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9871, 
+                "name": "Savoy Chapel"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5850, 
+                "name": "chapel"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36523_8.jpg", 
+  "title": "London: The Interior of the Ruins of the Savoy Chapel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-girtin-london-the-interior-of-the-ruins-of-the-savoy-chapel-d36523", 
+  "width": "281"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "T12809", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Ai Weiwei", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1957, 
+      "date": "born 1957", 
+      "displayOrder": 1, 
+      "fc": "Ai Weiwei", 
+      "gender": "Male", 
+      "id": 8208, 
+      "mda": "Ai, Weiwei", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Asia Pacific Acquisitions Committee 2008", 
+  "dateRange": {
+    "endYear": 2002, 
+    "startYear": 2002, 
+    "text": "2002"
+  }, 
+  "dateText": "2002", 
+  "depth": "900", 
+  "dimensions": "unconfirmed: 4600 x 900 x 900 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "900", 
+  "id": 93227, 
+  "inscription": null, 
+  "medium": "Wood", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ai Weiwei", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12809_8.jpg", 
+  "title": "Table and Pillar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ai-table-and-pillar-t12809", 
+  "width": "4600"
+}

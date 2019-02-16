@@ -1,0 +1,112 @@
+{
+  "acno": "T07471", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Derrick Greaves", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Derrick Greaves", 
+      "gender": "Male", 
+      "id": 1210, 
+      "mda": "Greaves, Derrick", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented anonymously 1998", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "42", 
+  "dimensions": "support: 1219 x 1730 x 42 mm\r\nframe: 1296 x 1810 x 49 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1730", 
+  "id": 26462, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 240, 
+                "name": "canal"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Derrick Greaves", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07471_8.jpg", 
+  "title": "Canal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/greaves-canal-t07471", 
+  "width": "1219"
+}

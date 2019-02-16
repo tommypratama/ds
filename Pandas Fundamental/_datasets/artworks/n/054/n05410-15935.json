@@ -1,0 +1,76 @@
+{
+  "acno": "N05410", 
+  "acquisitionYear": 1943, 
+  "all_artists": "James Ward", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131859", 
+      "displayOrder": 1, 
+      "fc": "James Ward", 
+      "gender": "Male", 
+      "id": 581, 
+      "mda": "Ward, James", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund 1943", 
+  "dateRange": {
+    "endYear": 1836, 
+    "startYear": 1836, 
+    "text": "1836"
+  }, 
+  "dateText": "1836", 
+  "depth": "", 
+  "dimensions": "support: 495 x 768 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "768", 
+  "id": 15935, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4606, 
+                "name": "head"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05410_8.jpg", 
+  "title": "Study of Sheeps\u2019 Heads", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ward-study-of-sheeps-heads-n05410", 
+  "width": "495"
+}

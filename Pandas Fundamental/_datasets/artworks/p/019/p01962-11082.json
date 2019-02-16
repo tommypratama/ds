@@ -1,0 +1,132 @@
+{
+  "acno": "P01962", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Sir Eduardo Paolozzi", 
+  "catalogueGroup": {
+    "accessionRanges": "P01961-P01984; P11003", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65445, 
+    "shortTitle": "Conditional Probability Machine"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Sir Eduardo Paolozzi", 
+      "gender": "Male", 
+      "id": 1738, 
+      "mda": "Paolozzi, Sir Eduardo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented anonymously through the Friends of the Tate Gallery 1980", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "image: 202 x 140 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Conditional Probability Machine", 
+  "height": "140", 
+  "id": 11082, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6504, 
+                "name": "brain"
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face"
+              }, 
+              {
+                "id": 6676, 
+                "name": "senses"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Eduardo Paolozzi Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01962_8.jpg", 
+  "title": "Secrets of Life - The Human Machine and How it Works: Bird", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-secrets-of-life-the-human-machine-and-how-it-works-bird-p01962", 
+  "width": "202"
+}

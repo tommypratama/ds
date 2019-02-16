@@ -1,0 +1,108 @@
+{
+  "acno": "P20224", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Bill Meyer", 
+  "catalogueGroup": {
+    "accessionRanges": "P20223-P20227", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 71005, 
+    "shortTitle": "Gapscape"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1942, 
+      "date": "born 1942", 
+      "displayOrder": 1, 
+      "fc": "Bill Meyer", 
+      "gender": "Male", 
+      "id": 4547, 
+      "mda": "Meyer, Bill", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2002", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1979, 
+    "text": "1979-81"
+  }, 
+  "dateText": "1979\u201381", 
+  "depth": "", 
+  "dimensions": "image: 1040 x 752 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Gapscape", 
+  "height": "752", 
+  "id": 71001, 
+  "inscription": null, 
+  "medium": "Photo-screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12448, 
+                "name": "crater"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11714, 
+                "name": "defacement"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Bore Puri HaAdamah", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/meyer-bore-puri-haadamah-p20224", 
+  "width": "1040"
+}

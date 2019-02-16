@@ -1,0 +1,108 @@
+{
+  "acno": "T00116", 
+  "acquisitionYear": 1957, 
+  "all_artists": "Paul Rebeyrolle", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1926, 
+      "date": "1926\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Paul Rebeyrolle", 
+      "gender": "Male", 
+      "id": 1819, 
+      "mda": "Rebeyrolle, Paul", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1957", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1956, 
+    "text": "1956"
+  }, 
+  "dateText": "1956", 
+  "depth": "", 
+  "dimensions": "support: 797 x 1222 mm", 
+  "foreignTitle": "Truite", 
+  "groupTitle": null, 
+  "height": "1222", 
+  "id": 12338, 
+  "inscription": null, 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10582, 
+                "name": "trout"
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2892, 
+                "name": "water"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00116_8.jpg", 
+  "title": "Trout", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rebeyrolle-trout-t00116", 
+  "width": "797"
+}

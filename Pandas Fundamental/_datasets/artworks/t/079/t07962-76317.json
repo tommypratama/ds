@@ -1,0 +1,82 @@
+{
+  "acno": "T07962", 
+  "acquisitionYear": 2003, 
+  "all_artists": "Garth Evans", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "born 1934", 
+      "displayOrder": 1, 
+      "fc": "Garth Evans", 
+      "gender": "Male", 
+      "id": 1072, 
+      "mda": "Evans, Garth", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Purchased 2003", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "1676", 
+  "dimensions": "object: 200 x 1676 x 1676 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1676", 
+  "id": 76317, 
+  "inscription": null, 
+  "medium": "Wood and resin", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Garth Evans", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07962_8.jpg", 
+  "title": "Convoy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/evans-convoy-t07962", 
+  "width": "200"
+}

@@ -1,0 +1,88 @@
+{
+  "acno": "N03652", 
+  "acquisitionYear": 1922, 
+  "all_artists": "Hercules Brabazon Brabazon", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1821, 
+      "date": "1821\u20131906", 
+      "displayOrder": 1, 
+      "fc": "Hercules Brabazon Brabazon", 
+      "gender": "Male", 
+      "id": 50, 
+      "mda": "Brabazon, Hercules Brabazon", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by a friend in memory of the Hon. Mr Justice Peterson 1922", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 146 x 210 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "210", 
+  "id": 1410, 
+  "inscription": null, 
+  "medium": "Pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9098, 
+                "name": "Como"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03652_8.jpg", 
+  "title": "Como", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brabazon-como-n03652", 
+  "width": "146"
+}

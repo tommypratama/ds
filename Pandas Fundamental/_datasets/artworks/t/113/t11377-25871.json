@@ -1,0 +1,111 @@
+{
+  "acno": "T11377", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Mary Hartley of Bath", 
+  "catalogueGroup": {
+    "accessionRanges": "T10822; T11290-T11379", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66049, 
+    "shortTitle": "Album of Miscellaneous Etchings"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "date": null, 
+      "displayOrder": 1, 
+      "fc": "Mary Hartley of Bath", 
+      "gender": "Female", 
+      "id": 2631, 
+      "mda": "Hartley, Mary, of Bath", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1762, 
+    "startYear": 1762, 
+    "text": "1762"
+  }, 
+  "dateText": "1762", 
+  "depth": "", 
+  "dimensions": "image: 184 x 135 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Album of Miscellaneous Etchings", 
+  "height": "135", 
+  "id": 25871, 
+  "inscription": "date inscribed", 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1191, 
+                "name": "arguing"
+              }, 
+              {
+                "id": 1070, 
+                "name": "gesticulating"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 271, 
+                "name": "walking"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4032, 
+                "name": "clergyman"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11377_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hartley-title-not-known-t11377", 
+  "width": "184"
+}

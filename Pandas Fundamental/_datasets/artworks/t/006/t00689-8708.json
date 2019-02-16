@@ -1,0 +1,116 @@
+{
+  "acno": "T00689", 
+  "acquisitionYear": 1964, 
+  "all_artists": "Wyndham Lewis", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1882, 
+      "date": "1882\u20131957", 
+      "displayOrder": 1, 
+      "fc": "Wyndham Lewis", 
+      "gender": "Male", 
+      "id": 1502, 
+      "mda": "Lewis, Wyndham", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Friends of the Tate Gallery 1964", 
+  "dateRange": {
+    "endYear": 1915, 
+    "startYear": 1915, 
+    "text": "?exhibited 1915"
+  }, 
+  "dateText": "?exhibited 1915", 
+  "depth": "", 
+  "dimensions": "support: 2007 x 1537 mm\r\nframe: 2195 x 1740 x 60 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1537", 
+  "id": 8708, 
+  "inscription": null, 
+  "medium": "Oil paint and graphite on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 322, 
+      "name": "Vorticism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape"
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Wyndham Lewis and the estate of Mrs G A Wyndham Lewis by kind permission of the Wyndham Lewis Memorial Trust (a registered charity)", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00689_8.jpg", 
+  "title": "The Crowd", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-the-crowd-t00689", 
+  "width": "2007"
+}

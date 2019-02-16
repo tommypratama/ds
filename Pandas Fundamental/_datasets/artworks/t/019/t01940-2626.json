@@ -1,0 +1,108 @@
+{
+  "acno": "T01940", 
+  "acquisitionYear": 1974, 
+  "all_artists": "John Constable", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1776, 
+      "date": "1776\u20131837", 
+      "displayOrder": 1, 
+      "fc": "John Constable", 
+      "gender": "Male", 
+      "id": 108, 
+      "mda": "Constable, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1837, 
+    "startYear": 1830, 
+    "text": "1830s"
+  }, 
+  "dateText": "1830s", 
+  "depth": "", 
+  "dimensions": "support: 337 x 213 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "213", 
+  "id": 2626, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2714, 
+                "name": "Bloomfield, Robert, 'The Farmer's Boy'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1571, 
+                "name": "poem"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01940_8.jpg", 
+  "title": "Cloud Study with Verses from Bloomfield", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-cloud-study-with-verses-from-bloomfield-t01940", 
+  "width": "337"
+}

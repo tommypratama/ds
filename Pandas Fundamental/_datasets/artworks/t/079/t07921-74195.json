@@ -1,0 +1,80 @@
+{
+  "acno": "T07921", 
+  "acquisitionYear": 2002, 
+  "all_artists": "Jean H\u00e9lion", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1904, 
+      "date": "1904\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Jean H\u00e9lion", 
+      "gender": "Male", 
+      "id": 1264, 
+      "mda": "H\u00e9lion, Jean", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2002", 
+  "dateRange": {
+    "endYear": 1934, 
+    "startYear": 1934, 
+    "text": "1934"
+  }, 
+  "dateText": "1934", 
+  "depth": "15", 
+  "dimensions": "support: 271 x 350 x 15 mm\r\nframe: 450 x 525 x 60 mm", 
+  "foreignTitle": "Composition abstraite", 
+  "groupTitle": null, 
+  "height": "350", 
+  "id": 74195, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 16667, 
+      "name": "Abstraction-Cr\u00e9ation"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07921_8.jpg", 
+  "title": "Abstract Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/helion-abstract-composition-t07921", 
+  "width": "271"
+}

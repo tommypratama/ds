@@ -1,0 +1,136 @@
+{
+  "acno": "T01683", 
+  "acquisitionYear": 1972, 
+  "all_artists": "David Bomberg", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131957", 
+      "displayOrder": 1, 
+      "fc": "David Bomberg", 
+      "gender": "Male", 
+      "id": 777, 
+      "mda": "Bomberg, David", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1972", 
+  "dateRange": {
+    "endYear": 1925, 
+    "startYear": 1925, 
+    "text": "1925"
+  }, 
+  "dateText": "1925", 
+  "depth": "", 
+  "dimensions": "support: 565 x 752 mm\r\nframe: 756 x 940 x 65 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "752", 
+  "id": 1246, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 991, 
+                "name": "Israel"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 992, 
+                "name": "Jerusalem - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3123, 
+                "name": "roof"
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01683_8.jpg", 
+  "title": "Jerusalem, Looking to Mount Scopus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bomberg-jerusalem-looking-to-mount-scopus-t01683", 
+  "width": "565"
+}

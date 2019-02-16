@@ -1,0 +1,154 @@
+{
+  "acno": "T05283", 
+  "acquisitionYear": 1988, 
+  "all_artists": "after James Hakewill", 
+  "catalogueGroup": {
+    "accessionRanges": "T05218-T05463", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65610, 
+    "shortTitle": "Picturesque Views on the Southern Coast of England"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1778, 
+      "date": "1778\u20131843", 
+      "displayOrder": 1, 
+      "fc": "James Hakewill", 
+      "gender": "Male", 
+      "id": 2231, 
+      "mda": "Hakewill, James", 
+      "role": "after", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1988", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "image: 109 x 141 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Picturesque Views on the Southern Coast of England", 
+  "height": "141", 
+  "id": 17060, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1246, 
+                "name": "Lewes, Lewes Castle"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1856, 
+                "name": "Sussex, East"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05283_8.jpg", 
+  "title": "Lewes Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hakewill-lewes-castle-t05283", 
+  "width": "109"
+}

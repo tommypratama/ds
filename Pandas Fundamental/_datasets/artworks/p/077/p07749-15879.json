@@ -1,0 +1,76 @@
+{
+  "acno": "P07749", 
+  "acquisitionYear": 1982, 
+  "all_artists": "John Walker", 
+  "catalogueGroup": {
+    "accessionRanges": "P07749-P07753", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65575, 
+    "shortTitle": "The Prahran Etchings"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1939, 
+      "date": "born 1939", 
+      "displayOrder": 1, 
+      "fc": "John Walker", 
+      "gender": "Male", 
+      "id": 2116, 
+      "mda": "Walker, John", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "", 
+  "dimensions": "image: 450 x 298 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Prahran Etchings", 
+  "height": "298", 
+  "id": 15879, 
+  "inscription": "date inscribed", 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Walker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07749_8.jpg", 
+  "title": "Prahran 3", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-prahran-3-p07749", 
+  "width": "450"
+}

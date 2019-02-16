@@ -1,0 +1,98 @@
+{
+  "acno": "P78407", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Elizabeth Wright", 
+  "catalogueGroup": {
+    "accessionRanges": "P78388-P78407", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66101, 
+    "shortTitle": "Cubitt Print Box"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1964, 
+      "date": "born 1964", 
+      "displayOrder": 1, 
+      "fc": "Elizabeth Wright", 
+      "gender": "Female", 
+      "id": 2774, 
+      "mda": "Wright, Elizabeth", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 2000", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 260 x 210 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Cubitt Print Box", 
+  "height": "210", 
+  "id": 27230, 
+  "inscription": null, 
+  "medium": "Digital print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Elizabeth Wright", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78407_8.jpg", 
+  "title": "Snowball", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wright-snowball-p78407", 
+  "width": "260"
+}

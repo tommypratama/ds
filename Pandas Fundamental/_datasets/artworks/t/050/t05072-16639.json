@@ -1,0 +1,166 @@
+{
+  "acno": "T05072", 
+  "acquisitionYear": 1988, 
+  "all_artists": "Sir Frank Short", 
+  "catalogueGroup": {
+    "accessionRanges": "T04873; T05042-T05074", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65602, 
+    "shortTitle": "Prints after J.M.W. Turner"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1857, 
+      "date": "1857\u20131945", 
+      "displayOrder": 1, 
+      "fc": "Sir Frank Short", 
+      "gender": "Male", 
+      "id": 492, 
+      "mda": "Short, Sir Frank", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1988", 
+  "dateRange": {
+    "endYear": 1896, 
+    "startYear": 1896, 
+    "text": "published 1896"
+  }, 
+  "dateText": "published 1896", 
+  "depth": "", 
+  "dimensions": "image: 311 x 436 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Prints after J.M.W. Turner", 
+  "height": "436", 
+  "id": 16639, 
+  "inscription": null, 
+  "medium": "Mezzotint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4386, 
+                "name": "River Rhine"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7318, 
+                "name": "Schaffhausen - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }, 
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Falls of the Rhine, Schaffhausen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/short-falls-of-the-rhine-schaffhausen-t05072", 
+  "width": "311"
+}

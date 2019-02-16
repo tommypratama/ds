@@ -1,0 +1,94 @@
+{
+  "acno": "D12320", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D12320", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D123/D12320_E.jpg", 
+          "height": 348, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139317, 
+  "catalogueGroup": {
+    "accessionRanges": "D12318-D12448; D40917-D40923", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65799, 
+    "shortTitle": "Durham, North Shore, Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1817, 
+    "startYear": 1817, 
+    "text": "1817"
+  }, 
+  "dateText": "1817", 
+  "depth": "", 
+  "dimensions": "support: 116 x 185 mm", 
+  "finberg": "CLVII 2 v", 
+  "foreignTitle": null, 
+  "groupTitle": "Durham, North Shore, Sketchbook", 
+  "height": "185", 
+  "id": 39688, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 6, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12320_8.jpg", 
+  "title": "Wearmouth Bridge, Sunderland, from Downstream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wearmouth-bridge-sunderland-from-downstream-d12320", 
+  "width": "116"
+}

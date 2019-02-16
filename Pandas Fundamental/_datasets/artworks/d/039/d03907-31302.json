@@ -1,0 +1,101 @@
+{
+  "acno": "D03907", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03833-D03973; D40780", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65716, 
+    "shortTitle": "Egyptian Details Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1800, 
+    "startYear": 1799, 
+    "text": "c.1799-1800"
+  }, 
+  "dateText": "c.1799\u20131800", 
+  "depth": "", 
+  "dimensions": "support: 166 x 82 mm", 
+  "finberg": "LXVI 72 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Egyptian Details Sketchbook", 
+  "height": "82", 
+  "id": 31302, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 148, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 930, 
+                "name": "eagle"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 267, 
+                "name": "ram"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8841, 
+                "name": "sculpture, Egyptian"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03907_8.jpg", 
+  "title": "Studies of an Eagle Standing on a Ram\u2019s Head, and of a Male Head with Ram\u2019s Horns", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-an-eagle-standing-on-a-rams-head-and-of-a-male-head-with-rams-horns-d03907", 
+  "width": "166"
+}

@@ -1,0 +1,136 @@
+{
+  "acno": "T08896", 
+  "acquisitionYear": 1997, 
+  "all_artists": "attributed to Julia Emily Gordon", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1810, 
+      "date": "1810\u20131896", 
+      "displayOrder": 1, 
+      "fc": "Julia Emily Gordon", 
+      "gender": "Female", 
+      "id": 2579, 
+      "mda": "Gordon, Julia Emily", 
+      "role": "attributed to", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 101 x 134 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "134", 
+  "id": 22947, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8244, 
+                "name": "Isola Bella"
+              }, 
+              {
+                "id": 7972, 
+                "name": "Lago Maggiore"
+              }, 
+              {
+                "id": 6594, 
+                "name": "Lake Como"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step"
+              }, 
+              {
+                "id": 4989, 
+                "name": "terrace"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08896_8.jpg", 
+  "title": "A Terrace (after Turner\u2019s \u2018Isola Bella, Lago Maggiore\u2019 for Rogers\u2019s \u2018Italy\u2019)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gordon-a-terrace-after-turners-isola-bella-lago-maggiore-for-rogerss-italy-t08896", 
+  "width": "101"
+}

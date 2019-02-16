@@ -1,0 +1,106 @@
+{
+  "acno": "T06829", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Renato Guttuso", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20131987", 
+      "displayOrder": 1, 
+      "fc": "Renato Guttuso", 
+      "gender": "Male", 
+      "id": 1234, 
+      "mda": "Guttuso, Renato", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by Gustav and Elly Kahnweiler 1974, accessioned 1994", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1956, 
+    "text": "1956"
+  }, 
+  "dateText": "1956", 
+  "depth": "", 
+  "dimensions": "support: 691 x 781 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "781", 
+  "id": 20890, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 12699, 
+      "name": "Socialist Realism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3710, 
+                "name": "Italy, Sicily"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3709, 
+                "name": "Santa Panagia"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06829_8.jpg", 
+  "title": "Santa Panagia (Sicily)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guttuso-santa-panagia-sicily-t06829", 
+  "width": "691"
+}

@@ -1,0 +1,336 @@
+{
+  "acno": "T07431", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Boris Taslitzky", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1911, 
+      "date": "1911\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Boris Taslitzky", 
+      "gender": "Male", 
+      "id": 2663, 
+      "mda": "Taslitzky, Boris", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the Friends of the Tate Gallery 1998", 
+  "dateRange": {
+    "endYear": 1951, 
+    "startYear": 1951, 
+    "text": "1951"
+  }, 
+  "dateText": "1951", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 2100 x 3100 mm", 
+  "foreignTitle": "Riposte", 
+  "groupTitle": null, 
+  "height": "3100", 
+  "id": 26287, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 12699, 
+      "name": "Socialist Realism"
+    }
+  ], 
+  "subjectCount": 27, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15462, 
+                "name": "French Indo-China, conflict c.1945-54"
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 893, 
+                "name": "aggression"
+              }, 
+              {
+                "id": 2657, 
+                "name": "anger"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1968, 
+                "name": "violence"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 576, 
+                "name": "brick"
+              }, 
+              {
+                "id": 3631, 
+                "name": "chain"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5442, 
+                "name": "buoy"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8929, 
+                "name": "flag, France"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5988, 
+                "name": "gun, rifle"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16576, 
+                "name": "metal, corrugated iron"
+              }
+            ], 
+            "id": 19732, 
+            "name": "materials"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 500, 
+                "name": "falling"
+              }, 
+              {
+                "id": 2781, 
+                "name": "fist/fists clenched"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 545, 
+                "name": "fighting"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12595, 
+                "name": "docker"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4796, 
+                "name": "policeman / policewoman"
+              }
+            ], 
+            "id": 125, 
+            "name": "crime and punishment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2470, 
+                "name": "persecution"
+              }, 
+              {
+                "id": 3592, 
+                "name": "war"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5339, 
+                "name": "political protest"
+              }, 
+              {
+                "id": 10459, 
+                "name": "riot"
+              }, 
+              {
+                "id": 14479, 
+                "name": "strike"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3242, 
+                "name": "ship, steam"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07431_8.jpg", 
+  "title": "Riposte", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/taslitzky-riposte-t07431", 
+  "width": "2100"
+}

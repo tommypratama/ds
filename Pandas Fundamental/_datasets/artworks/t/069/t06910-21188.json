@@ -1,0 +1,86 @@
+{
+  "acno": "T06910", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Colin Self", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1941, 
+      "date": "born 1941", 
+      "displayOrder": 1, 
+      "fc": "Colin Self", 
+      "gender": "Male", 
+      "id": 1922, 
+      "mda": "Self, Colin", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1994", 
+  "dateRange": {
+    "endYear": 1985, 
+    "startYear": 1985, 
+    "text": "1985"
+  }, 
+  "dateText": "1985", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 567 x 805 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "805", 
+  "id": 21188, 
+  "inscription": null, 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14341, 
+                "name": "level crossing"
+              }, 
+              {
+                "id": 3244, 
+                "name": "railway"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Colin Self. All Rights Reserved, DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06910_8.jpg", 
+  "title": "The Crossing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/self-the-crossing-t06910", 
+  "width": "567"
+}

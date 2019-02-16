@@ -1,0 +1,122 @@
+{
+  "acno": "A01172", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": null, 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": {
+    "endYear": 1861, 
+    "startYear": 1861, 
+    "text": "1861"
+  }, 
+  "dateText": "1861", 
+  "depth": "", 
+  "dimensions": "support: 254 x 127 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "127", 
+  "id": 1757, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on fabric", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3842, 
+                "name": "Dido"
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4670, 
+                "name": "hands clasped"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1434, 
+                "name": "queen"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01172_8.jpg", 
+  "title": "Dido", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-dido-a01172", 
+  "width": "254"
+}

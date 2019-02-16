@@ -1,0 +1,124 @@
+{
+  "acno": "N04362", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Mary McEvoy", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1870, 
+      "date": "1870\u20131941", 
+      "displayOrder": 1, 
+      "fc": "Mary McEvoy", 
+      "gender": "Female", 
+      "id": 1606, 
+      "mda": "McEvoy, Mary", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1927", 
+  "dateRange": {
+    "endYear": 1901, 
+    "startYear": 1901, 
+    "text": "1901"
+  }, 
+  "dateText": "1901", 
+  "depth": "", 
+  "dimensions": "support: 533 x 438 mm\r\nframe: 584 x 685 x 80 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "438", 
+  "id": 9093, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 359, 
+      "name": "New English Art Club"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 761, 
+                "name": "living room"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1566, 
+                "name": "reading"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04362_8.jpg", 
+  "title": "Interior: Girl Reading", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mcevoy-interior-girl-reading-n04362", 
+  "width": "533"
+}

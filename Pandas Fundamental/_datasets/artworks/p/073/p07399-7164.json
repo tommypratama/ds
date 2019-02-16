@@ -1,0 +1,86 @@
+{
+  "acno": "P07399", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Jasper Johns", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Jasper Johns", 
+      "gender": "Male", 
+      "id": 1365, 
+      "mda": "Johns, Jasper", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": "image: 695 x 1124 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1124", 
+  "id": 7164, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jasper Johns", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07399_8.jpg", 
+  "title": "Usuyuki", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/johns-usuyuki-p07399", 
+  "width": "695"
+}

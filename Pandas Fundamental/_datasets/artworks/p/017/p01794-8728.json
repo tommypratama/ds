@@ -1,0 +1,84 @@
+{
+  "acno": "P01794", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Sol LeWitt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132007", 
+      "displayOrder": 1, 
+      "fc": "Sol LeWitt", 
+      "gender": "Male", 
+      "id": 1504, 
+      "mda": "LeWitt, Sol", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Museum of Modern Art, New York 1976", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 159 x 375 mm\r\nsupport: 420 x 594 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "375", 
+  "id": 8728, 
+  "inscription": null, 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sol LeWitt", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01794_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-untitled-p01794", 
+  "width": "159"
+}

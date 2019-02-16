@@ -1,0 +1,92 @@
+{
+  "acno": "T03374", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Theo van Doesburg", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1883, 
+      "date": "1883\u20131931", 
+      "displayOrder": 1, 
+      "fc": "Theo van Doesburg", 
+      "gender": "Male", 
+      "id": 1017, 
+      "mda": "Doesburg, Theo van", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1925, 
+    "startYear": 1925, 
+    "text": "1925"
+  }, 
+  "dateText": "1925", 
+  "depth": "", 
+  "dimensions": "support: 500 x 500 mm\r\nframe: 690 x 691 x 80 mm", 
+  "foreignTitle": "Contre-compositie", 
+  "groupTitle": null, 
+  "height": "500", 
+  "id": 3965, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1686, 
+      "name": "De Stijl"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6739, 
+                "name": "dynamism"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03374_8.jpg", 
+  "title": "Counter-Composition VI", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/doesburg-counter-composition-vi-t03374", 
+  "width": "500"
+}

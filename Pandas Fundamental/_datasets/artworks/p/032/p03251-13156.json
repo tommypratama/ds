@@ -1,0 +1,104 @@
+{
+  "acno": "P03251", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Antonio Saura", 
+  "catalogueGroup": {
+    "accessionRanges": "P03241-P03255", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65252, 
+    "shortTitle": "For Jorn"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Antonio Saura", 
+      "gender": "Male", 
+      "id": 1900, 
+      "mda": "Saura, Antonio", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Asger Jorn Foundation 1978", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1975, 
+    "text": "1975-6"
+  }, 
+  "dateText": "1975\u20136", 
+  "depth": "", 
+  "dimensions": "image: 606 x 425 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "For Jorn", 
+  "height": "425", 
+  "id": 13156, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6376, 
+                "name": "French text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03251_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/saura-no-title-p03251", 
+  "width": "606"
+}

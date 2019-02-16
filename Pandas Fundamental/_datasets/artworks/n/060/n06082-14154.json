@@ -1,0 +1,106 @@
+{
+  "acno": "N06082", 
+  "acquisitionYear": 1951, 
+  "all_artists": "James Havard Thomas", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1854, 
+      "date": "1854\u20131921", 
+      "displayOrder": 1, 
+      "fc": "James Havard Thomas", 
+      "gender": "Male", 
+      "id": 546, 
+      "mda": "Thomas, James Havard", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1951", 
+  "dateRange": {
+    "endYear": 1921, 
+    "startYear": 1912, 
+    "text": "c.1912-21"
+  }, 
+  "dateText": "c.1912\u201321", 
+  "depth": "600", 
+  "dimensions": "object: 1613 x 552 x 600 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "552", 
+  "id": 14154, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5396, 
+                "name": "Cassandra"
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 934, 
+                "name": "hand/hands raised"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06082_8.jpg", 
+  "title": "Cassandra", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/thomas-cassandra-n06082", 
+  "width": "1613"
+}

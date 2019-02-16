@@ -1,0 +1,117 @@
+{
+  "acno": "AR00012", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Alex Katz", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "born 1927", 
+      "displayOrder": 1, 
+      "fc": "Alex Katz", 
+      "gender": "Male", 
+      "id": 1386, 
+      "mda": "Katz, Alex", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1998, 
+    "text": "1998"
+  }, 
+  "dateText": "1998", 
+  "depth": "4", 
+  "dimensions": "support: 229 x 300 x 4 mm\r\nframe: 249 x 321 x 34 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "300", 
+  "id": 98185, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on hardboard", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7289, 
+                "name": "tower block"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alex Katz", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00012_8.jpg", 
+  "title": "City Night", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-city-night-ar00012", 
+  "width": "229"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "P78518", 
+  "acquisitionYear": 2001, 
+  "all_artists": "Tacita Dean", 
+  "catalogueGroup": {
+    "accessionRanges": "P78511-P78520", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66646, 
+    "shortTitle": "Bugs: A Portfolio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1965, 
+      "date": "born 1965", 
+      "displayOrder": 1, 
+      "fc": "Tacita Dean", 
+      "gender": "Female", 
+      "id": 2675, 
+      "mda": "Dean, Tacita", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 2001", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "support: 303 x 406 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Bugs: A Portfolio", 
+  "height": "406", 
+  "id": 66643, 
+  "inscription": null, 
+  "medium": "Photograph, colour, Chromogenic print, on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8482, 
+                "name": "blur"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1400, 
+                "name": "rain"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3590, 
+                "name": "wasp"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tacita Dean, courtesy Frith Street Gallery, London and Marian Goodman Gallery, New York/Paris", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78518_8.jpg", 
+  "title": "Wasp", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dean-wasp-p78518", 
+  "width": "303"
+}

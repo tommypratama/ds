@@ -1,0 +1,142 @@
+{
+  "acno": "T04857", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Frederick Brill", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1920, 
+      "date": "1920\u20131984", 
+      "displayOrder": 1, 
+      "fc": "Frederick Brill", 
+      "gender": "Male", 
+      "id": 812, 
+      "mda": "Brill, Frederick", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mr and Mrs John Gere 1986", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1956, 
+    "text": "1956"
+  }, 
+  "dateText": "1956", 
+  "depth": "", 
+  "dimensions": "support: 915 x 1220 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1220", 
+  "id": 1491, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1600, 
+                "name": "Dorset"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8324, 
+                "name": "Isle of Purbeck"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2008, 
+                "name": "Worth Matravers, Seacombe Quarry"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 675, 
+                "name": "cave"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13637, 
+                "name": "quarry"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Quarry Face, Worth Matravers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brill-quarry-face-worth-matravers-t04857", 
+  "width": "915"
+}

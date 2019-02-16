@@ -1,0 +1,82 @@
+{
+  "acno": "T09257", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Cornelius Varley", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1781, 
+      "date": "1781\u20131873", 
+      "displayOrder": 1, 
+      "fc": "Cornelius Varley", 
+      "gender": "Male", 
+      "id": 568, 
+      "mda": "Varley, Cornelius", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 100 x 129 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "129", 
+  "id": 23889, 
+  "inscription": null, 
+  "medium": "Ink, watercolour and gum arabic on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09257_8.jpg", 
+  "title": "A Cottage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/varley-a-cottage-t09257", 
+  "width": "100"
+}

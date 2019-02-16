@@ -1,0 +1,132 @@
+{
+  "acno": "T07799", 
+  "acquisitionYear": 2001, 
+  "all_artists": "Christopher Wood", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1901, 
+      "date": "1901\u20131930", 
+      "displayOrder": 1, 
+      "fc": "Christopher Wood", 
+      "gender": "Male", 
+      "id": 2167, 
+      "mda": "Wood, Christopher", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Bequeathed by Winifred Le Roy 2001", 
+  "dateRange": {
+    "endYear": 1929, 
+    "startYear": 1929, 
+    "text": "1929"
+  }, 
+  "dateText": "1929", 
+  "depth": "19", 
+  "dimensions": "support: 650 x 810 x 19 mm\r\nframe: 743 x 904 x 70 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "810", 
+  "id": 3, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2040, 
+                "name": "Dieppe - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5592, 
+                "name": "France, Normandy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1567, 
+                "name": "seafront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07799_8.jpg", 
+  "title": "A Fishing Boat in Dieppe Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wood-a-fishing-boat-in-dieppe-harbour-t07799", 
+  "width": "650"
+}

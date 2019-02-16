@@ -1,0 +1,128 @@
+{
+  "acno": "P05453", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Linda McCartney", 
+  "catalogueGroup": {
+    "accessionRanges": "P05441-P05454", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65389, 
+    "shortTitle": "Linda's Pictures"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1941, 
+      "date": "1941\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Linda McCartney", 
+      "gender": "Female", 
+      "id": 1603, 
+      "mda": "McCartney, Linda", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater 1978", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "image: 490 x 333 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Linda's Pictures", 
+  "height": "333", 
+  "id": 9058, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8482, 
+                "name": "blur"
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4606, 
+                "name": "head"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15954, 
+                "name": "harness"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Cinnamon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mccartney-cinnamon-p05453", 
+  "width": "490"
+}

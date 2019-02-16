@@ -1,0 +1,186 @@
+{
+  "acno": "D15471", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D15471", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D154/D15471_E.jpg", 
+          "height": 418, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1137746, 
+  "catalogueGroup": {
+    "accessionRanges": "D15467-D15554; D41397-D41398", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65824, 
+    "shortTitle": "Tivoli Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 200 x 253 mm", 
+  "finberg": "CLXXXIII 5", 
+  "foreignTitle": null, 
+  "groupTitle": "Tivoli Sketchbook", 
+  "height": "253", 
+  "id": 42827, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 11, 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10005, 
+                "name": "River Aniene"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13431, 
+                "name": "Tivoli, Rocca Pia"
+              }, 
+              {
+                "id": 28357, 
+                "name": "Tivoli, Santa Maria Maggiore"
+              }, 
+              {
+                "id": 28351, 
+                "name": "Tivoli, Santuario di Ercole Vincitore"
+              }, 
+              {
+                "id": 14908, 
+                "name": "Tivoli, Tempio della Tosse"
+              }, 
+              {
+                "id": 12879, 
+                "name": "Tivoli, Villa d'Este"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2550, 
+                "name": "temple"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15471_8.jpg", 
+  "title": "View of Tivoli with the Santuario di Ercole Vincitore and the Tempio della Tosse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-tivoli-with-the-santuario-di-ercole-vincitore-and-the-tempio-della-tosse-d15471", 
+  "width": "200"
+}

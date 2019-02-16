@@ -1,0 +1,88 @@
+{
+  "acno": "P77829", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Richard Long", 
+  "catalogueGroup": {
+    "accessionRanges": "P77828-P77830", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66013, 
+    "shortTitle": "Untitled"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Richard Long", 
+      "gender": "Male", 
+      "id": 1525, 
+      "mda": "Long, Richard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1996", 
+  "dateRange": {
+    "endYear": 1994, 
+    "startYear": 1994, 
+    "text": "1994"
+  }, 
+  "dateText": "1994", 
+  "depth": "", 
+  "dimensions": "image: 832 x 540 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Untitled", 
+  "height": "540", 
+  "id": 21619, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8034, 
+                "name": "sequence"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Long", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77829_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-no-title-p77829", 
+  "width": "832"
+}

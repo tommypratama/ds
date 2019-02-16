@@ -1,0 +1,259 @@
+{
+  "acno": "P20129", 
+  "acquisitionYear": 1993, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 David Hockney", 
+      "creativeCommons": null, 
+      "filenameBase": "P20129_139061", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "P/P20/P20129_139061_7.jpg", 
+          "height": 107, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "P/P20/P20129_139061_8.jpg", 
+          "height": 214, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "P/P20/P20129_139061_9.jpg", 
+          "height": 609, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "P/P20/P20129_139061_10.jpg", 
+          "height": 1282, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
+  "all_artists": "David Hockney", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "David Hockney", 
+      "gender": "Male", 
+      "id": 1293, 
+      "mda": "Hockney, David", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1993", 
+  "dateRange": {
+    "endYear": 1987, 
+    "startYear": 1987, 
+    "text": "1987"
+  }, 
+  "dateText": "1987", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 2152 x 851 mm\r\nunconfirmed: 2152 x 851 mm\r\nunconfirmed: 2152 x 851 mm\r\nunconfirmed: 2152 x 851 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "851", 
+  "id": 20702, 
+  "inscription": null, 
+  "medium": "Lithograph, screenprint, printed paper and stencil on paper on 4 panels", 
+  "movementCount": 0, 
+  "subjectCount": 14, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5695, 
+                "name": "Caribbean"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2393, 
+                "name": "afternoon"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }, 
+              {
+                "id": 1831, 
+                "name": "palm"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug"
+              }, 
+              {
+                "id": 4672, 
+                "name": "tea pot"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6925, 
+                "name": "cubist space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5692, 
+                "name": "swimming pool"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4656, 
+                "name": "verandah"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3352, 
+                "name": "tea party"
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Hockney", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20129_8.jpg", 
+  "title": "Caribbean Tea Time", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hockney-caribbean-tea-time-p20129", 
+  "width": "2152"
+}

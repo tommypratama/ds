@@ -1,0 +1,448 @@
+{
+  "acno": "N01506", 
+  "acquisitionYear": 1894, 
+  "all_artists": "Sir John Everett Millais, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1829, 
+      "date": "1829\u20131896", 
+      "displayOrder": 1, 
+      "fc": "Sir John Everett Millais, Bt", 
+      "gender": "Male", 
+      "id": 379, 
+      "mda": "Millais, Sir John Everett, Bt", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by Sir Henry Tate 1894", 
+  "dateRange": {
+    "endYear": 1852, 
+    "startYear": 1851, 
+    "text": "1851-2"
+  }, 
+  "dateText": "1851\u20132", 
+  "depth": "", 
+  "dimensions": "support: 762 x 1118 mm\r\nframe: 1105 x 1458 x 145 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1118", 
+  "id": 9506, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 46, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3284, 
+                "name": "'Hamlet'"
+              }
+            ], 
+            "id": 59, 
+            "name": "Shakespeare"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3285, 
+                "name": "Ophelia"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4333, 
+                "name": "Ewell"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6287, 
+                "name": "River Hogsmill"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 471, 
+                "name": "Surrey"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1379, 
+                "name": "Siddal, Elizabeth Eleanor"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13538, 
+                "name": "drowned"
+              }, 
+              {
+                "id": 2342, 
+                "name": "mental illness"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2126, 
+                "name": "floating"
+              }, 
+              {
+                "id": 934, 
+                "name": "hand/hands raised"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2422, 
+                "name": "daisy"
+              }, 
+              {
+                "id": 6286, 
+                "name": "forget-me-not"
+              }, 
+              {
+                "id": 6285, 
+                "name": "fritillary"
+              }, 
+              {
+                "id": 6283, 
+                "name": "meadowsweet"
+              }, 
+              {
+                "id": 6280, 
+                "name": "nettle"
+              }, 
+              {
+                "id": 1964, 
+                "name": "pansy"
+              }, 
+              {
+                "id": 6284, 
+                "name": "pheasant's eye"
+              }, 
+              {
+                "id": 5387, 
+                "name": "poppy"
+              }, 
+              {
+                "id": 6281, 
+                "name": "purple loosestrife"
+              }, 
+              {
+                "id": 818, 
+                "name": "reed"
+              }, 
+              {
+                "id": 1283, 
+                "name": "rose"
+              }, 
+              {
+                "id": 6282, 
+                "name": "violet"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4315, 
+                "name": "robin"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2314, 
+                "name": "willow"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3074, 
+                "name": "courtier"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6299, 
+                "name": "death - poppy"
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8043, 
+                "name": "faithfulness - violet"
+              }, 
+              {
+                "id": 8048, 
+                "name": "innocence - daisy"
+              }, 
+              {
+                "id": 6290, 
+                "name": "love, foresaken - willow"
+              }, 
+              {
+                "id": 6293, 
+                "name": "love, in vain - pansy"
+              }, 
+              {
+                "id": 8053, 
+                "name": "memory - forget-me-not"
+              }, 
+              {
+                "id": 8054, 
+                "name": "pain - nettle"
+              }, 
+              {
+                "id": 6303, 
+                "name": "sorrow - fritillary"
+              }, 
+              {
+                "id": 6302, 
+                "name": "sorrow - pheasant's eye flower"
+              }, 
+              {
+                "id": 8060, 
+                "name": "uselessness - meadowsweet"
+              }
+            ], 
+            "id": 163, 
+            "name": "emotional states and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6297, 
+                "name": "thought - pansy"
+              }
+            ], 
+            "id": 1030, 
+            "name": "abstract concepts"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1817, 
+                "name": "despair"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1750, 
+                "name": "picking flowers"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10069, 
+                "name": "singing"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01506_8.jpg", 
+  "title": "Ophelia", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/millais-ophelia-n01506", 
+  "width": "762"
+}

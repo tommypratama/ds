@@ -1,0 +1,84 @@
+{
+  "acno": "P11071", 
+  "acquisitionYear": 1984, 
+  "all_artists": "Sam Francis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "1923\u20131994", 
+      "displayOrder": 1, 
+      "fc": "Sam Francis", 
+      "gender": "Male", 
+      "id": 1113, 
+      "mda": "Francis, Sam", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by J.G. Cluff 1984", 
+  "dateRange": {
+    "endYear": 1960, 
+    "startYear": 1960, 
+    "text": "1960"
+  }, 
+  "dateText": "1960", 
+  "depth": "", 
+  "dimensions": "image: 844 x 632 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "632", 
+  "id": 4524, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 416, 
+      "name": "Abstract Expressionism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Sam Francis/ ARS, NY & DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11071_8.jpg", 
+  "title": "Blue Blood Stone", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/francis-blue-blood-stone-p11071", 
+  "width": "844"
+}

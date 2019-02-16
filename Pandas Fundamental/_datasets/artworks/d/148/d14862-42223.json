@@ -1,0 +1,119 @@
+{
+  "acno": "D14862", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D14833-D14853; D14855-D14878; D14880-D14881; D14883-D14885; D14887-D14903; D14905-D14932; D40671-D40672", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65819, 
+    "shortTitle": "Rimini to Rome Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1829, 
+    "startYear": 1828, 
+    "text": "1828-9"
+  }, 
+  "dateText": "1828\u20139", 
+  "depth": "", 
+  "dimensions": "support: 97 x 132 mm", 
+  "finberg": "CLXXVIII 17", 
+  "foreignTitle": null, 
+  "groupTitle": "Rimini to Rome Sketchbook", 
+  "height": "132", 
+  "id": 42223, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 35, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12055, 
+                "name": "Bologna, Bologna Cathedral"
+              }, 
+              {
+                "id": 9779, 
+                "name": "Bologna, Piazza del Nettuno"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2987, 
+                "name": "bell tower"
+              }, 
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14862_8.jpg", 
+  "title": "Buildings, Etc., Including a Sketch of the Campanile of Bologna Cathedral, as Seen from Piazza del Nettuno", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-etc-including-a-sketch-of-the-campanile-of-bologna-cathedral-as-seen-from-d14862", 
+  "width": "97"
+}

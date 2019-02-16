@@ -1,0 +1,153 @@
+{
+  "acno": "AR01126", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Edward Ruscha", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Edward Ruscha", 
+      "gender": "Male", 
+      "id": 1882, 
+      "mda": "Ruscha, Edward", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nTate and the National Galleries of Scotland. Presented by the artist, 2009\r\n", 
+  "dateRange": {
+    "endYear": 1984, 
+    "startYear": 1984, 
+    "text": "1984"
+  }, 
+  "dateText": "1984", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 2515 x 2057 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2057", 
+  "id": 104853, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 755, 
+                "name": "grass"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3981, 
+                "name": "menace"
+              }, 
+              {
+                "id": 1968, 
+                "name": "violence"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10065, 
+                "name": "music"
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ed Ruscha", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR01126_8.jpg", 
+  "title": "The Music from the Balconies", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ruscha-the-music-from-the-balconies-ar01126", 
+  "width": "2515"
+}

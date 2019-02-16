@@ -1,0 +1,83 @@
+{
+  "acno": "T09839", 
+  "acquisitionYear": 1997, 
+  "all_artists": "M. Turton", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "date": "19th century ?", 
+      "displayOrder": 1, 
+      "fc": "M. Turton", 
+      "gender": null, 
+      "id": 2541, 
+      "mda": "Turton, M.", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 366 x 576 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "576", 
+  "id": 23874, 
+  "inscription": null, 
+  "medium": "Chalk and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09839_8.jpg", 
+  "title": "Lake View with Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turton-lake-view-with-trees-t09839", 
+  "width": "366"
+}

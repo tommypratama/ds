@@ -1,0 +1,88 @@
+{
+  "acno": "P78715", 
+  "acquisitionYear": 2003, 
+  "all_artists": "Richard Wright", 
+  "catalogueGroup": {
+    "accessionRanges": "P78712-P78716", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 77625, 
+    "shortTitle": "BQ Poster Edition"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1960, 
+      "date": "born 1960", 
+      "displayOrder": 1, 
+      "fc": "Richard Wright", 
+      "gender": "Male", 
+      "id": 5905, 
+      "mda": "Wright, Richard", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased 2003", 
+  "dateRange": {
+    "endYear": 2001, 
+    "startYear": 2001, 
+    "text": "2001"
+  }, 
+  "dateText": "2001", 
+  "depth": "", 
+  "dimensions": "image: 840 x 1190 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "BQ Poster Edition", 
+  "height": "1190", 
+  "id": 77622, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16420, 
+                "name": "cross"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Wright", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78715_8.jpg", 
+  "title": "Untitled Figure 4", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wright-untitled-figure-4-p78715", 
+  "width": "840"
+}

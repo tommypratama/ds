@@ -1,0 +1,166 @@
+{
+  "acno": "P78469", 
+  "all_artists": "Jake Chapman, Dinos Chapman", 
+  "catalogueGroup": {
+    "accessionRanges": "P78455-P78474", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66687, 
+    "shortTitle": "Exquisite Corpse"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1966, 
+      "date": "born 1966", 
+      "displayOrder": 1, 
+      "fc": "Jake Chapman", 
+      "gender": "Male", 
+      "id": 2614, 
+      "mda": "Chapman, Jake", 
+      "role": "artist", 
+      "startLetter": "C"
+    }, 
+    {
+      "birthYear": 1962, 
+      "date": "born 1962", 
+      "displayOrder": 2, 
+      "fc": "Dinos Chapman", 
+      "gender": "Male", 
+      "id": 4335, 
+      "mda": "Chapman, Dinos", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 2000\r\n", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "image: 228 x 78 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Exquisite Corpse", 
+  "height": "78", 
+  "id": 180, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 16666, 
+      "name": "Abject art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance"
+              }, 
+              {
+                "id": 6919, 
+                "name": "fragmentation"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 795, 
+                "name": "horror"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1007, 
+                "name": "fly"
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1708, 
+                "name": "monster"
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jake and Dinos Chapman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78469_8.jpg", 
+  "title": "Exquisite Corpse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78469", 
+  "width": "228"
+}

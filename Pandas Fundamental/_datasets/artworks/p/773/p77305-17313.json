@@ -1,0 +1,139 @@
+{
+  "acno": "P77305", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Larry Rivers, Frank O'Hara", 
+  "catalogueGroup": {
+    "accessionRanges": "P77305-P77317", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65679, 
+    "shortTitle": "Stones"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "1923\u20132002", 
+      "displayOrder": 1, 
+      "fc": "Larry Rivers", 
+      "gender": "Male", 
+      "id": 1852, 
+      "mda": "Rivers, Larry", 
+      "role": "artist", 
+      "startLetter": "R"
+    }, 
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20131966", 
+      "displayOrder": 2, 
+      "fc": "Frank O'Hara", 
+      "gender": "Male", 
+      "id": 2718, 
+      "mda": "O'Hara, Frank", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Purchased 1989", 
+  "dateRange": {
+    "endYear": 1959, 
+    "startYear": 1959, 
+    "text": "1959"
+  }, 
+  "dateText": "1959", 
+  "depth": "", 
+  "dimensions": "image: 315 x 400 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Stones", 
+  "height": "400", 
+  "id": 17313, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14325, 
+                "name": "bullet"
+              }, 
+              {
+                "id": 2814, 
+                "name": "gun, handgun"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16105, 
+                "name": "cartoon / comic strip"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1968, 
+                "name": "violence"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[title page]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rivers-ohara-title-page-p77305", 
+  "width": "315"
+}

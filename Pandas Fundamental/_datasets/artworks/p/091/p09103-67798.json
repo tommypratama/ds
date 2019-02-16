@@ -1,0 +1,98 @@
+{
+  "acno": "P09103", 
+  "acquisitionYear": 1984, 
+  "all_artists": "Oskar Kokoschka", 
+  "catalogueGroup": {
+    "accessionRanges": "P09099-P09109", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 67805, 
+    "shortTitle": "Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1886, 
+      "date": "1886\u20131980", 
+      "displayOrder": 1, 
+      "fc": "Oskar Kokoschka", 
+      "gender": "Male", 
+      "id": 1430, 
+      "mda": "Kokoschka, Oskar", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Olda Kokoschka, the artist's widow 1984", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 253 x 368 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Sketchbook", 
+  "height": "368", 
+  "id": 67798, 
+  "inscription": null, 
+  "medium": "Pastel on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3077, 
+                "name": "Westminster, Houses of Parliament"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Oscar Kokoschka", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P09/P09103_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09103", 
+  "width": "253"
+}

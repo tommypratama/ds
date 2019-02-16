@@ -1,0 +1,76 @@
+{
+  "acno": "P06602", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Michael Warren", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "Michael Warren", 
+      "gender": "Male", 
+      "id": 2122, 
+      "mda": "Warren, Michael", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1973, 
+    "startYear": 1973, 
+    "text": "1973"
+  }, 
+  "dateText": "1973", 
+  "depth": "", 
+  "dimensions": "image: 508 x 257 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "257", 
+  "id": 15977, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7653, 
+                "name": "lapwing"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2369, 
+                "name": "plant"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Lapwing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warren-lapwing-p06602", 
+  "width": "508"
+}

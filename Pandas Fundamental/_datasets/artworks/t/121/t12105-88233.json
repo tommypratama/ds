@@ -1,0 +1,76 @@
+{
+  "acno": "T12105", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Shoji Hamada", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1884, 
+      "date": "1884\u20131978", 
+      "displayOrder": 1, 
+      "fc": "Shoji Hamada", 
+      "gender": "Male", 
+      "id": 8795, 
+      "mda": "Hamada, Shoji", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2005", 
+  "dateRange": {
+    "endYear": 1940, 
+    "startYear": 1940, 
+    "text": "c.1940"
+  }, 
+  "dateText": "c.1940", 
+  "depth": "225", 
+  "dimensions": "object: 230 x 225 x 225 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "225", 
+  "id": 88233, 
+  "inscription": null, 
+  "medium": "Reduced stoneware", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2606, 
+                "name": "jar"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Nine-sided Jar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamada-nine-sided-jar-t12105", 
+  "width": "230"
+}

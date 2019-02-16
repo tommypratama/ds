@@ -1,0 +1,112 @@
+{
+  "acno": "P06761", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Peter Brook", 
+  "catalogueGroup": {
+    "accessionRanges": "P06632-P06633; P06722; P06761-P06769", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65263, 
+    "shortTitle": "Twelve Months of the Year"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "1927\u20132009", 
+      "displayOrder": 1, 
+      "fc": "Peter Brook", 
+      "gender": "Male", 
+      "id": 816, 
+      "mda": "Brook, Peter", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1978", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1976, 
+    "text": "1976-7"
+  }, 
+  "dateText": "1976\u20137", 
+  "depth": "", 
+  "dimensions": "image: 505 x 715 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Twelve Months of the Year", 
+  "height": "715", 
+  "id": 1560, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 505, 
+                "name": "barn"
+              }, 
+              {
+                "id": 1561, 
+                "name": "farm"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1615, 
+                "name": "spring"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Peter Brook", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06761_8.jpg", 
+  "title": "APRIL Showers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brook-april-showers-p06761", 
+  "width": "505"
+}

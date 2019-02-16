@@ -1,0 +1,134 @@
+{
+  "acno": "A00034", 
+  "acquisitionYear": 1922, 
+  "all_artists": "William Blake", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1757, 
+      "date": "1757\u20131827", 
+      "displayOrder": 1, 
+      "fc": "William Blake", 
+      "gender": "Male", 
+      "id": 39, 
+      "mda": "Blake, William", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Mrs John Richmond 1922", 
+  "dateRange": {
+    "endYear": 1835, 
+    "startYear": 1794, 
+    "text": "1794-c.1830-5"
+  }, 
+  "dateText": "1794\u2013c.1830\u20135", 
+  "depth": "", 
+  "dimensions": "support: 92 x 166 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "166", 
+  "id": 1068, 
+  "inscription": null, 
+  "medium": "Relief etching and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12657, 
+                "name": "Blake, William, 'Europe'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1573, 
+                "name": "wing"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1503, 
+                "name": "flying"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8494, 
+                "name": "word"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00034_8.jpg", 
+  "title": "\u2018Europe\u2019: Fragment of Pages 3 and 4", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-europe-fragment-of-pages-3-and-4-a00034", 
+  "width": "92"
+}

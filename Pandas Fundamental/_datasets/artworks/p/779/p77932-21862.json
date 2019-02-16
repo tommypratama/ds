@@ -1,0 +1,102 @@
+{
+  "acno": "P77932", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Nicholas May", 
+  "catalogueGroup": {
+    "accessionRanges": "P77924-P77934", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66021, 
+    "shortTitle": "London"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1962, 
+      "date": "born 1962", 
+      "displayOrder": 1, 
+      "fc": "Nicholas May", 
+      "gender": "Male", 
+      "id": 2367, 
+      "mda": "May, Nicholas", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Acquired by purchase and gift from Charles Booth-Clibborn in memory of Joshua Compston 1997", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "", 
+  "dimensions": "image: 752 x 473 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "London", 
+  "height": "473", 
+  "id": 21862, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 800, 
+                "name": "wind"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Anabatic Print", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/may-anabatic-print-p77932", 
+  "width": "752"
+}

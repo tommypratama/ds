@@ -1,0 +1,221 @@
+{
+  "acno": "N04828", 
+  "acquisitionYear": 1936, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "N04828_131290", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N04/N04828_131290_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 80
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N04/N04828_131290_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 160
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N04/N04828_131290_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 319
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N04/N04828_131290_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 958
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Sir Alfred Gilbert", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1854, 
+      "date": "1854\u20131934", 
+      "displayOrder": 1, 
+      "fc": "Sir Alfred Gilbert", 
+      "gender": "Male", 
+      "id": 208, 
+      "mda": "Gilbert, Sir Alfred", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Bequeathed by Frederick Harrison 1936", 
+  "dateRange": {
+    "endYear": 1883, 
+    "startYear": 1881, 
+    "text": "1881-3"
+  }, 
+  "dateText": "1881\u20133", 
+  "depth": "121", 
+  "dimensions": "object: 368 x 178 x 121 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "178", 
+  "id": 5174, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 4, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16650, 
+      "name": "Decadence"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16651, 
+      "name": "Fin de Si\u00e8cle"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 361, 
+      "name": "New Sculpture"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 16649, 
+      "name": "Symbolism"
+    }
+  ], 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3339, 
+                "name": "Perseus"
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 868, 
+                "name": "helmet"
+              }, 
+              {
+                "id": 1029, 
+                "name": "shoe"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 619, 
+                "name": "sword"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1573, 
+                "name": "wing"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04828_8.jpg", 
+  "title": "Perseus Arming", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gilbert-perseus-arming-n04828", 
+  "width": "368"
+}

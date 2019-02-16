@@ -1,0 +1,124 @@
+{
+  "acno": "P79389", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Cornelia Parker", 
+  "catalogueGroup": {
+    "accessionRanges": "P79374-P79395", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 101484, 
+    "shortTitle": "The House of Fairy Tales"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1956, 
+      "date": "born 1956", 
+      "displayOrder": 1, 
+      "fc": "Cornelia Parker", 
+      "gender": "Female", 
+      "id": 2358, 
+      "mda": "Parker, Cornelia", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Anne Best 2008", 
+  "dateRange": {
+    "endYear": 2008, 
+    "startYear": 2008, 
+    "text": "2008"
+  }, 
+  "dateText": "2008", 
+  "depth": "", 
+  "dimensions": "image: 238 x 230 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The House of Fairy Tales", 
+  "height": "230", 
+  "id": 101520, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1572, 
+                "name": "eye"
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Cornelia Parker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79389_8.jpg", 
+  "title": "The Blue Room", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/parker-the-blue-room-p79389", 
+  "width": "238"
+}

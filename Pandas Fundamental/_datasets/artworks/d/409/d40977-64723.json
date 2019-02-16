@@ -1,0 +1,126 @@
+{
+  "acno": "D40977", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1145264, 
+  "catalogueGroup": {
+    "accessionRanges": "D18525-D18568; D18571-D18590; D40975-D40977", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65848, 
+    "shortTitle": "Paris, Seine and Dieppe Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1821, 
+    "startYear": 1821, 
+    "text": "1821"
+  }, 
+  "dateText": "1821", 
+  "depth": "", 
+  "dimensions": "support: 113 x 189 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Paris, Seine and Dieppe Sketchbook", 
+  "height": "189", 
+  "id": 64723, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 85, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4945, 
+                "name": "dresser"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7480, 
+                "name": "telescope"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1106, 
+                "name": "looking / watching"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40977_8.jpg", 
+  "title": "Chest at Farnley; Seated Woman; Two Men with a Telescope; and Inscriptions", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-chest-at-farnley-seated-woman-two-men-with-a-telescope-and-inscriptions-d40977", 
+  "width": "113"
+}

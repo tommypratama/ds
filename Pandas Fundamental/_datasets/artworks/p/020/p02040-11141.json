@@ -1,0 +1,298 @@
+{
+  "acno": "P02040", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Sir Eduardo Paolozzi", 
+  "catalogueGroup": {
+    "accessionRanges": "P02020-P02065", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65447, 
+    "shortTitle": "Bunk"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132005", 
+      "displayOrder": 1, 
+      "fc": "Sir Eduardo Paolozzi", 
+      "gender": "Male", 
+      "id": 1738, 
+      "mda": "Paolozzi, Sir Eduardo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1972", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "support: 406 x 281 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Bunk", 
+  "height": "281", 
+  "id": 11141, 
+  "inscription": null, 
+  "medium": "Screenprint and lithograph on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 425, 
+      "name": "Independent Group"
+    }
+  ], 
+  "subjectCount": 20, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1172, 
+                "name": "American"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }, 
+          {
+            "children": [
+              {
+                "id": 765, 
+                "name": "car"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2476, 
+                "name": "contemporary society"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9476, 
+                "name": "Bismarck"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }, 
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption"
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific"
+              }, 
+              {
+                "id": 5104, 
+                "name": "flag, USA / Stars and Stripes"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5446, 
+                "name": "uniform / kit"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 807, 
+                "name": "lawn"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3585, 
+                "name": "modernist"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7289, 
+                "name": "tower block"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1617, 
+                "name": "musician"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7268, 
+                "name": "student"
+              }
+            ], 
+            "id": 121, 
+            "name": "educational and scientific"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Eduardo Paolozzi Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02040_8.jpg", 
+  "title": "21a. North Dakota\u2019s Lone Sky Scraper", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-21a-north-dakotas-lone-sky-scraper-p02040", 
+  "width": "406"
+}

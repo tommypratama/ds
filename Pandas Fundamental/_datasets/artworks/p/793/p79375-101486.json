@@ -1,0 +1,96 @@
+{
+  "acno": "P79375", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Spartacus Chetwynd", 
+  "catalogueGroup": {
+    "accessionRanges": "P79374-P79395", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 101484, 
+    "shortTitle": "The House of Fairy Tales"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1973, 
+      "date": "born 1973", 
+      "displayOrder": 1, 
+      "fc": "Spartacus Chetwynd", 
+      "gender": "Female", 
+      "id": 12108, 
+      "mda": "Chetwynd, Spartacus", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Anne Best 2008", 
+  "dateRange": {
+    "endYear": 2008, 
+    "startYear": 2008, 
+    "text": "2008"
+  }, 
+  "dateText": "2008", 
+  "depth": "", 
+  "dimensions": "image: 245 x 330 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The House of Fairy Tales", 
+  "height": "330", 
+  "id": 101486, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2327, 
+                "name": "bat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Spartacus Chetwynd", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79375_8.jpg", 
+  "title": "Bat Opera 33", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chetwynd-bat-opera-33-p79375", 
+  "width": "245"
+}

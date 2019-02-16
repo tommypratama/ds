@@ -1,0 +1,82 @@
+{
+  "acno": "N04982", 
+  "acquisitionYear": 1939, 
+  "all_artists": "Jean Le Capelain", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1814, 
+      "date": "1814\u20131848", 
+      "displayOrder": 1, 
+      "fc": "Jean Le Capelain", 
+      "gender": "Male", 
+      "id": 338, 
+      "mda": "Le Capelain, Jean", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by D.C. Fincham 1939", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 44 x 178 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "178", 
+  "id": 8500, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04982_8.jpg", 
+  "title": "Harbour with Shipping", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/le-capelain-harbour-with-shipping-n04982", 
+  "width": "44"
+}

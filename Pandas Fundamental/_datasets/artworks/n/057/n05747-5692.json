@@ -1,0 +1,132 @@
+{
+  "acno": "N05747", 
+  "acquisitionYear": 1946, 
+  "all_artists": "Juan Gris", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131927", 
+      "displayOrder": 1, 
+      "fc": "Juan Gris", 
+      "gender": "Male", 
+      "id": 1221, 
+      "mda": "Gris, Juan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1946", 
+  "dateRange": {
+    "endYear": 1914, 
+    "startYear": 1914, 
+    "text": "1914"
+  }, 
+  "dateText": "1914", 
+  "depth": "", 
+  "dimensions": "support: 921 x 727 mm\r\nframe: 1001 x 812 x 79 mm", 
+  "foreignTitle": "La Jalousie", 
+  "groupTitle": null, 
+  "height": "727", 
+  "id": 5692, 
+  "inscription": "date inscribed", 
+  "medium": "Gouache, paper, chalk and charcoal on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 299, 
+      "name": "Cubism"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4069, 
+                "name": "blind"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05747_8.jpg", 
+  "title": "The Sunblind", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gris-the-sunblind-n05747", 
+  "width": "921"
+}

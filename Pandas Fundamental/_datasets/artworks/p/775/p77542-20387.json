@@ -1,0 +1,76 @@
+{
+  "acno": "P77542", 
+  "acquisitionYear": 1992, 
+  "all_artists": "Rosemarie Trockel", 
+  "catalogueGroup": {
+    "accessionRanges": "P77534-P77545", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65423, 
+    "shortTitle": "White Carrot"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1952, 
+      "date": "born 1952", 
+      "displayOrder": 1, 
+      "fc": "Rosemarie Trockel", 
+      "gender": "Female", 
+      "id": 2066, 
+      "mda": "Trockel, Rosemarie", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1992", 
+  "dateRange": {
+    "endYear": 1991, 
+    "startYear": 1991, 
+    "text": "1991"
+  }, 
+  "dateText": "1991", 
+  "depth": "", 
+  "dimensions": "image: 534 x 378 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "White Carrot", 
+  "height": "378", 
+  "id": 20387, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77542_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trockel-no-title-p77542", 
+  "width": "534"
+}

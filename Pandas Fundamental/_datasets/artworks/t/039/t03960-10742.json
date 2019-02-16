@@ -1,0 +1,138 @@
+{
+  "acno": "T03960", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Winifred Nicholson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1893, 
+      "date": "1893\u20131981", 
+      "displayOrder": 1, 
+      "fc": "Winifred Nicholson", 
+      "gender": "Female", 
+      "id": 1704, 
+      "mda": "Nicholson, Winifred", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Carroll Donner Bequest 1985", 
+  "dateRange": {
+    "endYear": 1929, 
+    "startYear": 1928, 
+    "text": "1928-9"
+  }, 
+  "dateText": "1928\u20139", 
+  "depth": "", 
+  "dimensions": "support: 1128 x 802 mm\r\nframe: 1225 x 895 x 65 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "802", 
+  "id": 10742, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 319, 
+      "name": "Seven and Five"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2545, 
+                "name": "beauty"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15964, 
+                "name": "plant pot"
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing"
+          }, 
+          {
+            "children": [
+              {
+                "id": 844, 
+                "name": "rug"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Trustees of the estate of Winifred Nicholson", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03960_8.jpg", 
+  "title": "Flower Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-flower-table-t03960", 
+  "width": "1128"
+}

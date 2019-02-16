@@ -1,0 +1,116 @@
+{
+  "acno": "P07530", 
+  "acquisitionYear": 1981, 
+  "all_artists": "John Christie", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "John Christie", 
+      "gender": "Male", 
+      "id": 904, 
+      "mda": "Christie, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1981", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "image: 220 x 140 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "140", 
+  "id": 2213, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9465, 
+                "name": "drink, soft"
+              }, 
+              {
+                "id": 4694, 
+                "name": "fruit, lemon"
+              }, 
+              {
+                "id": 5921, 
+                "name": "fruit, orange"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10924, 
+                "name": "product packaging"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13021, 
+                "name": "musical analogy"
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Christie", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07530_8.jpg", 
+  "title": "Lemonade Music", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/christie-lemonade-music-p07530", 
+  "width": "220"
+}

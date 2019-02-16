@@ -1,0 +1,92 @@
+{
+  "acno": "P78340", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Emma Kay", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1961, 
+      "date": "born 1961", 
+      "displayOrder": 1, 
+      "fc": "Emma Kay", 
+      "gender": "Female", 
+      "id": 2701, 
+      "mda": "Kay, Emma", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 2000", 
+  "dateRange": {
+    "endYear": 1999, 
+    "startYear": 1999, 
+    "text": "1999"
+  }, 
+  "dateText": "1999", 
+  "depth": "", 
+  "dimensions": "image: 1760 x 2705 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2705", 
+  "id": 27063, 
+  "inscription": null, 
+  "medium": "Digital print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3647, 
+                "name": "history"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6852, 
+                "name": "memory"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Emma Kay", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78340_8.jpg", 
+  "title": "Worldview", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kay-worldview-p78340", 
+  "width": "1760"
+}

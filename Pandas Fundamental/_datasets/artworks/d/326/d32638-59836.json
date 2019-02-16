@@ -1,0 +1,97 @@
+{
+  "acno": "D32638", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D32638", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D326/D32638_E.jpg", 
+          "height": 347, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D32541-D32593; D32595-D32663; D41140", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65946, 
+    "shortTitle": "Rotterdam and Rhine sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "?1833"
+  }, 
+  "dateText": "?1833", 
+  "depth": "", 
+  "dimensions": "support: 170 x 105 mm", 
+  "finberg": "CCCXXII 51", 
+  "foreignTitle": null, 
+  "groupTitle": "Rotterdam and Rhine sketchbook", 
+  "height": "105", 
+  "id": 59836, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 101, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32638_8.jpg", 
+  "title": "Boats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-boats-d32638", 
+  "width": "170"
+}

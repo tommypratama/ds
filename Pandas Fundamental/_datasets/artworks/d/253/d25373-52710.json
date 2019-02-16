@@ -1,0 +1,96 @@
+{
+  "acno": "D25373", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131802, 
+  "catalogueGroup": {
+    "accessionRanges": "D08108-D08109; D08179-D08187; D08222; D25373; D40045; N02942", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 115601, 
+    "shortTitle": "Liber Studiorum: Probable or Possible Designs, not Engraved in Turner's Lifetime"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1824, 
+    "startYear": 1824, 
+    "text": "c.1824"
+  }, 
+  "dateText": "c.1824", 
+  "depth": "", 
+  "dimensions": "support: 196 x 275 mm", 
+  "finberg": "CCLXIII 251", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum: Probable or Possible Designs, not Engraved in Turner's Lifetime", 
+  "height": "275", 
+  "id": 52710, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2414, 
+                "name": "island"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25373_8.jpg", 
+  "title": "Storm at Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-storm-at-sea-d25373", 
+  "width": "196"
+}

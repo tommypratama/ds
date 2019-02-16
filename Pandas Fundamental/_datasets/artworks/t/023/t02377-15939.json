@@ -1,0 +1,90 @@
+{
+  "acno": "T02377", 
+  "acquisitionYear": 1979, 
+  "all_artists": "James Ward", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131859", 
+      "displayOrder": 1, 
+      "fc": "James Ward", 
+      "gender": "Male", 
+      "id": 581, 
+      "mda": "Ward, James", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Paul Mellon through the British Sporting Art Trust 1979", 
+  "dateRange": {
+    "endYear": 1812, 
+    "startYear": 1812, 
+    "text": "1812"
+  }, 
+  "dateText": "1812", 
+  "depth": "", 
+  "dimensions": "support: 705 x 918 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "918", 
+  "id": 15939, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02377_8.jpg", 
+  "title": "Portraits of Blackthorn, a Broodmare, with Old Jack, a Favourite Pony, the Property of E. Mundy, Esq.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ward-portraits-of-blackthorn-a-broodmare-with-old-jack-a-favourite-pony-the-property-of-e-t02377", 
+  "width": "705"
+}

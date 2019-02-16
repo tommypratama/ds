@@ -1,0 +1,113 @@
+{
+  "acno": "N03716", 
+  "acquisitionYear": 1923, 
+  "all_artists": "Walter Taylor", 
+  "catTextResId": 1136819, 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1860, 
+      "date": "1860\u20131943", 
+      "displayOrder": 1, 
+      "fc": "Walter Taylor", 
+      "gender": "Male", 
+      "id": 2028, 
+      "mda": "Taylor, Walter", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1923", 
+  "dateRange": {
+    "endYear": 1915, 
+    "startYear": 1914, 
+    "text": "c.1914-5"
+  }, 
+  "dateText": "c.1914\u20135", 
+  "depth": "", 
+  "dimensions": "support: 478 x 404 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "404", 
+  "id": 14130, 
+  "inscription": null, 
+  "medium": "Charcoal and watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 17297, 
+                "name": "Westminster, St James's Street 28"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5209, 
+                "name": "Georgian"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13265, 
+                "name": "club"
+              }
+            ], 
+            "id": 23, 
+            "name": "places of entertainment"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03716_8.jpg", 
+  "title": "Boodle\u2019s Club", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/taylor-boodles-club-n03716", 
+  "width": "478"
+}

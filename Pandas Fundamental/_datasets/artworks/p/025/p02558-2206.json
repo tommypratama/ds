@@ -1,0 +1,82 @@
+{
+  "acno": "P02558", 
+  "acquisitionYear": 1982, 
+  "all_artists": "John Christie", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "John Christie", 
+      "gender": "Male", 
+      "id": 904, 
+      "mda": "Christie, John", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1982", 
+  "dateRange": {
+    "endYear": 1981, 
+    "startYear": 1981, 
+    "text": "1981"
+  }, 
+  "dateText": "1981", 
+  "depth": "", 
+  "dimensions": "image: 230 x 230 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "230", 
+  "id": 2206, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5154, 
+                "name": "paper"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Christie", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02558_8.jpg", 
+  "title": "Frankfurt Circle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/christie-frankfurt-circle-p02558", 
+  "width": "230"
+}

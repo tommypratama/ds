@@ -1,0 +1,122 @@
+{
+  "acno": "N01677", 
+  "acquisitionYear": 1899, 
+  "all_artists": "Andrew Maccallum", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1821, 
+      "date": "1821\u20131902", 
+      "displayOrder": 1, 
+      "fc": "Andrew Maccallum", 
+      "gender": "Male", 
+      "id": 359, 
+      "mda": "Maccallum, Andrew", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1899", 
+  "dateRange": {
+    "endYear": 1885, 
+    "startYear": 1885, 
+    "text": "1885"
+  }, 
+  "dateText": "1885", 
+  "depth": "", 
+  "dimensions": "support: 908 x 1213 mm\r\nframe: 1253 x 1535 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1213", 
+  "id": 9042, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 792, 
+                "name": "Buckinghamshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4597, 
+                "name": "Burnham Beeches"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01677_8.jpg", 
+  "title": "Silvery Moments, Burnham Beeches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/maccallum-silvery-moments-burnham-beeches-n01677", 
+  "width": "908"
+}

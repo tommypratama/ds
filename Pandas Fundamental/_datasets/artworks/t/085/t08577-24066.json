@@ -1,0 +1,78 @@
+{
+  "acno": "T08577", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Thomas Johnson", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1628, 
+      "date": "c.1628\u20131685", 
+      "displayOrder": 1, 
+      "fc": "Thomas Johnson", 
+      "gender": "Male", 
+      "id": 4721, 
+      "mda": "Johnson, Thomas", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 250 x 329 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "329", 
+  "id": 24066, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7712, 
+                "name": "cloisters"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08577_8.jpg", 
+  "title": "View of Trinity Chapel Triforium, Cantebury Cathedral", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/johnson-view-of-trinity-chapel-triforium-cantebury-cathedral-t08577", 
+  "width": "250"
+}

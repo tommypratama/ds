@@ -1,0 +1,86 @@
+{
+  "acno": "T07303", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Lee Ufan", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Lee Ufan", 
+      "gender": "Male", 
+      "id": 2640, 
+      "mda": "Lee, Ufan", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Samsung Foundation of Culture 1997", 
+  "dateRange": {
+    "endYear": 1993, 
+    "startYear": 1993, 
+    "text": "1993"
+  }, 
+  "dateText": "1993", 
+  "depth": "35", 
+  "dimensions": "support: 1940 x 2600 x 35 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2600", 
+  "id": 22136, 
+  "inscription": null, 
+  "medium": "Oil paint and glue on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6745, 
+                "name": "rhythm"
+              }, 
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Correspondence", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lee-correspondence-t07303", 
+  "width": "1940"
+}

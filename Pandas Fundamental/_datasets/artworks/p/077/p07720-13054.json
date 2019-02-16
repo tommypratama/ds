@@ -1,0 +1,86 @@
+{
+  "acno": "P07720", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Robert Ryman", 
+  "catalogueGroup": {
+    "accessionRanges": "P07717-P07723", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65518, 
+    "shortTitle": "Seven Aquatints"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Robert Ryman", 
+      "gender": "Male", 
+      "id": 1888, 
+      "mda": "Ryman, Robert", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1982", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 350 x 343 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Seven Aquatints", 
+  "height": "343", 
+  "id": 13054, 
+  "inscription": "date inscribed", 
+  "medium": "Aquatint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Robert Ryman", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07720_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ryman-no-title-p07720", 
+  "width": "350"
+}

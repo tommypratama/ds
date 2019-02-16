@@ -1,0 +1,174 @@
+{
+  "acno": "N04824", 
+  "acquisitionYear": 1936, 
+  "all_artists": "Armand Guillaumin", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1841, 
+      "date": "1841\u20131927", 
+      "displayOrder": 1, 
+      "fc": "Armand Guillaumin", 
+      "gender": "Male", 
+      "id": 1228, 
+      "mda": "Guillaumin, Armand", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1936", 
+  "dateRange": {
+    "endYear": 1902, 
+    "startYear": 1902, 
+    "text": "1902"
+  }, 
+  "dateText": "1902", 
+  "depth": "", 
+  "dimensions": "support: 600 x 730 mm\r\nframe: 770 x 920 x 120 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "730", 
+  "id": 5725, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 357, 
+      "name": "Impressionism"
+    }
+  ], 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2396, 
+                "name": "France, Ile-de-France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3690, 
+                "name": "Moret-sur-Loing"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3692, 
+                "name": "River Loing"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3689, 
+                "name": "poplar"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04824_8.jpg", 
+  "title": "Moret-sur-Loing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guillaumin-moret-sur-loing-n04824", 
+  "width": "600"
+}

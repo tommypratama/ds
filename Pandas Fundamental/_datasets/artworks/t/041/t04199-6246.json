@@ -1,0 +1,108 @@
+{
+  "acno": "T04199", 
+  "acquisitionYear": 1986, 
+  "all_artists": "Joseph Highmore", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1692, 
+      "date": "1692\u20131780", 
+      "displayOrder": 1, 
+      "fc": "Joseph Highmore", 
+      "gender": "Male", 
+      "id": 256, 
+      "mda": "Highmore, Joseph", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Joan Highmore Blackhall and Dr R.B. McConnell 1986", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 68 x 89 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "89", 
+  "id": 6246, 
+  "inscription": null, 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1546, 
+                "name": "bending forward"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4858, 
+                "name": "cane"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04199_8.jpg", 
+  "title": "A Man Leaning on a Fence", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/highmore-a-man-leaning-on-a-fence-t04199", 
+  "width": "68"
+}

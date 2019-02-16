@@ -1,0 +1,188 @@
+{
+  "acno": "N05856", 
+  "acquisitionYear": 1948, 
+  "all_artists": "Edward Collier", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1662, 
+      "date": "active 1662\u20131708", 
+      "displayOrder": 1, 
+      "fc": "Edward Collier", 
+      "gender": "Male", 
+      "id": 100, 
+      "mda": "Collier, Edward", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1948", 
+  "dateRange": {
+    "endYear": 1699, 
+    "startYear": 1699, 
+    "text": "1699"
+  }, 
+  "dateText": "1699", 
+  "depth": "", 
+  "dimensions": "support: 762 x 635 mm\r\nframe: 942 x 807 x 96 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "635", 
+  "id": 2465, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 413, 
+      "name": "Later Stuart"
+    }, 
+    {
+      "era": {
+        "id": 289, 
+        "name": "16th and 17th century"
+      }, 
+      "id": 406, 
+      "name": "Netherlands-trained, working in Britain"
+    }
+  ], 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }, 
+              {
+                "id": 929, 
+                "name": "document - non-specific"
+              }, 
+              {
+                "id": 928, 
+                "name": "inkstand"
+              }, 
+              {
+                "id": 1939, 
+                "name": "quill pen"
+              }, 
+              {
+                "id": 4171, 
+                "name": "sealing wax"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 767, 
+                "name": "candle"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4167, 
+                "name": "globe"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4169, 
+                "name": "death - extinguished candle"
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4170, 
+                "name": "vanity - learned documents"
+              }
+            ], 
+            "id": 163, 
+            "name": "emotional states and conditions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5448, 
+                "name": "ephemerality"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12443, 
+                "name": "political power"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05856_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/collier-still-life-n05856", 
+  "width": "762"
+}

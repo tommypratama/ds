@@ -1,0 +1,112 @@
+{
+  "acno": "N05221", 
+  "acquisitionYear": 1940, 
+  "all_artists": "William Morris", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1834, 
+      "date": "1834\u20131896", 
+      "displayOrder": 1, 
+      "fc": "William Morris", 
+      "gender": "Male", 
+      "id": 388, 
+      "mda": "Morris, William", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1940", 
+  "dateRange": {
+    "endYear": 1858, 
+    "startYear": 1858, 
+    "text": "c.1858"
+  }, 
+  "dateText": "c.1858", 
+  "depth": "", 
+  "dimensions": "support: 1264 x 552 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "552", 
+  "id": 10324, 
+  "inscription": null, 
+  "medium": "Watercolour and graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7171, 
+                "name": "Guinevere"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4634, 
+                "name": "Malory, Thomas, Sir, 'Le Morte d'Arthur'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05221_8.jpg", 
+  "title": "Figure of Guinevere", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/morris-figure-of-guinevere-n05221", 
+  "width": "1264"
+}

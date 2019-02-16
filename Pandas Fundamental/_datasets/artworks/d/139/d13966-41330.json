@@ -1,0 +1,308 @@
+{
+  "acno": "D13966", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1138787, 
+  "catalogueGroup": {
+    "accessionRanges": "D13934-D13989; D40677-D40679; D41519", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65813, 
+    "shortTitle": "Italian Guide Book Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "c.1819"
+  }, 
+  "dateText": "c.1819", 
+  "depth": "", 
+  "dimensions": "support: 155 x 99 mm", 
+  "finberg": "CLXXII 19", 
+  "foreignTitle": null, 
+  "groupTitle": "Italian Guide Book Sketchbook", 
+  "height": "99", 
+  "id": 41330, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 39, 
+  "subjectCount": 32, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11758, 
+                "name": "Convent of St Cosimato"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7887, 
+                "name": "Rome, Castel Sant' Angelo"
+              }, 
+              {
+                "id": 3300, 
+                "name": "Rome, Colosseum"
+              }, 
+              {
+                "id": 5175, 
+                "name": "Rome, Forum"
+              }, 
+              {
+                "id": 11755, 
+                "name": "Rome, Forum, Arch of Septimus Severus"
+              }, 
+              {
+                "id": 12845, 
+                "name": "Rome, Santa Constanza"
+              }, 
+              {
+                "id": 13428, 
+                "name": "Tivoli, Ponte Lucano"
+              }, 
+              {
+                "id": 28351, 
+                "name": "Tivoli, Santuario di Ercole Vincitore"
+              }, 
+              {
+                "id": 7717, 
+                "name": "Tivoli, Temple of the Sibyl / Vesta"
+              }, 
+              {
+                "id": 8961, 
+                "name": "Tivoli, Villa Adriana"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8903, 
+                "name": "Roman"
+              }, 
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3303, 
+                "name": "amphitheatre"
+              }
+            ], 
+            "id": 23, 
+            "name": "places of entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building"
+              }, 
+              {
+                "id": 11829, 
+                "name": "place of entertainment"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }, 
+              {
+                "id": 7561, 
+                "name": "convent"
+              }, 
+              {
+                "id": 2550, 
+                "name": "temple"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7556, 
+                "name": "colonnade"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house"
+              }, 
+              {
+                "id": 1927, 
+                "name": "palace"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11496, 
+                "name": "tomb"
+              }, 
+              {
+                "id": 6609, 
+                "name": "triumphal arch"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 26818, 
+                "name": "Smith, John 'Warwick'"
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge"
+              }, 
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }, 
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13966_8.jpg", 
+  "title": "Twelve Copies of Engravings after John \u2018Warwick\u2019 Smith from \u2018Select Views in Italy\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-twelve-copies-of-engravings-after-john-warwick-smith-from-select-views-in-italy-d13966", 
+  "width": "155"
+}

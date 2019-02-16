@@ -1,0 +1,106 @@
+{
+  "acno": "N03955", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Sydney Lee", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131949", 
+      "displayOrder": 1, 
+      "fc": "Sydney Lee", 
+      "gender": "Male", 
+      "id": 1486, 
+      "mda": "Lee, Sydney", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1924", 
+  "dateRange": {
+    "endYear": 1924, 
+    "startYear": 1924, 
+    "text": "1924"
+  }, 
+  "dateText": "1924", 
+  "depth": "85", 
+  "dimensions": "frame: 1430 x 1692 x 85 mm\r\nsupport: 1187 x 1454 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1692", 
+  "id": 8515, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10366, 
+                "name": "Dolomites"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Amongst the Dolomites", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lee-amongst-the-dolomites-n03955", 
+  "width": "1430"
+}

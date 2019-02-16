@@ -1,0 +1,154 @@
+{
+  "acno": "P05202", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Joe Tilson", 
+  "catalogueGroup": {
+    "accessionRanges": "P02436; P05190-P05214", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65550, 
+    "shortTitle": "A-Z Box"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "born 1928", 
+      "displayOrder": 1, 
+      "fc": "Joe Tilson", 
+      "gender": "Male", 
+      "id": 2043, 
+      "mda": "Tilson, Joe", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1969, 
+    "text": "1969-70"
+  }, 
+  "dateText": "1969\u201370", 
+  "depth": "", 
+  "dimensions": "image: 737 x 500 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A-Z Box", 
+  "height": "500", 
+  "id": 14287, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1707, 
+                "name": "star"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Joe Tilson. All Rights Reserved, DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05202_8.jpg", 
+  "title": "N - Newsletter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-n-newsletter-p05202", 
+  "width": "737"
+}

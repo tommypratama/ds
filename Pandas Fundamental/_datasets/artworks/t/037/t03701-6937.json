@@ -1,0 +1,80 @@
+{
+  "acno": "T03701", 
+  "acquisitionYear": 1983, 
+  "all_artists": "John Hoyland", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20132011", 
+      "displayOrder": 1, 
+      "fc": "John Hoyland", 
+      "gender": "Male", 
+      "id": 1318, 
+      "mda": "Hoyland, John", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by E.J. Power through the Friends of the Tate Gallery 1983", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "", 
+  "dimensions": "support: 1525 x 1527 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1527", 
+  "id": 6937, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 442, 
+      "name": "Situation"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of John Hoyland", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03701_8.jpg", 
+  "title": "April 1961", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hoyland-april-1961-t03701", 
+  "width": "1525"
+}

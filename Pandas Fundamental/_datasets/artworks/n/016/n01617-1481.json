@@ -1,0 +1,122 @@
+{
+  "acno": "N01617", 
+  "acquisitionYear": 1880, 
+  "all_artists": "John Brett", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1831, 
+      "date": "1831\u20131902", 
+      "displayOrder": 1, 
+      "fc": "John Brett", 
+      "gender": "Male", 
+      "id": 53, 
+      "mda": "Brett, John", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1880", 
+  "dateRange": {
+    "endYear": 1880, 
+    "startYear": 1880, 
+    "text": "1880"
+  }, 
+  "dateText": "1880", 
+  "depth": "", 
+  "dimensions": "support: 1054 x 2121 mm\r\nframe: 1463 x 2533 x 142 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2121", 
+  "id": 1481, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1829, 
+                "name": "Pembrokeshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1828, 
+                "name": "Tenby - non-specific"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01617_8.jpg", 
+  "title": "Britannia\u2019s Realm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brett-britannias-realm-n01617", 
+  "width": "1054"
+}

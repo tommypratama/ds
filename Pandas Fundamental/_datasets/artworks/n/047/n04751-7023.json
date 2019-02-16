@@ -1,0 +1,86 @@
+{
+  "acno": "N04751", 
+  "acquisitionYear": 1934, 
+  "all_artists": "Evelyn Ince", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1886, 
+      "date": "c.1886\u20131941", 
+      "displayOrder": 1, 
+      "fc": "Evelyn Ince", 
+      "gender": "Female", 
+      "id": 1334, 
+      "mda": "Ince, Evelyn", 
+      "role": "artist", 
+      "startLetter": "I"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1934", 
+  "dateRange": {
+    "endYear": 1934, 
+    "startYear": 1934, 
+    "text": "c.1934"
+  }, 
+  "dateText": "c.1934", 
+  "depth": "", 
+  "dimensions": "support: 610 x 508 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "508", 
+  "id": 7023, 
+  "inscription": null, 
+  "medium": "Tempera on wood", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2422, 
+                "name": "daisy"
+              }, 
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04751_8.jpg", 
+  "title": "Flower Piece", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ince-flower-piece-n04751", 
+  "width": "610"
+}

@@ -1,0 +1,127 @@
+{
+  "acno": "D29571", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D29379-D29418; D29420-D29436; D29438-D29516; D29518-D29551; D29553-D29586; D29588-D29593; D41098", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65923, 
+    "shortTitle": "Genoa to Grenoble Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1840, 
+    "startYear": 1835, 
+    "text": "c.1835-40"
+  }, 
+  "dateText": "c.1835\u201340", 
+  "depth": "", 
+  "dimensions": "support: 146 x 103 mm", 
+  "finberg": "CCXCV 99", 
+  "foreignTitle": null, 
+  "groupTitle": "Genoa to Grenoble Sketchbook", 
+  "height": "103", 
+  "id": 56834, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 201, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14577, 
+                "name": "Sisteron"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29571_8.jpg", 
+  "title": "Sisteron", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sisteron-d29571", 
+  "width": "146"
+}

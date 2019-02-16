@@ -1,0 +1,94 @@
+{
+  "acno": "P07069", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Sol LeWitt", 
+  "catalogueGroup": {
+    "accessionRanges": "P07066-P07081", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65208, 
+    "shortTitle": "Lines of One Inch, Four Directions, Four Colours (set of 16)"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132007", 
+      "displayOrder": 1, 
+      "fc": "Sol LeWitt", 
+      "gender": "Male", 
+      "id": 1504, 
+      "mda": "LeWitt, Sol", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 356 x 356 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Lines of One Inch, Four Directions, Four Colours (set of 16)", 
+  "height": "356", 
+  "id": 8732, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sol LeWitt", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07069_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07069", 
+  "width": "356"
+}

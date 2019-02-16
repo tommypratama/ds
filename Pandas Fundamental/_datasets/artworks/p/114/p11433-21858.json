@@ -1,0 +1,134 @@
+{
+  "acno": "P11433", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Max Wigram", 
+  "catalogueGroup": {
+    "accessionRanges": "P11422-P11436", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66018, 
+    "shortTitle": "Other Men's Flowers"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1966, 
+      "date": "born 1966", 
+      "displayOrder": 1, 
+      "fc": "Max Wigram", 
+      "gender": "Male", 
+      "id": 2597, 
+      "mda": "Wigram, Max", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Charles Booth-Clibborn in memory of Joshua Compston 1997", 
+  "dateRange": {
+    "endYear": 1994, 
+    "startYear": 1994, 
+    "text": "1994"
+  }, 
+  "dateText": "1994", 
+  "depth": "", 
+  "dimensions": "image: 470 x 612 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Other Men's Flowers", 
+  "height": "612", 
+  "id": 21858, 
+  "inscription": null, 
+  "medium": "Screenprint and letterpress on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 843, 
+                "name": "satire"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10924, 
+                "name": "product packaging"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2438, 
+                "name": "pun"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wigram-no-title-p11433", 
+  "width": "470"
+}

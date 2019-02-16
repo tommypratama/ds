@@ -1,0 +1,80 @@
+{
+  "acno": "T12120", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Michael Cardew", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1901, 
+      "date": "1901\u20131983", 
+      "displayOrder": 1, 
+      "fc": "Michael Cardew", 
+      "gender": "Male", 
+      "id": 8803, 
+      "mda": "Cardew, Michel", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2005", 
+  "dateRange": {
+    "endYear": 1955, 
+    "startYear": 1955, 
+    "text": "c.1955"
+  }, 
+  "dateText": "c.1955", 
+  "depth": "90", 
+  "dimensions": "object: 90 x 90 x 90 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "90", 
+  "id": 88249, 
+  "inscription": null, 
+  "medium": "Reduced stoneware", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }, 
+              {
+                "id": 1951, 
+                "name": "flask"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Michael Cardew", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12120_8.jpg", 
+  "title": "Soya Sprinkler Bottle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cardew-soya-sprinkler-bottle-t12120", 
+  "width": "90"
+}

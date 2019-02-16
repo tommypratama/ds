@@ -1,0 +1,84 @@
+{
+  "acno": "T00623", 
+  "acquisitionYear": 1963, 
+  "all_artists": "Helen Saunders", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1885, 
+      "date": "1885\u20131963", 
+      "displayOrder": 1, 
+      "fc": "Helen Saunders", 
+      "gender": "Female", 
+      "id": 1899, 
+      "mda": "Saunders, Helen", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Miss Ethel M. Saunders in memory of her sister 1963", 
+  "dateRange": {
+    "endYear": 1915, 
+    "startYear": 1915, 
+    "text": "c.1915"
+  }, 
+  "dateText": "c.1915", 
+  "depth": "", 
+  "dimensions": "support: 276 x 171 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "171", 
+  "id": 13154, 
+  "inscription": null, 
+  "medium": "Graphite, chalk, paper and watercolour on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 322, 
+      "name": "Vorticism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Helen Saunders", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00623_8.jpg", 
+  "title": "Abstract Composition in Blue and Yellow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/saunders-abstract-composition-in-blue-and-yellow-t00623", 
+  "width": "276"
+}

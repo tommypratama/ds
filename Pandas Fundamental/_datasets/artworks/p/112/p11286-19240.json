@@ -1,0 +1,82 @@
+{
+  "acno": "P11286", 
+  "acquisitionYear": 1990, 
+  "all_artists": "Germaine Richier", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1902, 
+      "date": "1902\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Germaine Richier", 
+      "gender": "Female", 
+      "id": 1839, 
+      "mda": "Richier, Germaine", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Mme Fran\u00e7oise Guiter 1990", 
+  "dateRange": {
+    "endYear": 1951, 
+    "startYear": 1948, 
+    "text": "1948-51, published 1955"
+  }, 
+  "dateText": "1948\u201351, published 1955", 
+  "depth": "", 
+  "dimensions": "image: 385 x 536 mm", 
+  "foreignTitle": "Chauve-souris", 
+  "groupTitle": null, 
+  "height": "536", 
+  "id": 19240, 
+  "inscription": null, 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2327, 
+                "name": "bat"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ADAGP, Paris and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11286_8.jpg", 
+  "title": "Bat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richier-bat-p11286", 
+  "width": "385"
+}

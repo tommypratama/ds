@@ -1,0 +1,128 @@
+{
+  "acno": "P03048", 
+  "acquisitionYear": 1918, 
+  "all_artists": "Christopher Richard Wynne Nevinson", 
+  "catalogueGroup": {
+    "accessionRanges": "P03045-P03050", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65431, 
+    "shortTitle": "Britain's Efforts and Ideals"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1889, 
+      "date": "1889\u20131946", 
+      "displayOrder": 1, 
+      "fc": "Christopher Richard Wynne Nevinson", 
+      "gender": "Male", 
+      "id": 1697, 
+      "mda": "Nevinson, Christopher Richard Wynne", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Presented by the Ministry of Information 1918", 
+  "dateRange": {
+    "endYear": 1917, 
+    "startYear": 1917, 
+    "text": "1917"
+  }, 
+  "dateText": "1917", 
+  "depth": "", 
+  "dimensions": "image: 400 x 299 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Britain's Efforts and Ideals", 
+  "height": "299", 
+  "id": 10606, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 10525, 
+      "name": "British War Art"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific"
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3464, 
+                "name": "aircraft, military"
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 6644, 
+                "name": "sunbeam"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03048_8.jpg", 
+  "title": "Sweeping Down on a Taube", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nevinson-sweeping-down-on-a-taube-p03048", 
+  "width": "400"
+}

@@ -1,0 +1,76 @@
+{
+  "acno": "T00467", 
+  "acquisitionYear": 1961, 
+  "all_artists": "Lucy and Eegyudluk", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1918, 
+      "date": "born c.1918, born c.1930", 
+      "displayOrder": 1, 
+      "fc": "Lucy and Eegyudluk", 
+      "gender": null, 
+      "id": 1535, 
+      "mda": "Lucy and Eegyudluk", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Charles Gimpel 1961", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "168", 
+  "dimensions": "object: 470 x 876 x 168 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "876", 
+  "id": 9032, 
+  "inscription": null, 
+  "medium": "Soapstone", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4620, 
+                "name": "bear"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Green Bear", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lucy-and-eegyudluk-the-green-bear-t00467", 
+  "width": "470"
+}

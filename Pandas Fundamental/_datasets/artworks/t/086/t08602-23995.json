@@ -1,0 +1,86 @@
+{
+  "acno": "T08602", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Andrew Wilson", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1780, 
+      "date": "1780\u20131848", 
+      "displayOrder": 1, 
+      "fc": "Andrew Wilson", 
+      "gender": "Male", 
+      "id": 2467, 
+      "mda": "Wilson, Andrew", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1814, 
+    "startYear": 1814, 
+    "text": "1814"
+  }, 
+  "dateText": "1814", 
+  "depth": "", 
+  "dimensions": "support: 209 x 290 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "290", 
+  "id": 23995, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }, 
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08602_8.jpg", 
+  "title": "Landscape with Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wilson-landscape-with-trees-t08602", 
+  "width": "209"
+}

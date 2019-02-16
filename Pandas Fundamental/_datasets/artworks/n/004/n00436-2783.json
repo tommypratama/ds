@@ -1,0 +1,142 @@
+{
+  "acno": "N00436", 
+  "acquisitionYear": 1847, 
+  "all_artists": "Thomas Sidney Cooper", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1803, 
+      "date": "1803\u20131902", 
+      "displayOrder": 1, 
+      "fc": "Thomas Sidney Cooper", 
+      "gender": "Male", 
+      "id": 112, 
+      "mda": "Cooper, Thomas Sidney", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by Robert Vernon 1847", 
+  "dateRange": {
+    "endYear": 1847, 
+    "startYear": 1847, 
+    "text": "1847, exhibited 1847"
+  }, 
+  "dateText": "1847, exhibited 1847", 
+  "depth": "20", 
+  "dimensions": "support: 597 x 889 x 20 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "889", 
+  "id": 2783, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 11, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1262, 
+                "name": "Cumbria"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }, 
+              {
+                "id": 1260, 
+                "name": "Lake District"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1130, 
+                "name": "bull"
+              }, 
+              {
+                "id": 569, 
+                "name": "cow"
+              }, 
+              {
+                "id": 1133, 
+                "name": "goat"
+              }, 
+              {
+                "id": 266, 
+                "name": "sheep"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6171, 
+                "name": "mist"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00436_8.jpg", 
+  "title": "Among the Cumberland Mountains - Mist Clearing Off", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cooper-among-the-cumberland-mountains-mist-clearing-off-n00436", 
+  "width": "597"
+}

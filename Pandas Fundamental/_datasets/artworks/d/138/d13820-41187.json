@@ -1,0 +1,148 @@
+{
+  "acno": "D13820", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D13820", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D138/D13820_E.jpg", 
+          "height": 381, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1132305, 
+  "catalogueGroup": {
+    "accessionRanges": "D13814-D13858; D40885-D40886", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65811, 
+    "shortTitle": "Scotland and London Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1820, 
+    "startYear": 1820, 
+    "text": "c.1820"
+  }, 
+  "dateText": "c.1820", 
+  "depth": "", 
+  "dimensions": "support: 177 x 256 mm", 
+  "finberg": "CLXX 5", 
+  "foreignTitle": null, 
+  "groupTitle": "Scotland and London Sketchbook", 
+  "height": "256", 
+  "id": 41187, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 13, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1204, 
+                "name": "River Thames"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2731, 
+                "name": "Somerset House"
+              }, 
+              {
+                "id": 2732, 
+                "name": "St Paul's Cathedral"
+              }, 
+              {
+                "id": 2728, 
+                "name": "Waterloo Bridge"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13820_8.jpg", 
+  "title": "London: Waterloo Bridge, with Somerset House and St Paul\u2019s Cathedral in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-london-waterloo-bridge-with-somerset-house-and-st-pauls-cathedral-in-the-distance-d13820", 
+  "width": "177"
+}

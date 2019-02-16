@@ -1,0 +1,102 @@
+{
+  "acno": "P01883", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Ben Johnson", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1946, 
+      "date": "born 1946", 
+      "displayOrder": 1, 
+      "fc": "Ben Johnson", 
+      "gender": "Male", 
+      "id": 1366, 
+      "mda": "Johnson, Ben", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by Editions Alecto 1979", 
+  "dateRange": {
+    "endYear": 1975, 
+    "startYear": 1975, 
+    "text": "1975"
+  }, 
+  "dateText": "1975", 
+  "depth": "", 
+  "dimensions": "image: 559 x 838 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "838", 
+  "id": 7169, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13512, 
+                "name": "escalator"
+              }, 
+              {
+                "id": 7067, 
+                "name": "screen"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11403, 
+                "name": "hallway"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1831, 
+                "name": "palm"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Ben Johnson. All rights reserved DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01883_8.jpg", 
+  "title": "Escalator", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/johnson-escalator-p01883", 
+  "width": "559"
+}

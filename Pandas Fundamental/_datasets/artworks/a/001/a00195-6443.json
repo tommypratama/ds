@@ -1,0 +1,76 @@
+{
+  "acno": "A00195", 
+  "acquisitionYear": 1927, 
+  "all_artists": "Robert Hills", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131844", 
+      "displayOrder": 1, 
+      "fc": "Robert Hills", 
+      "gender": "Male", 
+      "id": 260, 
+      "mda": "Hills, Robert", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by J.R. Holliday 1927", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 117 x 165 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "165", 
+  "id": 6443, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00195_8.jpg", 
+  "title": "Cows in a Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hills-cows-in-a-landscape-a00195", 
+  "width": "117"
+}

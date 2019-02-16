@@ -1,0 +1,92 @@
+{
+  "acno": "P02487", 
+  "acquisitionYear": 1978, 
+  "all_artists": "David Leverett", 
+  "catalogueGroup": {
+    "accessionRanges": "P02484-P02487", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65210, 
+    "shortTitle": "The Four Seasons"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "David Leverett", 
+      "gender": "Male", 
+      "id": 1499, 
+      "mda": "Leverett, David", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1978", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1971, 
+    "text": "1971-2"
+  }, 
+  "dateText": "1971\u20132", 
+  "depth": "", 
+  "dimensions": "image: 615 x 615 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Four Seasons", 
+  "height": "615", 
+  "id": 8659, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Leverett", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02487_8.jpg", 
+  "title": "Winter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leverett-winter-p02487", 
+  "width": "615"
+}

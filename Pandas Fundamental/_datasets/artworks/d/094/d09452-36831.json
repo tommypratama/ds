@@ -1,0 +1,94 @@
+{
+  "acno": "D09452", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D09452", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D94/D09452_E.jpg", 
+          "height": 364, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149687, 
+  "catalogueGroup": {
+    "accessionRanges": "D09218-D09481; D40579-D40581; D40583; D41231", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65773, 
+    "shortTitle": "Plymouth, Hamoaze Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1813, 
+    "startYear": 1813, 
+    "text": "1813"
+  }, 
+  "dateText": "1813", 
+  "depth": "", 
+  "dimensions": "support: 95 x 157 mm", 
+  "finberg": "CXXXI 174 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Plymouth, Hamoaze Sketchbook", 
+  "height": "157", 
+  "id": 36831, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 528, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2285, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09452_8.jpg", 
+  "title": "The Great Mew Stone", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-great-mew-stone-d09452", 
+  "width": "95"
+}

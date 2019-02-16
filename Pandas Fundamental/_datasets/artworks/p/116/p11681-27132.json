@@ -1,0 +1,130 @@
+{
+  "acno": "P11681", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Thomas Ruff", 
+  "catalogueGroup": {
+    "accessionRanges": "P11676-P11685", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66093, 
+    "shortTitle": "Tate Modern: Ten Artists, Ten Images"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1958, 
+      "date": "born 1958", 
+      "displayOrder": 1, 
+      "fc": "Thomas Ruff", 
+      "gender": "Male", 
+      "id": 2602, 
+      "mda": "Ruff, Thomas", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Tate Publishing 2000", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 700 x 500 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Tate Modern: Ten Artists, Ten Images", 
+  "height": "500", 
+  "id": 27132, 
+  "inscription": null, 
+  "medium": "Photograph, colour, Chromogenic print, on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9894, 
+                "name": "Bankside, Tate Modern"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4537, 
+                "name": "art gallery"
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 584, 
+                "name": "balcony"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Tate01", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ruff-tate01-p11681", 
+  "width": "700"
+}

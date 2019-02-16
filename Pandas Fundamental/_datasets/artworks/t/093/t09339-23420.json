@@ -1,0 +1,116 @@
+{
+  "acno": "T09339", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Inigo Richards", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1731, 
+      "date": "1731\u20131810", 
+      "displayOrder": 1, 
+      "fc": "John Inigo Richards", 
+      "gender": "Male", 
+      "id": 446, 
+      "mda": "Richards, John Inigo", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1765, 
+    "startYear": 1765, 
+    "text": "1765"
+  }, 
+  "dateText": "1765", 
+  "depth": "", 
+  "dimensions": "support: 145 x 217 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "217", 
+  "id": 23420, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1558, 
+                "name": "Devon"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7845, 
+                "name": "Totnes"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09339_8.jpg", 
+  "title": "Totnes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richards-totnes-t09339", 
+  "width": "145"
+}

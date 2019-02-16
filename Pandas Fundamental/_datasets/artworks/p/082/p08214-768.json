@@ -1,0 +1,82 @@
+{
+  "acno": "P08214", 
+  "acquisitionYear": 1987, 
+  "all_artists": "Willi Baumeister", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1889, 
+      "date": "1889\u20131955", 
+      "displayOrder": 1, 
+      "fc": "Willi Baumeister", 
+      "gender": "Male", 
+      "id": 705, 
+      "mda": "Baumeister, Willi", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1987", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "1953"
+  }, 
+  "dateText": "1953", 
+  "depth": "", 
+  "dimensions": "image: 260 x 208 mm", 
+  "foreignTitle": "Ohne Titel (Linien schwebend I)", 
+  "groupTitle": null, 
+  "height": "208", 
+  "id": 768, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08214_8.jpg", 
+  "title": "Untitled (Suspended Lines I)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/baumeister-untitled-suspended-lines-i-p08214", 
+  "width": "260"
+}

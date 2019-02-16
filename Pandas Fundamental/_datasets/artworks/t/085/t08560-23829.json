@@ -1,0 +1,128 @@
+{
+  "acno": "T08560", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Francis Towne", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1739, 
+      "date": "1739\u20131816", 
+      "displayOrder": 1, 
+      "fc": "Francis Towne", 
+      "gender": "Male", 
+      "id": 553, 
+      "mda": "Towne, Francis", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1781, 
+    "startYear": 1781, 
+    "text": "1781"
+  }, 
+  "dateText": "1781", 
+  "depth": "", 
+  "dimensions": "support: 155 x 211 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "211", 
+  "id": 23829, 
+  "inscription": "date inscribed", 
+  "medium": "Ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10485, 
+                "name": "Bisone"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9785, 
+                "name": "Lake Lugano"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08560_8.jpg", 
+  "title": "Bisone", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/towne-bisone-t08560", 
+  "width": "155"
+}

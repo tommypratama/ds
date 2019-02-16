@@ -1,0 +1,100 @@
+{
+  "acno": "N04479", 
+  "acquisitionYear": 1929, 
+  "all_artists": "Julian Phelps Allan", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1892, 
+      "date": "1892\u20131996", 
+      "displayOrder": 1, 
+      "fc": "Julian Phelps Allan", 
+      "gender": "Female", 
+      "id": 641, 
+      "mda": "Allan, Julian Phelps", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1929", 
+  "dateRange": {
+    "endYear": 1928, 
+    "startYear": 1928, 
+    "text": "1928"
+  }, 
+  "dateText": "1928", 
+  "depth": "240", 
+  "dimensions": "object: 515 x 230 x 240 mm, 16 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "230", 
+  "id": 490, 
+  "inscription": "date inscribed", 
+  "medium": "Bronze on limestone base", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 536, 
+                "name": "Lathbury, Marjorie"
+              }, 
+              {
+                "id": 15611, 
+                "name": "Thomasson, Marjorie"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Marjorie", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/allan-marjorie-n04479", 
+  "width": "515"
+}

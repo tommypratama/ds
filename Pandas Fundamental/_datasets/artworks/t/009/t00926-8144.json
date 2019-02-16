@@ -1,0 +1,102 @@
+{
+  "acno": "T00926", 
+  "acquisitionYear": 1967, 
+  "all_artists": "Franz Kline", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131962", 
+      "displayOrder": 1, 
+      "fc": "Franz Kline", 
+      "gender": "Male", 
+      "id": 1419, 
+      "mda": "Kline, Franz", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased 1967", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1960, 
+    "text": "1960-1"
+  }, 
+  "dateText": "1960\u20131", 
+  "depth": "", 
+  "dimensions": "support: 2359 x 1956 mm\r\nframe: 2404 x 2000 x 47 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1956", 
+  "id": 8144, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 416, 
+      "name": "Abstract Expressionism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 ARS, NY and DACS, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00926_8.jpg", 
+  "title": "Meryon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kline-meryon-t00926", 
+  "width": "2359"
+}

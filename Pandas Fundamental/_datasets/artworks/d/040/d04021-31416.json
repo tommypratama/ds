@@ -1,0 +1,113 @@
+{
+  "acno": "D04021", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D04021", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D40/D04021_E.jpg", 
+          "height": 334, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D03994-D04096; D04098-D04151; D40585-D40590", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65719, 
+    "shortTitle": "Studies for Pictures Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1799, 
+    "text": "c.1799-1802"
+  }, 
+  "dateText": "c.1799\u20131802", 
+  "depth": "", 
+  "dimensions": "support: 215 x 138 mm", 
+  "finberg": "LXIX 27", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies for Pictures Sketchbook", 
+  "height": "138", 
+  "id": 31416, 
+  "inscription": null, 
+  "medium": "Ink and graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 55, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1025, 
+                "name": "torso"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04021_8.jpg", 
+  "title": "Part of the Torso and Hips of a Nude Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-part-of-the-torso-and-hips-of-a-nude-woman-d04021", 
+  "width": "215"
+}

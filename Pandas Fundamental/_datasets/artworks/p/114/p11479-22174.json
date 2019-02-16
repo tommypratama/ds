@@ -1,0 +1,88 @@
+{
+  "acno": "P11479", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Peter Doig", 
+  "catalogueGroup": {
+    "accessionRanges": "P11471-P11480", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66061, 
+    "shortTitle": "Ten Etchings"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1959, 
+      "date": "born 1959", 
+      "displayOrder": 1, 
+      "fc": "Peter Doig", 
+      "gender": "Male", 
+      "id": 2361, 
+      "mda": "Doig, Peter", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the artist and Charles Booth-Clibborn 1997", 
+  "dateRange": {
+    "endYear": 1996, 
+    "startYear": 1996, 
+    "text": "1996"
+  }, 
+  "dateText": "1996", 
+  "depth": "", 
+  "dimensions": "image: 173 x 278 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Ten Etchings", 
+  "height": "278", 
+  "id": 22174, 
+  "inscription": null, 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Peter Doig", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11479_8.jpg", 
+  "title": "Concrete Cabin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/doig-concrete-cabin-p11479", 
+  "width": "173"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "T07055", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Didier Vermeiren", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1951, 
+      "date": "born 1951", 
+      "displayOrder": 1, 
+      "fc": "Didier Vermeiren", 
+      "gender": "Male", 
+      "id": 2384, 
+      "mda": "Vermeiren, Didier", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased 1996", 
+  "dateRange": {
+    "endYear": 1995, 
+    "startYear": 1995, 
+    "text": "1995"
+  }, 
+  "dateText": "1995", 
+  "depth": "1105", 
+  "dimensions": "unconfirmed: 1140 x 1355 x 1105 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1355", 
+  "id": 21547, 
+  "inscription": null, 
+  "medium": "Plaster, steel and polyester textile", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Didier Vermeiren, A.D.A.G.P., Paris", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07055_8.jpg", 
+  "title": "Adam", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vermeiren-adam-t07055", 
+  "width": "1140"
+}

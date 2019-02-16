@@ -1,0 +1,72 @@
+{
+  "acno": "P77933", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Marcus Taylor", 
+  "catalogueGroup": {
+    "accessionRanges": "P77924-P77934", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66021, 
+    "shortTitle": "London"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1964, 
+      "date": "born 1964", 
+      "displayOrder": 1, 
+      "fc": "Marcus Taylor", 
+      "gender": "Male", 
+      "id": 2347, 
+      "mda": "Taylor, Marcus", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Acquired by purchase and gift from Charles Booth-Clibborn in memory of Joshua Compston 1997", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1992, 
+    "text": "1992"
+  }, 
+  "dateText": "1992", 
+  "depth": "", 
+  "dimensions": "image: 859 x 705 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "London", 
+  "height": "705", 
+  "id": 21865, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5925, 
+                "name": "plug"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/taylor-untitled-p77933", 
+  "width": "859"
+}

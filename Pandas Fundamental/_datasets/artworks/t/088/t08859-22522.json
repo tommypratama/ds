@@ -1,0 +1,80 @@
+{
+  "acno": "T08859", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Alexander Cozens", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1717, 
+      "date": "1717\u20131786", 
+      "displayOrder": 1, 
+      "fc": "Alexander Cozens", 
+      "gender": "Male", 
+      "id": 118, 
+      "mda": "Cozens, Alexander", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 185 x 231 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "231", 
+  "id": 22522, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08859_8.jpg", 
+  "title": "A Mountain Pool", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-a-mountain-pool-t08859", 
+  "width": "185"
+}

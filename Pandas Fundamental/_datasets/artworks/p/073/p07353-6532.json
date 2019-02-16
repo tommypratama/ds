@@ -1,0 +1,272 @@
+{
+  "acno": "P07353", 
+  "acquisitionYear": 1979, 
+  "all_artists": "David Hockney", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "David Hockney", 
+      "gender": "Male", 
+      "id": 1293, 
+      "mda": "Hockney, David", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1979", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1961, 
+    "text": "1961-2"
+  }, 
+  "dateText": "1961\u20132", 
+  "depth": "", 
+  "dimensions": "support: 451 x 451 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "451", 
+  "id": 6532, 
+  "inscription": "date inscribed", 
+  "medium": "Etching, aquatint and stamp on paper", 
+  "movementCount": 0, 
+  "subjectCount": 21, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1172, 
+                "name": "American"
+              }, 
+              {
+                "id": 4667, 
+                "name": "British"
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1676, 
+                "name": "Hockney, David"
+              }, 
+              {
+                "id": 6468, 
+                "name": "Washington, George"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }, 
+              {
+                "id": 20116, 
+                "name": "self-portraits"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10055, 
+                "name": "anonymous, 'My Bonnie Lies over the Ocean'"
+              }
+            ], 
+            "id": 57, 
+            "name": "tales, legends and traditional"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3114, 
+                "name": "politician, president"
+              }
+            ], 
+            "id": 130, 
+            "name": "public service"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5104, 
+                "name": "flag, USA / Stars and Stripes"
+              }, 
+              {
+                "id": 5015, 
+                "name": "flag, Union Flag"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 647, 
+                "name": "isolation"
+              }, 
+              {
+                "id": 3008, 
+                "name": "love"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 499, 
+                "name": "name of artist"
+              }, 
+              {
+                "id": 1571, 
+                "name": "poem"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Hockney", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07353_8.jpg", 
+  "title": "My Bonnie Lies Over the Ocean", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hockney-my-bonnie-lies-over-the-ocean-p07353", 
+  "width": "451"
+}

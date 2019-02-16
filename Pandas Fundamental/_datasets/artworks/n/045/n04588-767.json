@@ -1,0 +1,112 @@
+{
+  "acno": "N04588", 
+  "acquisitionYear": 1931, 
+  "all_artists": "Marius Bauer", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1867, 
+      "date": "1867\u20131932", 
+      "displayOrder": 1, 
+      "fc": "Marius Bauer", 
+      "gender": "Male", 
+      "id": 704, 
+      "mda": "Bauer, Marius", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Sir Michael Sadler through the Art Fund in memory of Lady Sadler 1931", 
+  "dateRange": {
+    "endYear": 1891, 
+    "startYear": 1891, 
+    "text": "c.1891"
+  }, 
+  "dateText": "c.1891", 
+  "depth": "", 
+  "dimensions": "support: 689 x 521 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "521", 
+  "id": 767, 
+  "inscription": null, 
+  "medium": "Watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 15600, 
+                "name": "Strasbourg, Strasbourg Cathedral"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04588_8.jpg", 
+  "title": "Strasbourg Cathedral", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bauer-strasbourg-cathedral-n04588", 
+  "width": "689"
+}

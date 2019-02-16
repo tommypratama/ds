@@ -1,0 +1,144 @@
+{
+  "acno": "P06564", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Shmuel Shapiro", 
+  "catalogueGroup": {
+    "accessionRanges": "P06558-P06567", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65522, 
+    "shortTitle": "Gates of Death"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "born 1924", 
+      "displayOrder": 1, 
+      "fc": "Shmuel Shapiro", 
+      "gender": "Male", 
+      "id": 1935, 
+      "mda": "Shapiro, Shmuel", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1967, 
+    "startYear": 1966, 
+    "text": "1966-7"
+  }, 
+  "dateText": "1966\u20137", 
+  "depth": "", 
+  "dimensions": "image: 805 x 574 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Gates of Death", 
+  "height": "574", 
+  "id": 13352, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1392, 
+                "name": "burn"
+              }, 
+              {
+                "id": 12874, 
+                "name": "pain"
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1787, 
+                "name": "torture"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Burning Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/shapiro-burning-woman-p06564", 
+  "width": "805"
+}

@@ -1,0 +1,96 @@
+{
+  "acno": "T08275", 
+  "acquisitionYear": 1996, 
+  "all_artists": "William Taverner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1700, 
+      "date": "1700\u20131772", 
+      "displayOrder": 1, 
+      "fc": "William Taverner", 
+      "gender": "Male", 
+      "id": 2460, 
+      "mda": "Taverner, William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1765, 
+    "startYear": 1750, 
+    "text": "?c.1750-65"
+  }, 
+  "dateText": "?c.1750\u201365", 
+  "depth": "", 
+  "dimensions": "support: 200 x 319 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "319", 
+  "id": 23786, 
+  "inscription": null, 
+  "medium": "Watercolour, gouache and graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10438, 
+                "name": "Camberwell - non-specific"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2332, 
+                "name": "heathland"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08275_8.jpg", 
+  "title": "From Camberwell", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/taverner-from-camberwell-t08275", 
+  "width": "200"
+}

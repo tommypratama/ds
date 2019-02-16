@@ -1,0 +1,70 @@
+{
+  "acno": "P07400", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Richard Smith", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1931, 
+      "date": "born 1931", 
+      "displayOrder": 1, 
+      "fc": "Richard Smith", 
+      "gender": "Male", 
+      "id": 1959, 
+      "mda": "Smith, Richard", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1976, 
+    "text": "1976"
+  }, 
+  "dateText": "1976", 
+  "depth": "", 
+  "dimensions": "support: 705 x 765 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "765", 
+  "id": 13595, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on papers and strings", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07400_8.jpg", 
+  "title": "Four Knots", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-four-knots-p07400", 
+  "width": "705"
+}

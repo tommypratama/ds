@@ -1,0 +1,142 @@
+{
+  "acno": "N00918", 
+  "acquisitionYear": 1874, 
+  "all_artists": "Thomas Sword Good", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1789, 
+      "date": "1789\u20131872", 
+      "displayOrder": 1, 
+      "fc": "Thomas Sword Good", 
+      "gender": "Male", 
+      "id": 213, 
+      "mda": "Good, Thomas Sword", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist's widow 1874", 
+  "dateRange": {
+    "endYear": 1832, 
+    "startYear": 1832, 
+    "text": "?1832"
+  }, 
+  "dateText": "?1832", 
+  "depth": "", 
+  "dimensions": "support: 375 x 476 mm\r\nframe: 666 x 774 x 113 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "476", 
+  "id": 5500, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on wood", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach"
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2094, 
+                "name": "fisherman / fisherwoman"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5988, 
+                "name": "gun, rifle"
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00918_8.jpg", 
+  "title": "Fisherman with a Gun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/good-fisherman-with-a-gun-n00918", 
+  "width": "375"
+}

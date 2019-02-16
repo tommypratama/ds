@@ -1,0 +1,150 @@
+{
+  "acno": "N04385", 
+  "acquisitionYear": 1928, 
+  "all_artists": "James Dickson Innes", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131914", 
+      "displayOrder": 1, 
+      "fc": "James Dickson Innes", 
+      "gender": "Male", 
+      "id": 1336, 
+      "mda": "Innes, James Dickson", 
+      "role": "artist", 
+      "startLetter": "I"
+    }
+  ], 
+  "creditLine": "Presented by Rowland Burdon-Muller 1928", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1913, 
+    "text": "1913"
+  }, 
+  "dateText": "1913", 
+  "depth": "", 
+  "dimensions": "support: 857 x 1137 mm\r\nframe: 1159 x 1441 x 108 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1137", 
+  "id": 7034, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on plywood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 4229, 
+      "name": "Post-Impressionism"
+    }
+  ], 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6077, 
+                "name": "Arenig Fawr"
+              }, 
+              {
+                "id": 13555, 
+                "name": "Llyn Tegid / Bala Lake"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4756, 
+                "name": "Caernarfonshire and Merionethshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4753, 
+                "name": "Snowdonia"
+              }, 
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04385_8.jpg", 
+  "title": "Arenig, North Wales", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/innes-arenig-north-wales-n04385", 
+  "width": "857"
+}

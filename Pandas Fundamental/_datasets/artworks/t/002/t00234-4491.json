@@ -1,0 +1,106 @@
+{
+  "acno": "T00234", 
+  "acquisitionYear": 1959, 
+  "all_artists": "Lucio Fontana", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1899, 
+      "date": "1899\u20131968", 
+      "displayOrder": 1, 
+      "fc": "Lucio Fontana", 
+      "gender": "Male", 
+      "id": 1102, 
+      "mda": "Fontana, Lucio", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by Mr and Mrs Charles Damiano 1959", 
+  "dateRange": {
+    "endYear": 1958, 
+    "startYear": 1958, 
+    "text": "1958"
+  }, 
+  "dateText": "1958", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 1638 x 1206 mm\r\nframe: 1915 x 1473 x 95 mm", 
+  "foreignTitle": "Concetto spaziale", 
+  "groupTitle": null, 
+  "height": "1206", 
+  "id": 4491, 
+  "inscription": "date inscribed", 
+  "medium": "Pastel and canvas on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 4246, 
+      "name": "Spazialismo"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4312, 
+                "name": "time"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Fondazione Lucio Fontana, Milan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00234_8.jpg", 
+  "title": "Spatial Concept", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fontana-spatial-concept-t00234", 
+  "width": "1638"
+}

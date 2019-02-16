@@ -1,0 +1,92 @@
+{
+  "acno": "T07344", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Richard Patterson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1963, 
+      "date": "born 1963", 
+      "displayOrder": 1, 
+      "fc": "Richard Patterson", 
+      "gender": "Male", 
+      "id": 2652, 
+      "mda": "Patterson, Richard", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Evelyn, Lady Downshire's Trust Fund 1997", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1996, 
+    "text": "1996-7"
+  }, 
+  "dateText": "1996\u20137", 
+  "depth": "52", 
+  "dimensions": "support: 2083 x 1582 x 52 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1582", 
+  "id": 25988, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6463, 
+                "name": "Minotaur"
+              }
+            ], 
+            "id": 142, 
+            "name": "classical myths: creatures"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Patterson", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07344_8.jpg", 
+  "title": "Painted Minotaur", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/patterson-painted-minotaur-t07344", 
+  "width": "2083"
+}

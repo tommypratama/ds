@@ -1,0 +1,122 @@
+{
+  "acno": "P79817", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Richard Hamilton", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Richard Hamilton", 
+      "gender": "Male", 
+      "id": 1244, 
+      "mda": "Hamilton, Richard", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Tate Members 2010", 
+  "dateRange": {
+    "endYear": 1979, 
+    "startYear": 1979, 
+    "text": "1979"
+  }, 
+  "dateText": "1979", 
+  "depth": "", 
+  "dimensions": "plate: 275 x 348 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "348", 
+  "id": 105309, 
+  "inscription": null, 
+  "medium": "Etching and aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed"
+              }, 
+              {
+                "id": 841, 
+                "name": "curtain"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4990, 
+                "name": "lamp"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5128, 
+                "name": "television"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2700, 
+                "name": "hotel"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Richard Hamilton", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79817_8.jpg", 
+  "title": "Motel I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-motel-i-p79817", 
+  "width": "275"
+}

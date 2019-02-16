@@ -1,0 +1,118 @@
+{
+  "acno": "T03168", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Edward Lear", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1812, 
+      "date": "1812\u20131888", 
+      "displayOrder": 1, 
+      "fc": "Edward Lear", 
+      "gender": "Male", 
+      "id": 337, 
+      "mda": "Lear, Edward", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Bequeathed by Miss Eveline Annie Dear 1980", 
+  "dateRange": {
+    "endYear": 1856, 
+    "startYear": 1856, 
+    "text": "1856"
+  }, 
+  "dateText": "1856", 
+  "depth": "", 
+  "dimensions": "support: 314 x 486 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "486", 
+  "id": 8479, 
+  "inscription": "date inscribed", 
+  "medium": "Watercolour and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4525, 
+                "name": "Athos, Monastery of Simopetra"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1145, 
+                "name": "Greece"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8266, 
+                "name": "Mount Athos"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4526, 
+                "name": "monastery"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03168_8.jpg", 
+  "title": "The Monastery of Simopetra on Mount Athos", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lear-the-monastery-of-simopetra-on-mount-athos-t03168", 
+  "width": "314"
+}

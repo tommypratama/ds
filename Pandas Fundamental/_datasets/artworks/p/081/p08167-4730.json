@@ -1,0 +1,144 @@
+{
+  "acno": "P08167", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Roger Fry", 
+  "catalogueGroup": {
+    "accessionRanges": "P08164-P08173", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65315, 
+    "shortTitle": "Ten Architectural Lithographs"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131934", 
+      "displayOrder": 1, 
+      "fc": "Roger Fry", 
+      "gender": "Male", 
+      "id": 1129, 
+      "mda": "Fry, Roger", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1979", 
+  "dateRange": {
+    "endYear": 1930, 
+    "startYear": 1930, 
+    "text": "1930"
+  }, 
+  "dateText": "1930", 
+  "depth": "", 
+  "dimensions": "image: 380 x 280 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Ten Architectural Lithographs", 
+  "height": "280", 
+  "id": 4730, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 295, 
+      "name": "Bloomsbury Group"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8724, 
+                "name": "Elne"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade"
+              }, 
+              {
+                "id": 3568, 
+                "name": "ceiling"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church"
+              }
+            ], 
+            "id": 45, 
+            "name": "religious"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08167_8.jpg", 
+  "title": "Elne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fry-elne-p08167", 
+  "width": "380"
+}

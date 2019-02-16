@@ -1,0 +1,102 @@
+{
+  "acno": "T12077", 
+  "acquisitionYear": 2005, 
+  "all_artists": "David Leach", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1911, 
+      "date": "1911\u20132005", 
+      "displayOrder": 1, 
+      "fc": "David Leach", 
+      "gender": "Male", 
+      "id": 7651, 
+      "mda": "Leach, David", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Accepted by HM Government in lieu of inheritance tax and allocated to Tate 2005", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1950, 
+    "text": "c.1950"
+  }, 
+  "dateText": "c.1950", 
+  "depth": "215", 
+  "dimensions": "object: 30 x 215 x 215 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "215", 
+  "id": 88204, 
+  "inscription": null, 
+  "medium": "Reduced stoneware", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1547, 
+                "name": "hare"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Bernard Leach", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12077_8.jpg", 
+  "title": "Hare Plate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leach-hare-plate-t12077", 
+  "width": "30"
+}

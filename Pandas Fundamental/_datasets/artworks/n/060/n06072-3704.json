@@ -1,0 +1,86 @@
+{
+  "acno": "N06072", 
+  "acquisitionYear": 1952, 
+  "all_artists": "Edgar Degas", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1834, 
+      "date": "1834\u20131917", 
+      "displayOrder": 1, 
+      "fc": "Edgar Degas", 
+      "gender": "Male", 
+      "id": 988, 
+      "mda": "Degas, Edgar", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the Art Fund 1952", 
+  "dateRange": {
+    "endYear": 1888, 
+    "startYear": 1887, 
+    "text": "c.1887-8"
+  }, 
+  "dateText": "c.1887\u20138", 
+  "depth": "241", 
+  "dimensions": "object: 305 x 387 x 241 mm", 
+  "foreignTitle": "Cheval s'enlevant sur l'obstacle", 
+  "groupTitle": null, 
+  "height": "387", 
+  "id": 3704, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 357, 
+      "name": "Impressionism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1093, 
+                "name": "leaping"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06072_8.jpg", 
+  "title": "Horse Clearing an Obstacle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/degas-horse-clearing-an-obstacle-n06072", 
+  "width": "305"
+}

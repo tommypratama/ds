@@ -1,0 +1,116 @@
+{
+  "acno": "T05557", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Giuseppe Penone", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1947, 
+      "date": "born 1947", 
+      "displayOrder": 1, 
+      "fc": "Giuseppe Penone", 
+      "gender": "Male", 
+      "id": 1754, 
+      "mda": "Penone, Giuseppe", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1989", 
+  "dateRange": {
+    "endYear": 1982, 
+    "startYear": 1980, 
+    "text": "1980-2"
+  }, 
+  "dateText": "1980\u20132", 
+  "depth": "500", 
+  "dimensions": "object: 6000 x 500 x 500 mm", 
+  "foreignTitle": "Albero di 12 metri", 
+  "groupTitle": null, 
+  "height": "500", 
+  "id": 17394, 
+  "inscription": null, 
+  "medium": "Wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 418, 
+      "name": "Arte Povera"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5876, 
+                "name": "creation"
+              }, 
+              {
+                "id": 5587, 
+                "name": "existence"
+              }, 
+              {
+                "id": 4312, 
+                "name": "time"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6495, 
+                "name": "growth - tree"
+              }
+            ], 
+            "id": 1030, 
+            "name": "abstract concepts"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2331, 
+                "name": "trunk"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Archivio Penone", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05557_8.jpg", 
+  "title": "Tree of 12 Metres", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/penone-tree-of-12-metres-t05557", 
+  "width": "6000"
+}

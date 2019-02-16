@@ -1,0 +1,92 @@
+{
+  "acno": "T06520", 
+  "acquisitionYear": 1992, 
+  "all_artists": "Dame Barbara Hepworth", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Dame Barbara Hepworth", 
+      "gender": "Female", 
+      "id": 1274, 
+      "mda": "Hepworth, Dame Barbara", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by Mrs Helen Margaret Murray in memory of her husband Frederick Lewis Staite Murray 1992", 
+  "dateRange": {
+    "endYear": 1932, 
+    "startYear": 1932, 
+    "text": "1932"
+  }, 
+  "dateText": "1932", 
+  "depth": "150", 
+  "dimensions": "object: 230 x 239 x 150 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "239", 
+  "id": 20355, 
+  "inscription": null, 
+  "medium": "Alabaster on alabaster base", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 303, 
+      "name": "Direct Carving"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06520_8.jpg", 
+  "title": "Sculpture with Profiles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-sculpture-with-profiles-t06520", 
+  "width": "230"
+}

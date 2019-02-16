@@ -1,0 +1,84 @@
+{
+  "acno": "T03773", 
+  "acquisitionYear": 1983, 
+  "all_artists": "William Turnbull", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20132012", 
+      "displayOrder": 1, 
+      "fc": "William Turnbull", 
+      "gender": "Male", 
+      "id": 2075, 
+      "mda": "Turnbull, William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Transferred from the Victoria & Albert Museum 1983", 
+  "dateRange": {
+    "endYear": 1953, 
+    "startYear": 1953, 
+    "text": "1953"
+  }, 
+  "dateText": "1953", 
+  "depth": "70", 
+  "dimensions": "object: 230 x 205 x 70 mm, 2.4 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "205", 
+  "id": 14593, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 424, 
+      "name": "Geometry of Fear"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 425, 
+      "name": "Independent Group"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1977, 
+                "name": "mask"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 William Turnbull. All Rights Reserved, DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03773_8.jpg", 
+  "title": "Mask I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turnbull-mask-i-t03773", 
+  "width": "230"
+}

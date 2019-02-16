@@ -1,0 +1,156 @@
+{
+  "acno": "N05935", 
+  "acquisitionYear": 1950, 
+  "all_artists": "Juan Gris", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131927", 
+      "displayOrder": 1, 
+      "fc": "Juan Gris", 
+      "gender": "Male", 
+      "id": 1221, 
+      "mda": "Gris, Juan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased 1950", 
+  "dateRange": {
+    "endYear": 1924, 
+    "startYear": 1924, 
+    "text": "1924"
+  }, 
+  "dateText": "1924", 
+  "depth": "", 
+  "dimensions": "support: 387 x 600 mm\r\nframe: 615 x 825 x 115 mm", 
+  "foreignTitle": "Violon et compotier", 
+  "groupTitle": null, 
+  "height": "600", 
+  "id": 5693, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 299, 
+      "name": "Cubism"
+    }
+  ], 
+  "subjectCount": 12, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19660, 
+                "name": "carafe"
+              }, 
+              {
+                "id": 1296, 
+                "name": "plate"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific"
+              }, 
+              {
+                "id": 1037, 
+                "name": "fruit, apple"
+              }, 
+              {
+                "id": 4222, 
+                "name": "fruit, grape"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3011, 
+                "name": "instrument, violin"
+              }, 
+              {
+                "id": 816, 
+                "name": "sheet music"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4099, 
+                "name": "shutter"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }, 
+              {
+                "id": 1071, 
+                "name": "table cloth"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05935_8.jpg", 
+  "title": "Violin and Fruit-Dish", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gris-violin-and-fruit-dish-n05935", 
+  "width": "387"
+}

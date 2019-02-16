@@ -1,0 +1,102 @@
+{
+  "acno": "T08012", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Alexander Cozens", 
+  "catalogueGroup": {
+    "accessionRanges": "T08000-T08082; T10676", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66030, 
+    "shortTitle": "Mackworth Praed Book"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1717, 
+      "date": "1717\u20131786", 
+      "displayOrder": 1, 
+      "fc": "Alexander Cozens", 
+      "gender": "Male", 
+      "id": 118, 
+      "mda": "Cozens, Alexander", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 98 x 141 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Mackworth Praed Book", 
+  "height": "141", 
+  "id": 22558, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay"
+              }, 
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08012_8.jpg", 
+  "title": "A Bay with a Ship, Coast to Right", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-a-bay-with-a-ship-coast-to-right-t08012", 
+  "width": "98"
+}

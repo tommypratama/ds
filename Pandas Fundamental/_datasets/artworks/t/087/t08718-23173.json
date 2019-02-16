@@ -1,0 +1,88 @@
+{
+  "acno": "T08718", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Linnell", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1792, 
+      "date": "1792\u20131882", 
+      "displayOrder": 1, 
+      "fc": "John Linnell", 
+      "gender": "Male", 
+      "id": 351, 
+      "mda": "Linnell, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 110 x 95 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "95", 
+  "id": 23173, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9947, 
+                "name": "boxing"
+              }
+            ], 
+            "id": 54, 
+            "name": "sport"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08718_8.jpg", 
+  "title": "Boxers, and Studies of a Head in Profile", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/linnell-boxers-and-studies-of-a-head-in-profile-t08718", 
+  "width": "110"
+}

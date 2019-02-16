@@ -1,0 +1,92 @@
+{
+  "acno": "P11292", 
+  "acquisitionYear": 1991, 
+  "all_artists": "Birgit Ski\u00f6ld", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1923, 
+      "date": "1923\u20131982", 
+      "displayOrder": 1, 
+      "fc": "Birgit Ski\u00f6ld", 
+      "gender": "Female", 
+      "id": 1950, 
+      "mda": "Ski\u00f6ld, Birgit", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Birgit Skiold Memorial Trust 1991", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 355 x 630 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "630", 
+  "id": 19402, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2550, 
+                "name": "temple"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Temple Garden", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/skiold-temple-garden-p11292", 
+  "width": "355"
+}

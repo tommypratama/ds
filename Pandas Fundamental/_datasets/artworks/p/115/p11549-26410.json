@@ -1,0 +1,82 @@
+{
+  "acno": "P11549", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Peter Doig", 
+  "catalogueGroup": {
+    "accessionRanges": "P11544-P11553", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66077, 
+    "shortTitle": "Grasshopper"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1959, 
+      "date": "born 1959", 
+      "displayOrder": 1, 
+      "fc": "Peter Doig", 
+      "gender": "Male", 
+      "id": 2361, 
+      "mda": "Doig, Peter", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the artist and Charles Booth-Clibborn 1998", 
+  "dateRange": {
+    "endYear": 1997, 
+    "startYear": 1997, 
+    "text": "1997"
+  }, 
+  "dateText": "1997", 
+  "depth": "", 
+  "dimensions": "image: 300 x 202 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Grasshopper", 
+  "height": "202", 
+  "id": 26410, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Peter Doig", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11549_8.jpg", 
+  "title": "Window Pane", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/doig-window-pane-p11549", 
+  "width": "300"
+}

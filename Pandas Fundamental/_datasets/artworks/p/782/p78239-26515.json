@@ -1,0 +1,106 @@
+{
+  "acno": "P78239", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Colin Self", 
+  "catalogueGroup": {
+    "accessionRanges": "P78236-P78244", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66082, 
+    "shortTitle": "Prelude to 1000 Temporary Objects of our Time"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1941, 
+      "date": "born 1941", 
+      "displayOrder": 1, 
+      "fc": "Colin Self", 
+      "gender": "Male", 
+      "id": 1922, 
+      "mda": "Self, Colin", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1999", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1970, 
+    "text": "1970-1"
+  }, 
+  "dateText": "1970\u20131", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 690 x 540 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Prelude to 1000 Temporary Objects of our Time", 
+  "height": "540", 
+  "id": 26515, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }, 
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11895, 
+                "name": "spaghetti"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Colin Self. All Rights Reserved, DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78239_8.jpg", 
+  "title": "Spaghetti", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/self-spaghetti-p78239", 
+  "width": "690"
+}

@@ -1,0 +1,88 @@
+{
+  "acno": "D35393", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D35386-D35401; D40443", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65977, 
+    "shortTitle": "Ambleteuse and Wimereux Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1845, 
+    "startYear": 1845, 
+    "text": "1845"
+  }, 
+  "dateText": "1845", 
+  "depth": "", 
+  "dimensions": "support: 238 x 336 mm", 
+  "finberg": "CCCLVII 8", 
+  "foreignTitle": null, 
+  "groupTitle": "Ambleteuse and Wimereux Sketchbook", 
+  "height": "336", 
+  "id": 62520, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35393_8.jpg", 
+  "title": "The Sun Reflected on the Sea ?near Boulogne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-sun-reflected-on-the-sea-near-boulogne-d35393", 
+  "width": "238"
+}

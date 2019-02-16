@@ -1,0 +1,86 @@
+{
+  "acno": "P03231", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Tom Phillips", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tom Phillips", 
+      "gender": "Male", 
+      "id": 1764, 
+      "mda": "Phillips, Esq Tom", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Tetrad Press 1978", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1972, 
+    "text": "1972"
+  }, 
+  "dateText": "1972", 
+  "depth": "", 
+  "dimensions": "image: 387 x 425 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "425", 
+  "id": 11652, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10074, 
+                "name": "Mallock, William Hurrell, 'A Human Document'"
+              }, 
+              {
+                "id": 10075, 
+                "name": "Phillips, Tom, 'A Humument'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tom Phillips", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03231_8.jpg", 
+  "title": "A Humument Supplement I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-a-humument-supplement-i-p03231", 
+  "width": "387"
+}

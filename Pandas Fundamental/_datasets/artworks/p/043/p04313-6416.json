@@ -1,0 +1,80 @@
+{
+  "acno": "P04313", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Anthony Hill", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Anthony Hill", 
+      "gender": "Male", 
+      "id": 1284, 
+      "mda": "Hill, Anthony", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 705 x 813 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "813", 
+  "id": 6416, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 419, 
+      "name": "British Constructivism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Anthony Hill", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04313_8.jpg", 
+  "title": "Parity Study in Blue and Red", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hill-parity-study-in-blue-and-red-p04313", 
+  "width": "705"
+}

@@ -1,0 +1,76 @@
+{
+  "acno": "T01770", 
+  "acquisitionYear": 1973, 
+  "all_artists": "Rodrigo Moynihan", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131990", 
+      "displayOrder": 1, 
+      "fc": "Rodrigo Moynihan", 
+      "gender": "Male", 
+      "id": 1674, 
+      "mda": "Moynihan, Rodrigo", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1973", 
+  "dateRange": {
+    "endYear": 1935, 
+    "startYear": 1935, 
+    "text": "1935"
+  }, 
+  "dateText": "1935", 
+  "depth": "", 
+  "dimensions": "support: 419 x 343 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "343", 
+  "id": 10375, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 313, 
+      "name": "Objective Abstraction"
+    }
+  ], 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Rodrigo Moynihan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01770_8.jpg", 
+  "title": "Painting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moynihan-painting-t01770", 
+  "width": "419"
+}

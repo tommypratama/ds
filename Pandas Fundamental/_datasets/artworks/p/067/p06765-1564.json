@@ -1,0 +1,134 @@
+{
+  "acno": "P06765", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Peter Brook", 
+  "catalogueGroup": {
+    "accessionRanges": "P06632-P06633; P06722; P06761-P06769", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65263, 
+    "shortTitle": "Twelve Months of the Year"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "1927\u20132009", 
+      "displayOrder": 1, 
+      "fc": "Peter Brook", 
+      "gender": "Male", 
+      "id": 816, 
+      "mda": "Brook, Peter", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1978", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1976, 
+    "text": "1976-7"
+  }, 
+  "dateText": "1976\u20137", 
+  "depth": "", 
+  "dimensions": "image: 510 x 710 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Twelve Months of the Year", 
+  "height": "710", 
+  "id": 1564, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8243, 
+                "name": "Anglesey"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Peter Brook", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06765_8.jpg", 
+  "title": "AUGUST Cottage in Anglesey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brook-august-cottage-in-anglesey-p06765", 
+  "width": "510"
+}

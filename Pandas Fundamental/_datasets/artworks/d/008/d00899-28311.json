@@ -1,0 +1,103 @@
+{
+  "acno": "D00899", 
+  "acquisitionYear": 1856, 
+  "all_artists": "British School 18th century", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1700, 
+      "date": "1700\u20131799", 
+      "displayOrder": 1, 
+      "fc": "British School 18th century", 
+      "gender": null, 
+      "id": 59, 
+      "mda": "British School 18th century", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1780, 
+    "startYear": 1780, 
+    "text": "?c.1780"
+  }, 
+  "dateText": "?c.1780", 
+  "depth": "", 
+  "dimensions": "support: 201 x 152 mm", 
+  "finberg": "XXXIII b", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "152", 
+  "id": 28311, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00899_8.jpg", 
+  "title": "Fragment of a Composition: A Ruin beyond a Lake, with Cattle in the Foreground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/british-school-18th-century-fragment-of-a-composition-a-ruin-beyond-a-lake-with-cattle-in-d00899", 
+  "width": "201"
+}

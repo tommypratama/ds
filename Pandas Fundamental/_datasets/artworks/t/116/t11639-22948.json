@@ -1,0 +1,137 @@
+{
+  "acno": "T11639", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Julia Emily Gordon, Sir Harry Percy Gordon, 2nd Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1810, 
+      "date": "1810\u20131896", 
+      "displayOrder": 1, 
+      "fc": "Julia Emily Gordon", 
+      "gender": "Female", 
+      "id": 2579, 
+      "mda": "Gordon, Julia Emily", 
+      "role": "artist", 
+      "startLetter": "G"
+    }, 
+    {
+      "birthYear": 1860, 
+      "date": "died c.1860", 
+      "displayOrder": 2, 
+      "fc": "Sir Harry Percy Gordon, 2nd Bt", 
+      "gender": "Male", 
+      "id": 2637, 
+      "mda": "Gordon, Sir Harry Percy, 2nd Bt", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1836, 
+    "startYear": 1836, 
+    "text": "1836"
+  }, 
+  "dateText": "1836", 
+  "depth": "", 
+  "dimensions": "image: 140 x 84 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "84", 
+  "id": 22948, 
+  "inscription": "date inscribed", 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5660, 
+                "name": "Calais - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }, 
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11639_8.jpg", 
+  "title": "Calais", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gordon-calais-t11639", 
+  "width": "140"
+}

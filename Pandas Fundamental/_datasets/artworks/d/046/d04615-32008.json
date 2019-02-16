@@ -1,0 +1,113 @@
+{
+  "acno": "D04615", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149846, 
+  "catalogueGroup": {
+    "accessionRanges": "D04590-D04643; D04645-D04648; D41390-D41391", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65724, 
+    "shortTitle": "St Gothard and Mont Blanc Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1802, 
+    "text": "1802"
+  }, 
+  "dateText": "1802", 
+  "depth": "", 
+  "dimensions": "support: 314 x 465 mm", 
+  "finberg": "LXXV 23", 
+  "foreignTitle": null, 
+  "groupTitle": "St Gothard and Mont Blanc Sketchbook", 
+  "height": "465", 
+  "id": 32008, 
+  "inscription": null, 
+  "medium": "Graphite, chalk, watercolour, and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10589, 
+                "name": "Aiguille de Tacul"
+              }, 
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 7684, 
+                "name": "Mer de Glace"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier"
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04615_8.jpg", 
+  "title": "The Mer de Glace, Looking up to the Aiguille de Tacul", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-mer-de-glace-looking-up-to-the-aiguille-de-tacul-d04615", 
+  "width": "314"
+}

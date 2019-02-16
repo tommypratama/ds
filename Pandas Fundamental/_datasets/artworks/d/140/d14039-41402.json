@@ -1,0 +1,98 @@
+{
+  "acno": "D14039", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D14039", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D140/D14039_E.jpg", 
+          "height": 348, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1148865, 
+  "catalogueGroup": {
+    "accessionRanges": "D13991-D14044; D14047-D14143; D40872-D40877", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65814, 
+    "shortTitle": "Paris, France, Savoy 2 Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "1819"
+  }, 
+  "dateText": "1819", 
+  "depth": "", 
+  "dimensions": "support: 114 x 185 mm", 
+  "finberg": "CLXXIII 31 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Paris, France, Savoy 2 Sketchbook", 
+  "height": "185", 
+  "id": 41402, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 64, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 942, 
+                "name": "valley"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14039_8.jpg", 
+  "title": "?Ascent to the Pass of Mont Cenis", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ascent-to-the-pass-of-mont-cenis-d14039", 
+  "width": "114"
+}

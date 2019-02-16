@@ -1,0 +1,102 @@
+{
+  "acno": "T03176", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Alexander Cozens", 
+  "catalogueGroup": {
+    "accessionRanges": "T03169-T03184", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65237, 
+    "shortTitle": "Plates 1-16 ('blot' landscapes) for 'A New Method of Assisting the Invention in Drawing Original Compositions of Landscape'"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1717, 
+      "date": "1717\u20131786", 
+      "displayOrder": 1, 
+      "fc": "Alexander Cozens", 
+      "gender": "Male", 
+      "id": 118, 
+      "mda": "Cozens, Alexander", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased 1980", 
+  "dateRange": {
+    "endYear": 1785, 
+    "startYear": 1785, 
+    "text": "c.1785"
+  }, 
+  "dateText": "c.1785", 
+  "depth": "", 
+  "dimensions": "image: 240 x 314 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Plates 1-16 ('blot' landscapes) for 'A New Method of Assisting the Invention in Drawing Original Compositions of Landscape'", 
+  "height": "314", 
+  "id": 2903, 
+  "inscription": null, 
+  "medium": "Aquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6795, 
+                "name": "spontaneity"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03176_8.jpg", 
+  "title": "Plate 8", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-plate-8-t03176", 
+  "width": "240"
+}

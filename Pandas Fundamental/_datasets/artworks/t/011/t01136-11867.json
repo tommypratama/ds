@@ -1,0 +1,120 @@
+{
+  "acno": "T01136", 
+  "acquisitionYear": 1969, 
+  "all_artists": "Pablo Picasso", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1881, 
+      "date": "1881\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Pablo Picasso", 
+      "gender": "Male", 
+      "id": 1767, 
+      "mda": "Picasso, Pablo", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased 1969", 
+  "dateRange": {
+    "endYear": 1914, 
+    "startYear": 1914, 
+    "text": "1914"
+  }, 
+  "dateText": "1914", 
+  "depth": "92", 
+  "dimensions": "object: 254 x 457 x 92 mm", 
+  "foreignTitle": "Nature morte", 
+  "groupTitle": null, 
+  "height": "457", 
+  "id": 11867, 
+  "inscription": null, 
+  "medium": "Painted wood and upholstery fringe", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 299, 
+      "name": "Cubism"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1183, 
+                "name": "bread"
+              }, 
+              {
+                "id": 3783, 
+                "name": "sausage"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass"
+              }, 
+              {
+                "id": 22782, 
+                "name": "knife"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1071, 
+                "name": "table cloth"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Succession Picasso/DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01136_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/picasso-still-life-t01136", 
+  "width": "254"
+}

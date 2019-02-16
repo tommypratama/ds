@@ -1,0 +1,80 @@
+{
+  "acno": "P78323", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Kim Lim", 
+  "catalogueGroup": {
+    "accessionRanges": "P78321-P78323", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66102, 
+    "shortTitle": "III-IV-V"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "1936\u20131997", 
+      "displayOrder": 1, 
+      "fc": "Kim Lim", 
+      "gender": "Female", 
+      "id": 1512, 
+      "mda": "Lim, Kim", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1999", 
+  "dateRange": {
+    "endYear": 1991, 
+    "startYear": 1991, 
+    "text": "1991"
+  }, 
+  "dateText": "1991", 
+  "depth": "", 
+  "dimensions": "image: 359 x 325 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "III-IV-V", 
+  "height": "325", 
+  "id": 26730, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Kim Lim. All Rights Reserved, DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78323_8.jpg", 
+  "title": "V", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lim-v-p78323", 
+  "width": "359"
+}

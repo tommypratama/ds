@@ -1,0 +1,100 @@
+{
+  "acno": "D02241", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D02236-D02242; D40258-D40259", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLVIII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65701, 
+    "shortTitle": "Smaller Fonthill Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1802, 
+    "startYear": 1799, 
+    "text": "1799-1802"
+  }, 
+  "dateText": "1799\u20131802", 
+  "depth": "", 
+  "dimensions": "support: 255 x 410 mm", 
+  "finberg": "XLVIII 6", 
+  "foreignTitle": null, 
+  "groupTitle": "Smaller Fonthill Sketchbook", 
+  "height": "410", 
+  "id": 29644, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02241_8.jpg", 
+  "title": "A House among Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-house-among-trees-d02241", 
+  "width": "255"
+}

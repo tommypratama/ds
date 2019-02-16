@@ -1,0 +1,98 @@
+{
+  "acno": "T01239", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Claes Oldenburg", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1929, 
+      "date": "born 1929", 
+      "displayOrder": 1, 
+      "fc": "Claes Oldenburg", 
+      "gender": "Male", 
+      "id": 1713, 
+      "mda": "Oldenburg, Claes", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Presented by E.J. Power through the Friends of the Tate Gallery 1970", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "578", 
+  "dimensions": "object: 117 x 1073 x 578 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1073", 
+  "id": 10915, 
+  "inscription": "date inscribed", 
+  "medium": "Painted plaster", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 437, 
+      "name": "Pop Art"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1183, 
+                "name": "bread"
+              }, 
+              {
+                "id": 5193, 
+                "name": "meat"
+              }, 
+              {
+                "id": 5887, 
+                "name": "sandwich"
+              }, 
+              {
+                "id": 4569, 
+                "name": "vegetable, potato"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5927, 
+                "name": "counter"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Claes Oldenburg", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01239_8.jpg", 
+  "title": "Counter and Plates with Potato and Ham", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oldenburg-counter-and-plates-with-potato-and-ham-t01239", 
+  "width": "117"
+}

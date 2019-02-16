@@ -1,0 +1,75 @@
+{
+  "acno": "D27999", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D27940-D28041; D41107; D41127", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXXVI", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65912, 
+    "shortTitle": "Oxford and Bruges Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1834, 
+    "startYear": 1834, 
+    "text": "c.1834"
+  }, 
+  "dateText": "c.1834", 
+  "depth": "", 
+  "dimensions": "support: 90 x 116 mm", 
+  "finberg": "CCLXXXVI 33", 
+  "foreignTitle": null, 
+  "groupTitle": "Oxford and Bruges Sketchbook", 
+  "height": "116", 
+  "id": 55318, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 67, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27999_8.jpg", 
+  "title": "Continuation of Building, with Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-continuation-of-building-with-tower-d27999", 
+  "width": "90"
+}

@@ -1,0 +1,128 @@
+{
+  "acno": "T00939", 
+  "acquisitionYear": 1967, 
+  "all_artists": "attributed to William Hamilton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1751, 
+      "date": "1751\u20131801", 
+      "displayOrder": 1, 
+      "fc": "William Hamilton", 
+      "gender": "Male", 
+      "id": 2580, 
+      "mda": "Hamilton, William", 
+      "role": "attributed to", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1967", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 470 x 698 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "698", 
+  "id": 5833, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2033, 
+                "name": "attacking"
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive"
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group"
+              }
+            ], 
+            "id": 97, 
+            "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12781, 
+                "name": "harem"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00939_8.jpg", 
+  "title": "The Invasion of a Harem", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-the-invasion-of-a-harem-t00939", 
+  "width": "470"
+}

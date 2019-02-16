@@ -1,0 +1,132 @@
+{
+  "acno": "N03512", 
+  "acquisitionYear": 1920, 
+  "all_artists": "John Hoppner", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1758, 
+      "date": "1758\u20131810", 
+      "displayOrder": 1, 
+      "fc": "John Hoppner", 
+      "gender": "Male", 
+      "id": 276, 
+      "mda": "Hoppner, John", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Bequeathed by Amy, Lady Tate 1920", 
+  "dateRange": {
+    "endYear": 1804, 
+    "startYear": 1804, 
+    "text": "exhibited 1804"
+  }, 
+  "dateText": "exhibited 1804", 
+  "depth": "", 
+  "dimensions": "support: 1283 x 1022 mm\r\nframe: 1458 x 1197 x 100 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1022", 
+  "id": 6710, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5625, 
+                "name": "Cholmondeley, Harriet"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20117, 
+                "name": "individuals: female"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1750, 
+                "name": "picking flowers"
+              }, 
+              {
+                "id": 449, 
+                "name": "walking"
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities"
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03512_8.jpg", 
+  "title": "Miss Harriet Cholmondeley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hoppner-miss-harriet-cholmondeley-n03512", 
+  "width": "1283"
+}

@@ -1,0 +1,139 @@
+{
+  "acno": "D31346", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D31346", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D313/D31346_E.jpg", 
+          "height": 355, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D31277-D31312; D31314; D31316-D31415; D41399-D41402", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65938, 
+    "shortTitle": "Venice; Passau to W\u00fcrzburg Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1840, 
+    "startYear": 1840, 
+    "text": "1840"
+  }, 
+  "dateText": "1840", 
+  "depth": "", 
+  "dimensions": "support: 198 x 126 mm", 
+  "finberg": "CCCX 36", 
+  "foreignTitle": null, 
+  "groupTitle": "Venice; Passau to W\u00fcrzburg Sketchbook", 
+  "height": "126", 
+  "id": 58579, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 73, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13919, 
+                "name": "Donaustauf"
+              }, 
+              {
+                "id": 13920, 
+                "name": "Regensburg, St Salvator"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31346_8.jpg", 
+  "title": "Donaustauf and View up the Danube from the Hillside above St Salvator", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-donaustauf-and-view-up-the-danube-from-the-hillside-above-st-salvator-d31346", 
+  "width": "198"
+}

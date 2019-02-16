@@ -1,0 +1,82 @@
+{
+  "acno": "T01468", 
+  "acquisitionYear": 1971, 
+  "all_artists": "John Latham", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u2013 2006", 
+      "displayOrder": 1, 
+      "fc": "John Latham", 
+      "gender": "Male", 
+      "id": 1470, 
+      "mda": "Latham, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "", 
+  "dimensions": "support: 1530 x 2140 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2140", 
+  "id": 8396, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4312, 
+                "name": "time"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Latham Estate, courtesy Lisson Gallery, London", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01468_8.jpg", 
+  "title": "P(n)2:3/12", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/latham-pn2312-t01468", 
+  "width": "1530"
+}

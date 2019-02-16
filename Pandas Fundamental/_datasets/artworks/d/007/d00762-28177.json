@@ -1,0 +1,97 @@
+{
+  "acno": "D00762", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D00762", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D07/D00762_E.jpg", 
+          "height": 425, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D00730-D00764; D00766-D00768; D00770-D00831; D00833-D00842; D40759-D40761", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65688, 
+    "shortTitle": "Studies near Brighton Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1796, 
+    "startYear": 1796, 
+    "text": "1796"
+  }, 
+  "dateText": "1796", 
+  "depth": "", 
+  "dimensions": "support: 108 x 126 mm", 
+  "finberg": "XXX 31 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Studies near Brighton Sketchbook", 
+  "height": "126", 
+  "id": 28177, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 66, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00762_8.jpg", 
+  "title": "Wooded Hills: ?The South Downs near Bignor", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wooded-hills-the-south-downs-near-bignor-d00762", 
+  "width": "108"
+}

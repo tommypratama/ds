@@ -1,0 +1,122 @@
+{
+  "acno": "T01268", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Kenneth Armitage", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1916, 
+      "date": "1916\u20132002", 
+      "displayOrder": 1, 
+      "fc": "Kenneth Armitage", 
+      "gender": "Male", 
+      "id": 664, 
+      "mda": "Armitage, Kenneth", 
+      "role": "artist", 
+      "startLetter": "A"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1957, 
+    "startYear": 1957, 
+    "text": "1957"
+  }, 
+  "dateText": "1957", 
+  "depth": "1003", 
+  "dimensions": "object: 1708 x 1086 x 1003 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1086", 
+  "id": 580, 
+  "inscription": null, 
+  "medium": "Bronze", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 424, 
+      "name": "Geometry of Fear"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 813, 
+                "name": "diarchy"
+              }, 
+              {
+                "id": 943, 
+                "name": "government"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Kenneth Armitage Foundation", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01268_8.jpg", 
+  "title": "Diarchy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/armitage-diarchy-t01268", 
+  "width": "1708"
+}

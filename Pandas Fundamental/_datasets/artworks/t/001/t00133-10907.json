@@ -1,0 +1,76 @@
+{
+  "acno": "T00133", 
+  "acquisitionYear": 1957, 
+  "all_artists": "Roderic O'Conor", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1860, 
+      "date": "1860\u20131940", 
+      "displayOrder": 1, 
+      "fc": "Roderic O'Conor", 
+      "gender": "Male", 
+      "id": 2191, 
+      "mda": "O'Conor, Roderic", 
+      "role": "artist", 
+      "startLetter": "O"
+    }
+  ], 
+  "creditLine": "Purchased 1957", 
+  "dateRange": {
+    "endYear": 1892, 
+    "startYear": 1892, 
+    "text": "1892"
+  }, 
+  "dateText": "1892", 
+  "depth": "", 
+  "dimensions": "support: 552 x 464 mm\r\nframe: 747 x 658 x 88 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "464", 
+  "id": 10907, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1297, 
+                "name": "wood"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00133_8.jpg", 
+  "title": "Still Life with Bottles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oconor-still-life-with-bottles-t00133", 
+  "width": "552"
+}

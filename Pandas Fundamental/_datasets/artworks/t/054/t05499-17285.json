@@ -1,0 +1,98 @@
+{
+  "acno": "T05499", 
+  "acquisitionYear": 1988, 
+  "all_artists": "Sir Cedric Morris, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1889, 
+      "date": "1889\u20131982", 
+      "displayOrder": 1, 
+      "fc": "Sir Cedric Morris, Bt", 
+      "gender": "Male", 
+      "id": 1667, 
+      "mda": "Morris, Sir Cedric, Bt", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Bequeathed by Miss Nancy Morris, the artist's sister 1988", 
+  "dateRange": {
+    "endYear": 1948, 
+    "startYear": 1948, 
+    "text": "1948"
+  }, 
+  "dateText": "1948", 
+  "depth": "", 
+  "dimensions": "support: 663 x 552 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "552", 
+  "id": 17285, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 739, 
+                "name": "blanket"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4789, 
+                "name": "dog, bull terrier"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sir Cedric Morris", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05499_8.jpg", 
+  "title": "Belle of Bloomsbury", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/morris-belle-of-bloomsbury-t05499", 
+  "width": "663"
+}

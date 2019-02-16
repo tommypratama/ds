@@ -1,0 +1,306 @@
+{
+  "acno": "T07505", 
+  "acquisitionYear": 1999, 
+  "all_artists": "Gawen Hamilton", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1698, 
+      "date": "c.1698\u20131737", 
+      "displayOrder": 1, 
+      "fc": "Gawen Hamilton", 
+      "gender": "Male", 
+      "id": 2686, 
+      "mda": "Hamilton, Gawen", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from the Art Fund, the Friends of the Tate Gallery and a group of donors 1999", 
+  "dateRange": {
+    "endYear": 1735, 
+    "startYear": 1734, 
+    "text": "1734-5"
+  }, 
+  "dateText": "1734\u20135", 
+  "depth": "", 
+  "dimensions": "support: 1016 x 1270 mm\r\nframe: 1435 x 1634 x 190 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1270", 
+  "id": 26522, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 28, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16773, 
+                "name": "Boehm family"
+              }, 
+              {
+                "id": 16765, 
+                "name": "Du Cane family"
+              }
+            ], 
+            "id": 101, 
+            "name": "named families"
+          }, 
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby"
+              }, 
+              {
+                "id": 219, 
+                "name": "child"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20115, 
+                "name": "groups"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 845, 
+                "name": "businessman"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4858, 
+                "name": "cane"
+              }, 
+              {
+                "id": 701, 
+                "name": "drapery"
+              }, 
+              {
+                "id": 201, 
+                "name": "hat, cap"
+              }, 
+              {
+                "id": 629, 
+                "name": "jewellery"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2622, 
+                "name": "carpet"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7757, 
+                "name": "coat of arms"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1169, 
+                "name": "letter"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 204, 
+                "name": "painting"
+              }, 
+              {
+                "id": 3744, 
+                "name": "plasterwork"
+              }, 
+              {
+                "id": 2648, 
+                "name": "sculpture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10115, 
+                "name": "thread"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6907, 
+                "name": "family"
+              }, 
+              {
+                "id": 6910, 
+                "name": "husband"
+              }, 
+              {
+                "id": 6915, 
+                "name": "wife"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2362, 
+                "name": "marriage"
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1583, 
+                "name": "mantelpiece"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07505_8.jpg", 
+  "title": "The Du Cane and Boehm Family Group", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-the-du-cane-and-boehm-family-group-t07505", 
+  "width": "1016"
+}

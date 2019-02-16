@@ -1,0 +1,102 @@
+{
+  "acno": "N03560", 
+  "acquisitionYear": 1919, 
+  "all_artists": "John Singer Sargent", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1856, 
+      "date": "1856\u20131925", 
+      "displayOrder": 1, 
+      "fc": "John Singer Sargent", 
+      "gender": "Male", 
+      "id": 475, 
+      "mda": "Sargent, John Singer", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Lord Duveen 1919", 
+  "dateRange": {
+    "endYear": 1913, 
+    "startYear": 1911, 
+    "text": "1911-13"
+  }, 
+  "dateText": "1911\u201313", 
+  "depth": "", 
+  "dimensions": "support: 400 x 527 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "527", 
+  "id": 13119, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10518, 
+                "name": "Carrara"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2191, 
+                "name": "ox"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03560_8.jpg", 
+  "title": "Oxen, Carrara", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sargent-oxen-carrara-n03560", 
+  "width": "400"
+}

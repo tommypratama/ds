@@ -1,0 +1,100 @@
+{
+  "acno": "T03844", 
+  "acquisitionYear": 1984, 
+  "all_artists": "George Stubbs", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1724, 
+      "date": "1724\u20131806", 
+      "displayOrder": 1, 
+      "fc": "George Stubbs", 
+      "gender": "Male", 
+      "id": 538, 
+      "mda": "Stubbs, George", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Transferred from the British Museum 1984", 
+  "dateRange": {
+    "endYear": 1788, 
+    "startYear": 1788, 
+    "text": "published 1788"
+  }, 
+  "dateText": "published 1788", 
+  "depth": "", 
+  "dimensions": "image: 227 x 314 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "314", 
+  "id": 14001, 
+  "inscription": null, 
+  "medium": "Engraving on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3119, 
+                "name": "lion"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1831, 
+                "name": "palm"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03844_8.jpg", 
+  "title": "A Lion Resting on a Rock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stubbs-a-lion-resting-on-a-rock-t03844", 
+  "width": "227"
+}

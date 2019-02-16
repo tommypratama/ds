@@ -1,0 +1,88 @@
+{
+  "acno": "T03133", 
+  "acquisitionYear": 1980, 
+  "all_artists": "Dame Barbara Hepworth", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1903, 
+      "date": "1903\u20131975", 
+      "displayOrder": 1, 
+      "fc": "Dame Barbara Hepworth", 
+      "gender": "Female", 
+      "id": 1274, 
+      "mda": "Hepworth, Dame Barbara", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the executors of the artist's estate 1980", 
+  "dateRange": {
+    "endYear": 1940, 
+    "startYear": 1940, 
+    "text": "1940"
+  }, 
+  "dateText": "1940", 
+  "depth": "105", 
+  "dimensions": "object: 105 x 149 x 105 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "149", 
+  "id": 6061, 
+  "inscription": null, 
+  "medium": "Plaster and string on plaster base", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 298, 
+      "name": "Constructivism"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03133_8.jpg", 
+  "title": "Sculpture with Colour (Deep Blue and Red)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-sculpture-with-colour-deep-blue-and-red-t03133", 
+  "width": "105"
+}

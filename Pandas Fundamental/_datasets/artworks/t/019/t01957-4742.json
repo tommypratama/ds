@@ -1,0 +1,126 @@
+{
+  "acno": "T01957", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Roger Fry", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131934", 
+      "displayOrder": 1, 
+      "fc": "Roger Fry", 
+      "gender": "Male", 
+      "id": 1129, 
+      "mda": "Fry, Roger", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Pamela Diamand, the artist's daughter 1975", 
+  "dateRange": {
+    "endYear": 1915, 
+    "startYear": 1914, 
+    "text": "1914 or 1915"
+  }, 
+  "dateText": "1914 or 1915", 
+  "depth": "", 
+  "dimensions": "support: 362 x 270 mm\r\nframe: 546 x 444 x 42 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "270", 
+  "id": 4742, 
+  "inscription": null, 
+  "medium": "Oil paint and bus tickets on wood", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 295, 
+      "name": "Bloomsbury Group"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8541, 
+                "name": "ticket"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01957_8.jpg", 
+  "title": "Essay in Abstract Design", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fry-essay-in-abstract-design-t01957", 
+  "width": "362"
+}

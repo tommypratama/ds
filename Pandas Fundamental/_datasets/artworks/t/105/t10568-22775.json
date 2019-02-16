@@ -1,0 +1,86 @@
+{
+  "acno": "T10568", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Scarlett Davis", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1804, 
+      "date": "1804\u20131845", 
+      "displayOrder": 1, 
+      "fc": "John Scarlett Davis", 
+      "gender": "Male", 
+      "id": 140, 
+      "mda": "Davis, John Scarlett", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1831, 
+    "startYear": 1831, 
+    "text": "1831"
+  }, 
+  "dateText": "1831", 
+  "depth": "", 
+  "dimensions": "support: 231 x 161 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "161", 
+  "id": 22775, 
+  "inscription": "date inscribed", 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15009, 
+                "name": "Paris, Montmartre"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2051, 
+                "name": "capital"
+              }, 
+              {
+                "id": 245, 
+                "name": "column"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10568_8.jpg", 
+  "title": "Capitals in the Ancient Church of Montmartre near Paris", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/davis-capitals-in-the-ancient-church-of-montmartre-near-paris-t10568", 
+  "width": "231"
+}

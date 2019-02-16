@@ -1,0 +1,160 @@
+{
+  "acno": "T01175", 
+  "acquisitionYear": 1970, 
+  "all_artists": "Peter Blake", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Peter Blake", 
+      "gender": "Male", 
+      "id": 763, 
+      "mda": "Blake, Peter", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased 1970", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1962, 
+    "text": "1962"
+  }, 
+  "dateText": "1962", 
+  "depth": "340", 
+  "dimensions": "displayed: 1568 x 1940 x 340 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1940", 
+  "id": 1029, 
+  "inscription": "date inscribed", 
+  "medium": "Wood, glass, paper, plastic, fabric and other materials", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 1683, 
+      "name": "British Pop"
+    }
+  ], 
+  "subjectCount": 13, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1051, 
+                "name": "boat"
+              }, 
+              {
+                "id": 1607, 
+                "name": "doll"
+              }, 
+              {
+                "id": 1652, 
+                "name": "toy"
+              }, 
+              {
+                "id": 1653, 
+                "name": "train"
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6867, 
+                "name": "notice"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2835, 
+                "name": "paintbrush"
+              }, 
+              {
+                "id": 199, 
+                "name": "palette"
+              }, 
+              {
+                "id": 1637, 
+                "name": "photograph"
+              }, 
+              {
+                "id": 744, 
+                "name": "picture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1473, 
+                "name": "shop"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Peter Blake 2014. All rights reserved, DACS", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01175_8.jpg", 
+  "title": "The Toy Shop", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-the-toy-shop-t01175", 
+  "width": "1568"
+}

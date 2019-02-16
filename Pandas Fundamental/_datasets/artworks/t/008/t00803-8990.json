@@ -1,0 +1,80 @@
+{
+  "acno": "T00803", 
+  "acquisitionYear": 1966, 
+  "all_artists": "Morris Louis", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20131962", 
+      "displayOrder": 1, 
+      "fc": "Morris Louis", 
+      "gender": "Male", 
+      "id": 1527, 
+      "mda": "Louis, Morris", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Leslie Waddington 1966", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1962, 
+    "text": "1962"
+  }, 
+  "dateText": "1962", 
+  "depth": "", 
+  "dimensions": "support: 2597 x 445 mm\r\nframe: 480 x 2626 x 46 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "445", 
+  "id": 8990, 
+  "inscription": "date inscribed", 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 439, 
+      "name": "Post Painterly Abstraction"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Morris Louis", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00803_8.jpg", 
+  "title": "Partition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/louis-partition-t00803", 
+  "width": "2597"
+}

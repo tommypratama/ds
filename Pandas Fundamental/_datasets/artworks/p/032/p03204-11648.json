@@ -1,0 +1,96 @@
+{
+  "acno": "P03204", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Tom Phillips", 
+  "catalogueGroup": {
+    "accessionRanges": "P03202-P03207", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65473, 
+    "shortTitle": "A Walk to the Studio"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "Tom Phillips", 
+      "gender": "Male", 
+      "id": 1764, 
+      "mda": "Phillips, Esq Tom", 
+      "role": "artist", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Presented by Waddington Galleries 1977", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1976, 
+    "text": "1976-7"
+  }, 
+  "dateText": "1976\u20137", 
+  "depth": "", 
+  "dimensions": "image: 843 x 584 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Walk to the Studio", 
+  "height": "584", 
+  "id": 11648, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2353, 
+                "name": "decay"
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tom Phillips", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03204_8.jpg", 
+  "title": "Matching Colours Struck by Heatwave", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-matching-colours-struck-by-heatwave-p03204", 
+  "width": "843"
+}

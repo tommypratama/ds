@@ -1,0 +1,84 @@
+{
+  "acno": "T06481", 
+  "acquisitionYear": 1991, 
+  "all_artists": "Fiona Rae", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1963, 
+      "date": "born 1963", 
+      "displayOrder": 1, 
+      "fc": "Fiona Rae", 
+      "gender": "Female", 
+      "id": 2287, 
+      "mda": "Rae, Fiona", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Purchased 1991", 
+  "dateRange": {
+    "endYear": 1991, 
+    "startYear": 1991, 
+    "text": "1991"
+  }, 
+  "dateText": "1991", 
+  "depth": "", 
+  "dimensions": "support: 2133 x 1981 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1981", 
+  "id": 20171, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 11857, 
+      "name": "Young British Artists (YBA)"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Fiona Rae", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06481_8.jpg", 
+  "title": "Untitled (grey and brown)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rae-untitled-grey-and-brown-t06481", 
+  "width": "2133"
+}

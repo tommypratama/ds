@@ -1,0 +1,98 @@
+{
+  "acno": "T13583", 
+  "acquisitionYear": 2012, 
+  "all_artists": "Andr\u00e9 Komatsu", 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1978, 
+      "date": "born 1978", 
+      "displayOrder": 1, 
+      "fc": "Andr\u00e9 Komatsu", 
+      "gender": "Male", 
+      "id": 15101, 
+      "mda": "Komatsu, Andr\u00e9", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by Pedro Barbosa 2011", 
+  "dateRange": {
+    "endYear": 2005, 
+    "startYear": 2005, 
+    "text": "2005"
+  }, 
+  "dateText": "2005", 
+  "depth": "47", 
+  "dimensions": "object: 460 x 371 x 47 mm", 
+  "foreignTitle": "Sin Titulo (Sala de Estar)", 
+  "groupTitle": null, 
+  "height": "371", 
+  "id": 115124, 
+  "inscription": null, 
+  "medium": "Wood, formica and brass", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3578, 
+                "name": "cupboard"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 761, 
+                "name": "living room"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Andre Komatsu", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13583_8.jpg", 
+  "title": "Untitled (Living Room)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/komatsu-untitled-living-room-t13583", 
+  "width": "460"
+}

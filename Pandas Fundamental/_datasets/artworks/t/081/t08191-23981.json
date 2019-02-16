@@ -1,0 +1,125 @@
+{
+  "acno": "T08191", 
+  "acquisitionYear": 1996, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "T08191_135962", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T08/T08191_135962_7.jpg", 
+          "height": 73, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T08/T08191_135962_8.jpg", 
+          "height": 147, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T08/T08191_135962_9.jpg", 
+          "height": 294, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T08/T08191_135962_10.jpg", 
+          "height": 873, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1518
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Sir David Wilkie", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1785, 
+      "date": "1785\u20131841", 
+      "displayOrder": 1, 
+      "fc": "Sir David Wilkie", 
+      "gender": "Male", 
+      "id": 600, 
+      "mda": "Wilkie, Sir David", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 294 x 475 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "475", 
+  "id": 23981, 
+  "inscription": null, 
+  "medium": "Ink and watercolour on paper. Verso: graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 272, 
+                "name": "kneeling"
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08191_8.jpg", 
+  "title": "Three Studies for a Picture. Verso: Sketch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wilkie-three-studies-for-a-picture-verso-sketch-t08191", 
+  "width": "294"
+}

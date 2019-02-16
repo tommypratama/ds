@@ -1,0 +1,120 @@
+{
+  "acno": "D08062", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D08062", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D80/D08062_E.jpg", 
+          "height": 398, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1134841, 
+  "catalogueGroup": {
+    "accessionRanges": "D07958-D08083; D40812; D41525-D41529", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXIV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65761, 
+    "shortTitle": "Windmill and Lock Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1811, 
+    "startYear": 1809, 
+    "text": "c.1809-11"
+  }, 
+  "dateText": "c.1809\u201311", 
+  "depth": "", 
+  "dimensions": "support: 87 x 117 mm", 
+  "finberg": "CXIV 76", 
+  "foreignTitle": null, 
+  "groupTitle": "Windmill and Lock Sketchbook", 
+  "height": "117", 
+  "id": 35451, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 153, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 9055, 
+                "name": "Twickenham, Sandycombe Lodge"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08062_8.jpg", 
+  "title": "Sandycome Lodge, Twickenham: The Undeveloped Site from the North", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sandycome-lodge-twickenham-the-undeveloped-site-from-the-north-d08062", 
+  "width": "87"
+}

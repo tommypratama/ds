@@ -1,0 +1,116 @@
+{
+  "acno": "T00286", 
+  "acquisitionYear": 1959, 
+  "all_artists": "Jack Smith", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1928, 
+      "date": "1928\u20132011", 
+      "displayOrder": 1, 
+      "fc": "Jack Smith", 
+      "gender": "Male", 
+      "id": 1956, 
+      "mda": "Smith, Jack", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1959", 
+  "dateRange": {
+    "endYear": 1959, 
+    "startYear": 1959, 
+    "text": "1959"
+  }, 
+  "dateText": "1959", 
+  "depth": "", 
+  "dimensions": "support: 1220 x 1221 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1221", 
+  "id": 13507, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19604, 
+                "name": "light"
+              }, 
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Jack Smith", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00286_8.jpg", 
+  "title": "Bottles in Light and Shadow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-bottles-in-light-and-shadow-t00286", 
+  "width": "1220"
+}

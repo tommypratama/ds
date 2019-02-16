@@ -1,0 +1,94 @@
+{
+  "acno": "T06469", 
+  "acquisitionYear": 1991, 
+  "all_artists": "Richard Long", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Richard Long", 
+      "gender": "Male", 
+      "id": 1525, 
+      "mda": "Long, Richard", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Knapping Fund 1991", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "270", 
+  "dimensions": "object: 95 x 320 x 270 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "320", 
+  "id": 20165, 
+  "inscription": null, 
+  "medium": "Painted plaster on plywood base", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 429, 
+      "name": "Land Art"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Richard Long", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06469_8.jpg", 
+  "title": "A Square of Ground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-a-square-of-ground-t06469", 
+  "width": "95"
+}

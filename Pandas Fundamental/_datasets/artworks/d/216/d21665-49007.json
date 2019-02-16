@@ -1,0 +1,113 @@
+{
+  "acno": "D21665", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D21665", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D216/D21665_E.jpg", 
+          "height": 371, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D21664-D21764; D41050-D41052", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65866, 
+    "shortTitle": "Rome, Turin and Milan Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1829, 
+    "startYear": 1828, 
+    "text": "1828-9"
+  }, 
+  "dateText": "1828\u20139", 
+  "depth": "", 
+  "dimensions": "support: 144 x 90 mm", 
+  "finberg": "CCXXXV 1 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Rome, Turin and Milan Sketchbook", 
+  "height": "90", 
+  "id": 49007, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 4, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21665_8.jpg", 
+  "title": "River or Lake Scene, with Boat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-or-lake-scene-with-boat-d21665", 
+  "width": "144"
+}

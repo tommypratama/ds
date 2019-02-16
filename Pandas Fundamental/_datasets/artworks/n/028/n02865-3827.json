@@ -1,0 +1,106 @@
+{
+  "acno": "N02865", 
+  "acquisitionYear": 1912, 
+  "all_artists": "Walter Howell Deverell", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1827, 
+      "date": "1827\u20131854", 
+      "displayOrder": 1, 
+      "fc": "Walter Howell Deverell", 
+      "gender": "Male", 
+      "id": 147, 
+      "mda": "Deverell, Walter Howell", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by Wykeham Deverell 1912", 
+  "dateRange": {
+    "endYear": 1853, 
+    "startYear": 1852, 
+    "text": "c.1852-3"
+  }, 
+  "dateText": "c.1852\u20133", 
+  "depth": "", 
+  "dimensions": "support: 92 x 73 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "73", 
+  "id": 3827, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12744, 
+                "name": "Deverell, Spencer"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02865_8.jpg", 
+  "title": "Spencer Deverell", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/deverell-spencer-deverell-n02865", 
+  "width": "92"
+}

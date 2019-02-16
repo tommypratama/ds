@@ -1,0 +1,95 @@
+{
+  "acno": "D32770", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D32756-D32779; D32781-D32814; D32816-D32835; D32837-D32846; D32848-D32853; D32855-D32880; D41148-D41149", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXV", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65949, 
+    "shortTitle": "Rhine and Switzerland Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1841, 
+    "startYear": 1837, 
+    "text": "c.1837-41"
+  }, 
+  "dateText": "c.1837\u201341", 
+  "depth": "", 
+  "dimensions": "support: 90 x 113 mm", 
+  "finberg": "CCCXXV 9", 
+  "foreignTitle": null, 
+  "groupTitle": "Rhine and Switzerland Sketchbook", 
+  "height": "113", 
+  "id": 59963, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 19, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32770_8.jpg", 
+  "title": "Castle on Rock, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-etc-d32770", 
+  "width": "90"
+}

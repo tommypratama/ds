@@ -1,0 +1,70 @@
+{
+  "acno": "T13017", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Marc Vaux", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Marc Vaux", 
+      "gender": "Male", 
+      "id": 2097, 
+      "mda": "Vaux, Marc", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2009", 
+  "dateRange": {
+    "endYear": 1966, 
+    "startYear": 1966, 
+    "text": "1966"
+  }, 
+  "dateText": "1966", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 2133 x 2590 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2590", 
+  "id": 109021, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13017_8.jpg", 
+  "title": "Lyla", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vaux-lyla-t13017", 
+  "width": "2133"
+}

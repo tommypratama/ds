@@ -1,0 +1,146 @@
+{
+  "acno": "P01771", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Brian Yale", 
+  "catalogueGroup": {
+    "accessionRanges": "P01759-P01773; T05842-T05844", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65564, 
+    "shortTitle": "Eurominiprotopack"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "1936\u20132009", 
+      "displayOrder": 1, 
+      "fc": "Brian Yale", 
+      "gender": "Male", 
+      "id": 2177, 
+      "mda": "Yale, Brian", 
+      "role": "artist", 
+      "startLetter": "Y"
+    }
+  ], 
+  "creditLine": "Presented by John Berry 1976", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1969, 
+    "text": "1969-71"
+  }, 
+  "dateText": "1969\u201371", 
+  "depth": "", 
+  "dimensions": "image: 597 x 498 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Eurominiprotopack", 
+  "height": "498", 
+  "id": 16503, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8623, 
+                "name": "Nativity"
+              }, 
+              {
+                "id": 254, 
+                "name": "Virgin Mary"
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5733, 
+                "name": "angel"
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2430, 
+                "name": "mandala"
+              }, 
+              {
+                "id": 3027, 
+                "name": "symbol"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow"
+              }, 
+              {
+                "id": 674, 
+                "name": "donkey"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 265, 
+                "name": "dove"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Nativity", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/yale-nativity-p01771", 
+  "width": "597"
+}

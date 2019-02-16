@@ -1,0 +1,82 @@
+{
+  "acno": "T03341", 
+  "acquisitionYear": 1982, 
+  "all_artists": "John Murphy", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "John Murphy", 
+      "gender": "Male", 
+      "id": 1681, 
+      "mda": "Murphy, John", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1982", 
+  "dateRange": {
+    "endYear": 1970, 
+    "startYear": 1970, 
+    "text": "1970"
+  }, 
+  "dateText": "1970", 
+  "depth": "", 
+  "dimensions": "support: 914 x 1019 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1019", 
+  "id": 10491, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Murphy", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03341_8.jpg", 
+  "title": "The Blue Veil", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murphy-the-blue-veil-t03341", 
+  "width": "914"
+}

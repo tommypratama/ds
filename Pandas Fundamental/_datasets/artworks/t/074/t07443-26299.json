@@ -1,0 +1,76 @@
+{
+  "acno": "T07443", 
+  "acquisitionYear": 1998, 
+  "all_artists": "John Gibbons", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "John Gibbons", 
+      "gender": "Male", 
+      "id": 2218, 
+      "mda": "Gibbons, John", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Purchased with assistance from Tom Bendhem 1998", 
+  "dateRange": {
+    "endYear": 1992, 
+    "startYear": 1991, 
+    "text": "1991-2"
+  }, 
+  "dateText": "1991\u20132", 
+  "depth": "1502", 
+  "dimensions": "displayed: 1415 x 1310 x 1502 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1310", 
+  "id": 26299, 
+  "inscription": null, 
+  "medium": "Steel", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Gibbons", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07443_8.jpg", 
+  "title": "The Awaiting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gibbons-the-awaiting-t07443", 
+  "width": "1415"
+}

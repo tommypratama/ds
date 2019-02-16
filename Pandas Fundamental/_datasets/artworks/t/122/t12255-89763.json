@@ -1,0 +1,110 @@
+{
+  "acno": "T12255", 
+  "acquisitionYear": 2006, 
+  "all_artists": "Jim Lambie", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1964, 
+      "date": "born 1964", 
+      "displayOrder": 1, 
+      "fc": "Jim Lambie", 
+      "gender": "Male", 
+      "id": 4733, 
+      "mda": "Lambie, Jim", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Tate Members 2006", 
+  "dateRange": {
+    "endYear": 1999, 
+    "startYear": 1999, 
+    "text": "1999"
+  }, 
+  "dateText": "1999", 
+  "depth": "", 
+  "dimensions": "object: 2050 x 1630 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1630", 
+  "id": 89763, 
+  "inscription": null, 
+  "medium": "Printed paper on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6919, 
+                "name": "fragmentation"
+              }, 
+              {
+                "id": 6749, 
+                "name": "symmetry"
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jim Lambie", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12255_8.jpg", 
+  "title": "Weird Glow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lambie-weird-glow-t12255", 
+  "width": "2050"
+}

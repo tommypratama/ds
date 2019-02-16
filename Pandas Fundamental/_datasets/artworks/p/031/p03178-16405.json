@@ -1,0 +1,98 @@
+{
+  "acno": "P03178", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Robert Wolfe", 
+  "catalogueGroup": {
+    "accessionRanges": "P03166-P03178", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65251, 
+    "shortTitle": "Homage to Albert Dumouchel"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Robert Wolfe", 
+      "gender": "Male", 
+      "id": 2161, 
+      "mda": "Wolfe, Robert", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by the University of Quebec 1976", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 679 x 460 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Homage to Albert Dumouchel", 
+  "height": "460", 
+  "id": 16405, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female"
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wolfe-untitled-p03178", 
+  "width": "679"
+}

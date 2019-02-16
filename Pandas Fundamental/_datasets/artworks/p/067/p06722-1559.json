@@ -1,0 +1,138 @@
+{
+  "acno": "P06722", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Peter Brook", 
+  "catalogueGroup": {
+    "accessionRanges": "P06632-P06633; P06722; P06761-P06769", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65263, 
+    "shortTitle": "Twelve Months of the Year"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1927, 
+      "date": "1927\u20132009", 
+      "displayOrder": 1, 
+      "fc": "Peter Brook", 
+      "gender": "Male", 
+      "id": 816, 
+      "mda": "Brook, Peter", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio 1978", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1976, 
+    "text": "1976-7"
+  }, 
+  "dateText": "1976\u20137", 
+  "depth": "", 
+  "dimensions": "image: 511 x 711 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Twelve Months of the Year", 
+  "height": "711", 
+  "id": 1559, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1615, 
+                "name": "spring"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Peter Brook", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06722_8.jpg", 
+  "title": "MARCH Melting Snow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brook-march-melting-snow-p06722", 
+  "width": "511"
+}

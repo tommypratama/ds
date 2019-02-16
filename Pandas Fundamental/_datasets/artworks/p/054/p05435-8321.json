@@ -1,0 +1,98 @@
+{
+  "acno": "P05435", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Hans Landsaat", 
+  "catalogueGroup": {
+    "accessionRanges": "P05433-P05436", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65199, 
+    "shortTitle": "Island Series"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1935, 
+      "date": "born 1935", 
+      "displayOrder": 1, 
+      "fc": "Hans Landsaat", 
+      "gender": "Male", 
+      "id": 1464, 
+      "mda": "Landsaat, Hans", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater through the Institute of Contemporary Prints 1978", 
+  "dateRange": {
+    "endYear": 1977, 
+    "startYear": 1977, 
+    "text": "1977"
+  }, 
+  "dateText": "1977", 
+  "depth": "", 
+  "dimensions": "image: 267 x 302 mm", 
+  "foreignTitle": "Eiland III", 
+  "groupTitle": "Island Series", 
+  "height": "302", 
+  "id": 8321, 
+  "inscription": "date inscribed", 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2414, 
+                "name": "island"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Hans Landsaat", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05435_8.jpg", 
+  "title": "Island III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landsaat-island-iii-p05435", 
+  "width": "267"
+}

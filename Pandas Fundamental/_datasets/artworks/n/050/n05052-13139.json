@@ -1,0 +1,136 @@
+{
+  "acno": "N05052", 
+  "acquisitionYear": 1939, 
+  "all_artists": "John Singer Sargent", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1856, 
+      "date": "1856\u20131925", 
+      "displayOrder": 1, 
+      "fc": "John Singer Sargent", 
+      "gender": "Male", 
+      "id": 475, 
+      "mda": "Sargent, John Singer", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Bequeathed by Sir Philip Sassoon Bt 1939", 
+  "dateRange": {
+    "endYear": 1923, 
+    "startYear": 1923, 
+    "text": "1923"
+  }, 
+  "dateText": "1923", 
+  "depth": "", 
+  "dimensions": "support: 952 x 578 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "578", 
+  "id": 13139, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14729, 
+                "name": "Sassoon, Philip, Bt"
+              }
+            ], 
+            "id": 102, 
+            "name": "named individuals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4507, 
+                "name": "hand/hands on hip"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20118, 
+                "name": "individuals: male"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6224, 
+                "name": "baronet"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10061, 
+                "name": "collector / patron"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3548, 
+                "name": "philanthropist"
+              }, 
+              {
+                "id": 7391, 
+                "name": "politician, Member of Parliament"
+              }
+            ], 
+            "id": 130, 
+            "name": "public service"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05052_8.jpg", 
+  "title": "Sir Philip Sassoon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sargent-sir-philip-sassoon-n05052", 
+  "width": "952"
+}

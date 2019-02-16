@@ -1,0 +1,138 @@
+{
+  "acno": "P12997", 
+  "acquisitionYear": 2005, 
+  "all_artists": "Jasper Johns", 
+  "catalogueGroup": {
+    "accessionRanges": "P12997-P13000", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66065, 
+    "shortTitle": "The Seasons"
+  }, 
+  "classification": null, 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Jasper Johns", 
+      "gender": "Male", 
+      "id": 1365, 
+      "mda": "Johns, Jasper", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by the American Fund for the Tate Gallery, courtesy of Judy and Kenneth Dayton 2004", 
+  "dateRange": {
+    "endYear": 1987, 
+    "startYear": 1987, 
+    "text": "1987"
+  }, 
+  "dateText": "1987", 
+  "depth": "", 
+  "dimensions": "image: 490 x 325 mm\r\nsupport: 660 x 485 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Seasons", 
+  "height": "325", 
+  "id": 26021, 
+  "inscription": null, 
+  "medium": "Etching and acquatint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }, 
+              {
+                "id": 6919, 
+                "name": "fragmentation"
+              }, 
+              {
+                "id": 6741, 
+                "name": "visual illusion"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1400, 
+                "name": "rain"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1615, 
+                "name": "spring"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jasper Johns", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12997_8.jpg", 
+  "title": "The Seasons (Spring)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/johns-the-seasons-spring-p12997", 
+  "width": "490"
+}

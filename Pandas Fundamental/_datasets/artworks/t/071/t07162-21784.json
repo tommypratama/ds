@@ -1,0 +1,86 @@
+{
+  "acno": "T07162", 
+  "acquisitionYear": 1996, 
+  "all_artists": "Sean Scully", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1945, 
+      "date": "born 1945", 
+      "displayOrder": 1, 
+      "fc": "Sean Scully", 
+      "gender": "Male", 
+      "id": 1917, 
+      "mda": "Scully, Sean", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Janet Wolfson de Botton 1996", 
+  "dateRange": {
+    "endYear": 1984, 
+    "startYear": 1984, 
+    "text": "1984"
+  }, 
+  "dateText": "1984", 
+  "depth": "230", 
+  "dimensions": "displayed: 1835 x 2490 x 230 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2490", 
+  "id": 21784, 
+  "inscription": null, 
+  "medium": "Oil paint on 4 canvases", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Sean Scully", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07162_8.jpg", 
+  "title": "Tonio", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scully-tonio-t07162", 
+  "width": "1835"
+}

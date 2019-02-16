@@ -1,0 +1,76 @@
+{
+  "acno": "P01847", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Dieter Roth", 
+  "catalogueGroup": {
+    "accessionRanges": "P01847", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65346, 
+    "shortTitle": "A Muse"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "1930\u20131998", 
+      "displayOrder": 1, 
+      "fc": "Dieter Roth", 
+      "gender": "Male", 
+      "id": 1870, 
+      "mda": "Roth, Dieter", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Richard Hamilton 1978", 
+  "dateRange": {
+    "endYear": 1972, 
+    "startYear": 1971, 
+    "text": "1971-2"
+  }, 
+  "dateText": "1971\u20132", 
+  "depth": "", 
+  "dimensions": "image: 543 x 387 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "A Muse", 
+  "height": "387", 
+  "id": 12834, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Dieter Roth", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01847_8.jpg", 
+  "title": "3", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/roth-3-p01847", 
+  "width": "543"
+}

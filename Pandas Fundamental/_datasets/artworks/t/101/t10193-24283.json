@@ -1,0 +1,122 @@
+{
+  "acno": "T10193", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Flaxman", 
+  "catalogueGroup": {
+    "accessionRanges": "T08461; T10178-T10241; T11663-T11669", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 66032, 
+    "shortTitle": "Album of Drawings, Mainly by Flaxman"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1755, 
+      "date": "1755\u20131826", 
+      "displayOrder": 1, 
+      "fc": "John Flaxman", 
+      "gender": "Male", 
+      "id": 186, 
+      "mda": "Flaxman, John", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1810, 
+    "startYear": 1810, 
+    "text": "?c.1810"
+  }, 
+  "dateText": "?c.1810", 
+  "depth": "", 
+  "dimensions": "support: 387 x 270 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Album of Drawings, Mainly by Flaxman", 
+  "height": "270", 
+  "id": 24283, 
+  "inscription": null, 
+  "medium": "Graphite and ink on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 344, 
+      "name": "Neo-Classicism"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan / elevation"
+              }, 
+              {
+                "id": 2063, 
+                "name": "artist's notes"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }, 
+              {
+                "id": 2550, 
+                "name": "temple"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10193_8.jpg", 
+  "title": "The Evolution of Religious Architecture, after Le Moine and Michelinot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flaxman-the-evolution-of-religious-architecture-after-le-moine-and-michelinot-t10193", 
+  "width": "387"
+}

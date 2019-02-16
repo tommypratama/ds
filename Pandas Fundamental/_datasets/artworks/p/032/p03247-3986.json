@@ -1,0 +1,88 @@
+{
+  "acno": "P03247", 
+  "acquisitionYear": 1978, 
+  "all_artists": "Christian Dotremont", 
+  "catalogueGroup": {
+    "accessionRanges": "P03241-P03255", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65252, 
+    "shortTitle": "For Jorn"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1922, 
+      "date": "1922\u20131979", 
+      "displayOrder": 1, 
+      "fc": "Christian Dotremont", 
+      "gender": "Male", 
+      "id": 1023, 
+      "mda": "Dotremont, Christian", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the Asger Jorn Foundation 1978", 
+  "dateRange": {
+    "endYear": 1976, 
+    "startYear": 1975, 
+    "text": "1975-6"
+  }, 
+  "dateText": "1975\u20136", 
+  "depth": "", 
+  "dimensions": "image: 492 x 733 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "For Jorn", 
+  "height": "733", 
+  "id": 3986, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6376, 
+                "name": "French text"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03247_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dotremont-no-title-p03247", 
+  "width": "492"
+}

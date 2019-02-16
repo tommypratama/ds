@@ -1,0 +1,82 @@
+{
+  "acno": "T05816", 
+  "acquisitionYear": 1990, 
+  "all_artists": "William Linnell", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1826, 
+      "date": "1826\u20131906", 
+      "displayOrder": 1, 
+      "fc": "William Linnell", 
+      "gender": "Male", 
+      "id": 2268, 
+      "mda": "Linnell, William", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Barbara, Joan and John Linnell Ivimy 1990", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 392 x 285 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "285", 
+  "id": 19257, 
+  "inscription": null, 
+  "medium": "Chalk, pastel and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05816_8.jpg", 
+  "title": "Near Red Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/linnell-near-red-hill-t05816", 
+  "width": "392"
+}

@@ -1,0 +1,130 @@
+{
+  "acno": "T00325", 
+  "acquisitionYear": 1960, 
+  "all_artists": "Pierre Dimitrienko", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20131974", 
+      "displayOrder": 1, 
+      "fc": "Pierre Dimitrienko", 
+      "gender": "Male", 
+      "id": 1007, 
+      "mda": "Dimitrienko, Pierre", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1960", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1956, 
+    "text": "1956"
+  }, 
+  "dateText": "1956", 
+  "depth": "", 
+  "dimensions": "support: 1302 x 1619 mm", 
+  "foreignTitle": "La For\u00eat p\u00e9trifi\u00e9e", 
+  "groupTitle": null, 
+  "height": "1619", 
+  "id": 3883, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 884, 
+                "name": "ice"
+              }, 
+              {
+                "id": 218, 
+                "name": "snow"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "The Petrified Forest", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dimitrienko-the-petrified-forest-t00325", 
+  "width": "1302"
+}

@@ -1,0 +1,92 @@
+{
+  "acno": "T07433", 
+  "acquisitionYear": 1998, 
+  "all_artists": "Lisa Milroy", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1959, 
+      "date": "born 1959", 
+      "displayOrder": 1, 
+      "fc": "Lisa Milroy", 
+      "gender": "Female", 
+      "id": 2220, 
+      "mda": "Milroy, Lisa", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Presented by the Friends of the Tate Gallery 1998", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1998, 
+    "text": "1998"
+  }, 
+  "dateText": "1998", 
+  "depth": "", 
+  "dimensions": "support: 1070 x 1170 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1170", 
+  "id": 26254, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11117, 
+                "name": "sunglasses"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Lisa Milroy", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07433_8.jpg", 
+  "title": "Girl with Sunglasses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/milroy-girl-with-sunglasses-t07433", 
+  "width": "1070"
+}

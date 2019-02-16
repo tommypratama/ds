@@ -1,0 +1,96 @@
+{
+  "acno": "T10101", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Henry Edridge", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1769, 
+      "date": "1769\u20131821", 
+      "displayOrder": 1, 
+      "fc": "Henry Edridge", 
+      "gender": "Male", 
+      "id": 167, 
+      "mda": "Edridge, Henry", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": {
+    "endYear": 1815, 
+    "startYear": 1810, 
+    "text": "c.1810-5"
+  }, 
+  "dateText": "c.1810\u20135", 
+  "depth": "", 
+  "dimensions": "support: 131 x 166 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "166", 
+  "id": 22843, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 505, 
+                "name": "barn"
+              }, 
+              {
+                "id": 1561, 
+                "name": "farm"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10101_8.jpg", 
+  "title": "Farm Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/edridge-farm-buildings-t10101", 
+  "width": "131"
+}

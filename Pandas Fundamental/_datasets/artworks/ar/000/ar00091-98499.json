@@ -1,0 +1,71 @@
+{
+  "acno": "AR00091", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Joseph Beuys", 
+  "artistRooms": true, 
+  "catalogueGroup": {}, 
+  "classification": "relief", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u20131986", 
+      "displayOrder": 1, 
+      "fc": "Joseph Beuys", 
+      "gender": "Male", 
+      "id": 747, 
+      "mda": "Beuys, Joseph", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "ARTIST ROOMS\r\nAcquired jointly with the National Galleries of Scotland through The d'Offay Donation with assistance from the National Heritage Memorial Fund and the Art Fund 2008", 
+  "dateRange": {
+    "endYear": 1963, 
+    "startYear": 1963, 
+    "text": "1963"
+  }, 
+  "dateText": "1963", 
+  "depth": "80", 
+  "dimensions": "displayed: 485 x 729 x 80 mm", 
+  "foreignTitle": "Weisse Trussung", 
+  "groupTitle": null, 
+  "height": "729", 
+  "id": 98499, 
+  "inscription": null, 
+  "medium": "2 boards, zinc and glass", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS, 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00091_8.jpg", 
+  "title": "White Turbulence", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-white-turbulence-ar00091", 
+  "width": "485"
+}

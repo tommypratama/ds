@@ -1,0 +1,134 @@
+{
+  "acno": "T07792", 
+  "acquisitionYear": 2001, 
+  "all_artists": "Tony Cragg", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "Tony Cragg", 
+      "gender": "Male", 
+      "id": 953, 
+      "mda": "Cragg, Tony", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented anonymously 2001", 
+  "dateRange": {
+    "endYear": 1998, 
+    "startYear": 1998, 
+    "text": "1998"
+  }, 
+  "dateText": "1998", 
+  "depth": "1200", 
+  "dimensions": "unconfirmed: 2650 x 1200 x 1200 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1200", 
+  "id": 27071, 
+  "inscription": null, 
+  "medium": "Glass", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }, 
+              {
+                "id": 2606, 
+                "name": "jar"
+              }, 
+              {
+                "id": 2076, 
+                "name": "jug"
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12880, 
+                "name": "classification"
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 959, 
+                "name": "machine age"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07792_8.jpg", 
+  "title": "Cumulus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cragg-cumulus-t07792", 
+  "width": "2650"
+}

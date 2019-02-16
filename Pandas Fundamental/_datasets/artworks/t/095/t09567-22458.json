@@ -1,0 +1,87 @@
+{
+  "acno": "T09567", 
+  "acquisitionYear": 1997, 
+  "all_artists": "attributed to John Joseph Cotman, attributed to Miles Edmund Cotman", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 2, 
+  "contributors": [
+    {
+      "birthYear": 1814, 
+      "date": "1814\u20131878", 
+      "displayOrder": 1, 
+      "fc": "John Joseph Cotman", 
+      "gender": "Male", 
+      "id": 2710, 
+      "mda": "Cotman, John Joseph", 
+      "role": "attributed to", 
+      "startLetter": "C"
+    }, 
+    {
+      "birthYear": 1810, 
+      "date": "1810\u20131858", 
+      "displayOrder": 2, 
+      "fc": "Miles Edmund Cotman", 
+      "gender": "Male", 
+      "id": 2489, 
+      "mda": "Cotman, Miles Edmund", 
+      "role": "attributed to", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 131 x 184 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "184", 
+  "id": 22458, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 1698, 
+                "name": "stream"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2369, 
+                "name": "plant"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09567_8.jpg", 
+  "title": "Plants by a Stream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-plants-by-a-stream-t09567", 
+  "width": "131"
+}

@@ -1,0 +1,82 @@
+{
+  "acno": "P05498", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Gerd Winner", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1936, 
+      "date": "born 1936", 
+      "displayOrder": 1, 
+      "fc": "Gerd Winner", 
+      "gender": "Male", 
+      "id": 2154, 
+      "mda": "Winner, Gerd", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Rose and Chris Prater 1979", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1978, 
+    "text": "1978"
+  }, 
+  "dateText": "1978", 
+  "depth": "", 
+  "dimensions": "image: 813 x 641 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "641", 
+  "id": 16358, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Gerd Winner", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05498_8.jpg", 
+  "title": "Mince Wall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-mince-wall-p05498", 
+  "width": "813"
+}

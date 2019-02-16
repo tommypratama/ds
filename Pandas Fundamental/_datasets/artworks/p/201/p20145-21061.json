@@ -1,0 +1,102 @@
+{
+  "acno": "P20145", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Brendan Neiland", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1941, 
+      "date": "born 1941", 
+      "displayOrder": 1, 
+      "fc": "Brendan Neiland", 
+      "gender": "Male", 
+      "id": 1694, 
+      "mda": "Neiland, Brendan", 
+      "role": "artist", 
+      "startLetter": "N"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1994", 
+  "dateRange": {
+    "endYear": 1988, 
+    "startYear": 1988, 
+    "text": "1988"
+  }, 
+  "dateText": "1988", 
+  "depth": "", 
+  "dimensions": "image: 381 x 252 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "252", 
+  "id": 21061, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 12461, 
+                "name": "Lloyd's Building"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5173, 
+                "name": "offices"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Brendan Neiland", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20145_8.jpg", 
+  "title": "City Window", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/neiland-city-window-p20145", 
+  "width": "381"
+}

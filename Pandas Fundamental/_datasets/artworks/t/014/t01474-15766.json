@@ -1,0 +1,80 @@
+{
+  "acno": "T01474", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Friedrich Vordemberge-Gildewart", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1899, 
+      "date": "1899\u20131962", 
+      "displayOrder": 1, 
+      "fc": "Friedrich Vordemberge-Gildewart", 
+      "gender": "Male", 
+      "id": 2111, 
+      "mda": "Vordemberge-Gildewart, Friedrich", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Purchased 1971", 
+  "dateRange": {
+    "endYear": 1925, 
+    "startYear": 1925, 
+    "text": "1925"
+  }, 
+  "dateText": "1925", 
+  "depth": "", 
+  "dimensions": "support: 1499 x 1251 mm\r\nframe: 1541 x 1290 x 48 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1251", 
+  "id": 15766, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1686, 
+      "name": "De Stijl"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Friederich Vordemberge-Gildewart", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01474_8.jpg", 
+  "title": "Composition No. 15", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vordemberge-gildewart-composition-no-15-t01474", 
+  "width": "1499"
+}

@@ -1,0 +1,205 @@
+{
+  "acno": "N02739", 
+  "acquisitionYear": 1910, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 The Gilbert Bayes Charity", 
+      "creativeCommons": null, 
+      "filenameBase": "N02739_33681", 
+      "sizes": [
+        {
+          "caption": "Main View", 
+          "cleared": true, 
+          "file": "N/N02/N02739_33681_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 75
+        }, 
+        {
+          "caption": "Main View", 
+          "cleared": true, 
+          "file": "N/N02/N02739_33681_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 150
+        }, 
+        {
+          "caption": "Main View", 
+          "cleared": true, 
+          "file": "N/N02/N02739_33681_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 427
+        }, 
+        {
+          "caption": "Main View", 
+          "cleared": true, 
+          "file": "N/N02/N02739_33681_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 898
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Gilbert Bayes", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1872, 
+      "date": "1872\u20131953", 
+      "displayOrder": 1, 
+      "fc": "Gilbert Bayes", 
+      "gender": "Male", 
+      "id": 712, 
+      "mda": "Bayes, Gilbert", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1910", 
+  "dateRange": {
+    "endYear": 1910, 
+    "startYear": 1910, 
+    "text": "exhibited 1910"
+  }, 
+  "dateText": "exhibited 1910", 
+  "depth": "286", 
+  "dimensions": "object: 886 x 483 x 286 mm, 118.5 kg", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "483", 
+  "id": 814, 
+  "inscription": null, 
+  "medium": "Bronze and enamel on marble base", 
+  "movementCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9721, 
+                "name": "Br\u00fcnhilde"
+              }
+            ], 
+            "id": 716, 
+            "name": "characters"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10333, 
+                "name": "Icelandic sagas"
+              }
+            ], 
+            "id": 57, 
+            "name": "tales, legends and traditional"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1101, 
+                "name": "Morris, William, 'Sigurd the Volsung'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6782, 
+                "name": "heroism"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Gilbert Bayes Charity", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02739_8.jpg", 
+  "title": "Sigurd", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bayes-sigurd-n02739", 
+  "width": "886"
+}

@@ -1,0 +1,84 @@
+{
+  "acno": "T02238", 
+  "acquisitionYear": 1977, 
+  "all_artists": "Wilhelmina Barns-Graham", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1912, 
+      "date": "1912\u20132004", 
+      "displayOrder": 1, 
+      "fc": "Wilhelmina Barns-Graham", 
+      "gender": "Female", 
+      "id": 697, 
+      "mda": "Barns-Graham, Wilhelmina", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by Miss E.M. Hodgkins 1977", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "55", 
+  "dimensions": "frame: 376 x 452 x 55 mm\r\nsupport: 340 x 419 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "452", 
+  "id": 734, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint and graphite on hardboard", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 441, 
+      "name": "St Ives School"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Barns-Graham Charitable Trust", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02238_8.jpg", 
+  "title": "Red Form", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barns-graham-red-form-t02238", 
+  "width": "376"
+}

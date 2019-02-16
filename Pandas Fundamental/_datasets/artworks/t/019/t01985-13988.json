@@ -1,0 +1,90 @@
+{
+  "acno": "T01985", 
+  "acquisitionYear": 1975, 
+  "all_artists": "George Stubbs", 
+  "catalogueGroup": {}, 
+  "classification": "block for printing", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1724, 
+      "date": "1724\u20131806", 
+      "displayOrder": 1, 
+      "fc": "George Stubbs", 
+      "gender": "Male", 
+      "id": 538, 
+      "mda": "Stubbs, George", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased 1975", 
+  "dateRange": {
+    "endYear": 1780, 
+    "startYear": 1780, 
+    "text": "1780"
+  }, 
+  "dateText": "1780", 
+  "depth": "", 
+  "dimensions": "object: 381 x 483 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "483", 
+  "id": 13988, 
+  "inscription": null, 
+  "medium": "Copper plate", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 675, 
+                "name": "cave"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4607, 
+                "name": "leopard"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 10478, 
+                "name": "lying down"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01985_8.jpg", 
+  "title": "Leopards at Play", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stubbs-leopards-at-play-t01985", 
+  "width": "381"
+}

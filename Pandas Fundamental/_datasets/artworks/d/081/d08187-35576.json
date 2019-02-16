@@ -1,0 +1,98 @@
+{
+  "acno": "D08187", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1131798, 
+  "catalogueGroup": {
+    "accessionRanges": "D08108-D08109; D08179-D08187; D08222; D25373; D40045; N02942", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 115601, 
+    "shortTitle": "Liber Studiorum: Probable or Possible Designs, not Engraved in Turner's Lifetime"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1815, 
+    "text": "c.1815-19"
+  }, 
+  "dateText": "c.1815\u201319", 
+  "depth": "", 
+  "dimensions": "support: 231 x 316 mm", 
+  "finberg": "CXVIII g", 
+  "foreignTitle": null, 
+  "groupTitle": "Liber Studiorum: Probable or Possible Designs, not Engraved in Turner's Lifetime", 
+  "height": "316", 
+  "id": 35576, 
+  "inscription": null, 
+  "medium": "Graphite and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08187_8.jpg", 
+  "title": "A Lake or River with Wooded Banks and a Distant Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-lake-or-river-with-wooded-banks-and-a-distant-bridge-d08187", 
+  "width": "231"
+}

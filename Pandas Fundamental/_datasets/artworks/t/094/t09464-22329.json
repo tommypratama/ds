@@ -1,0 +1,82 @@
+{
+  "acno": "T09464", 
+  "acquisitionYear": 1997, 
+  "all_artists": "Henry Bright", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1810, 
+      "date": "1810 or 14\u20131873", 
+      "displayOrder": 1, 
+      "fc": "Henry Bright", 
+      "gender": "Male", 
+      "id": 2415, 
+      "mda": "Bright, Henry", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 200 x 326 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "326", 
+  "id": 22329, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 362, 
+      "name": "Norwich School"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09464_8.jpg", 
+  "title": "Landscape with Lake and Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bright-landscape-with-lake-and-mountains-t09464", 
+  "width": "200"
+}

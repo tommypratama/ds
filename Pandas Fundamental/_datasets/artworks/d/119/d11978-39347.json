@@ -1,0 +1,124 @@
+{
+  "acno": "D11978", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D11978", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D119/D11978_E.jpg", 
+          "height": 343, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1145879, 
+  "catalogueGroup": {
+    "accessionRanges": "D11974-D11994; D40712-D40714", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65794, 
+    "shortTitle": "The Aqueduct Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1818, 
+    "startYear": 1816, 
+    "text": "c.1816-18"
+  }, 
+  "dateText": "c.1816\u201318", 
+  "depth": "", 
+  "dimensions": "support: 117 x 180 mm", 
+  "finberg": "CLII 4", 
+  "foreignTitle": null, 
+  "groupTitle": "The Aqueduct Sketchbook", 
+  "height": "180", 
+  "id": 39347, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 9, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill"
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11978_8.jpg", 
+  "title": "Thorp Arch Mill and Weir on the River Wharfe near Wetherby", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-thorp-arch-mill-and-weir-on-the-river-wharfe-near-wetherby-d11978", 
+  "width": "117"
+}

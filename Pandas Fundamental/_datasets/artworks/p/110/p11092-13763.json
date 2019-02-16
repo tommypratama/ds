@@ -1,0 +1,82 @@
+{
+  "acno": "P11092", 
+  "acquisitionYear": 1985, 
+  "all_artists": "Antoni Starczewski", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1924, 
+      "date": "1924\u20132000", 
+      "displayOrder": 1, 
+      "fc": "Antoni Starczewski", 
+      "gender": "Male", 
+      "id": 1985, 
+      "mda": "Starczewski, Antoni", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Professor Akumal Ramachander 1985", 
+  "dateRange": {
+    "endYear": 1971, 
+    "startYear": 1971, 
+    "text": "1971"
+  }, 
+  "dateText": "1971", 
+  "depth": "", 
+  "dimensions": "image: 495 x 370 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "370", 
+  "id": 13763, 
+  "inscription": "date inscribed", 
+  "medium": "Blind embossed print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "a+b/a+b", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/starczewski-abab-p11092", 
+  "width": "495"
+}

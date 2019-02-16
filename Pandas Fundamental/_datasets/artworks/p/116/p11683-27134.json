@@ -1,0 +1,134 @@
+{
+  "acno": "P11683", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Thomas Struth", 
+  "catalogueGroup": {
+    "accessionRanges": "P11676-P11685", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 66093, 
+    "shortTitle": "Tate Modern: Ten Artists, Ten Images"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1954, 
+      "date": "born 1954", 
+      "displayOrder": 1, 
+      "fc": "Thomas Struth", 
+      "gender": "Male", 
+      "id": 2339, 
+      "mda": "Struth, Thomas", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by Tate Publishing 2000", 
+  "dateRange": {
+    "endYear": 1995, 
+    "startYear": 1995, 
+    "text": "1995"
+  }, 
+  "dateText": "1995", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 506 x 608 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Tate Modern: Ten Artists, Ten Images", 
+  "height": "608", 
+  "id": 27134, 
+  "inscription": null, 
+  "medium": "Photograph, colour, Chromogenic print, on paper", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4054, 
+                "name": "Bankside, Bankside Power Station"
+              }, 
+              {
+                "id": 9894, 
+                "name": "Bankside, Tate Modern"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4055, 
+                "name": "power station"
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11683_8.jpg", 
+  "title": "Bankside 5, London 1995", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/struth-bankside-5-london-1995-p11683", 
+  "width": "506"
+}

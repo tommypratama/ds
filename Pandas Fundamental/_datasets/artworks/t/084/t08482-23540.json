@@ -1,0 +1,72 @@
+{
+  "acno": "T08482", 
+  "acquisitionYear": 1997, 
+  "all_artists": "John Skippe", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1741, 
+      "date": "1741\u20131811 or 12", 
+      "displayOrder": 1, 
+      "fc": "John Skippe", 
+      "gender": "Male", 
+      "id": 2458, 
+      "mda": "Skippe, John", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 183 x 227 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "227", 
+  "id": 23540, 
+  "inscription": null, 
+  "medium": "Ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08482_8.jpg", 
+  "title": "Landscape with River and Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/skippe-landscape-with-river-and-trees-t08482", 
+  "width": "183"
+}

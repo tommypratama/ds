@@ -1,0 +1,86 @@
+{
+  "acno": "T03506", 
+  "acquisitionYear": 1982, 
+  "all_artists": "Jacques Lipchitz", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1891, 
+      "date": "1891\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Jacques Lipchitz", 
+      "gender": "Male", 
+      "id": 1518, 
+      "mda": "Lipchitz, Jacques", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by the Lipchitz Foundation 1982", 
+  "dateRange": {
+    "endYear": 1930, 
+    "startYear": 1930, 
+    "text": "1930, cast 1960s"
+  }, 
+  "dateText": "1930, cast 1960s", 
+  "depth": "152", 
+  "dimensions": "object: 177 x 152 x 152 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "152", 
+  "id": 8910, 
+  "inscription": null, 
+  "medium": "Painted plaster", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1079, 
+                "name": "hand"
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Jacques Lipchitz, courtesy, Marlborough Gallery, New York", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03506_8.jpg", 
+  "title": "The Snuffer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lipchitz-the-snuffer-t03506", 
+  "width": "177"
+}

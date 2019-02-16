@@ -1,0 +1,70 @@
+{
+  "acno": "T13016", 
+  "acquisitionYear": 2010, 
+  "all_artists": "Marc Vaux", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1932, 
+      "date": "born 1932", 
+      "displayOrder": 1, 
+      "fc": "Marc Vaux", 
+      "gender": "Male", 
+      "id": 2097, 
+      "mda": "Vaux, Marc", 
+      "role": "artist", 
+      "startLetter": "V"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2009", 
+  "dateRange": {
+    "endYear": 1965, 
+    "startYear": 1965, 
+    "text": "1965"
+  }, 
+  "dateText": "1965", 
+  "depth": "", 
+  "dimensions": "unconfirmed: 2135 x 2130 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2130", 
+  "id": 109020, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13016_8.jpg", 
+  "title": "Wake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vaux-wake-t13016", 
+  "width": "2135"
+}

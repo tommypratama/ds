@@ -1,0 +1,102 @@
+{
+  "acno": "T05760", 
+  "acquisitionYear": 1990, 
+  "all_artists": "Sir Jacob Epstein", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1880, 
+      "date": "1880\u20131959", 
+      "displayOrder": 1, 
+      "fc": "Sir Jacob Epstein", 
+      "gender": "Male", 
+      "id": 1061, 
+      "mda": "Epstein, Sir Jacob", 
+      "role": "artist", 
+      "startLetter": "E"
+    }
+  ], 
+  "creditLine": "Presented through the Friends of the Tate Gallery, Helena and Kenneth Levy Bequest 1990", 
+  "dateRange": {
+    "endYear": 1933, 
+    "startYear": 1933, 
+    "text": "c.1933"
+  }, 
+  "dateText": "c.1933", 
+  "depth": "", 
+  "dimensions": "support: 451 x 574 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "574", 
+  "id": 19022, 
+  "inscription": null, 
+  "medium": "Watercolour and gouache on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8279, 
+                "name": "Epping Forest"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1263, 
+                "name": "Essex"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Sir Jacob Epstein", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05760_8.jpg", 
+  "title": "Epping Forest", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/epstein-epping-forest-t05760", 
+  "width": "451"
+}

@@ -1,0 +1,170 @@
+{
+  "acno": "P06621", 
+  "acquisitionYear": 1975, 
+  "all_artists": "Albany Wiseman", 
+  "catalogueGroup": {
+    "accessionRanges": "P06621-P06626", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65591, 
+    "shortTitle": "The Soho Suite"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Albany Wiseman", 
+      "gender": "Male", 
+      "id": 2157, 
+      "mda": "Wiseman, Albany", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Curwen Studio through the Institute of Contemporary Prints 1975", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "image: 585 x 471 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "The Soho Suite", 
+  "height": "471", 
+  "id": 16383, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16213, 
+                "name": "Soho, Berwick Street"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13609, 
+                "name": "market"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5192, 
+                "name": "shopping"
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2567, 
+                "name": "trader"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1032, 
+                "name": "vegetable - non-specific"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Berwick Market", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wiseman-berwick-market-p06621", 
+  "width": "585"
+}

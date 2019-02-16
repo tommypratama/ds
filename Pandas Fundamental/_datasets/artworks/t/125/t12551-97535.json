@@ -1,0 +1,112 @@
+{
+  "acno": "T12551", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Michael Raedecker", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1963, 
+      "date": "born 1963", 
+      "displayOrder": 1, 
+      "fc": "Michael Raedecker", 
+      "gender": "Male", 
+      "id": 2693, 
+      "mda": "Raedecker, Michael", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented anonymously 2007", 
+  "dateRange": {
+    "endYear": 2007, 
+    "startYear": 2007, 
+    "text": "2007"
+  }, 
+  "dateText": "2007", 
+  "depth": "47", 
+  "dimensions": "displayed: 1980 x 3360 x 47 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "3360", 
+  "id": 97535, 
+  "inscription": null, 
+  "medium": "Acrylic paint, thread and charcoal on 3 canvases", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3479, 
+                "name": "cloth"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1937, 
+                "name": "laundry"
+              }, 
+              {
+                "id": 1936, 
+                "name": "washing line"
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 800, 
+                "name": "wind"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Michael Raedecker, courtesy Hauser & Wirth, Zurich", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12551_8.jpg", 
+  "title": "tipping point", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/raedecker-tipping-point-t12551", 
+  "width": "1980"
+}

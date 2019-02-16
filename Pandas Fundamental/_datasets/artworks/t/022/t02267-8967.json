@@ -1,0 +1,102 @@
+{
+  "acno": "T02267", 
+  "acquisitionYear": 1978, 
+  "all_artists": "John Loker", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1938, 
+      "date": "born 1938", 
+      "displayOrder": 1, 
+      "fc": "John Loker", 
+      "gender": "Male", 
+      "id": 1524, 
+      "mda": "Loker, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Purchased 1978", 
+  "dateRange": {
+    "endYear": 1978, 
+    "startYear": 1977, 
+    "text": "1977-8"
+  }, 
+  "dateText": "1977\u20138", 
+  "depth": "", 
+  "dimensions": "support: 2134 x 1829 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1829", 
+  "id": 8967, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6919, 
+                "name": "fragmentation"
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Loker", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02267_8.jpg", 
+  "title": "Four Shifts I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/loker-four-shifts-i-t02267", 
+  "width": "2134"
+}

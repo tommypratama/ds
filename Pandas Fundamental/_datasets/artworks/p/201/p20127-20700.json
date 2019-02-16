@@ -1,0 +1,82 @@
+{
+  "acno": "P20127", 
+  "acquisitionYear": 1993, 
+  "all_artists": "David Hockney", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1937, 
+      "date": "born 1937", 
+      "displayOrder": 1, 
+      "fc": "David Hockney", 
+      "gender": "Male", 
+      "id": 1293, 
+      "mda": "Hockney, David", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1993", 
+  "dateRange": {
+    "endYear": 1986, 
+    "startYear": 1985, 
+    "text": "1985-6"
+  }, 
+  "dateText": "1985\u20136", 
+  "depth": "", 
+  "dimensions": "image: 476 x 562 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "562", 
+  "id": 20700, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 David Hockney", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20127_8.jpg", 
+  "title": "White Porcelain", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hockney-white-porcelain-p20127", 
+  "width": "476"
+}

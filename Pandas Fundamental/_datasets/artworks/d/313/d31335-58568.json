@@ -1,0 +1,165 @@
+{
+  "acno": "D31335", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D31335", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D313/D31335_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 361
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catalogueGroup": {
+    "accessionRanges": "D31277-D31312; D31314; D31316-D31415; D41399-D41402", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65938, 
+    "shortTitle": "Venice; Passau to W\u00fcrzburg Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1840, 
+    "startYear": 1840, 
+    "text": "1840"
+  }, 
+  "dateText": "1840", 
+  "depth": "", 
+  "dimensions": "support: 198 x 126 mm", 
+  "finberg": "CCCX 30 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Venice; Passau to W\u00fcrzburg Sketchbook", 
+  "height": "126", 
+  "id": 58568, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 62, 
+  "subjectCount": 10, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13918, 
+                "name": "Nuremberg, Spittlertor"
+              }, 
+              {
+                "id": 13917, 
+                "name": "Nuremberg, St Elisabeth's Church"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 1151, 
+                "name": "dome"
+              }, 
+              {
+                "id": 4527, 
+                "name": "spire"
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square"
+              }, 
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31335_8.jpg", 
+  "title": "(1) Nuremberg: The Weisser Turm and St Elisabeth; (2) Nuremberg: St Jakob, the Spittlertor and St Elisabeth; (3) Nuremberg: The Archway of the Spittlertor", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-nuremberg-the-weisser-turm-and-st-elisabeth-2-nuremberg-st-jakob-the-spittlertor-d31335", 
+  "width": "198"
+}

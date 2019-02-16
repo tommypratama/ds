@@ -1,0 +1,168 @@
+{
+  "acno": "P08172", 
+  "acquisitionYear": 1979, 
+  "all_artists": "Roger Fry", 
+  "catalogueGroup": {
+    "accessionRanges": "P08164-P08173", 
+    "completeStatus": "COMPLETE", 
+    "groupType": null, 
+    "id": 65315, 
+    "shortTitle": "Ten Architectural Lithographs"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1866, 
+      "date": "1866\u20131934", 
+      "displayOrder": 1, 
+      "fc": "Roger Fry", 
+      "gender": "Male", 
+      "id": 1129, 
+      "mda": "Fry, Roger", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Transferred from the Library 1979", 
+  "dateRange": {
+    "endYear": 1930, 
+    "startYear": 1930, 
+    "text": "1930"
+  }, 
+  "dateText": "1930", 
+  "depth": "", 
+  "dimensions": "image: 318 x 235 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Ten Architectural Lithographs", 
+  "height": "235", 
+  "id": 4735, 
+  "inscription": null, 
+  "medium": "Lithograph on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 295, 
+      "name": "Bloomsbury Group"
+    }
+  ], 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8729, 
+                "name": "Cambridge, Trinity College"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1647, 
+                "name": "Cambridgeshire"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1718, 
+                "name": "college"
+              }, 
+              {
+                "id": 8732, 
+                "name": "library"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08172_8.jpg", 
+  "title": "Trinity College Library, Cambridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fry-trinity-college-library-cambridge-p08172", 
+  "width": "318"
+}

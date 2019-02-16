@@ -1,0 +1,257 @@
+{
+  "acno": "T12473", 
+  "acquisitionYear": 2007, 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 Peter Kennard", 
+      "creativeCommons": null, 
+      "filenameBase": "T12473_288845", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T12/T12473_288845_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 109
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T12/T12473_288845_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 217
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T12/T12473_288845_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 620
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T12/T12473_288845_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1304
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Peter Kennard", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1949, 
+      "date": "born 1949", 
+      "displayOrder": 1, 
+      "fc": "Peter Kennard", 
+      "gender": "Male", 
+      "id": 10184, 
+      "mda": "Kennard, Peter", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by the artist 2007", 
+  "dateRange": {
+    "endYear": 1974, 
+    "startYear": 1974, 
+    "text": "1974"
+  }, 
+  "dateText": "1974", 
+  "depth": "", 
+  "dimensions": "250 x 210 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "", 
+  "id": 93791, 
+  "inscription": null, 
+  "medium": "Photographs, gelatin silver print, on paper and gouache", 
+  "movementCount": 0, 
+  "subjectCount": 15, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11113, 
+                "name": "South Africa"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6851, 
+                "name": "attacking"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1635, 
+                "name": "bench"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5450, 
+                "name": "civil and human rights: South Africa, Apartheid, 1948-1994"
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1417, 
+                "name": "complacency"
+              }, 
+              {
+                "id": 795, 
+                "name": "horror"
+              }, 
+              {
+                "id": 12977, 
+                "name": "suffering"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death"
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5364, 
+                "name": "prejudice"
+              }, 
+              {
+                "id": 1171, 
+                "name": "race"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting"
+              }, 
+              {
+                "id": 4671, 
+                "name": "spread-eagled"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Peter Kennard", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12473_8.jpg", 
+  "title": "Apartheid South Africa", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/kennard-apartheid-south-africa-t12473", 
+  "width": ""
+}

@@ -1,0 +1,148 @@
+{
+  "acno": "T02057", 
+  "acquisitionYear": 1976, 
+  "all_artists": "John Hamilton Mortimer", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1740, 
+      "date": "1740\u20131779", 
+      "displayOrder": 1, 
+      "fc": "John Hamilton Mortimer", 
+      "gender": "Male", 
+      "id": 389, 
+      "mda": "Mortimer, John Hamilton", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1976", 
+  "dateRange": {
+    "endYear": 1778, 
+    "startYear": 1778, 
+    "text": "exhibited 1778"
+  }, 
+  "dateText": "exhibited 1778", 
+  "depth": "", 
+  "dimensions": "support: 2426 x 1460 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1460", 
+  "id": 10334, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 341, 
+      "name": "Fancy Picture"
+    }, 
+    {
+      "era": {
+        "id": 290, 
+        "name": "18th century"
+      }, 
+      "id": 6210, 
+      "name": "Grand Manner"
+    }
+  ], 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4632, 
+                "name": "Spenser, Edmund, 'The Faerie Queen'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 868, 
+                "name": "helmet"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3232, 
+                "name": "knight"
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02057_8.jpg", 
+  "title": "Sir Arthegal, the Knight of Justice, with Talus, the Iron Man (from Spenser\u2019s \u2018Faerie Queene\u2019)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mortimer-sir-arthegal-the-knight-of-justice-with-talus-the-iron-man-from-spensers-faerie-t02057", 
+  "width": "2426"
+}

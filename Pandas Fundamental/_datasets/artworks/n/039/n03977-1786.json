@@ -1,0 +1,82 @@
+{
+  "acno": "N03977", 
+  "acquisitionYear": 1924, 
+  "all_artists": "Sir Edward Coley Burne-Jones, Bt", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1833, 
+      "date": "1833\u20131898", 
+      "displayOrder": 1, 
+      "fc": "Sir Edward Coley Burne-Jones, Bt", 
+      "gender": "Male", 
+      "id": 68, 
+      "mda": "Burne-Jones, Sir Edward Coley, Bt", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Lord Duveen 1924", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 197 x 165 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "165", 
+  "id": 1786, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 363, 
+      "name": "Pre-Raphaelite Brotherhood"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03977_8.jpg", 
+  "title": "Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-head-n03977", 
+  "width": "197"
+}

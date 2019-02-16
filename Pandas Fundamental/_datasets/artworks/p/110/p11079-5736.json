@@ -1,0 +1,86 @@
+{
+  "acno": "P11079", 
+  "acquisitionYear": 1984, 
+  "all_artists": "Philip Guston", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131980", 
+      "displayOrder": 1, 
+      "fc": "Philip Guston", 
+      "gender": "Male", 
+      "id": 1231, 
+      "mda": "Guston, Philip", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by David and Ren\u00e9e McKee through the American Federation of Arts 1984", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1980, 
+    "text": "1980"
+  }, 
+  "dateText": "1980", 
+  "depth": "", 
+  "dimensions": "image: 604 x 959 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "959", 
+  "id": 5736, 
+  "inscription": "date inscribed", 
+  "medium": "Lithograph on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat"
+              }, 
+              {
+                "id": 1029, 
+                "name": "shoe"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The Estate of Philip Guston", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11079_8.jpg", 
+  "title": "Coat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guston-coat-p11079", 
+  "width": "604"
+}

@@ -1,0 +1,86 @@
+{
+  "acno": "T01526", 
+  "acquisitionYear": 1972, 
+  "all_artists": "Alan Davie", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1920, 
+      "date": "1920\u20132014", 
+      "displayOrder": 1, 
+      "fc": "Alan Davie", 
+      "gender": "Male", 
+      "id": 979, 
+      "mda": "Davie, Alan", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Purchased 1972", 
+  "dateRange": {
+    "endYear": 1949, 
+    "startYear": 1949, 
+    "text": "1949"
+  }, 
+  "dateText": "1949", 
+  "depth": "", 
+  "dimensions": "support: 1518 x 1210 mm\r\nframe: 1530 x 1220 x 40 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1210", 
+  "id": 3647, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3672, 
+                "name": "spirituality"
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism"
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Alan Davie", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01526_8.jpg", 
+  "title": "Entrance to a Paradise", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/davie-entrance-to-a-paradise-t01526", 
+  "width": "1518"
+}

@@ -1,0 +1,244 @@
+{
+  "acno": "T11790", 
+  "acquisitionYear": 2004, 
+  "all_artists": "Clive Branson", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20131944", 
+      "displayOrder": 1, 
+      "fc": "Clive Branson", 
+      "gender": "Male", 
+      "id": 3094, 
+      "mda": "Branson, Clive", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Bequeathed by Noreen Branson 2004", 
+  "dateRange": {
+    "endYear": 1940, 
+    "startYear": 1940, 
+    "text": "1940"
+  }, 
+  "dateText": "1940", 
+  "depth": "20", 
+  "dimensions": "support: 610 x 509 x 20 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "509", 
+  "id": 73, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 3, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 293, 
+      "name": "Artists International Association"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1688, 
+      "name": "British Surrealism"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 10525, 
+      "name": "British War Art"
+    }
+  ], 
+  "subjectCount": 15, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9311, 
+                "name": "London Blitz, 1940-42"
+              }
+            ], 
+            "id": 37, 
+            "name": "military: World War II"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17393, 
+                "name": "air raid shelter"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1164, 
+                "name": "bomb damage"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3464, 
+                "name": "aircraft, military"
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }, 
+              {
+                "id": 5134, 
+                "name": "lorry"
+              }, 
+              {
+                "id": 3796, 
+                "name": "pram"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3592, 
+                "name": "war"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1715, 
+                "name": "destruction"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 487, 
+                "name": "egg"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }, 
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Clive Branson", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11790_8.jpg", 
+  "title": "Blitz: Plane Flying", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/branson-blitz-plane-flying-t11790", 
+  "width": "610"
+}

@@ -1,0 +1,90 @@
+{
+  "acno": "P01793", 
+  "acquisitionYear": 1976, 
+  "all_artists": "Misch Kohn", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1916, 
+      "date": "1916\u20132002", 
+      "displayOrder": 1, 
+      "fc": "Misch Kohn", 
+      "gender": "Female", 
+      "id": 1429, 
+      "mda": "Kohn, Misch", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Presented by the Museum of Modern Art, New York 1976", 
+  "dateRange": {
+    "endYear": 1949, 
+    "startYear": 1949, 
+    "text": "1949"
+  }, 
+  "dateText": "1949", 
+  "depth": "", 
+  "dimensions": "support: 416 x 606 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "606", 
+  "id": 8175, 
+  "inscription": "date inscribed", 
+  "medium": "Print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3652, 
+                "name": "tiger"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Tiger", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kohn-tiger-p01793", 
+  "width": "416"
+}

@@ -1,0 +1,158 @@
+{
+  "acno": "D05482", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D05482", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D54/D05482_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139262, 
+  "catalogueGroup": {
+    "accessionRanges": "D05446-D05490; D40701-D40705; D41427", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65736, 
+    "shortTitle": "Nelson Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "1805"
+  }, 
+  "dateText": "1805", 
+  "depth": "", 
+  "dimensions": "support: 114 x 184 mm", 
+  "finberg": "LXXXIX 26 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Nelson Sketchbook", 
+  "height": "184", 
+  "id": 32874, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 32, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1711, 
+                "name": "Napoleonic Wars, 1796-1815"
+              }, 
+              {
+                "id": 5875, 
+                "name": "Trafalgar, Battle, 21 Oct 1805"
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9910, 
+                "name": "battle"
+              }, 
+              {
+                "id": 3023, 
+                "name": "sailor"
+              }
+            ], 
+            "id": 128, 
+            "name": "military"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6649, 
+                "name": "deck"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }, 
+              {
+                "id": 7825, 
+                "name": "ship, warship, 'HMS Victory'"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05482_8.jpg", 
+  "title": "Study for \u2018The Battle of Trafalgar, as Seen from the Mizen Starboard Shrouds of the Victory\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-for-the-battle-of-trafalgar-as-seen-from-the-mizen-starboard-shrouds-of-the-d05482", 
+  "width": "114"
+}

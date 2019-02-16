@@ -1,0 +1,168 @@
+{
+  "acno": "N02080", 
+  "acquisitionYear": 1906, 
+  "all_artists": "Frederick Walker", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1840, 
+      "date": "1840\u20131875", 
+      "displayOrder": 1, 
+      "fc": "Frederick Walker", 
+      "gender": "Male", 
+      "id": 575, 
+      "mda": "Walker, Frederick", 
+      "role": "artist", 
+      "startLetter": "W"
+    }
+  ], 
+  "creditLine": "Presented by Sir Claude Phillips in memory of his sister Eugenie Phillips 1906", 
+  "dateRange": {
+    "endYear": 1871, 
+    "startYear": 1871, 
+    "text": "1871"
+  }, 
+  "dateText": "1871", 
+  "depth": "", 
+  "dimensions": "support: 2172 x 1289 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1289", 
+  "id": 15805, 
+  "inscription": null, 
+  "medium": "Gouache on paper", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 366, 
+      "name": "St John's Wood Clique"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 8064, 
+      "name": "Victorian/Genre"
+    }
+  ], 
+  "subjectCount": 7, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18157, 
+                "name": "Collins, Wilkie, 'The Woman in White'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1707, 
+                "name": "star"
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1963, 
+                "name": "shawl"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1866, 
+                "name": "twisting"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02080_8.jpg", 
+  "title": "The Woman in White", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-the-woman-in-white-n02080", 
+  "width": "2172"
+}

@@ -1,0 +1,102 @@
+{
+  "acno": "P11234", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Julian Trevelyan", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1910, 
+      "date": "1910\u20131988", 
+      "displayOrder": 1, 
+      "fc": "Julian Trevelyan", 
+      "gender": "Male", 
+      "id": 2065, 
+      "mda": "Trevelyan, Julian", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Mary Trevelyan, the artist's widow 1989", 
+  "dateRange": {
+    "endYear": 1936, 
+    "startYear": 1936, 
+    "text": "1936"
+  }, 
+  "dateText": "1936", 
+  "depth": "", 
+  "dimensions": "image: 105 x 151 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "151", 
+  "id": 18894, 
+  "inscription": "date inscribed", 
+  "medium": "Intaglio print on paper", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1688, 
+      "name": "British Surrealism"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11190, 
+                "name": "helicopter"
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Julian Trevelyan", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11234_8.jpg", 
+  "title": "Helicopter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-helicopter-p11234", 
+  "width": "105"
+}

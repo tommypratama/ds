@@ -1,0 +1,72 @@
+{
+  "acno": "P02001", 
+  "acquisitionYear": 1967, 
+  "all_artists": "Naum Gabo", 
+  "catalogueGroup": {
+    "accessionRanges": "P02001", 
+    "completeStatus": "INCOMPLETE", 
+    "groupType": null, 
+    "id": 65300, 
+    "shortTitle": "Opus 1"
+  }, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1890, 
+      "date": "1890\u20131977", 
+      "displayOrder": 1, 
+      "fc": "Naum Gabo", 
+      "gender": "Male", 
+      "id": 1137, 
+      "mda": "Gabo, Naum", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1967", 
+  "dateRange": {
+    "endYear": 1950, 
+    "startYear": 1950, 
+    "text": "1950"
+  }, 
+  "dateText": "1950", 
+  "depth": "", 
+  "dimensions": "image: 160 x 145 mm", 
+  "foreignTitle": null, 
+  "groupTitle": "Opus 1", 
+  "height": "145", 
+  "id": 4796, 
+  "inscription": null, 
+  "medium": "Relief print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "The Work of Naum Gabo \u00a9 Nina & Graham Williams/Tate, London 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02001_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02001", 
+  "width": "160"
+}

@@ -1,0 +1,96 @@
+{
+  "acno": "T11968", 
+  "acquisitionYear": 2005, 
+  "all_artists": "John Latham", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1921, 
+      "date": "1921\u2013 2006", 
+      "displayOrder": 1, 
+      "fc": "John Latham", 
+      "gender": "Male", 
+      "id": 1470, 
+      "mda": "Latham, John", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Nicholas Logsdail and Lisson Gallery, London 2005", 
+  "dateRange": {
+    "endYear": 1961, 
+    "startYear": 1961, 
+    "text": "1961"
+  }, 
+  "dateText": "1961", 
+  "depth": "40", 
+  "dimensions": "support: 3015 x 2580 x 40 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "2580", 
+  "id": 83955, 
+  "inscription": null, 
+  "medium": "Acrylic paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17451, 
+                "name": "full stop"
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions"
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 John Latham Estate, courtesy Lisson Gallery, London", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11968_8.jpg", 
+  "title": "Full Stop", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/latham-full-stop-t11968", 
+  "width": "3015"
+}

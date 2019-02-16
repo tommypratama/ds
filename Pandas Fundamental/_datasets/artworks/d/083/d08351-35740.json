@@ -1,0 +1,104 @@
+{
+  "acno": "D08351", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D08351", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D83/D08351_E.jpg", 
+          "height": 330, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149334, 
+  "catalogueGroup": {
+    "accessionRanges": "D08283-D08359; D40898-D40901; D41431; D41536", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65763, 
+    "shortTitle": "Finance Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1814, 
+    "startYear": 1807, 
+    "text": "c.1807-14"
+  }, 
+  "dateText": "c.1807\u201314", 
+  "depth": "", 
+  "dimensions": "support: 69 x 112 mm", 
+  "finberg": "CXXII 42 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Finance Sketchbook", 
+  "height": "112", 
+  "id": 35740, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 86, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08351_8.jpg", 
+  "title": "A River with Wooded Banks, Probably the Thames", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-river-with-wooded-banks-probably-the-thames-d08351", 
+  "width": "69"
+}

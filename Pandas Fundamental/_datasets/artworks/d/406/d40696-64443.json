@@ -1,0 +1,122 @@
+{
+  "acno": "D40696", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "creativeCommons": null, 
+      "filenameBase": "D40696", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D406/D40696_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 342
+        }
+      ]
+    }
+  ], 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1139206, 
+  "catalogueGroup": {
+    "accessionRanges": "D05376-D05427; D40694-D40696", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXXVII", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65734, 
+    "shortTitle": "Shipwreck (1) Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1805, 
+    "startYear": 1805, 
+    "text": "c.1805"
+  }, 
+  "dateText": "c.1805", 
+  "depth": "", 
+  "dimensions": "support: 185 x 118 mm", 
+  "finberg": null, 
+  "foreignTitle": null, 
+  "groupTitle": "Shipwreck (1) Sketchbook", 
+  "height": "118", 
+  "id": 64443, 
+  "inscription": null, 
+  "medium": null, 
+  "movementCount": 0, 
+  "pageNumber": 63, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1711, 
+                "name": "Napoleonic Wars, 1796-1815"
+              }, 
+              {
+                "id": 5875, 
+                "name": "Trafalgar, Battle, 21 Oct 1805"
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11481, 
+                "name": "hull"
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }, 
+              {
+                "id": 25132, 
+                "name": "ship, warship, 'HMS Argonaut'"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40696_8.jpg", 
+  "title": "Stern of the \u2018Argonaut\u2019, in Two Positions", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-stern-of-the-argonaut-in-two-positions-d40696", 
+  "width": "185"
+}

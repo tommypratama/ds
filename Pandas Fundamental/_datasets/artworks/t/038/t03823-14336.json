@@ -1,0 +1,120 @@
+{
+  "acno": "T03823", 
+  "acquisitionYear": 1984, 
+  "all_artists": "Jean Tinguely", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1925, 
+      "date": "1925\u20131991", 
+      "displayOrder": 1, 
+      "fc": "Jean Tinguely", 
+      "gender": "Male", 
+      "id": 2046, 
+      "mda": "Tinguely, Jean", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Purchased 1984", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "915", 
+  "dimensions": "object: 2360 x 815 x 915 mm", 
+  "foreignTitle": "M\u00e9ta-m\u00e9canique \u00e0 tr\u00e9pied", 
+  "groupTitle": null, 
+  "height": "815", 
+  "id": 14336, 
+  "inscription": null, 
+  "medium": "Steel, cardboard, plastic and electric motor", 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 12072, 
+      "name": "Kinetic Art"
+    }, 
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 434, 
+      "name": "Nouveau R\u00e9alisme"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2452, 
+                "name": "cog"
+              }, 
+              {
+                "id": 3959, 
+                "name": "tripod"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of Jean Tinguely", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03823_8.jpg", 
+  "title": "Metamechanical Sculpture with Tripod", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tinguely-metamechanical-sculpture-with-tripod-t03823", 
+  "width": "2360"
+}

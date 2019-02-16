@@ -1,0 +1,96 @@
+{
+  "acno": "T03426", 
+  "acquisitionYear": 1982, 
+  "all_artists": "John Ferneley I", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1782, 
+      "date": "1782\u20131860", 
+      "displayOrder": 1, 
+      "fc": "John Ferneley I", 
+      "gender": "Male", 
+      "id": 180, 
+      "mda": "Ferneley, John, I", 
+      "role": "artist", 
+      "startLetter": "F"
+    }
+  ], 
+  "creditLine": "Bequeathed by Mrs F. Ambrose Clark through the British Sporting Art Trust 1982", 
+  "dateRange": {
+    "endYear": 1833, 
+    "startYear": 1833, 
+    "text": "1833"
+  }, 
+  "dateText": "1833", 
+  "depth": "", 
+  "dimensions": "support: 712 x 940 mm\r\nframe: 885 x 1110 x 92 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "940", 
+  "id": 4268, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2621, 
+                "name": "stable"
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03426_8.jpg", 
+  "title": "Defiance, a Brood Mare, with Reveller, a Foal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ferneley-defiance-a-brood-mare-with-reveller-a-foal-t03426", 
+  "width": "712"
+}

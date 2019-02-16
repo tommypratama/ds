@@ -1,0 +1,88 @@
+{
+  "acno": "T09155", 
+  "acquisitionYear": 1997, 
+  "all_artists": "attributed to Samuel Palmer", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1805, 
+      "date": "1805\u20131881", 
+      "displayOrder": 1, 
+      "fc": "Samuel Palmer", 
+      "gender": "Male", 
+      "id": 411, 
+      "mda": "Palmer, Samuel", 
+      "role": "attributed to", 
+      "startLetter": "P"
+    }
+  ], 
+  "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
+  "dateRange": null, 
+  "dateText": "date not known", 
+  "depth": "", 
+  "dimensions": "support: 136 x 215 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "215", 
+  "id": 23337, 
+  "inscription": null, 
+  "medium": "Graphite, ink and watercolour on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09155_8.jpg", 
+  "title": "A Ruined Castle on a Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/palmer-a-ruined-castle-on-a-hill-t09155", 
+  "width": "136"
+}

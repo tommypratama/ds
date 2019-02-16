@@ -1,0 +1,86 @@
+{
+  "acno": "P02547", 
+  "acquisitionYear": 1981, 
+  "all_artists": "Mersad Berber", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1940, 
+      "date": "born 1940", 
+      "displayOrder": 1, 
+      "fc": "Mersad Berber", 
+      "gender": "Male", 
+      "id": 742, 
+      "mda": "Berber, Mersad", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by the artist 1981", 
+  "dateRange": {
+    "endYear": 1980, 
+    "startYear": 1973, 
+    "text": "1973-80"
+  }, 
+  "dateText": "1973\u201380", 
+  "depth": "", 
+  "dimensions": "image: 1196 x 836 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "836", 
+  "id": 937, 
+  "inscription": null, 
+  "medium": "Screenprint on paper", 
+  "movementCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1901, 
+                "name": "headdress"
+              }, 
+              {
+                "id": 629, 
+                "name": "jewellery"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Byzantium III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/berber-byzantium-iii-p02547", 
+  "width": "1196"
+}

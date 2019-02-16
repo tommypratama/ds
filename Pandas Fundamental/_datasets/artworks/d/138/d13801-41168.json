@@ -1,0 +1,86 @@
+{
+  "acno": "D13801", 
+  "acquisitionYear": 1856, 
+  "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1149028, 
+  "catalogueGroup": {
+    "accessionRanges": "D13751-D13813; D40932-D40933", 
+    "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXIX", 
+    "groupType": "Turner Sketchbook", 
+    "id": 65810, 
+    "shortTitle": "Aesacus and Hesperie Sketchbook"
+  }, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1775, 
+      "date": "1775\u20131851", 
+      "displayOrder": 1, 
+      "fc": "Joseph Mallord William Turner", 
+      "gender": "Male", 
+      "id": 558, 
+      "mda": "Turner, Joseph Mallord William", 
+      "role": "artist", 
+      "startLetter": "T"
+    }
+  ], 
+  "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
+  "dateRange": {
+    "endYear": 1819, 
+    "startYear": 1819, 
+    "text": "c.1819"
+  }, 
+  "dateText": "c.1819", 
+  "depth": "", 
+  "dimensions": "support: 87 x 119 mm", 
+  "finberg": "CLXIX 33 a", 
+  "foreignTitle": null, 
+  "groupTitle": "Aesacus and Hesperie Sketchbook", 
+  "height": "119", 
+  "id": 41168, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "pageNumber": 68, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13801_8.jpg", 
+  "title": "Clouds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-clouds-d13801", 
+  "width": "87"
+}

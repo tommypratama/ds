@@ -1,0 +1,90 @@
+{
+  "acno": "T03843", 
+  "acquisitionYear": 1984, 
+  "all_artists": "George Stubbs", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1724, 
+      "date": "1724\u20131806", 
+      "displayOrder": 1, 
+      "fc": "George Stubbs", 
+      "gender": "Male", 
+      "id": 538, 
+      "mda": "Stubbs, George", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Transferred from the British Museum 1984", 
+  "dateRange": {
+    "endYear": 1788, 
+    "startYear": 1788, 
+    "text": "published 1788"
+  }, 
+  "dateText": "published 1788", 
+  "depth": "", 
+  "dimensions": "image: 250 x 335 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "335", 
+  "id": 14000, 
+  "inscription": null, 
+  "medium": "Etching on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6851, 
+                "name": "attacking"
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse"
+              }, 
+              {
+                "id": 3119, 
+                "name": "lion"
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03843_8.jpg", 
+  "title": "A Horse Attacked by a Lion (A Lion Devouring a Horse)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stubbs-a-horse-attacked-by-a-lion-a-lion-devouring-a-horse-t03843", 
+  "width": "250"
+}

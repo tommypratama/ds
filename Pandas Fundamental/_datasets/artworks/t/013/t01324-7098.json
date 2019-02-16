@@ -1,0 +1,118 @@
+{
+  "acno": "T01324", 
+  "acquisitionYear": 1971, 
+  "all_artists": "Humphrey Jennings", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1907, 
+      "date": "1907\u20131950", 
+      "displayOrder": 1, 
+      "fc": "Humphrey Jennings", 
+      "gender": "Male", 
+      "id": 1360, 
+      "mda": "Jennings, Humphrey", 
+      "role": "artist", 
+      "startLetter": "J"
+    }
+  ], 
+  "creditLine": "Presented by Mrs Cicely Jennings 1971", 
+  "dateRange": {
+    "endYear": 1944, 
+    "startYear": 1939, 
+    "text": "1939-44"
+  }, 
+  "dateText": "1939\u201344", 
+  "depth": "", 
+  "dimensions": "support: 432 x 533 mm\r\nframe: 519 x 620 x 43 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "533", 
+  "id": 7098, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 1688, 
+      "name": "British Surrealism"
+    }
+  ], 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Humphrey Jennings", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01324_8.jpg", 
+  "title": "The House in the Woods", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jennings-the-house-in-the-woods-t01324", 
+  "width": "432"
+}

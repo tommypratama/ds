@@ -1,0 +1,128 @@
+{
+  "acno": "N00617", 
+  "acquisitionYear": 1859, 
+  "all_artists": "Sir William Fettes Douglas", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1822, 
+      "date": "1822\u20131891", 
+      "displayOrder": 1, 
+      "fc": "Sir William Fettes Douglas", 
+      "gender": "Male", 
+      "id": 157, 
+      "mda": "Douglas, Sir William Fettes", 
+      "role": "artist", 
+      "startLetter": "D"
+    }
+  ], 
+  "creditLine": "Bequeathed by Jacob Bell 1859", 
+  "dateRange": {
+    "endYear": 1852, 
+    "startYear": 1852, 
+    "text": "?1852"
+  }, 
+  "dateText": "?1852", 
+  "depth": "", 
+  "dimensions": "support: 889 x 1295 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1295", 
+  "id": 3991, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific"
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3057, 
+                "name": "bookseller"
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00617_8.jpg", 
+  "title": "Bibliomania", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/douglas-bibliomania-n00617", 
+  "width": "889"
+}

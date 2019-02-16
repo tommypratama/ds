@@ -1,0 +1,82 @@
+{
+  "acno": "T07665", 
+  "acquisitionYear": 2000, 
+  "all_artists": "Bryan Kneale", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1930, 
+      "date": "born 1930", 
+      "displayOrder": 1, 
+      "fc": "Bryan Kneale", 
+      "gender": "Male", 
+      "id": 1422, 
+      "mda": "Kneale, Bryan", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by Tom Bendhem 2000", 
+  "dateRange": {
+    "endYear": 2000, 
+    "startYear": 2000, 
+    "text": "2000"
+  }, 
+  "dateText": "2000", 
+  "depth": "", 
+  "dimensions": "760x 2008x 320mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "320", 
+  "id": 27355, 
+  "inscription": null, 
+  "medium": "Painted aluminium", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12760, 
+                "name": "bone"
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bryan Kneale", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07665_8.jpg", 
+  "title": "Journal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kneale-journal-t07665", 
+  "width": "2008"
+}

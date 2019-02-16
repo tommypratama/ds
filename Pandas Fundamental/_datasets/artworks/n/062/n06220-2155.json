@@ -1,0 +1,110 @@
+{
+  "acno": "N06220", 
+  "acquisitionYear": 1954, 
+  "all_artists": "Christopher Chamberlain", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1918, 
+      "date": "1918\u20131984", 
+      "displayOrder": 1, 
+      "fc": "Christopher Chamberlain", 
+      "gender": "Male", 
+      "id": 884, 
+      "mda": "Chamberlain, Christopher", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1954", 
+  "dateRange": {
+    "endYear": 1954, 
+    "startYear": 1954, 
+    "text": "1954"
+  }, 
+  "dateText": "1954", 
+  "depth": "", 
+  "dimensions": "support: 1003 x 1486 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1486", 
+  "id": 2155, 
+  "inscription": null, 
+  "medium": "Oil paint on board", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16437, 
+                "name": "Fulham Road"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }, 
+              {
+                "id": 210, 
+                "name": "streetlight"
+              }, 
+              {
+                "id": 211, 
+                "name": "wall"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06220_8.jpg", 
+  "title": "The Dangerous Corner", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chamberlain-the-dangerous-corner-n06220", 
+  "width": "1003"
+}

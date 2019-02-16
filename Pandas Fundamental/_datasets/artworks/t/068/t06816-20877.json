@@ -1,0 +1,84 @@
+{
+  "acno": "T06816", 
+  "acquisitionYear": 1994, 
+  "all_artists": "Juan Gris", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1887, 
+      "date": "1887\u20131927", 
+      "displayOrder": 1, 
+      "fc": "Juan Gris", 
+      "gender": "Male", 
+      "id": 1221, 
+      "mda": "Gris, Juan", 
+      "role": "artist", 
+      "startLetter": "G"
+    }
+  ], 
+  "creditLine": "Bequeathed by Elly Kahnweiler 1991 to form part of the gift of Gustav and Elly Kahnweiler, accessioned 1994", 
+  "dateRange": {
+    "endYear": 1924, 
+    "startYear": 1924, 
+    "text": "1924"
+  }, 
+  "dateText": "1924", 
+  "depth": "", 
+  "dimensions": "support: 268 x 347 mm\r\nframe: 497 x 578 x 25 mm", 
+  "foreignTitle": "Moulin \u00e0 caf\u00e9", 
+  "groupTitle": null, 
+  "height": "347", 
+  "id": 20877, 
+  "inscription": null, 
+  "medium": "Graphite on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }, 
+              {
+                "id": 2076, 
+                "name": "jug"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3164, 
+                "name": "coffee mill"
+              }, 
+              {
+                "id": 22784, 
+                "name": "spoon"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06816_8.jpg", 
+  "title": "Coffee Mill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gris-coffee-mill-t06816", 
+  "width": "268"
+}

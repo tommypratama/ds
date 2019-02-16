@@ -1,0 +1,120 @@
+{
+  "acno": "N02945", 
+  "acquisitionYear": 1913, 
+  "all_artists": "Frederic, Lord Leighton", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1830, 
+      "date": "1830\u20131896", 
+      "displayOrder": 1, 
+      "fc": "Frederic, Lord Leighton", 
+      "gender": "Male", 
+      "id": 342, 
+      "mda": "Leighton, Lord Frederic", 
+      "role": "artist", 
+      "startLetter": "L"
+    }
+  ], 
+  "creditLine": "Presented by Charles Fairfax Murray 1913", 
+  "dateRange": {
+    "endYear": 1886, 
+    "startYear": 1886, 
+    "text": "1886"
+  }, 
+  "dateText": "1886", 
+  "depth": "159", 
+  "dimensions": "object: 533 x 225 x 159 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "225", 
+  "id": 8582, 
+  "inscription": null, 
+  "medium": "Wax and metal on wooden base", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 361, 
+      "name": "New Sculpture"
+    }
+  ], 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 758, 
+                "name": "anxiety"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised"
+              }, 
+              {
+                "id": 2594, 
+                "name": "looking down"
+              }, 
+              {
+                "id": 270, 
+                "name": "standing"
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl"
+              }
+            ], 
+            "id": 94, 
+            "name": "children"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1106, 
+                "name": "looking / watching"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02945_8.jpg", 
+  "title": "Study for \u2018Needless Alarms\u2019", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leighton-study-for-needless-alarms-n02945", 
+  "width": "533"
+}

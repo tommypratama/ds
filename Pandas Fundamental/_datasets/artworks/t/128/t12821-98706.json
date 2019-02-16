@@ -1,0 +1,82 @@
+{
+  "acno": "T12821", 
+  "acquisitionYear": 2008, 
+  "all_artists": "Yayoi Kusama", 
+  "catalogueGroup": {}, 
+  "classification": "sculpture", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1929, 
+      "date": "born 1929", 
+      "displayOrder": 1, 
+      "fc": "Yayoi Kusama", 
+      "gender": "Female", 
+      "id": 8094, 
+      "mda": "Kusama, Yayoi", 
+      "role": "artist", 
+      "startLetter": "K"
+    }
+  ], 
+  "creditLine": "Purchased with funds provided by the Asia Pacific Acquisitions Committee 2008", 
+  "dateRange": {
+    "endYear": 2005, 
+    "startYear": 2005, 
+    "text": "2005"
+  }, 
+  "dateText": "2005", 
+  "depth": "805", 
+  "dimensions": "object: 1800 x 805 x 805 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "805", 
+  "id": 98706, 
+  "inscription": null, 
+  "medium": "Mirror and glass", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Yayoi Kusama", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12821_8.jpg", 
+  "title": "The Passing Winter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kusama-the-passing-winter-t12821", 
+  "width": "1800"
+}

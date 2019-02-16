@@ -1,0 +1,100 @@
+{
+  "acno": "T00119", 
+  "acquisitionYear": 1957, 
+  "all_artists": "William Scott", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1913, 
+      "date": "1913\u20131989", 
+      "displayOrder": 1, 
+      "fc": "William Scott", 
+      "gender": "Male", 
+      "id": 1916, 
+      "mda": "Scott, William", 
+      "role": "artist", 
+      "startLetter": "S"
+    }
+  ], 
+  "creditLine": "Presented by the Contemporary Art Society 1957", 
+  "dateRange": {
+    "endYear": 1956, 
+    "startYear": 1956, 
+    "text": "1956"
+  }, 
+  "dateText": "1956", 
+  "depth": "", 
+  "dimensions": "support: 914 x 1524 mm\r\nframe: 963 x 1572 x 69 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1524", 
+  "id": 13258, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6721, 
+                "name": "frying pan"
+              }, 
+              {
+                "id": 22782, 
+                "name": "knife"
+              }, 
+              {
+                "id": 6720, 
+                "name": "saucepan"
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 The estate of William Scott", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00119_8.jpg", 
+  "title": "Winter Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-winter-still-life-t00119", 
+  "width": "914"
+}

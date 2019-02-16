@@ -1,0 +1,70 @@
+{
+  "acno": "T01841", 
+  "acquisitionYear": 1974, 
+  "all_artists": "Jeremy Moon", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1934, 
+      "date": "1934\u20131973", 
+      "displayOrder": 1, 
+      "fc": "Jeremy Moon", 
+      "gender": "Male", 
+      "id": 1656, 
+      "mda": "Moon, Jeremy", 
+      "role": "artist", 
+      "startLetter": "M"
+    }
+  ], 
+  "creditLine": "Purchased 1974", 
+  "dateRange": {
+    "endYear": 1962, 
+    "startYear": 1962, 
+    "text": "1962"
+  }, 
+  "dateText": "1962", 
+  "depth": "", 
+  "dimensions": "support: 1384 x 1067 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "1067", 
+  "id": 9645, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Jeremy Moon", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01841_8.jpg", 
+  "title": "Trellis", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moon-trellis-t01841", 
+  "width": "1384"
+}

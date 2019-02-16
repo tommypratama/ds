@@ -1,0 +1,158 @@
+{
+  "acno": "N04509", 
+  "acquisitionYear": 1930, 
+  "all_artists": "Vilhelm Hammershoi", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1864, 
+      "date": "1864\u20131916", 
+      "displayOrder": 1, 
+      "fc": "Vilhelm Hammershoi", 
+      "gender": "Male", 
+      "id": 1245, 
+      "mda": "Hammershoi, Vilhelm", 
+      "role": "artist", 
+      "startLetter": "H"
+    }
+  ], 
+  "creditLine": "Purchased 1930", 
+  "dateRange": {
+    "endYear": 1906, 
+    "startYear": 1906, 
+    "text": "1906"
+  }, 
+  "dateText": "1906", 
+  "depth": "23", 
+  "dimensions": "support: 518 x 440 x 23 mm\r\nframe: 628 x 546 x 78 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "440", 
+  "id": 5835, 
+  "inscription": null, 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 9, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18385, 
+                "name": "Copenhagen, Strandgaade 30"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 14013, 
+                "name": "Denmark"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }, 
+              {
+                "id": 529, 
+                "name": "window"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table"
+              }, 
+              {
+                "id": 1071, 
+                "name": "table cloth"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04509_8.jpg", 
+  "title": "Interior, Sunlight on the Floor", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hammershoi-interior-sunlight-on-the-floor-n04509", 
+  "width": "518"
+}

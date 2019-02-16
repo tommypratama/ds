@@ -1,0 +1,98 @@
+{
+  "acno": "N04896", 
+  "acquisitionYear": 1937, 
+  "all_artists": "William Carter", 
+  "catalogueGroup": {}, 
+  "classification": "painting", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1863, 
+      "date": "1863\u20131939", 
+      "displayOrder": 1, 
+      "fc": "William Carter", 
+      "gender": "Male", 
+      "id": 870, 
+      "mda": "Carter, William", 
+      "role": "artist", 
+      "startLetter": "C"
+    }
+  ], 
+  "creditLine": "Presented by the Trustees of the Chantrey Bequest 1937", 
+  "dateRange": {
+    "endYear": 1936, 
+    "startYear": 1936, 
+    "text": "1936"
+  }, 
+  "dateText": "1936", 
+  "depth": "", 
+  "dimensions": "support: 635 x 762 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "762", 
+  "id": 2008, 
+  "inscription": "date inscribed", 
+  "medium": "Oil paint on canvas", 
+  "movementCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 841, 
+                "name": "curtain"
+              }, 
+              {
+                "id": 826, 
+                "name": "table"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1037, 
+                "name": "fruit, apple"
+              }, 
+              {
+                "id": 2009, 
+                "name": "fruit, pear"
+              }, 
+              {
+                "id": 1035, 
+                "name": "vegetable, marrow"
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04896_8.jpg", 
+  "title": "The Refectory Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/carter-the-refectory-table-n04896", 
+  "width": "635"
+}

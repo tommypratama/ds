@@ -1,0 +1,118 @@
+{
+  "acno": "P11223", 
+  "acquisitionYear": 1989, 
+  "all_artists": "Jean-Charles Blais", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, print", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1956, 
+      "date": "born 1956", 
+      "displayOrder": 1, 
+      "fc": "Jean-Charles Blais", 
+      "gender": "Male", 
+      "id": 2245, 
+      "mda": "Blais, Jean-Charles", 
+      "role": "artist", 
+      "startLetter": "B"
+    }
+  ], 
+  "creditLine": "Presented by Garner H. Tullis and Pamela Auchincloss 1989", 
+  "dateRange": {
+    "endYear": 1987, 
+    "startYear": 1987, 
+    "text": "1987"
+  }, 
+  "dateText": "1987", 
+  "depth": "", 
+  "dimensions": "image: 755 x 575 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "575", 
+  "id": 17346, 
+  "inscription": "date inscribed", 
+  "medium": "Relief print on paper", 
+  "movementCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1585, 
+                "name": "arm"
+              }
+            ], 
+            "id": 93, 
+            "name": "body"
+          }, 
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2369, 
+                "name": "plant"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": null, 
+  "title": "Blue Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blais-blue-sky-p11223", 
+  "width": "755"
+}
