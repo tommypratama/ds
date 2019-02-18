@@ -1,3 +1,3 @@
-# Data-Science-Notebooks
+# Data Science Notebooks
 
 Repository of learning Data Science
