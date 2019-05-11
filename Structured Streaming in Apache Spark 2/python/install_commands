@@ -1,0 +1,47 @@
+python --version
+
+java -version
+
+https://spark.apache.org/downloads.html
+
+#we r in tools
+sudo cp ~/Downloads/spark-2.2.1-bin-hadoop2.7.tgz .
+
+ls -n
+
+sudo tar -xvzf spark-2.2.1-bin-hadoop2.7.tgz
+
+ls -n
+
+nano ~/.bash_profile
+
+# Adding Spark variables
+export SPARK_HOME="$HOME/tools/spark-2.2.1-bin-hadoop2.7"
+export PATH="$SPARK_HOME/bin:$PATH"
+
+source ~/.bash_profile
+
+pyspark
+
+sc
+
+exit()
+
+https://kafka.apache.org/downloads
+
+#we r in tools
+sudo cp ~/Downloads/kafka_2.12-1.1.0.tgz .
+
+ls -n
+
+sudo tar -xvzf kafka_2.12-1.1.0.tgz
+
+ls -n
+
+nano ~/.bash_profile
+
+# Adding Kafka variables
+export KAFKA_HOME="$HOME/tools/kafka_2.12-1.1.0"
+export PATH="$KAFKA_HOME/bin:$PATH"
+
+
